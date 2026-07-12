@@ -1,0 +1,37 @@
+---
+title: "Editorial Note"
+---
+
+## The text
+
+The German text is the Marxists Internet Archive transcription of the Dietz
+Verlag (Berlin) 1965 edition of *Das Erfurter Programm in seinem
+grundsätzlichen Theil erläutert* (first published 1892). Kautsky died in 1938;
+the German text is in the public domain.
+
+## Why a new translation
+
+<!-- TODO: expand — Bohn 1910 abridgement, terminology drift -->
+
+## Translation principles
+
+- **Complete and unabridged.** No clause of the German is merged, summarized,
+  or omitted.
+- **Consistent terminology.** Core theoretical terms are fixed by a
+  [termbase](https://github.com/) <!-- TODO: link to glossary.yaml in repo -->:
+  *Arbeitskraft* is always "labour-power", *Mehrwert* always "surplus value",
+  and so on.
+- British spelling conventions throughout.
+
+## Method
+
+The draft translation was produced with an AI-assisted pipeline (Claude,
+Anthropic) constrained by the termbase and validated by mechanical checks for
+omissions, markup fidelity, and terminological consistency, followed by human
+review of every block. Blocks are marked in the source data as
+`translated` (machine draft), `flagged` (failed a mechanical check), or
+`verified` (human-reviewed).
+
+## License
+
+<!-- TODO: choose and state a license for the translation, e.g. CC BY-SA 4.0 -->

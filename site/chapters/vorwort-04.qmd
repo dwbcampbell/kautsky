@@ -1,0 +1,469 @@
+---
+title: "Preface to the Fifth Edition"
+subtitle: "Vorrede zur fünften Auflage"
+---
+
+## Vorrede zur fünften Auflage
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Vor einem Dutzend Jahren erschien die erste Auflage dieser Schrift. Seitdem hat sich Manches verändert in den Dingen und den Köpfen, so sehr, daß hier und da in der Sozialdemokratie selbst die Frage auftauchte, ob ihr Programm und daher auch dieser Kommentar dazu nicht schon veraltet und mit den Tatsachen unvereinbar geworden sei.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Kein Zweifel, daß die früheren Auflagen der vorliegenden Schrift in manchen Punkten veraltet sind, aus formellen Gründen, weil sie sich auf Material stützen, das durch neue Tatsachen und neue Mittheilungen überholt ist. Namentlich darin sind sie veraltet, daß sie ihre statistischen Illustrationen meist aus der Berufszählung von 1882 holten, die seitdem durch die von 1895 ganz in den Hintergrund gedrängt wurde. Ich habe in der neuen Auflage selbstverständlich an Stelle der alten neuere Ziffern gesetzt. <a href="#vorwort-04-n1" id="vorwort-04-f1" name="vorwort-04-f1">[1]</a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber nicht bloß die Illustrationen des Gedankenganges, nein, dieser selbst soll völlig veraltet und als unrichtig erwiesen sein, so daß für die Sozialdemokratie eine wesentliche Änderung ihres Programms gefordert wird.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ich habe auch daraufhin die vorliegende Schrift genau geprüft, aber nichts von Belang zu ändern gefunden, außer in einem Punkte, auf den ich noch zu sprechen kommen werde. Alle die Kritiken der „Verelendigungs-“ und der „Katastrophentheorie“ haben mich nicht veranlaßt, ein Iota zu ändern, schon deshalb nicht, weil in meiner Schrift weder von der einen noch von der anderen dieser „Theorien“ die Rede ist. Es sind Theorien, die man erst einige Jahre nach der Abfassung des Erfurter Programms trotz aller Proteste in dieses hineingelesen hat. Gerade zur Zeit der Entstehung des Erfurter Programms war die Wahrscheinlichkeit, daß das Proletariat ohne Katastrophe in manchen Ländern, zum Beispiel England, die politische Macht erobere, größer, als heute. Marx selbst hatte für England die Möglichkeit einer friedlichen Entwicklung zugegeben. Wenn er für die Großstaaten des europäischen Festlandes an diese Möglichkeit nicht glaubte, lag das nicht an irgend einer besonderen Katastrophentheorie, sondern an der Einsicht in den besonderen Charakter der Staatsgewalt auf dem Festland Europas. Damit war noch keine Katastrophentheorie gegeben, ebensowenig wie die Tatsache, daß man das Herausziehen eines Gewitters konstatiert, eine Theorie des Gewitters gibt. Da meine Schrift nur die prinzipiellen Grundlagen der Anschauungen der Sozialdemokratie, nicht die Grundlagen ihrer Taktik für bestimmte Fälle entwickelt, hatte ich gar keine Ursache, hier irgend eine Katastrophentheorie auszustellen und zu verfechten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Und ebensowenig hatte ich eine Theorie der Verelendung zu entwickeln. Zur Zeit der Abfassung des Erfurter Programms waren die konsequenten Marxisten schon längst einig darüber, daß die Emanzipation des Proletariats nicht durch das steigende Elend, sondern durch den wachsenden Klassengegensatz und den daraus entspringenden Klassenkampf des Proletariats herbeigeführt werde. Gerade in dieser Überwindung der dem vormarxistischen Sozialismus eigenen Theorie der Verelendung der Massen durch die Theorie des Klassenkampfes sahen wir damals schon eine der größten Errungenschaften des Marxismus. Die Erkenntnis der dem Kapital naturnotwendig innewohnenden Tendenz, die Summe des Elends, des Druckes, der Ausbeutung zu vermehren, war von diesem Standpunkt aus wichtig, weil diese Tendenz die Notwendigkeit der stetigen Ausdehnung und Verschärfung des Klassenkampfes begreifen ließ. Aber es fiel Niemand unter uns ein, die Notwendigkeit einer zunehmenden Verkommenheit des Proletariats daraus zu folgern. Die Verelendungstheorie spielt in dieser Schrift über das <em>Erfurter Programm</em> keine Rolle. Ebensowenig wie wegen der Katastrophentheorie brauchte ich ihretwegen auch nur einen Satz zu „revidiren“.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Neben diesen beiden Theorien wurde noch lebhaft angezweifelt eine Theorie, die Marx wirklich aufgestellt, seine Krisentheorie. Diese Theorie war aufgebaut auf die Erfahrungen eines halben Jahrhunderts. Weitere Erfahrungen einiger Jahrzehnte, die ihrer Aufstellung folgten, hatten sie glänzend bestätigt. Nun wurde die Theorie mit einem Male 1898 für falsch erklärt; weil damals drei, sage und schreibe drei volle Jahre der Prosperität sich eingestellt hatten. Hätte die deutsche Sozialdemokratie sich damals von dieser Kritik imponieren lassen und den von den Krisen handelnden Passus des Erfurter Programms entsprechend revidiert, so wäre ihr die angenehme Aufgabe erwachsen, nach zwei Jahren wieder diesen Passus von Neuem zu revidieren. Wer einmal derartigen kurzatmigen Kritiken, die in der Regel nichts sind als flüchtige Einfälle und Stimmungen, einen richtunggebenden Einfluß auf Überzeugung und Programm einräumt, der kommt aus dem Revidieren nicht mehr heraus, der wird zum Spielball der Ereignisse statt zu dem sie überschauenden Meister, der sie seinen großen, unverrückbar festgehaltenen Zielen dienstbar macht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nur in einem Punkte mußte ich das in den früheren Auflagen Gesagte etwas einschränken: in den Erwartungen über den Rückgang des Kleinbetriebs in der Landwirtschaft. Die Auflösung des bäuerlichen Kleinbetriebs vollzieht sich in den letzten zwei Jahrzehnten nicht so rasch, wie ehedem, stellenweise gewinnt er sogar an Boden. Das lag 1892 noch nicht so klar zu Tage. Hier mußte ich mich jetzt reservierter ausdrücken, als damals. Das ist aber auch alles. Es liegt nicht der geringste Grund vor, an Stelle der alten eine neue, gegensätzliche Tendenz auf Verdrängung des Großbetriebs durch den Kleinbetrieb in der Landwirtschaft anzuerkennen. Dazu sind die vorliegenden Daten viel zu wenig bestimmt. Sie deuten nicht eine veränderte Entwicklungsrichtung an, sondern ein Stocken der bisherigen Entwicklung, soweit sich’s um die Betriebsgröße handelt. Die Veränderungen sind nur unbedeutend, die sich während der letzten zwei Jahrzehnte in der Bodenfläche der einzelnen Betriebskategorien vollzogen haben, und sie gehen nicht überall in der gleichen Richtung vor sich. In einigen Gegenden weicht der Großbetrieb zurück, in anderen macht er Fortschritte. Dabei aber ist der Zeitraum, in dem dies Stocken sich merkbar macht, noch viel zu kurz, um uns zu berechtigen, aus so wenig ausgeprägten Tatsachen Schlüsse zu ziehen, die die Erfahrungen eines Jahrhunderts über den Haufen werfen würden. Ließen wir uns da zu vorschnellen Schlüssen verleiten, dann ginge es uns in der Agrarfrage leicht so wie manchen Revisionisten in der Krisenfrage. Endlich aber muß bemerkt werden, daß mit der Konzentration des Kapitals, wie sie Marx auffaßte, nicht nur das Weiterbestehen, sondern sogar eine gewisse Zunahme des Kleinbetriebs in einzelnen Produktionszweigen vereinbar ist, und zwar nicht bloß in der Landwirtschaft, sondern auch in der Industrie und im Handel. Gerade wenn man im Sinne der Marxschen Dialektik denkt, wird man diese Zunahme leicht begreifen. Jede Tendenz erzeugt Gegentendenzen, die danach trachten, jene aufzuheben. Aber auch dort, wo ihnen das gelingt, bewirken sie damit nicht eine bloße Rückkehr zu dem Zustand, wie er vor der Herrschaft der aufgehobenen Tendenz bestand, sondern erzeugen sie etwas wesentlich Neues. So erzeugt zum Beispiel das Elend, das der Kapitalismus naturnotwendig über das Proletariat verhängt, dessen Kampf gegen das Elend. Aber dort, wo der proletarische Klassenkampf stark genug wird, das vom Kapital erzeugte Elend zurückzudrängen, ist das Resultat nicht etwa eine vorkapitalistische Arbeiteridylle. Weiter aber, wenn das Proletariat strebt, sich zu organisieren und dadurch das Machtverhältnis zu verschieben, das zwischen dem einzelnen Lohnarbeiter und dem einzelnen Kapitalisten besteht, so erzeugt dies Streben auf der anderen Seite wieder den Drang nach Organisierung der Unternehmer. Wo nun der Arbeiterorganisation der Unternehmerverband gegenübertritt, scheint das alte Machtverhältnis zwischen dem einzelnen Lohnarbeiter und dem einzelnen Unternehmer wiederhergestellt zu sein. Indes ist in Wirklichkeit das neue Machtverhältnis doch ein ganz anderes. Wie kraftvoll auch die Kapitalisten durch ihre Organisationen werden können, so wie der einzelne Kapitalist mit dem isolierten Arbeiter darf eine Unternehmerorganisation mit der proletarischen Organisation doch nicht mehr umspringen. Und das Bewußtsein wie die Taktik der organisierten Arbeiter bleiben unter allen Umständen andere als die der vereinzelten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ein gleicher dialektischer Prozeß bewirkt auch, daß aus der Konzentration des Kapitals selbst wieder unter Umständen eine Vermehrung des Kleinbetriebs entspringt. Aber der neue Kleinbetrieb ist ein ganz anderer als der alte, hat mit diesem nur Äußerlichkeiten gemein und spielt ökonomisch wie politisch eine ganz andere Rolle.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Konzentration des Kapitals führt bekanntlich nach Marxscher Anschauung nicht bloß zu einer Auflösung des überkommenen selbständigen, im Wesentlichen ohne dauernde Lohnarbeit im Gange gehaltenen Kleinbetriebs, sondern auch zu einer Vermehrung der Reservearmee von Arbeitskräften. Sie wirft weit mehr Arbeitskräfte auf den Markt, als dieser absorbieren kann. Jedoch nichts ist irriger, als die Anschauung, die ganze industrielle Reservearmee bestehe aus Arbeitslosen. Im Gegenteil, diese bilden nur einen Bruchteil davon, nur ihre höchsten und tiefsten Schichten – hier Lumpenproletarier, Tagdiebe, die die Arbeitslosigkeit nicht scheuen, dort organisierte Arbeiteraristokraten, deren Organisation stark genug ist, ihre Arbeitslosen eine Zeit „lang über Wasser zu halten. Aber die große Mittelschicht derjenigen, die noch Lohnarbeit suchen und keine ihren beruflichen Fähigkeiten entsprechende finden, sind gezwungen, sich an andere Möglichkeiten der Verwertung ihrer Arbeit anzuklammern. Die einzige Alternative zur Lohnarbeit bietet aber heute die Arbeit in einem eigenen Kleinbetrieb – der genossenschaftliche Betrieb kommt als Massenerscheinung noch nicht in Betracht. Je rascher also die Konzentration des Kapitals vor sich geht, je rascher sie den ursprünglichen Kleinbetrieb ruiniert und die industrielle Reservearmee ausdehnt, desto größer der Drang unter den freigesetzten Arbeitskräften nach Begründung oder Erhaltung von Kleinbetrieben. Der Verdrängung des Kleinbetriebe hier entspricht seine Ausdehnung dort. Die Konzentration des Kapitals beseitigt heute in Deutschland den Kleinbetrieb am raschesten in der Industrie der Leuchtstoffe, wo von 1882 bis 1895 die Kleinbetriebe um 25 Prozent abnahmen, der Industrie der Steine und Erden (Abnahme 24 Prozent), Bergbau und Hüttenwesen (Abnahme 84 Prozent), Textilindustrie (Abnahme 42 Prozent). Aber dieselbe Entwicklung vermehrte die Kleinbetriebe im Handelsgewerbe um 89 Prozent, im Versicherungsgewerbe um 60 Prozent, im Gewerbe der Beherbergung und Erquickung um 35 Prozent. Bei der Herstellung von Tabak und Zigarren vermehrten sich die Kleinbetriebe von 5465 auf 9708, um 78 Prozent, im Hausirhandel von 202 709 auf 312 059, das sind 54 Prozent. Diesen Zahlen gegenüber sind die Zuwachszahlen der landwirthschaftlichen Betriebe unter 2 Hektaren (5,8 Prozent) und von 2 bis 5 Hektaren (3,5 Prozent) höchst geringfügiger Natur. Wenn man auf die bloßen Zahlen der Statistik ginge, könnte man auch für den Handel, die Schankwirtschaft, die Tabakfabrikation und noch ein paar kleinere Industriezweige den Grundsatz verkünden, daß für sie das Gesetz der Kapitalskonzentration nicht gelte. Und doch wissen wir ganz genau, daß es auch hier in Kraft ist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die neuen Kleinbetriebe, die aus der Konzentration des Kapitals hervorgehen – Heimarbeiter, Hausierer, Zwergbauern usw. –, sind eben ganz anderer Natur als die durch die Konzentration des Kapitals beseitigten. Diese beruhten auf dem Privateigentum an den Produktionsmitteln, die das freie Eigentum ihrer Besitzer waren; der neue Kleinbetrieb erhält die wichtigsten seiner Produktionsmittel vom Kapital vorgeschossen, dem er dafür dienstpflichtig wird – der Kleinbauer auf dem gepachteten oder verschuldeten Boden nicht minder als der Heimarbeiter, dem das Rohmaterial vom Verleger übergeben wird, oder der Schankwirt, der nur der Beauftragte der Brauerei ist, ebenso wie der Hausierer oder Kleinkrämer, der die Waren, die er vertreibt, auf Kredit bezieht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der alte Kleinbetrieb bildete einen Mittelstand – sein Besitzer, halb Kapitalist, halb Lohnarbeiter, stand zwischen beiden. Der Besitzer des neuen Kleinbetriebs steht unter dem Lohnarbeiter; er ist viel wehrloser als dieser, seine Lebenshaltung steht oft tiefer, seine Arbeitszeit wird länger ausgedehnt, Weib und Kind viel mehr ausgebeutet. Der neue Kleinbetrieb bildet nicht eine Position, in die der Lohnarbeiter aufsteigt, sondern eine, in die er herabsinkt – neben den zu ihr herabkommenden, selbständigen Besitzern von Kleinbetrieben. Der alte Kleinbetrieb, der durch die Konzentration des Kapitals beseitigt wird, bildete einen Konkurrenten des letzteren; er stand dem einzelnen Kapitalisten feindlich gegenüber als Mitglied der gleichen Klasse selbständiger Produzenten. Der neue Kleinbetrieb bildet ein Ausbeutungsobjekt des Kapitals und als Reserve von Arbeitskräften des Großbetriebs eine Voraussetzung für dessen Gedeihen; er steht dem Kapitalisten feindlich gegenüber nicht als Mitglied der gleichen Klasse, sondern als Mitglied einer anderen, von ihm unterdrückten und ausgebeuteten Klasse, des Proletariats.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der kapitalistische Großbetrieb kann sich nicht entwickeln, wenn ihm nicht eine Reserve von Arbeitskräften zu Gebote steht, die einerseits auf den Lohn der beschäftigten Lohnarbeiter drückt, andererseits dem Kapital gestattet, jede Konjunktur auszunützen und die Produktion zeitweise sprunghaft durch rasche Einstellung neuer Arbeitskräfte zu erweitern.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Diese Reserve bietet ihm weniger die Schar der Arbeitslosen als die neue Sorte von, man kann sagen, proletarisierten Kleinbetrieben. Nur in verhältnismäßig wenigen Arbeitszweigen ist bisher eine ausreichende längere Arbeitslosenunterstützung möglich gewesen. Die Masse der eine größere Zeit lang Arbeitslosen verkommt, entwöhnt sich der Arbeit, wird für die Ausbeutung durch das Kapital unbrauchbar. Ganz anders die Arbeiter und Besitzer der proletarisierten Kleinbetriebe. Sie sind stets geneigt, der Großindustrie zuzuströmen, sobald dort lohnende Arbeit vorhanden ist, und sie kommen zu ihr mit aller der Arbeitswilligkeit, Geschicklichkeit und Unterwürfigkeit, die der proletarisierte Kleinbetrieb erzeugt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sobald eine länger dauernde Ära der Prosperität sich fühlbar macht, verlassen zahlreiche Arbeiter von ländlichen und städtischen Kleinbetrieben ihre bisherige Arbeitsgelegenheit, um sich dem Großbetrieb zuzuwenden. Der Besitzer des Kleinbetriebs selbst ist, namentlich in der Landwirtschaft, meist zu sehr an ihn gefesselt, um ebenfalls ohne Weiteres seine Arbeitskraft dem Großbetrieb zuwenden zu können. Aber er sendet ihm die energischsten und intelligentesten seiner Familienmitglieder zu, so daß der Kleinbetrieb oft nur noch von Greisen und Kindern betrieben wird, so am deutlichsten seine neue Funktion in der kapitalistischen Ära bezeugend, die, als Produktionsstätte von neuen Arbeitern und Depot für überflüssig gewordene Arbeiter zu dienen. Nicht bloß der industrielle, auch der landwirtschaftliche Großbetrieb bedarf immer mehr dieser vom Kleinbetrieb gelieferten Reservearmee; ja der landwirtschaftliche Großbetrieb noch mehr als der industrielle. Denn einer der Umstände, die ihn im Gegensatz zum letzteren bedrängen, rührt daher, daß die neue Technik, namentlich die Arbeitsteilung und das Maschinenwesen, die Landwirtschaft dort, wo sie kapitalistisch betrieben wird, immer mehr zu einem Saisongewerbe machen, das zeitweise großer Arbeitermassen, in der Zwischenzeit aber nur weniger Arbeitskräfte bedarf. Daher die Arbeiternot der Großgrundbesitzer, die noch viel ärger wäre ohne die Reserven des Kleinbauerntums, namentlich im Osten Deutschlands und jenseits seiner Grenzen, die jahraus jahrein als Wanderarbeiter den Großbetrieben die sehnlichst erwarteten Arbeitskräfte liefern. Ohne diesen von den kleinen Bauern gelieferten Überschuß an Arbeitskräften wäre der landwirtschaftliche Großbetrieb in Deutschland in noch viel größerer Bedrängnis als er ist. Insofern ist also bei der heutigen Organisation der Produktion der Kleinbetrieb für den Fortgang der Landwirtschaft unentbehrlich; nicht als technisch überlegener Konkurrent des Großbetriebs, sondern als der sicherste und ausgiebigste Lieferant von Proletariern für den Großgrundbesitz. Dieser sucht denn auch selbst Kleinbetriebe künstlich zu schaffen, um mehr Proletarier geliefert zu bekommen. So sehen wir, daß die Konzentration des Kapitals selbst wieder ein Bedürfnis nach einer Vermehrung von Kleinbetrieben erzeugt und sie fördert.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ist aber damit das Erfurter Programm <em>ad absurdum</em> geführt, das von der Naturnotwendigkeit des Unterganges des Kleinbetriebs spricht? Mitnichten. Es handelt nur von dem Untergang jenes Kleinbetriebs, „dessen Grundlage das Privateigentum des Arbeiters an seinen Produktionsmitteln bildet“.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Das gilt, wie wir gesehen haben, nicht für den neuen Kleinbetrieb, dessen wichtigste Produktionsmittel das Kapital besitzt. Der neue Kleinbetrieb ist ein ganz proletarisches Gebilde, dessen Angehörige immer mehr alles Interesse am Privateigentum an den Produktionsmitteln verlieren, immer mehr zum gleichen Klassengegensatz wie das lohnarbeitende Proletariat kommen. Bildete der alte Kleinbetrieb das festeste Bollwerk des Privateigentums an den Produktionsmitteln und damit des Kapitalismus, so bildet der neue ein Element des proletarischen Gegensatzes gegen dies Privateigentum und damit gegen das Kapital. Da die in ihm Tätigen isolierter, gedrückter, überarbeiteter sind als die Arbeiter der Großbetriebe, ihre ökonomische Stellung auch nicht so einfach und klar, wie die der eigentlichen Lohnarbeiter, sind sie weit schwerer zu organisieren und zum Bewußtsein ihrer Lage zu bringen, als diese; sie können unter Umständen als Streikbrecher und konservative Wähler den Emanzipationskampf des Proletariats verlangsamen, aber nirgends mehr bilden sie ein Element, auf dem das Kapital seine Herrschaft dauernd begründen könnte. Früher oder später treiben sie ihre Klasseninteressen stets an die Seite der kämpfenden Lohnarbeiterschaft.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der alte, aus der Blütezeit des Handwerks überlieferte Kleinbetrieb bildete eine der festesten und unentbehrlichsten ökonomischen Grundlagen der Gesellschaft seiner Zeit. Der neue, proletarisierte Kleinbetrieb bildet eines ihrer Abfallsprodukte, das unter den gegebenen gesellschaftlichen Verhältnissen ebenso unvermeidlich ist wie etwa Verbrechen und Prostitution, das aber ebensowenig wie diese eine gesunde Grundlage der Gesellschaft sein kann. Der neue Kleinbetrieb wird immer mehr ein parasitisches Gebilde, ein Notbehelf, der die Gesellschaft nur belastet und dessen sich die von ihm Lebenden leicht und gern entledigen, sobald die Not aufhört. Heute schon sehen wir, wie während jeder Prosperitätsepoche die Kleinbetriebe in Stadt und Land scharenweise verlassen werden. Würde erst einmal das Proletariat die politische Macht und damit die Möglichkeit erobern, die ganze Produktion seinen Interessen gemäß einzurichten, so müßte es vor allem dahin trachten, die industrielle Reservearmee aufzuheben. Das würde aber zu einer raschen Verödung der Kleinbetriebe in den meisten Zweigen der Industrie, des Handels, der Landwirtschaft führen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nichts irriger als die Auffassung, sozialistische Produktion werde erst dann möglich, wenn alle Kleinbetriebe aufgesaugt seien. Sie würde dann nie möglich, weil die Konzentration des Kapitals den Kleinbetrieb nicht völlig verschwinden läßt, sondern vielfach nur einen neuen an Stelle des alten setzt. Die Aufsaugung dieser neuen, parasitisch-proletarischen Kleinbetriebe wird erst durch die Einführung sozialistischer Produktion ermöglicht. Letztere ist die Vorbedingung, nicht die Folge des völligen Verschwindens des Kleinbetriebs aus allen Wirtschaftsgebieten, auf denen er technisch überflüssig geworden ist. Nicht das völlige Verschwinden des Kleinbetriebs aus der Betriebsstatistik, sondern seine Ausschaltung aus den das gesellschaftliche Leben beherrschenden Produktionsprozessen, deren Unterwerfung unter das Kapital, das die Produktionsmittel und alle Vorteile ihrer steigenden Vervollkommnung monopolisiert, das sind die Vorbedingungen des Sozialismus. Daß sie aufs rapideste wachsen, kann heute selbst ein sozial und politisch Blinder mit den Händen greifen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In diesem Sinne ist die in das Erfurter Programm übernommene Lehre des Marxismus von der Konzentration des Kapitals aufzufassen. So aufgefaßt, steht dieser Grundsatz nicht nur nicht im Widerspruch mit den wirklichen Tatsachen, er bietet vielmehr erst die Möglichkeit, sie völlig zu begreifen. Auch in diesem Punkte ebensowenig wie in den anderen, die der „kritische Sozialismus“ beanstandete, bedarf der grundsätzliche Teil des Erfurter Programms einer Revision.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Es ist nicht Selbstlob, wenn ich das ausspreche, denn das Erfurter Programm ist keineswegs mein ausschließliches Werk. Wohl wurde es auf der Grundlage des von mir vorgeschlagenen Programmentwurfes aufgebaut. Aber die Erfurter Programmkommission hat diesen Entwurf wesentlich erweitert. In dem Entwurf selbst aber waren jene Sätze, die später am meisten diskutiert wurden, dem „Kapital“ von Marx fast wörtlich entnommen, der allgemeine Teil des Programms selbst ist nur eine Paraphrase des bekannten Absatzes über „Die geschichtliche Tendenz der kapitalistischen Akumulation“ im „Kapital“. Gerade darin sehe ich die Ursache der Kraft des Erfurter Programms und seiner Fähigkeit, den wechselnden Moden zu widerstehen. Solange es nicht gelungen ist, an Stelle des „Kapital“ eine andere theoretische Grundlegung des Sozialismus zu setzen, solange wird auch das Erfurter Programm einer Revision seiner Grundsätze nicht bedürfen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="date">Berlin-Friedenau, im Mai 1904.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="author">K. Kautsky</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+
+## Notes / Anmerkungen
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#vorwort-04-f1" id="vorwort-04-n1" name="vorwort-04-n1">1.</a> Diese Internet-Ausgabe gibt den Programmkommentar nach der ersten, unveränderten Ausgabe wieder.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="todo">[not yet translated]</p>
+```
+
+:::
+
+:::
+

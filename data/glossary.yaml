@@ -1,0 +1,41 @@
+# Bilingual termbase. QA matches `de` entries as lowercase substrings of the
+# German text (so compounds like "Arbeitskraftverkäufer" are caught), then
+# requires `en` to appear and `avoid` terms to be absent in the translation.
+- de: [arbeitskraft, arbeitskräfte]
+  en: labour-power
+  avoid: [labor power, work force, workforce, labour capacity]
+  note: Strict Marxist category — the commodity the worker sells, as distinct from Arbeit (labour).
+- de: [mehrwert, mehrwerth]
+  en: surplus value
+  avoid: [added value, surplus earnings, surplus worth]
+- de: [klassenkampf]
+  en: class struggle
+  avoid: [class war, class warfare]
+- de: [lohnarbeit]
+  en: wage labour
+  avoid: [wage labor, wage work]
+- de: [kleinbetrieb]
+  en: small-scale enterprise
+  avoid: [small production, small business]
+  note: Small-scale agriculture or artisan workshops.
+- de: [großbetrieb, grossbetrieb]
+  en: large-scale enterprise
+  avoid: [big business]
+- de: [genossenschaft]
+  en: cooperative
+  avoid: [association, partnership]
+- de: [warenproduktion]
+  en: commodity production
+  avoid: [goods production, production of wares]
+- de: [produktionsmittel]
+  en: means of production
+  avoid: [production tools, productive equipment]
+- de: [produktionsweise]
+  en: mode of production
+  avoid: [production method, way of producing]
+- de: [privateigentum, privateigenthum]
+  en: private property
+  avoid: [private ownership]
+- de: [reservearmee]
+  en: reserve army
+  note: "Industrielle Reservearmee → industrial reserve army."

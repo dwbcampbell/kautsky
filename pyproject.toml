@@ -1,0 +1,12 @@
+[project]
+name = "kautsky-erfurt"
+version = "0.1.0"
+description = "Parallel DE/EN translation of Kautsky's Das Erfurter Programm (1892)"
+requires-python = ">=3.10"
+dependencies = [
+    "anthropic>=0.90",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "pyyaml>=6.0",
+    "requests>=2.31",
+]

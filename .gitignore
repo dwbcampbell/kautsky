@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+site/_site/
+site/.quarto/
+.DS_Store

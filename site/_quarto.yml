@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Das Erfurter Programm / The Erfurt Programme"
+  description: >
+    Karl Kautsky's Das Erfurter Programm in seinem grundsätzlichen Theil
+    erläutert (1892) — a complete, unabridged parallel German/English edition.
+  sidebar:
+    style: docked
+    contents:
+      - index.qmd
+      - editorial.qmd
+      - section: "Text"
+        contents:
+          - chapters/vorwort-92.qmd
+          - chapters/vorwort-04.qmd
+          - chapters/ch1.qmd
+          - chapters/ch2.qmd
+          - chapters/ch3.qmd
+          - chapters/ch4.qmd
+          - chapters/ch5.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: assets/parallel.css
+    page-layout: full
+    toc: true
+    toc-depth: 3
+
+lang: en
