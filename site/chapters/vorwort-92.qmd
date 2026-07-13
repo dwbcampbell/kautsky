@@ -3,8 +3,6 @@ title: "Preface to the First Edition"
 subtitle: "Vorwort zur ersten Auflage"
 ---
 
-## Vorwort zur ersten Auflage
-
 ::: {.parallel-container}
 
 ::: {.parallel-col-de}
@@ -18,7 +16,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">On the occasion of the discussions concerning the draft of the new programme of the Social Democratic Party, I proposed in the <strong>Neue Zeit</strong> that a popular commentary on the programme should be written, one that would elaborate, justify, and explain its brief, bare sentences.</p>
 ```
 
 :::
@@ -38,7 +36,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Invited to carry out my own proposal, I set to work, but soon found that it was downright impossible to give, within the narrow framework of a manifesto such as I had planned, a comprehensive and generally intelligible presentation of all those principles that come into question for the assessment of our party. I should have had to confine myself either to characterising them briefly, and would then at best have been able to deliver a feeble imitation of the “Communist Manifesto,” which, like that work, already required certain economic and historical prior knowledge for its comprehension. Or I should have had to confine myself to the discussion of a few main propositions, as I have indeed done in a pamphlet appearing simultaneously with the present little book.</p>
 ```
 
 :::
@@ -58,7 +56,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But this pamphlet does not, by itself alone, fulfil the purpose that my proposal had in view. Alongside short pamphlets that draw the attention of the masses to our aspirations, we need a kind of <em>catechism of Social Democracy,</em> a <em>guide</em> for anyone who wishes to become more familiar with its train of thought, as well as a guide for the agitator who is to introduce others to this train of thought. Such a work has hitherto been lacking in our literature. All the works of German socialist literature that exceed the scope of a pamphlet are monographs, each of which treats only one or several, but by no means all, aspects of modern socialism. This literature is, to be sure, already so extensive that it makes possible an all-round grasp of our principles. Whoever, for example, has read and understood Marx's <strong>Capital,</strong> further Engels's writings on the <strong>Condition of the Working Class in England,</strong> the <strong>Development of Socialism from Utopia to Science,</strong> and on the <strong>Origin of the Family, Private Property and the State,</strong> then Bebel's <strong>Woman and Socialism,</strong> and finally the already mentioned <strong>Communist Manifesto,</strong> whose train of thought runs like a red thread through all these works <a href="#vorwort-92-n1" id="vorwort-92-f1" name="vorwort-92-f1">[1]</a>, must already be in a position to grasp the world of ideas of modern socialism from all sides.</p>
 ```
 
 :::
@@ -78,7 +76,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the reading of all these books, in particular of <strong>Capital,</strong> is not everyone's affair, and there has hitherto been lacking an intermediate link between the pamphlets and the specialist works of socialist literature; there is lacking a popular yet nonetheless more thorough summary presentation and justification of the totality of the principles of Social Democracy.</p>
 ```
 
 :::
@@ -98,7 +96,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The present work makes the attempt to fill this gap. Following the Erfurt Programme, it aims to present in a generally intelligible manner <em>every</em> aspect of the socialist world of ideas that is essential and of significance for the understanding of Social Democracy. It is, of course, not a matter here of a systematic, scientific grounding, but in the first place of opening up an understanding of the practical activity of Social Democracy. For this reason the general fundamental theories are only briefly touched upon; only the results of research are given, without justification and detailed discussion. A closer examination of these theories is a matter for specialist study. On the other hand, a series of more immediate particular questions that are at present being lively debated are discussed in greater detail, such as the decline of small-scale enterprise, the cartels, overproduction, the relation of the working class to political and trade-union activity, and so forth, but above all the question of the “state of the future.”</p>
 ```
 
 :::
@@ -118,7 +116,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>By and large, the present work offers, already by virtue of its very design, only an overview of the ideas already laid down in the fundamental works of Social Democratic literature. But precisely this comprehensive design also made it necessary here and there to touch upon fields that have not yet been treated by our party literature, or not in the connection in which they are treated here. We therefore hope that in this work not only those readers who have hitherto stood at a distance from our party, but also those who are acquainted with our literature, will find many a new thought.</p>
 ```
 
 :::
@@ -138,7 +136,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In conclusion, I fulfil the pleasant duty of thanking here my dear friend and collaborator <em>Eduard Bernstein</em> for the assistance he has rendered to this work, as to many another of my works, through his advice and the critical review of the manuscript.</p>
 ```
 
 :::
@@ -158,7 +156,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="date">Stuttgart, June 1892</p>
 ```
 
 :::
@@ -178,7 +176,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="author"><em>K. Kautsky</em></p>
 ```
 
 :::
@@ -200,7 +198,7 @@ subtitle: "Vorwort zur ersten Auflage"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="note"><a href="#vorwort-92-f1" id="vorwort-92-n1" name="vorwort-92-n1">1.</a> <strong>The Condition of the Working Class in England</strong> did indeed appear two years before the <strong>Communist Manifesto,</strong> but it already breathes the same spirit as the latter.</p>
 ```
 
 :::

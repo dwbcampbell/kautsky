@@ -68,7 +68,9 @@ the SAME outer tag and ALL inline HTML (<em>, <strong>, <a> anchors and hrefs, \
 5. Tables: translate only header and word cells; never alter numeric data, \
 column structure, or attributes.
 6. Headings: translate the text; keep the tag.
-7. Return exactly one translation entry per input block id, in the same order.
+7. Return exactly one translation entry per input block id, in the same order. \
+Never merge a block into its neighbour — a heading block, however short, gets \
+its own entry.
 """
 
 
@@ -128,11 +130,9 @@ def translate_section(client: anthropic.Anthropic, system: list[dict],
     if response.stop_reason == "refusal":
         raise RuntimeError("request refused")
     text = next(b.text for b in response.content if b.type == "text")
-    result = {t["id"]: t["en_html"] for t in json.loads(text)["translations"]}
-    missing = [b["id"] for b in section if b["id"] not in result]
-    if missing:
-        raise RuntimeError(f"missing translations for {missing}")
-    return result
+    wanted = {b["id"] for b in section}
+    return {t["id"]: t["en_html"]
+            for t in json.loads(text)["translations"] if t["id"] in wanted}
 
 
 def main() -> None:
@@ -173,9 +173,14 @@ def main() -> None:
             for block_id, en_html in result.items():
                 by_id[block_id]["en_html"] = en_html
                 by_id[block_id]["status"] = "translated"
-            done += len(section)
+            done += len(result)
             save_blocks(blocks)
-            print(f"  ok      {ids}  ({len(section)} blocks)")
+            missing = [b["id"] for b in section if b["id"] not in result]
+            if missing:
+                failed += len(missing)
+                print(f"  partial {ids}: missing {missing}", file=sys.stderr)
+            else:
+                print(f"  ok      {ids}  ({len(section)} blocks)")
 
     print(f"\ntranslated {done} blocks"
           + (f", {failed} failed (re-run to retry)" if failed else ""))

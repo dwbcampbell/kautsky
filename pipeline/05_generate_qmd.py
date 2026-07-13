@@ -98,7 +98,9 @@ def main() -> None:
         notes = [b for b in chapter_blocks if b["type"] == "footnote"]
 
         out = [f'---\ntitle: "{en_title}"\nsubtitle: "{de_title}"\n---\n\n']
-        out += [render_block(b, chapter_id) for b in body]
+        # The page h1 duplicates the front-matter title; skip it.
+        out += [render_block(b, chapter_id) for b in body
+                if not (b["type"] == "heading" and heading_level(b["de_html"]) == 1)]
         if notes:
             out.append("## Notes / Anmerkungen\n\n")
             out += [render_block(b, chapter_id) for b in notes]

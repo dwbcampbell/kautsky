@@ -3,9 +3,9 @@ title: "IV. The State of the Future"
 subtitle: "IV. Der Zukunftsstaat"
 ---
 
-## IV. Der Zukunftsstaat
+##### 1. Social Reform and Revolution
 
-##### 1. Soziale Reform und Revolution
+<p class="de-subtitle">1. Soziale Reform und Revolution</p>
 
 ::: {.parallel-container}
 
@@ -20,7 +20,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The fifth section of the Erfurt Programme reads:</p>
 ```
 
 :::
@@ -40,7 +40,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">“Private property in the means of production, which was once the means of securing to the producer the property in his product, has today become the means of expropriating peasants, artisans, and small traders, and of placing the non-workers – capitalists, great landowners – in possession of the product of the workers. Only the transformation of capitalist private property in the means of production – land and soil, pits and mines, raw materials, tools, machines, means of transport – into social property, and the transformation of commodity production into socialist production, carried on for and through society, can bring it about that large-scale enterprise and the ever-growing productive capacity of social labour shall, for the hitherto exploited classes, become, from a source of misery and oppression, a source of the highest welfare and of all-round harmonious perfection.”</p>
 ```
 
 :::
@@ -60,7 +60,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">How this section is to be understood will, after what has been set forth so far, not be difficult to recognise.</p>
 ```
 
 :::
@@ -80,7 +80,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The productive forces that have developed in the womb of capitalist society have become incompatible with the property order upon which that society rests. To wish to maintain this property order means to render every further social progress impossible, means to condemn society to stagnation, to decay – but to decay while still alive, to a decay that is accompanied by the most agonising, convulsive spasms.</p>
 ```
 
 :::
@@ -100,7 +100,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Every further perfection of the productive forces heightens the contradiction between them and the existing property order. All attempts to abolish this contradiction, or even merely to mitigate it, without touching property, have proved vain and must prove vain.</p>
 ```
 
 :::
@@ -120,7 +120,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>For a century the thinkers and politicians of the propertied classes have striven to forestall the threatening overthrow – the <em>revolution</em> – of private property in the means of production by means of social <em>reforms,</em> as they call all those interventions in the economic machinery which are designed to abolish, or at least to mitigate, one or another effect of this private property without touching the thing itself. For a century the most diverse means have been extolled and tried out for this purpose; it is scarcely still possible to devise anything new in this field. All the “very latest” proposals of our social quacks, which are supposed to cure the most antiquated evils painlessly and free of charge within a few days, turn out, on closer inspection, to be rehashings of quite old inventions which have already been tried elsewhere and at other times and which have sufficiently demonstrated their ineffectiveness.</p>
 ```
 
 :::
@@ -140,7 +140,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Let us not be misunderstood. We declare social reforms to be ineffective in so far as they have the task of eliminating the contradiction, ever growing in the course of economic development, between the productive forces and the existing property order, and at the same time of preserving and strengthening the latter. But by this we mean neither to say that the social revolution, the abolition of private property in the means of production, will accomplish itself, that the irresistible, naturally necessary development will take care of this without human intervention, nor also that all social reforms are useless stuff, that those who suffer under the contradiction between productive forces and property order and its consequent phenomena have nothing left but to fold their hands idly in their laps and wait submissively until it has been overcome.</p>
 ```
 
 :::
@@ -160,7 +160,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When one speaks of the irresistibility and natural necessity of social development, one of course presupposes thereby that human beings are human beings and not dead puppets; human beings with definite needs and passions, with definite physical and mental powers which they seek to use to their best advantage. Idle resignation to the apparently inevitable does not mean letting social development run its course, but bringing it to a standstill.</p>
 ```
 
 :::
@@ -180,7 +180,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When we hold the abolition of private property in the means of production to be inevitable, we do not thereby mean that one fine day, without any effort on their part, the roasted pigeons of the social revolution will fly into the mouths of the exploited. We hold the collapse of present-day society to be inevitable because we know that economic development with natural necessity produces conditions which compel the exploited to struggle against this private property; that it increases the number and strength of the exploited and diminishes the number and strength of the exploiters, who hold fast to what exists; that it leads, finally, to conditions intolerable for the mass of the population, which leave this mass no choice but between idle degeneration and the vigorous overthrow of the existing property order.</p>
 ```
 
 :::
@@ -200,7 +200,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Such an overthrow can assume the most diverse forms, according to the circumstances under which it takes place. It need by no means necessarily be bound up with acts of violence and bloodshed. There have already been cases in world history where the ruling classes were especially clear-sighted or – especially weak and cowardly, so that, faced with a situation of compulsion, they voluntarily abdicated. Nor need a social revolution be decided at a single stroke. This can indeed scarcely ever have been the case. Revolutions are prepared in political and economic struggles lasting years and decades, and are accomplished amid the constant changing and fluctuation of the power relations of the individual classes and parties, often interrupted by long-lasting setbacks (periods of reaction).</p>
 ```
 
 :::
@@ -220,7 +220,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But however manifold the forms may be that a revolution can assume, no social revolution has ever yet taken place imperceptibly and without the vigorous intervention of those most oppressed by the prevailing conditions.</p>
 ```
 
 :::
@@ -240,7 +240,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When, furthermore, we declare the social reforms that stop short of private property to be incapable of abolishing the contradictions which the present economic development brings forth, we by no means wish thereby to say that for the exploited, within the framework of the existing property order, every struggle against the sufferings they have to endure is impossible, that they should submit patiently to all the maltreatment, all the forms of exploitation which the capitalist mode of production imposes upon them, that, so long as they are exploited at all, it is a matter of indifference in what manner this takes place. We wish thereby only to say that they should not overestimate social reforms and should not believe that thereby the existing conditions can be shaped in a satisfactory manner for them. And they should examine closely the social reforms that are offered to them and for which they stand. Nine-tenths of the reform proposals are not only useless but directly harmful to the exploited; worst of all are those proposals which, in order to save the threatened property order, seek to adapt the productive forces to it, to undo the economic development of the last centuries. The exploited who stand for these squander their strength in the senseless endeavour to make the dead alive.</p>
 ```
 
 :::
@@ -260,7 +260,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Economic development can be influenced in manifold ways; one can accelerate it and slow it down, one can weaken and strengthen its effects, make it less painful or more painful, according to the insight and the social power one possesses. But one thing one cannot do: bring it to a standstill or even reverse it. Experience teaches rather that all means intended to check it prove ineffective or even increase the sufferings they were meant to remove, whereas those means which are really suited to remedy one or another of the existing evils more or less also work to accelerate the course of economic development.</p>
 ```
 
 :::
@@ -280,7 +280,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>If, for example, the artisans wish to restore the guild system in order to raise the crafts by its aid, this endeavour is wholly fruitless and must be so, for it stands in contradiction to the needs of the modern productive forces, of large-scale industry. This would first have to be abolished, the whole technical progress of modern times undone, if the guild system were to be able to flourish. That is downright impossible. Guildism today therefore has only the purpose of placing the strength, money, and political influence of the artisans at the disposal of reactionary parties, which exploit it to the detriment, not the advantage, of the "little people", for example for raising the price of bread, increasing taxes and military burdens, and the like.</p>
 ```
 
 :::
@@ -300,7 +300,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But those means which the artisans can under certain circumstances use to advantage in order to improve their situation are only such as enable them to expand their enterprises, to go over to mass production, to become small capitalists. Such means, like cooperatives of the most varied kinds, the introduction of cheap motors, and so on, may well help the more affluent among the artisans, but only by enabling them to abandon the small-scale enterprise. The less affluent, who cannot procure motors, have no credit, and so forth, then perish all the more quickly. These means thus do indeed benefit various artisans, but do not save the crafts; rather they accelerate their downfall.</p>
 ```
 
 :::
@@ -320,7 +320,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The wage labourers too at first wished to halt the development of capitalist large-scale industry. They smashed new machines, resisted the introduction of women's labour, and the like. But sooner than the artisans they learned to see how foolish such a course of action is. They have found other, more successful means of warding off as far as possible the harmful effects of capitalist exploitation, through their economic organisations (trade unions) and through their political activity, both of which complement one another and by which they have achieved more or less greater successes in the various states. But each of these successes, whether it consists in a wage increase, a shortening of working hours, a prohibition of the labour of children who are too young, the demand for sanitary precautions, and so forth, forms a new impulse for economic development, in that it, for example, induces the capitalists to replace the labour-power that has become dearer with machines, or in that it makes additional expenditures necessary which burden the small capitalists more than the large ones and thereby make the competitive struggle harder for the former, and so on.</p>
 ```
 
 :::
@@ -340,7 +340,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>However justified, indeed necessary, it is, therefore, when, for example, the individual artisans seek to improve their situation by, say, the introduction of small motors, or when the workers found organisations or strive for legal institutions that bring them a shortening of working hours, an improvement of working conditions, and other reliefs, it would nonetheless be mistaken to believe that such reforms could halt the social revolution; and just as mistaken is the assumption that one cannot acknowledge the usefulness of certain social reforms without thereby also conceding that it is possible to maintain society on its hitherto existing foundations. On the contrary, one can advocate these reforms even from the revolutionary standpoint, because they accelerate the course of things, as we have seen, and because they, far from abolishing the suicidal tendencies of the capitalist mode of production which we have described in the preceding chapters, rather strengthen them.</p>
 ```
 
 :::
@@ -360,7 +360,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The proletarianisation of the masses of the people, the concentration of the entire capital in the hands of a few who dominate the whole economic life of the capitalist nations, chronic overproduction, the crises, the insecurity of existence, <em>all these tormenting and outrageous effects of the capitalist mode of production, in their constant increase, can be checked by no reforms on the ground of the present property order, however far-reaching these may be.</em></p>
 ```
 
 :::
@@ -380,7 +380,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>There is no party, be it the most obstinate and the most anxiously clinging to the traditional, that would not have some inkling of this. They all still praise their particular reforms as means of forestalling the great collapse, but none of them any longer has the proper faith in its miracle recipes.</p>
 ```
 
 :::
@@ -400,14 +400,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>No twisting and turning is of any use. The legal foundation of the present mode of production, <em>the private property in the means of production</em>, becomes ever more incompatible with the nature of the means of production, as we have seen in the preceding chapters. The downfall of this private property is now only a question of time. It will come for certain, even though no one can say with certainty when and in what manner it will occur.<br/> <a id="ch4-t2" name="ch4-t2"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 2. Privateigentum und genossenschaftliches Eigentum
+##### 2. Private Property and Cooperative Property
+
+<p class="de-subtitle">2. Privateigentum und genossenschaftliches Eigentum</p>
 
 ::: {.parallel-container}
 
@@ -422,7 +424,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The question in truth is no longer whether and how private property in the means of production is to be preserved, but rather what <em>should</em> or rather <em>must</em> take its place; for here it is not a matter of something to be arbitrarily invented, but of something dictated by natural necessity. It lies just as little within our free discretion which order of property we shall set in place of the existing one, as it is left to us whether we wish to retain the latter or throw it overboard.</p>
 ```
 
 :::
@@ -442,7 +444,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The very same economic development which presses towards the question — what shall be put in place of private property in the means of production? — also brings forth the preconditions for answering this question. In the womb of the old, the new property already slumbers. In order to become acquainted with it, we must hold fast not to our so varied personal inclinations and wishes, but to the facts lying before us, which are the same for all.</p>
 ```
 
 :::
@@ -462,7 +464,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Whoever knows the present-day conditions of production also knows which form of property they require, as soon as the existing one has become impossible. We therefore ask our readers, in what follows as well, which deals with the future, to keep before their eyes what we have said of the existing mode of production in the present and the past.</p>
 ```
 
 :::
@@ -482,7 +484,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Private property in the means of production is rooted, as we know, in small-scale enterprise. Individual production also makes individual property necessary. Large-scale enterprise, by contrast, means <em>cooperative, social production.</em> In large-scale enterprise it is not each worker who works for himself; rather a greater number of workers, an entire society, works together in order to create something whole. And the means of production of modern large-scale industry are vast and mighty. It is there quite impossible that each individual worker should possess his means of production for himself. Large-scale enterprise at the stage of present-day technology therefore permits only two forms of property: either the <em>private property</em> of a single individual in the means of production of the cooperative of workers — this means the capitalist mode of production dominant today, with its train of misery and exploitation on the side of the workers and suffocating superfluity on the side of the capitalists. Otherwise only the <em>common property</em> of all workers in the common means of production is still possible; this means the cooperative mode of production, means the cessation of the exploitation of the workers, who become masters over their own products and to whom now falls the surplus (surplus value) which hitherto the capitalist appropriated to himself.</p>
 ```
 
 :::
@@ -502,7 +504,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>To set cooperative property in place of private property in the means of production — this is what economic development makes ever more urgently necessary.</em></p>
 ```
 
 :::
@@ -522,7 +524,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This conviction of the necessity of cooperative property is held not only by Social Democracy. It is shared also by the Anarchists and — the Liberals. The latter, to be sure, will admit only such paths to this goal as can never lead to its attainment. To refer the workers to their saved pennies for the establishment of large-scale enterprises means to fool them, not to advise or even help them.</p>
 ```
 
 :::
@@ -542,7 +544,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But here we are not for the moment concerned with the path thither; with that we shall occupy ourselves in the next chapter; here it is a matter of the closer determinations of cooperative property.</p>
 ```
 
 :::
@@ -562,7 +564,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The simplest thing is to declare that each individual capitalist enterprise should be transformed into a cooperative. Its workers should at the same time be its owners. Otherwise nothing would change, commodity production would continue; each individual enterprise would be entirely independent of the others and would produce for the market for <em>sale.</em></p>
 ```
 
 :::
@@ -582,7 +584,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To imagine such a mode of production does not, to be sure, require all too much fantasy. It is as similar to the present-day one as possible. It is the ideal, the model of the Anarchists and Liberals. The two differ merely in the path thither. The former wish that in a general revolution the workers should seize the various enterprises; the latter recommend the path of saving already communicated above.</p>
 ```
 
 :::
@@ -602,7 +604,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Let us now see what comes of this solution.</p>
 ```
 
 :::
@@ -622,7 +624,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It amounts to making the worker into an entrepreneur — not into a capitalist, for there are no more capitalists once the workers are all in possession of their means of production. By this solution the workers escape the abuses which capitalist exploitation brings with it for them, but the dangers which today threaten every independent entrepreneur remain in existence: competition, overproduction, crises, bankruptcies are by no means done away with. The better-situated undertakings will, as before, drive the worse-situated ones from the market and finally ruin them. Even if the individual undertakings of a branch of industry form themselves into cartels, this changes nothing in the development. We need only refer to our expositions in the previous chapter to make this clear.</p>
 ```
 
 :::
@@ -642,7 +644,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Just as capitalist undertakings today go under, so cooperative undertakings would then go bankrupt. Their workers would thereby lose their means of production and would once again become — <em>proletarians,</em> who are compelled to sell their labour-power in order to be able to go on living. The workers in the more fortunate cooperatives would then find it more advantageous to hire wage labourers instead of working themselves; they would become exploiters, become — <em>capitalists,</em> and the end of the song would be that after some time we would again have the old condition, the old capitalist mode of production.</p>
 ```
 
 :::
@@ -662,7 +664,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Commodity production and private property in the means of production hang together in the most intimate way. Commodity production presupposes this private property; it frustrates every attempt to abolish it.</p>
 ```
 
 :::
@@ -682,7 +684,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>Under the dominion of commodity production large-scale enterprise necessarily takes on the capitalist form;</em> the cooperative form can there occur only imperfectly and in isolated instances, but can never become the dominant form.</p>
 ```
 
 :::
@@ -702,14 +704,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Whoever, then, is in earnest about putting cooperative ownership of the means of production in place of capitalist ownership must go a step further than the Liberals and Anarchists wish to go, to the abolition of <em>commodity production.</em><br/> <a id="ch4-t3" name="ch4-t3"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 3. Die sozialistische Produktion
+##### 3. Socialist Production ⚑
+
+<p class="de-subtitle">3. Die sozialistische Produktion</p>
 
 ::: {.parallel-container}
 
@@ -724,7 +728,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The abolition of commodity production means the replacement of production for <em>sale</em> by production for <em>one's own needs.</em></p>
 ```
 
 :::
@@ -744,7 +748,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Production for one's own needs can in turn take two forms: the production of the <em>individual</em> to satisfy his personal needs, and the production of a <em>society</em> or <em>cooperative</em> to cover its own requirements, or rather the requirements of its members.</p>
 ```
 
 :::
@@ -764,7 +768,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The former kind of production has never been a general form of production. Man was always, as far as we can trace his traces, a social being; the individual always found himself, in order to cover a number of his most important needs, dependent upon working together with others, upon others working for him, which as a rule also entailed that he worked for others. The production of the individual for himself has always played only a subordinate role. Today it is hardly worth mentioning.</p>
 ```
 
 :::
@@ -784,7 +788,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Cooperative production for one's own use was the dominant form of production so long as commodity production had not developed. It is as old as producing itself. If one wished to assume that some particular mode of production corresponded especially to human nature, then one would have to declare this kind of production to be the natural one. It counts perhaps as many tens of thousands of years as commodity production counts thousands. With the kind of means of production and the mode of production, the character, extent and powers of the producing cooperative changed; but whether it was a horde or a gens, a mark cooperative or a household cooperative (a large peasant family), a number of essential basic features they all had in common. Each covered all its needs (or at least all the necessary and essential ones) through the results of its own production. The means of production were the property of the cooperative. The members worked together as equals and free men according to custom or a plan which they had themselves drawn up, under an administration chosen by themselves and answerable to them. The product of the cooperative labour belonged to the cooperative, which used it partly to cover common needs (of consumption or production), partly distributed it according to custom or a standard determined by the whole to the individual persons or groups of which the cooperative consisted.</p>
 ```
 
 :::
@@ -804,7 +808,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The prosperity of such a self-sufficient cooperative depended on natural and personal conditions. The more fruitful the territory it inhabited, the more industrious, inventive and vigorous its members, the greater and more secure was the general prosperity. Epidemics, floods, the incursions of superior enemies could press upon it, sometimes destroy it, but <em>one thing</em> did not touch it: the fluctuations of the <em>market.</em> It knew such a thing either not at all or only for articles of superfluity.</p>
 ```
 
 :::
@@ -824,7 +828,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Such cooperative production for one's own needs is nothing other than a <em>communist</em> or, as one says today, <em>socialist production.</em> Only by a mode of production of this kind can commodity production be overcome; it is the only possible form of production once commodity production has become impossible.</p>
 ```
 
 :::
@@ -844,7 +848,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But this does not mean that the task now is to bring the dead to life again and to revive the old forms of common ownership and cooperative production. These forms corresponded to particular means of production; they were and are incompatible with more highly developed means of production, which is why they disappear everywhere in the course of economic development before the rising commodity production, and where they still offer resistance to its advance, they form an obstacle to the unfolding of the productive forces. Just as reactionary and hopeless as, say, the guild endeavours would be attempts to overcome commodity production through the preservation and revival of the remnants of the old communism, which have survived particularly in backward peasant communities.</p>
 ```
 
 :::
@@ -864,7 +868,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Socialist production, which has today become necessary through the approaching bankruptcy of commodity production, will and must have a number of basic features in common with the older forms of communist production, insofar as both the one and the other are kinds of the same cooperative production for one's own needs. But likewise capitalist production exhibits similar basic features with handicraft production, insofar as both are commodity production. Just as, nevertheless, capitalist production as a higher stage of commodity production is quite different from the handicraft kind, so the form of cooperative production that has now become necessary will be quite different from its earlier forms.</p>
 ```
 
 :::
@@ -884,7 +888,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The coming socialist mode of production will not tie in with primitive communism, but with capitalist production, which itself develops the elements out of which its successor will form itself. It itself produces, as we shall see in the next chapter, the new human beings whom the new mode of production requires. But it also produces the social organisations which, as soon as the new human beings have taken possession of them, will form the foundations of the new mode of production.</p>
 ```
 
 :::
@@ -904,7 +908,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>What the socialist mode of production requires is, on the one hand, the transformation of the individual capitalist enterprises into cooperative ones. This is prepared by the fact that, as we have seen, the persons of the capitalists become ever more superfluous in the economic mechanism. On the other hand, however, the socialist mode of production demands the <em>combination</em> of all those enterprises which, at the given state of production, are needed to satisfy the essential needs of a society, into a <em>single great cooperative.</em> How economic development is already preparing this today through the increasing union of capitalist enterprises in the hands of a few firms, we have seen in the previous chapter.</p>
 ```
 
 :::
@@ -924,7 +928,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But how large must such a self-sufficient cooperative be? Just as the socialist cooperative is not at all an arbitrary figment of the brain, but a necessary product of economic development, which everyone recognises the more clearly the better he understands the latter, so too the size of this cooperative is not an arbitrary one, but one determined by the respective state of development. The further this advances, the greater the division of labour, the more developed the traffic, the more extensive it will have to become.</p>
 ```
 
 :::
@@ -944,7 +948,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It will soon be two hundred years since a well-meaning Englishman named <em>John Bellers</em> submitted a proposal to the English Parliament (1696) to remove the misery which even then the capitalist mode of production, young as it still was, was spreading. He proposed founding cooperatives which would produce everything they themselves needed, industrial as well as agricultural products. Each cooperative, according to his calculation, required no more than 200 to 300 workers.</p>
 ```
 
 :::
@@ -964,7 +968,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Handicraft was at that time still the predominant form of production in industry. Alongside it prevailed the capitalist manufacture. Of the capitalist factory with machine operation there was as yet no mention.</p>
 ```
 
 :::
@@ -984,7 +988,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A century later the same idea was taken up again, considerably deepened and perfected, by the socialist thinkers. But the beginnings of the factory system had already become perceptible, the handicraft trade was here and there heading towards ruin, the whole of social life had reached a higher stage. The self-sufficient cooperatives which the socialists at the beginning of our century demanded for the elimination of the ills of the capitalist mode of production were already ten times larger than those proposed by Bellers (as, for example, Fourier's phalansteries).</p>
 ```
 
 :::
@@ -1004,7 +1008,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But however grand the economic conditions of Fourier's time were in comparison with those of Bellers' time, a generation later they already appeared petty. In an unstoppable triumphal march the machine revolutionised the whole of economic life. It has made capitalist enterprises ever more extensive, so that individual ones soon embraced whole states in their operation; it has also brought the various enterprises of a country into ever greater dependence upon one another, so that economically they form only <em>one</em> enterprise; it strives ever more to unite the whole economic life of the capitalist nations into a single economic mechanism.</p>
 ```
 
 :::
@@ -1024,7 +1028,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The division of labour proceeds ever further; the individual enterprises devote themselves more and more to producing only particular specialities, but these for the whole world; and the individual enterprises become ever larger; some of them count their workers in the thousands. Then a cooperative which is to cover its own needs and to embrace all the enterprises required for their satisfaction must have a wholly different scale from the phalansteries and socialist colonies of the beginning of our century. Of the social organisations existing today there is only <em>one</em> which possesses the necessary scale to be usable as a framework within which to develop the socialist cooperative, and that is the <em>modern state.</em></p>
 ```
 
 :::
@@ -1044,7 +1048,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Indeed, so enormous is the extent which the production of individual enterprises has already attained, and so intimate is the economic connection between the various capitalist nations, that one might almost doubt whether the framework of the state is even still sufficient to be able to encompass the socialist cooperative.</p>
 ```
 
 :::
@@ -1064,7 +1068,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Meanwhile the following is to be considered. The present extent of international commerce is conditioned less by the existing conditions of production than by the existing conditions of exploitation. The more widespread capitalist production is in a country and the greater the resulting exploitation of the working classes, the greater as a rule is the surplus of products which cannot be consumed in the country itself and must therefore go to export. If the population of a country does not have the money to buy for itself one of the mass products which it produces, then the capitalists of that country strive to export this product, regardless of whether it is indispensable for the population or not. They seek buyers, not consumers. Hence we have so often seen the hideous phenomenon that Ireland at a time of famine exports especially much wheat; the Russian capitalists can now, during the terrible famine in their country, be prevented from exporting grain only by an export ban.</p>
 ```
 
 :::
@@ -1084,7 +1088,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Once exploitation ceases and, in place of production for sale, production for self-consumption takes its place, then the export and likewise the import of products from one state into another will be greatly diminished.</p>
 ```
 
 :::
@@ -1104,7 +1108,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This commerce between the individual states will not, however, be able to disappear entirely. On the one hand the division of labour is so far advanced and the market area which individual giant enterprises need for their products is so extensive; on the other hand, through the development of international commerce, so many needs have been awakened in the modern states which already belong among the necessary ones and which can be covered only through import from other countries – for example, the need for coffee in Europe – that it appears impossible to bring the individual socialist cooperatives, even if they fill the framework of a whole state, to the point of satisfying all their needs through their own production. A certain kind of commodity exchange between the individual cooperatives will therefore have to persist, at least in the beginning. This does not, however, endanger their economic independence and security, if they produce everything <em>necessary</em> themselves and merely exchange the <em>superfluous</em> with one another, roughly as a primitive peasant family did in the beginnings of commodity production.</p>
 ```
 
 :::
@@ -1124,7 +1128,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But for every socialist cooperative to produce for itself everything <em>necessary</em> for its maintenance, it suffices for the time being that it takes on the scale of a modern state.</p>
 ```
 
 :::
@@ -1144,7 +1148,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This scale itself is, however, by no means something unalterable. The modern state, as we have already remarked, is at bottom nothing other than a product and instrument of the capitalist mode of production. It grows with it and, corresponding to its needs, not only in strength but also in extent. The inner market, the market within one's own state, is for the capitalist class of every country the most secure, the most easily to be asserted and the most thoroughly to be exploited. In the same measure in which the capitalist mode of production develops, there grows therefore also the urge of the capitalist class of every state towards an enlargement of its borders. In this sense that statesman was not entirely wrong who maintained that modern wars sprang no longer from <em>dynastic</em> but from <em>national</em> aspirations: only one must understand by national aspirations the aspirations of the capitalist class. By nothing does one injure the vital interest of the capitalists of a nation more strongly than by the diminution of their territory. The five billions the French bourgeoisie would long since have forgiven Germany. The annexation of Alsace-Lorraine it cannot get over.</p>
 ```
 
 :::
@@ -1164,7 +1168,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>All modern states have the need to expand; this comes most conveniently to the United States, which will in fact soon have all of America at its disposal, and to England, which by virtue of its dominion at sea continuously enlarges its dominion in overseas colonies. Russia too has hitherto found it not too difficult at certain points to push forward its borders; now, admittedly, it encounters almost everywhere equal-ranking neighbours: in the Orient China and England, which mediately or immediately seeks to check its further advance in the various states of the East.</p>
 ```
 
 :::
@@ -1184,7 +1188,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Worst off are the states of the European continent, which have just as much need for constant expansion as the others; but they are wedged tightly against one another, and none can expand without shattering one of its equal neighbours. The colonial policy of these states relieves the expansionist need of their capitalist production only inadequately. This is one of the most powerful causes of militarism, that transformation of Europe into an armed camp which threatens to crush the states of our part of the world. Two paths are possible to escape this intolerable condition and to satisfy the expansionist needs of our economic life: a <em>world war,</em> which would destroy some of the existing European states, but exhaust all of them most profoundly; or the union of them into a <em>confederation of states,</em> which could be prepared by a customs union. The latter might perhaps already have become fact, had Germany not made France its irreconcilable enemy by tearing away two provinces. Thanks to this diplomatic masterpiece, the world war has become inevitable, unless revolution or state bankruptcy in one or several of the states of the European continent averts it in time.</p>
 ```
 
 :::
@@ -1204,7 +1208,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Enough; it is certain that every modern state has the tendency to expand in accordance with the course of economic development. In this way it itself ensures that the framework of the coming socialist cooperatives everywhere attains the necessary size. <a href="#ch4-n8" id="ch4-f8" name="ch4-f8">[8]</a></p>
 ```
 
 :::
@@ -1224,14 +1228,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the modern state is not merely the only one of the social organisations existing today that possesses sufficient extent to offer the framework for a socialist cooperative; it is also the only natural basis of the same. To make this more comprehensible, allow us a small digression.<br/> <a id="ch4-t4" name="ch4-t4"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 4. Die wirtschaftliche Bedeutung des Staats
+##### 4. The Economic Significance of the State
+
+<p class="de-subtitle">4. Die wirtschaftliche Bedeutung des Staats</p>
 
 ::: {.parallel-container}
 
@@ -1246,7 +1252,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The individual communities have always had economic tasks to perform. In the case of the primitive communist societies which we find at the threshold of the history of peoples, this is self-evident. When the individual economy of the small-scale enterprises, private property in the means of production and commodity production developed, a number of social functions remained in existence, the performance of which either exceeded the powers of the individual enterprises or which were too important to be left to the discretion of individuals. Besides the care of the growing youth, of the poor, the old and the sick – schooling, poor relief and care of the sick – it was in particular the regulation and promotion of traffic – road building, coinage, market police – and the regulation and safeguarding of important general foundations of production – forest police, regulation of watercourses, etc. – that fell to the individual communities. In medieval society it was especially the mark cooperatives and the various town and village communities developing out of them, as well as the ecclesiastical organisations, upon which these tasks devolved. The medieval state concerned itself very little with these matters.</p>
 ```
 
 :::
@@ -1266,7 +1272,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This changed when this state became the modern state, the state of officials and the military, the instrument of the capitalist class, which alongside the landed nobility entered the ranks of the ruling classes, struggling with it for supremacy, sharing it with it, or even wholly displacing it from its ruling position. Like every state, the modern state too is an instrument of class rule. But it could not fulfil its task and satisfy the needs of the capitalist class without dissolving the economic organisations which it found and which were the strongholds of the pre-capitalist economy, or depriving them of their independence. With this, however, there also arose the necessity that it took over a number of their functions.</p>
 ```
 
 :::
@@ -1286,7 +1292,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But even where the state allowed the medieval organisations to continue in existence, they fell into decay and proved themselves ever more incapable of fulfilling all their functions. These functions themselves became ever more extensive, the more the capitalist mode of production developed; they grew and still grow beyond the capacities of the individual organisations within the state, so that the latter is finally compelled to take over even those of these functions which are precisely not close to its heart. Thus the taking over of the entire poor relief and school system by the state has become an inescapable necessity, to which it has already in part submitted. Coinage fell to it from the outset; forest protection, river regulation and road building come more and more within its province.</p>
 ```
 
 :::
@@ -1306,7 +1312,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>There was a time when the capitalist class, in its self-confidence, believed it could dispense with the economic activity of the state. It should do nothing but guarantee its security within the country and outside it, keep the proletarians and foreign competitors in check, but leave the entire economic life to itself. The capitalist class had its good reasons for wishing this. As great as its power was, the state authority had not always shown itself so ready to serve it as it demanded; at times it had been wholly seized upon by other parts of the ruling classes, above all the landed nobility. And even where the state authority had shown itself benevolent towards the capitalist class, the state officials, who understood absolutely nothing of business life, had often been most disagreeable friends, as clumsy and awkward as that bear which wanted to chase a fly from the forehead of its friend, the hermit, and in doing so smashed his skull in two.</p>
 ```
 
 :::
@@ -1326,7 +1332,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Just as the socialist workers' movement was beginning to develop, this tendency hostile to the interference of the state in economic life came to prevail within the capitalist class, first in England, where it received the name of the <em>Manchester school</em>, which was then also applied to it in Germany. The doctrines of Manchesterism were the first intellectual weapons which the capitalist class brought into the field against the socialist workers' movement – in England as in Germany. No wonder that among the socialist workers the view often took root that the concepts <em>Manchester man</em> and <em>capitalist</em> or friend of the capitalists on the one side, and <em>intervention of the state in economic conditions</em> and <em>socialism</em> on the other side, were synonymous; no wonder, too, that they believed the overcoming of Manchesterism meant the overcoming of capitalism. Nothing less than that. Manchesterism has never been more than a mere doctrine, a theory, which the capitalist class plays off against the workers and also at times against the governments, when it suits it, but from whose consistent implementation it has everywhere carefully guarded itself. And at present the Manchester doctrine has already lost almost all influence on the capitalist class.</p>
 ```
 
 :::
@@ -1346,7 +1352,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The latter has not only lost its self-confidence, which was the necessary precondition of the Manchester doctrine; it has also learned to see that the economic and political development makes the taking over of certain economic tasks by the state unavoidably necessary.</p>
 ```
 
 :::
@@ -1366,7 +1372,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>And these tasks grow from day to day. Not only do those functions which the state has taken over from the organisations mentioned above take on an ever greater extension – one need only recall, for example, the modern canal constructions and river regulations – but there also grow up for it out of the capitalist mode of production functions of which the social organisations of the Middle Ages had no inkling and through which it cuts most deeply into economic life. Whereas the statesmen of earlier centuries had to be predominantly diplomats and jurists, those of today must – or at least should – be predominantly political economists. In the political discussions of our time it is no longer treaties and privileges, no longer charters and precedents, but economic propositions that serve as the decisive arguments. – One need only recall all that falls today within the province of politics: banking policy, colonial policy, tariff policy, railway policy, social policy such as worker protection, worker insurance, poor relief, etc., etc.</p>
 ```
 
 :::
@@ -1386,7 +1392,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But there is still more. The economic development also drives the state, partly in the interest of its self-preservation, partly for the better performance of its functions, or finally for the increase of its revenues, to unite more and more enterprises in its hand.</p>
 ```
 
 :::
@@ -1406,7 +1412,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The holder of the state authority in the Middle Ages drew the greatest part of his power from his, or rather the state's, landed property. In the 16th, 17th and 18th centuries this was often further increased by church and peasant land. On the other hand, the financial distress of the princes led to the sale of crown land to capitalists. But in most countries considerable remnants of it have still been preserved in the state <em>domains</em> and <em>mines.</em> The development of militarism added to this <em>arsenals</em> and <em>shipyards,</em> the development of the transport system <em>postal services, railways, telegraphs,</em> and finally the increase of the state's financial distress <em>monopolies</em> of all kinds.</p>
 ```
 
 :::
@@ -1426,7 +1432,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the beginnings of the capitalist mode of production, when the princes' need for money was great and their incomes small, they already resorted to reserving for themselves the production of various commodities and thus reaping profit through state monopolies. But the state bureaucracy proved ill-suited to the profitable running of an enterprise of commodity production; the development of the taxation system revealed more abundant sources of money. To this was added the dominion of the Manchester doctrines, which also gripped the bourgeois statesmen. It was regarded as a sin to withhold from the capitalists an opportunity for profit-making. Thus the monopoly economy made no progress in the course of our century up until recently; on the contrary, it lost ground.</p>
 ```
 
 :::
@@ -1446,7 +1452,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only in the last two decades has the idea of monopoly become livelier again. The states' need for money grows rapidly, while the popular masses become ever more impoverished, so that the tightening of the tax screw becomes ever more ineffective. On the other hand, the development of the capitalist mode of production has itself led to making the person of the capitalist ever more superfluous; it has itself produced an army of private employees who have taken over and fulfil the tasks of the capitalists; it has itself led to such an organisation of most large-scale capitalist enterprises that they can pass over into impersonal property without further ado.</p>
 ```
 
 :::
@@ -1466,7 +1472,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The preconditions of a profitable monopoly enterprise are therefore much more favourable today than in the last century, and even in the present one up until a few decades ago. In view of this circumstance and of the growing financial distress of the state, it is no wonder that almost everywhere the ideas of monopoly are stirring again and that they have already won many a victory. Already there are monopolies on tobacco, salt, spirits, and matches, and there is no lack of proposals for further nationalisations.</p>
 ```
 
 :::
@@ -1486,14 +1492,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>While in this way the economic functions and the economic power of the state expand ever more, the whole economic mechanism, as we have seen, becomes ever more complicated, ever more sensitive, and the individual capitalist enterprises become ever more dependent on one another. With this there also grows their sensitivity and dependence with respect to the influences of the greatest enterprise of the capitalist class, the state. But with this there also grow the disturbances and disorders in the economic mechanism, to remedy which the greatest of the economic powers existing today, the state, is again called upon by the capitalist class. Thus the task falls ever more, already in present-day society, to the state, of intervening in the economic mechanism in a regulating and ordering manner, and ever more powerful become the means at its disposal for this purpose. The economic omnipotence of the state, which appears to the Manchester men as a socialist utopia, develops before their eyes as the necessary consequence of the capitalist mode of production!<br/> <a id="ch4-t5" name="ch4-t5"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 5. Der Staatssozialismus und die Sozialdemokratie
+##### 5. State Socialism and Social Democracy
+
+<p class="de-subtitle">5. Der Staatssozialismus und die Sozialdemokratie</p>
 
 ::: {.parallel-container}
 
@@ -1508,7 +1516,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The economic activity of the modern state is the natural starting point of that development which leads to the socialist cooperative.</p>
 ```
 
 :::
@@ -1528,7 +1536,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This does not by any means say, however, that every nationalisation of an economic function or of an economic enterprise is a step towards the socialist cooperative, and that the latter could arise out of a general nationalisation of the entire economic apparatus without anything in the essence of the state needing to change.</p>
 ```
 
 :::
@@ -1548,7 +1556,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This view – that of the <em>so-called state socialists</em> – rests upon a misconception of the state. Like every polity, the modern state too is above all an instrument for safeguarding the collective interests of the ruling classes. Nothing in this essence of it is altered if it takes over functions of public benefit, which lie not merely in the interest of the ruling classes alone, but in that of the whole of society. It often takes these functions upon itself only because their neglect would, along with the existence of society, also endanger that of the ruling classes; but in no case does it perform these functions in a manner that contradicts the collective interests of the upper classes or could even threaten their rule.</p>
 ```
 
 :::
@@ -1568,7 +1576,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When the present-day state nationalises certain enterprises and functions, it does so not in order to restrict capitalist exploitation, but in order to protect and consolidate the capitalist mode of production, or – in order itself to take part in this exploitation, thereby to increase its revenues and to reduce the contributions which the capitalist class has to pay towards its maintenance. And as an exploiter the state is even superior to the private capitalist, because, over against the exploited, it has at its disposal, alongside the economic means of power of the capitalist, also the political means of power of the state authority.</p>
 ```
 
 :::
@@ -1588,7 +1596,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>And just as the state has hitherto carried nationalisation no further than corresponded to the interests of the ruling classes, so it will hold to this in future too. As long, therefore, as the <em>propertied</em> classes are also the <em>ruling</em> classes, the nationalisation of enterprises and functions will never go so far that private capital and landed property in general would thereby be harmed, restricted in their power and their opportunities for exploitation.</p>
 ```
 
 :::
@@ -1608,7 +1616,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>Only when the working classes have become the ruling classes in the state will the state cease to be a capitalist enterprise; only then will it become possible to transform it into a socialist cooperative.</em></p>
 ```
 
 :::
@@ -1628,7 +1636,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>From this recognition has sprung the task which Social Democracy has set itself: <em>It wants the working classes to conquer political power, so that with its help they may transform the state into a great economic cooperative, essentially self-sufficient in every respect.</em></p>
 ```
 
 :::
@@ -1648,7 +1656,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is objected against us that we have no definite goals, that we understand only how to criticise, but do not know what is to be set in place of the existing order. Well, we should think that no other party has so definite and clear a goal as Social Democracy. Indeed, have the other parties any goal at all? They all cling to the existing order, although they all recognise that it is untenable and unbearable; their programmes contain nothing but a few little patch-up remedies, by means of which they <em>promise</em> and <em>hope</em> to make the untenable tenable, the unbearable bearable.</p>
 ```
 
 :::
@@ -1668,7 +1676,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Social Democracy, by contrast, builds not upon hopes and promises, but upon the inflexible necessity of economic development. Whoever acknowledges the latter must also acknowledge our goal. Whoever wishes to prove our goal erroneous must demonstrate that our doctrine of economic development is a false one, must demonstrate that there is no progress from small-scale enterprise to large-scale enterprise, that production still takes place today just as it did a hundred and two hundred years ago, that things have always been as they now are. Whoever could demonstrate this would indeed have the right to believe that things must also remain henceforth as they now are. But whoever is not so brain-addled as to believe that social conditions have always been the same cannot reasonably assume, either, that the present conditions will last forever. But can any other party show him what <em>will</em> and <em>must</em> take their place?</p>
 ```
 
 :::
@@ -1688,14 +1696,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>All the other parties live only in the present, from hand to mouth; Social Democracy is the only one that has a tangible goal in the future, that arranges its present action in accordance with this great goal. But the other parties cannot and will not see this goal, for Social Democracy can attain it only by striding over them. And because they cannot and will not see it, because they obstinately stare only into the blue above themselves, they boldly assert that we have no definite goal and that we want, storming off into the blue, to destroy everything existing.<br/> <a id="ch4-t6" name="ch4-t6"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 6. Der Aufbau des Zukunftsstaates
+##### 6. The Construction of the Future State
+
+<p class="de-subtitle">6. Der Aufbau des Zukunftsstaates</p>
 
 ::: {.parallel-container}
 
@@ -1710,7 +1720,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">It cannot be our task to meet all the objections, misunderstandings and distortions that our opponents put forward in order to combat us. To seek to instruct malice and stupidity is in vain. We could write our fingers sore and would still never be finished.</p>
 ```
 
 :::
@@ -1730,7 +1740,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only <em>one</em> objection shall be considered here, because the occasion for it has come from the ranks of socialism itself. It is so important that we must discuss it thoroughly. The removal of this objection will serve to make the standpoint and the goal of Social Democracy stand out still more clearly.</p>
 ```
 
 :::
@@ -1750,7 +1760,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Our opponents declare that the socialist cooperative can be regarded as feasible, and can only then form the goal of the striving of reasonable people, once its plan lies fully worked out before the world, once it has been examined and recognised as useful and feasible. No reasonable person, they say, will begin to build a house before its plan lies ready and has been found good by experts. Least of all, however, would he consent, without such a previously worked-out plan, to tear down his only shelter in order to gain room for this house. We ought therefore to come out with the “future state,” as one likes to call the socialist cooperative or society. If we held back with this, that would be a proof that we ourselves did not really know what we wanted and had no firm confidence in our cause.</p>
 ```
 
 :::
@@ -1770,7 +1780,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>That does indeed sound very plausible, so plausible that not only our opponents, but many among the socialists themselves have asserted the necessity of such a plan. And indeed, one was bound to regard it as the indispensable precondition of the new society, so long as one did not know the laws of social development and believed that social forms could be constructed at will, just like houses. Even today people still like to speak of a social edifice.</p>
 ```
 
 :::
@@ -1790,7 +1800,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is not long ago that people began to reflect at all on the development of society. Formerly economic development proceeded so slowly that it was scarcely perceptible. For centuries, indeed for thousands of years, human beings remained standing at a cultural level once attained. The tools of the peasant in backward regions, for instance in Russia, are today still scarcely different from those which meet us at the threshold of recorded history.</p>
 ```
 
 :::
@@ -1810,7 +1820,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>From the standpoint of the individual, therefore, in earlier times the given mode of production was something unchangeable: his father and grandfather had farmed as he did, and his sons and grandsons would farm the same way. The given social order was held to be unchangeable, ordained by God; whoever touched it was a sacrilegious wretch. However great the changes might be that were brought about in society by wars and class struggles, they apparently touched only its surface. To be sure, effects on the <em>foundations</em> of society also arose from these struggles; but these were imperceptible to the individual observer who lived in the midst of these processes.</p>
 ```
 
 :::
@@ -1830,7 +1840,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Historiography is today still essentially nothing but a more or less faithful compilation of the communications of such observers that have come down to us. It therefore likewise remains stuck at the surface, and although anyone who surveys the millennia of the past can distinctly trace a course of social development, our historians nevertheless notice nothing of it.</p>
 ```
 
 :::
@@ -1850,7 +1860,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only the capitalist mode of production has brought social development into such rapid flux that human beings became conscious of it and began to reflect upon it. Naturally they sought the causes of this development first at the surface, before they went into the depths. But whoever remains stuck at the surface sees only those driving forces which <em>immediately</em> determine the development of society, and these are not the changing conditions of production, but the changing ideas of human beings.</p>
 ```
 
 :::
@@ -1870,7 +1880,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When the capitalist mode of production arose, it produced in the persons dependent upon it—capitalists, proletarians, etc.—new needs which were entirely different from those of the persons who were economically bound up with the remnants of the earlier feudal mode of production, the needs of the large landowners, the guild master craftsmen, and so on. To these different needs there corresponded also different ideas of what was right and wrong, necessary and superfluous, useful and harmful. The more the capitalist mode of production grew and the stronger the classes became that had a share in it, the clearer and more independent became the ideas corresponding to this mode of production, the more widespread and influential in the state, the more decisive for political and social life, until at last the newly arising classes could seize power in the state and in society and shape both in accordance with their ideas and needs.</p>
 ```
 
 :::
@@ -1890,7 +1900,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>What therefore first appeared to the thinkers who wished to investigate the causes of social development as the driving force of this development was the <em>ideas of human beings.</em> They already recognised, up to a certain degree, that these ideas sprang from <em>material needs;</em> but it still remained hidden from them that these needs changed and that their changes sprang from the changes in the economic relations, the relations of production. They assumed that the needs of human beings—“human nature”—were unalterably the same. In their eyes there is therefore also only one single “true,” “natural,” “just” social order, because only one single one can fully correspond to the true nature of man. All other social forms are aberrations which have become possible only because human beings formerly did not recognise what was needful for them, since their reason was clouded—either, as some held, in consequence of the natural stupidity of human beings, or, as others asserted, in consequence of deliberate stupefaction by priests and rulers.</p>
 ```
 
 :::
@@ -1910,7 +1920,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The development of society is, from this standpoint, a consequence of the development of reason, of the development of ideas. The cleverer human beings are, the more skilful in inventing the social forms corresponding to human nature, the more just and better society becomes.</p>
 ```
 
 :::
@@ -1930,7 +1940,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>That was the view of the bourgeois, the liberal thinkers. It still prevails today, as far as their influence reaches. Naturally, the first of the more recent socialists at the beginning of our century also stood under the spell of this view. Like the Liberals, they too believed that the institutions of bourgeois society and of the bourgeois state had arisen out of the mere ideas of the thinkers of the previous century, the economists and the enlighteners. But they saw that the new bourgeois society was by no means so perfect as the philosophers of the eighteenth century had expected. It was therefore not yet the true society; somewhere these thinkers must have made a mistake; it was necessary to discover this mistake and to invent a new form of society that corresponded better to human nature than the existing one. But it was also necessary to work out the plan of the new social edifice more carefully than the Quesnays and Adam Smiths, the Montesquieus and Rousseaus had done, so that unexpected influences might not again upset the calculation. This appeared all the more necessary since the socialists at the beginning of our century did not, like the enlighteners in the course of the previous one, find before them a form of society whose downfall stood at the door, nor a powerful class that would have had an interest in the abolition of this form of society. They could present the new society they were striving for not as something <em>unavoidable,</em> but only as something <em>desirable.</em> They therefore had to bring their social ideal before people quite clearly, in a positively tangible way, so that their mouths would truly water for it and no one would doubt the possibility and agreeableness of such a condition.</p>
 ```
 
 :::
@@ -1950,7 +1960,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In their conception of society our opponents have not advanced beyond the standpoint at which science stood at the beginning of this century; the only kind of socialism they can comprehend is therefore the one just described, that of the utopian socialists, who proceeded from the same foundation as they do. Our opponents regard socialist society like a capitalist enterprise, a joint-stock company that is to be “founded,” and they refuse to subscribe until the founders, Bebel, Liebknecht & Co., have sufficiently demonstrated in a prospectus the feasibility and profitability of the new enterprise.</p>
 ```
 
 :::
@@ -1970,7 +1980,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This view may still have had its justification at the beginning of our century. Today socialist society no longer requires the credit of these gentlemen in order to come to realisation.</p>
 ```
 
 :::
@@ -1990,7 +2000,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Capitalist society has run its course; its dissolution is now only a question of time; the irresistible economic development brings about the bankruptcy of the capitalist mode of production with natural necessity. The formation of a new form of society in place of the existing one is no longer merely something <em>desirable,</em> it has become something <em>unavoidable.</em></p>
 ```
 
 :::
@@ -2010,7 +2020,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>And ever more numerous and ever more powerful grow the ranks of the propertyless workers, for whom the existing mode of production has become unbearable, who at its overthrow have nothing to lose and everything to gain, who <em>must</em> bring about a new form of society corresponding to their interests if they are not to be utterly ruined – and with them the whole of society, of which they constitute the most important component.</p>
 ```
 
 :::
@@ -2030,7 +2040,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>All this is no fantasy; all this the thinkers of Social Democracy have <em>proved</em> from the manifest <em>facts</em> of the present mode of production. These facts speak a more conclusive and more compelling language than the most ingenious and most carefully elaborated pictures of a future state. Such pictures can at best show that socialist society is not impossible; but they can never exhaust social life in its totality and must always present gaps through which the opponent can penetrate. What, on the other hand, has been shown to be <em>unavoidable,</em> is shown not only to be <em>possible,</em> but also to be the <em>only possibility.</em> Were socialist society impossible, then every further economic development whatsoever would be cut off. Present-day society would then have to rot away, just as that of the Roman world empire did nearly two thousand years ago, in order finally to fall back into barbarism.</p>
 ```
 
 :::
@@ -2050,7 +2060,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>A persistence in capitalist civilisation is impossible; it means either forward to socialism or backward into barbarism.</em></p>
 ```
 
 :::
@@ -2070,7 +2080,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In view of this state of affairs it is highly unnecessary to seek to move our opponents by an alluring prospectus to grant us their credit. He to whom the tangible facts of the present mode of production do not proclaim loudly enough the necessity of socialist society will remain all the more deaf to the praises of a condition that does not yet exist, which he can neither grasp nor comprehend.</p>
 ```
 
 :::
@@ -2090,7 +2100,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the drawing up of a plan of how the “future state” is to be organised has today not only become purposeless, it is also no longer at all compatible with the present standpoint of science. In the course of this century not only has a great economic upheaval taken place, but also a great upheaval in people's minds. Insight into the causes of social progress has grown enormously. Already in the forties of this century Marx and Engels showed us, and from then on every further advance in social science has confirmed it, that in the final analysis the history of mankind is determined not by the ideas of human beings, but by economic development, which advances irresistibly, according to definite laws, not according to the wishes and whims of human beings. We have seen in the preceding chapters how it proceeds, how it creates new forms of production, which bring with them the necessity of new forms of society; how it produces new needs, which compel human beings to reflect on their social conditions and to devise means of adapting society to the new conditions of production. For this adaptation does not take place of itself; it requires the mediation of the thinking human head, of ideas. Without thinking, without ideas, there is no progress. But the ideas are merely the mediators of social progress; the first impulse to it does not proceed from them, as was formerly believed and as many still believe today, but from the change in economic conditions.</p>
 ```
 
 :::
@@ -2110,7 +2120,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is accordingly also not the thinkers, the philosophers, who determine the direction of social progress; this is given by economic development. The thinkers can <em>recognise</em> this direction, and indeed all the more sharply the deeper their insight into the development hitherto; but they cannot <em>trace it out</em> at will.</p>
 ```
 
 :::
@@ -2130,7 +2140,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But even the recognition of the direction of historical progress has its limits. For the mechanism of human society is an extraordinarily complicated one, and for the sharpest thinker it is impossible to investigate all its aspects so thoroughly, to measure so precisely all the forces that operate within it, that he could foresee with certainty which social forms will result from the combined and reciprocal action of these forces.</p>
 ```
 
 :::
@@ -2150,7 +2160,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A new form of society does not come about in such a way that a few particularly clever minds draw up a plan of how it might best be arranged, then gradually convince the others of the usefulness of this plan, and, once they have gained the necessary means of power, now set about building and arranging the social edifice nice and comfortably according to this plan.</p>
 ```
 
 :::
@@ -2170,7 +2180,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A new form of society has hitherto always been the result of long, changeful struggles. The exploited classes struggled against the exploiting ones; the declining, reactionary classes struggled against the rising, revolutionary ones. In these struggles the various classes combine with one another in the most diverse ways in order to combat other classes opposing them: the camp of the exploited at times united revolutionaries and reactionaries; the camp of the revolutionaries at times united exploiters and exploited. Within the individual classes themselves there are often various tendencies, according to the differences in insight, temperament, and the position in life of individuals and of whole strata. The power of each individual class, finally, was always something highly variable; it rose or fell according as its insight into the actual conditions, the cohesion and extent of its organisations, and its importance within the economic machinery increased or diminished.</p>
 ```
 
 :::
@@ -2190,7 +2200,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the changeful struggles of these classes the old social forms, which had become untenable, gradually disintegrated and were supplanted by new ones. What was set in the place of the old was not always at once the right thing: that would presuppose that the revolutionary classes had been in possession of sole rule and of the highest social insight. Where and so long as this was not the case, mistakes always had to be made; often the new proved wholly or partly almost as untenable as the old that had been overcome. But the more strongly the economic development pressed forward, the clearer became that which it demanded, and the greater the power of the revolutionary classes to carry through what was necessary. Those institutions of the revolutionary classes which stood in contradiction to the commands of the economic development decayed and soon fell into oblivion; those of their institutions, on the other hand, which had been necessary took root quickly and could not again be extirpated by the adherents of the old order.</p>
 ```
 
 :::
@@ -2210,7 +2220,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In this way every new social order has hitherto come into being; so-called revolutionary times differed from other times of social development only in that these processes then played themselves out much more rapidly and violently than usual.</p>
 ```
 
 :::
@@ -2230,7 +2240,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>One sees that social forms come about in a different way than buildings. Plans prepared in advance do not come into play in the construction of the former. Today, in the face of this recognition, still to draw up “positive proposals” for the construction of the state of the future is about as useful and profound as, say, to write in advance a history of the next war.</p>
 ```
 
 :::
@@ -2250,7 +2260,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The course of development is by no means independent of the individual personalities. Everyone who acts within society influences it more or less. Individual persons who stand out particularly through their talent or their social position can influence the course of things for whole states for decades; some by promoting progress, in that they open up new insights into the social interconnections or make these accessible to the masses, or in that they organise the revolutionary classes, concentrate their strength, and bring about its appropriate application; others by paralysing progress, in that they assert themselves in the opposite direction. The former work to accelerate the development, to lessen the sufferings and sacrifices it causes; the latter work to hinder it, to increase the sufferings and sacrifices it brings with it. But what none can do, neither the mightiest monarch nor the profoundest thinker, is to determine the <em>direction of the development</em> according to his will and to predict exactly the <em>forms</em> it will assume.</p>
 ```
 
 :::
@@ -2270,7 +2280,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>There is accordingly nothing more ridiculous than to demand of us that we should give a picture of the “state of the future” to which we aspire. So ridiculous is this demand, which has never yet been made of any other party, that it would be useless to waste so many words on it, if this ridiculous demand did not constitute the most serious objection that our opponents raise against us today. The other objections are ridiculous by a good deal more.</p>
 ```
 
 :::
@@ -2290,7 +2300,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It has never yet occurred in world history that a revolutionary party could so much as foresee, let alone arbitrarily determine, <em>what forms</em> the new society to which it aspired would assume. For the cause of progress much was already gained if it succeeded in recognising the <em>tendencies</em> which led towards this society, so that its political activity was a <em>conscious</em> one, not a merely <em>instinctive</em> one. More cannot be demanded of Social Democracy either.</p>
 ```
 
 :::
@@ -2310,7 +2320,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>But there has never yet been a party which had researched the social tendencies of its time so deeply and grasped them so precisely as Social Democracy.</em></p>
 ```
 
 :::
@@ -2330,7 +2340,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This is not its merit, but its good fortune. It has this to thank for the fact that it stands on the shoulders of bourgeois economics, which undertook the first scientific investigation of social interconnections and conditions, and to which it is to be ascribed that the revolutionary classes which overthrew the feudal mode of production possessed a much clearer consciousness of their social tasks, suffered from far fewer self-deceptions, than any revolutionary class before them. But the thinkers of Social Democracy have carried the investigation of the social interconnections still further; they have penetrated much more deeply than any of the bourgeois economists before them. <strong>Capital</strong> by <em>Marx</em> has, by common acknowledgement, become the pivotal point of present-day economic science, and as high as it stands above the works of Quesnay, Adam Smith, and Ricardo, just so high stands the insight and consciousness of aim of Social Democracy above the insight and consciousness of aim of the revolutionary classes at the end of the previous and the beginning of this century. If Social Democracy refuses to lay before the esteemed public a prospectus of the state of the future for their kind inspection, then the bourgeois writers have no cause whatever to mock at this and to conclude from it that we do not know what we want. Social Democracy sees more clearly into the future than the pioneers of the present social order, the economists and enlighteners, could see in their time.</p>
 ```
 
 :::
@@ -2350,7 +2360,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We have said that a thinker may well recognise the <em>tendencies</em> of the economic development of his time, but that he cannot possibly foresee the <em>forms</em> in which they will come to expression. The correctness of this proposition is proved by a glance at the existing conditions. The tendencies of the capitalist mode of production are the same in all countries in which it prevails; and yet how different are the political and social forms of the various capitalist countries, how entirely other in England than in France, other in France than in Germany, and again wholly different from these in America! The historical tendencies of the labour movement produced by the existing mode of production are also everywhere the same, but the forms which this movement assumes are of a particular character in each country.</p>
 ```
 
 :::
@@ -2390,7 +2400,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When we reject the demand for the drawing up of a plan of the "state of the future" and of the transitional measures leading to it, this is not to say that we consider all reflection whatsoever upon socialist society to be useless or even harmful. That would be to throw out the baby with the bathwater. It is only useless and harmful to make specific positive <em>proposals</em> for the initiation and organisation of socialist society. <em>Proposals</em> for the definite shaping of social conditions can be made only for domains which one wholly surveys and commands in time and space. The Social Democracy can therefore make <em>positive proposals</em> only for present-day society, not for the coming one. Proposals that go beyond this can reckon, instead of with <em>facts,</em> only with imagined <em>presuppositions,</em> and are therefore fantasies, dreams, which in the best case remain without effect. If their originator is gifted and energetic enough to help them to some effect upon minds, then that effect can consist only in leading astray and in the squandering of energy.</p>
 ```
 
 :::
@@ -2410,7 +2420,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Not to be confused with these dreams, which are to be decidedly combated, are, on the other hand, the attempts to investigate what direction the tendencies of economic development might take once it has been placed from the capitalist onto the socialist foundation. Here it is not a matter of inventing "recipes for the cook-shops of the future," but of the scientific working-up of results which the investigation of definite facts has brought to light. Investigations of this kind are by no means useless, for the more clearly we see into the future, the more purposefully we shall apply our energies in the present. The most eminent thinkers of the Social Democracy have undertaken such investigations. In the works of Marx and Engels numerous results of such inquiries are scattered. Bebel has given us a comprehensive presentation of his investigations in this regard in his book <strong>Woman and Socialism.</strong></p>
 ```
 
 :::
@@ -2430,7 +2440,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A similar work has probably been carried out quietly for himself by every thinking socialist, for everyone who has set himself a great goal feels the need to gain clarity about the circumstances under which it might be attained. According to the diversity of economic insight, of life-situation, of temperament, of imagination, of acquaintance with other, non-capitalist, especially communist, social forms, the most manifold views have here been formed and expressed. These differences and contradictions do not in the least disturb the cohesion and unity of the Social Democracy. However different the <em>aspect</em> may be which our goal presents to different eyes, provided only the <em>direction</em> is the same in which they see it – the same and the correct one, that is what matters.</p>
 ```
 
 :::
@@ -2450,7 +2460,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We could close this chapter here, for the various views within the Social Democracy about the "state of the future" have nothing to do with the question of <em>what the Social Democrats want.</em> What we want is the transformation of the state into a self-sufficient economic cooperative. On this there is no difference of opinion within the Social Democracy. To reflect on how this cooperative will develop and what tendencies it will engender is by no means superfluous; but what comes of such reflection is the private affair of each individual, is not a party affair and need not be one, because party activity is not directly influenced by it.</p>
 ```
 
 :::
@@ -2470,14 +2480,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Meanwhile, partly handed down from the time of utopian socialism, partly invented by ignorant or ill-willed literary men, so numerous erroneous views about the manner in which the Social Democrats want to arrange their "state of the future" are current, that it would look like an evasion if we did not at least touch upon a few of them here, although for every thinking person it should have become sufficiently clear from the foregoing discussions what is to be made of the "state of the future." We shall accordingly show by a few examples how the tendencies of economic development might shape themselves in a socialist commonwealth.<br/> <a id="ch4-t7" name="ch4-t7"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 7. Die „Abschaffung der Familie“
+##### 7. The "Abolition of the Family"
+
+<p class="de-subtitle">7. Die „Abschaffung der Familie“</p>
 
 ::: {.parallel-container}
 
@@ -2492,7 +2504,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">One of the most widespread prejudices against social democracy consists in the view that it wants to abolish the family. We have already touched upon this in the second chapter (pp. 46 ff.) and can therefore be brief.</p>
 ```
 
 :::
@@ -2512,7 +2524,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>No one in the party thinks of the "abolition" of the family, of its legal repeal and violent dissolution. Only the crassest falsification can impute this intention to it, and only a fool can imagine that a family form could be created or eliminated by decrees.</p>
 ```
 
 :::
@@ -2532,7 +2544,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The present-day family in no way contradicts the essence of cooperative production. The realisation of the socialist society therefore in itself in no way requires the dissolution of the existing family form.</p>
 ```
 
 :::
@@ -2552,7 +2564,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>What leads to this dissolution is not the essence of cooperative production, but economic development. We have already seen in the chapter mentioned above in what manner the family is dissolved <em>nowadays</em>. Man, wife and child are torn apart, celibacy and prostitution are made into mass phenomena.</p>
 ```
 
 :::
@@ -2572,7 +2584,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The socialist society does not hinder economic development; on the contrary, it will give it a new impetus. This development will therefore continue, as before, to transform one of the labours of the household after another into labours of special industrial enterprises, to turn the woman from a worker in the individual household into a worker in the large-scale enterprise. But this transition will for the woman no longer mean the transition from domestic slavery into wage slavery; it will no longer cast her out of the protecting barriers of the family into the most defenceless and unprotected strata of the proletariat. Through her labour in the cooperative large-scale enterprise the woman will be placed economically on equal footing with the man and will attain the same share in the cooperative as he; she will be his free comrade, liberated (emancipated) not merely from the bondage of the house, but also from that of capital. Freely disposing of herself, equal to the man, she will put an end to every kind of prostitution, the lawful as well as the unlawful, and for the first time in world history raise monogamy, applying equally to man and woman, into an institution that really exists, not merely according to the letter.</p>
 ```
 
 :::
@@ -2592,7 +2604,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>These are not utopian proposals, but scientific convictions, grounded in definite facts. Whoever wants to refute them must prove that these presuppositions do not exist. Since this has not so far succeeded, there of course remains to the gentlemen and ladies who want to know nothing of this development no other "refutation" than to become morally indignant and to place their morality in the most favourable light through lies and falsifications. With this, however, they will not hold back the inevitable development by a single minute.</p>
 ```
 
 :::
@@ -2612,7 +2624,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It stands firm that it is not through social democracy or the essence of socialist production that the dissolution of the traditional family form is brought about, but through the economic development that has been proceeding before our eyes for decades already. The socialist society will not and cannot hold it back, but it will remove from the consequences of the development all those tormenting and degrading aspects that necessarily accompany it in the capitalist society. And while the latter leads to the dissolution of every family bond, of every ordered marriage, in the socialist society the dissolution of the present-day family form takes place only to the extent that it is displaced by a higher one.</p>
 ```
 
 :::
@@ -2632,14 +2644,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>That is the truth about social democracy striving for the abolition of marriage and the family.<br/> <a id="ch4-t8" name="ch4-t8"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 8. Die Konfiskation des Eigentums
+##### 8. The Confiscation of Property
+
+<p class="de-subtitle">8. Die Konfiskation des Eigentums</p>
 
 ::: {.parallel-container}
 
@@ -2654,7 +2668,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">Our opponents, who know better than we ourselves what we want and who are able to depict the “state of the future” with greater precision than we can, have furthermore discovered that Social Democracy will be unable to inaugurate its rule in any way other than through the expropriation (dispossession) of artisans and peasants, from whom everything is to be confiscated (taken without compensation) — not merely house and farm, but also the dispensable movables and — the savings-bank deposits. Alongside the alleged violent tearing apart of all family ties, this is one of the chief trump cards played against us.</p>
 ```
 
 :::
@@ -2674,7 +2688,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To this it must be remarked that the essence of a socialist society in no way requires such a confiscation.</p>
 ```
 
 :::
@@ -2694,7 +2708,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The Social Democratic programme says nothing about confiscation. Not out of timidity, so as not to give offence, but simply because nothing definite can be said about it. One can state with certainty only that the tendency of economic development makes it necessary that the <em>large-scale enterprises</em> pass into social property and be operated on behalf of society. In what manner this transition takes place, whether the inevitable expropriation becomes a confiscation or a redemption, whether it proceeds peacefully or by force — these are questions to which no one can give an answer. Nor does an appeal to the past help much here. The transition can take place in the most varied manner, just as the abolition of feudal burdens took place in the most varied manner in the different countries. The manner of the transition depends on the general situation in which it takes place, on the strength and insight of each of the classes that come into consideration, and so forth — all circumstances that cannot be calculated in advance. In historical development the unexpected plays the greatest role.</p>
 ```
 
 :::
@@ -2714,7 +2728,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is quite self-evident that the Social Democrats wish that the expropriation of the large-scale enterprises, which has become inevitable, should proceed as painlessly as possible, peacefully and with universal consent. But historical development is determined just as little by our wishes as by those of our opponents.</p>
 ```
 
 :::
@@ -2734,7 +2748,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In no case can it be said that the implementation of the Social Democratic programme demands under all circumstances that the property whose expropriation has become necessary be confiscated.</p>
 ```
 
 :::
@@ -2754,7 +2768,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>What can be said with certainty, however, is that economic development makes necessary only the expropriation of a part of the existing property. What it demands is cooperative property in the <em>means of production;</em> the private property in the means of <em>personal consumption</em> is in no way affected thereby. This applies not merely to foodstuffs, furniture, and so on. Let us recall what was said in the previous chapter about the savings banks. They are a means of placing the possessions of the non-capitalist classes at the disposal of the capitalists. Each of the small savings deposits is by itself too insignificant to run a capitalist enterprise. Only through their combination are they capable of fulfilling the functions of a capital. To the extent that the capitalist enterprises pass into the property of society, the possibility of investing the savings-bank deposits at interest will diminish. They will cease to be capital and will become mere <em>uninterest-bearing hoard,</em> consumption funds. But that is surely something quite different from the <em>confiscation</em> of the savings deposits.</p>
 ```
 
 :::
@@ -2774,7 +2788,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But such a confiscation is not only unnecessary for <em>economic</em> reasons, it is also quite improbable for <em>political</em> reasons. For the small savings deposits derive for the most part from the exploited classes, those whose strength alone can introduce socialism into society. Only one who holds these classes to be absolutely incapable of judgement will believe that, in order to get the means of production into their hands, they would begin by robbing themselves of their own nest eggs!</p>
 ```
 
 :::
@@ -2794,7 +2808,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the transition to socialist production not only does not require the expropriation of the means of consumption, it also does not require the expropriation of all owners of <em>means of production.</em></p>
 ```
 
 :::
@@ -2814,7 +2828,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is the <em>large-scale enterprise</em> that makes socialist society necessary. Cooperative production also requires cooperative property in the means of production. But just as private property in the means of production stands in contradiction to cooperative labour in the large-scale enterprise, so cooperative or social property in the means of production is in contradiction to the small-scale enterprise.</p>
 ```
 
 :::
@@ -2834,7 +2848,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The latter requires, as we have seen, private property in the means of production. The abolition of that property for the small-scale enterprises would be all the more pointless, since the very tendency of socialism is to place the workers in possession of the necessary means of production. For the small-scale enterprises the expropriation of the means of production would therefore amount to taking them from their present owners in order to give them back to them — a senseless procedure.</p>
 ```
 
 :::
@@ -2854,7 +2868,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>The transition to socialist society therefore in no way requires the expropriation of the small artisans and small peasants.</em> This transition will not only take nothing from them, it may rather bring them certain advantages. For since socialist society brings with it the tendency to replace commodity production with production for direct consumption, as we have seen, it must also strive to transform all payments to society, the taxes or the possible interest on the mortgages that have passed into social property — insofar as these are not abolished altogether — from <em>money payments</em> into payments in <em>kind</em> — grain, wine, cattle, and so on. But this means an enormous relief for the peasants. They already strive for it in many places today. But it is impossible under the rule of commodity production. Only socialist society can bring it and thereby remove a chief cause of the ruin of the peasant economy.</p>
 ```
 
 :::
@@ -2874,7 +2888,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is the <em>capitalists</em> who in fact expropriate peasants and artisans, as we have seen. <em>Socialist society puts an end to this expropriation.</em></p>
 ```
 
 :::
@@ -2894,7 +2908,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To be sure, <em>economic development</em> is not halted by socialism. On the contrary, socialism is the only means of making its continuation beyond a certain measure possible. As in present-day society, so too in the socialist one the large-scale enterprise will develop more and more and absorb the small-scale enterprises more and more. But here too what was said of the family and marriage applies. The direction of development remains the same, but socialism removes all the hideous and painful phenomena by which, in present-day society, the course of development is accompanied, while it lets its advantages benefit all.</p>
 ```
 
 :::
@@ -2914,7 +2928,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Today the transformation of the peasant or artisan from a worker in a small-scale enterprise into a worker in a large-scale enterprise means his transformation from a <em>property-holder</em> into a <em>proletarian.</em> In a socialist society, on the other hand, the peasant or artisan who passes over to work in a cooperative large-scale enterprise becomes a participant in all the advantages of the large-scale enterprise; his position improves considerably; his transition from the small-scale enterprise to the large-scale enterprise is no longer to be compared with the transformation of a property-holder into a proletarian, but rather with that of one who possesses little into one who possesses much.</p>
 ```
 
 :::
@@ -2934,7 +2948,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>The small-scale enterprise is irretrievably doomed to destruction. But only social democracy makes it possible for the peasants and artisans in their entirety to become workers of the large-scale enterprise without sinking into the proletariat.</em> Only in a socialist society does the dissolution of peasant agriculture and of the handicraft, which has become unavoidable, signify an improvement in the situation of the peasants and artisans.</p>
 ```
 
 :::
@@ -2954,7 +2968,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The driving force of economic development will no longer be <em>competition,</em> which eliminates the backward enterprises and expropriates their owners, but rather the <em>attractive power</em> which the more highly developed enterprises and forms of enterprise exert upon the workers of the backward enterprises and forms of enterprise.</p>
 ```
 
 :::
@@ -2974,7 +2988,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This kind of development is not only painless, it also proceeds much more rapidly than that brought about by competition. Today, when the introduction of new, higher forms of enterprise cannot take place without the expropriation of owners of backward enterprises, without the privations and sufferings of great masses of workers who become superfluous, every economic advance meets with stubborn resistance. We have seen how tenaciously the producers in many cases still cling to the most outlived forms of production, how desperately they hold fast to them so long as there is but a breath of strength in them. Never has a mode of production been so revolutionary as the present one, never has a mode of production within a single century caused such gigantic upheavals in all fields of human activity, and yet how many ruins of obsolete, outlived forms of production have still survived!</p>
 ```
 
 :::
@@ -2994,7 +3008,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>As soon as the fear of being hurled into the proletariat through the giving up of an independent enterprise disappears, as soon as the advantages of the social large-scale enterprise make themselves felt for all those involved in the most diverse fields, as soon as everyone is offered the possibility of sharing in the enjoyment of these advantages, only fools will still strive to preserve obsolete forms of enterprise.</p>
 ```
 
 :::
@@ -3014,7 +3028,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>What capitalist large-scale industry has not managed to accomplish in a century, the socialist large-scale enterprise will achieve within a short time: the absorption of the backward small-scale enterprises. It will achieve this without expropriation, through the attractive power of the more advantageous enterprise.</p>
 ```
 
 :::
@@ -3034,7 +3048,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Where peasant production is not yet commodity production but predominantly production for one's own use, peasant agriculture may perhaps continue to exist for some time in socialist society. Ultimately, even in these circles people will learn to understand the advantages of the social large-scale enterprise.</p>
 ```
 
 :::
@@ -3054,14 +3068,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The transition from the small-scale enterprise to the large-scale enterprise in agriculture will be accelerated and facilitated by the progressive abolition of the opposition between town and country, by the tendency towards the transfer of industry to the open countryside, which must necessarily be characteristic of socialist society. We must unfortunately content ourselves here with this indication, since a more detailed exposition would lead too far afield.<br/> <a id="ch4-t9" name="ch4-t9"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 9. Die Verteilung der Produkte im „Zukunftsstaat“
+##### 9. The Distribution of Products in the 'State of the Future'
+
+<p class="de-subtitle">9. Die Verteilung der Produkte im „Zukunftsstaat“</p>
 
 ::: {.parallel-container}
 
@@ -3076,7 +3092,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">We wish to consider only <em>one</em> further point regarding the 'state of the future', the one that appears to be the most important of all. The first question that outsiders address to a socialist is generally this: 'How will you carry out the division of your wealth? Shall each receive an equal amount and each the same?'</p>
 ```
 
 :::
@@ -3096,7 +3112,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Division! This is what sticks in the philistine's bones. In division his entire conception of socialism is exhausted.</p>
 ```
 
 :::
@@ -3116,7 +3132,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is not long ago that in Germany even the most educated people assumed that the communists wanted to distribute all the riches present in the nation among the people.</p>
 ```
 
 :::
@@ -3136,7 +3152,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>That this notion could persist so stubbornly despite all protests on the part of Social Democracy is probably not to be blamed on the malice of our opponents alone, but rather, and perhaps to the greater part, on their inability to understand the conditions created by the development of large-scale industry. Their intellectual horizon still in many respects does not extend beyond the conceptions that correspond to small-scale enterprise. From the standpoint of small-scale enterprise, however, division is the only possible form of a kind of socialism. Division indeed lies very close to the petty bourgeois and the peasant. Since the emergence of commodity production in antiquity, it has occurred countless times, whenever a few families – merchants or landowners – had accumulated great riches and brought artisans or peasants into dependence and distress, that the latter sought to help themselves by driving out the rich and distributing their property. Only a hundred years ago, in the French Revolution, which so sharply emphasised the right of private property, artisans and peasants carried out division – for example, of the church estates. <em>Division, that is the socialism of small-scale enterprise, the socialism of the 'conservative', 'state-preserving' strata of the people, not the socialism of the large-industrial proletariat.</em></p>
 ```
 
 :::
@@ -3156,7 +3172,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It has taken a long time, but in the end it has after all succeeded in hammering into even the thinker-skulls of the German nation the recognition that the Social Democrats do not want to <em>divide</em>, but rather strive for the opposite of this, the <em>combination</em> of the means of production hitherto distributed among several owners into the hands of society.</p>
 ```
 
 :::
@@ -3176,7 +3192,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But with this the question of division is not disposed of. If the means of production belong to society, then naturally the disposal over the products created with the help of these means of production also falls to it. In what manner will it distribute these among its members? By the measure of equality or according to the measure of the labour performed by each? And will, in the latter case, every kind of labour receive the same remuneration, regardless of whether it is pleasant or unpleasant, difficult or easy, whether it requires prior knowledge or not?</p>
 ```
 
 :::
@@ -3196,7 +3212,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The answering of this question seems to be the crux of socialism. Not only do our opponents ride on it most eagerly; the earlier socialists themselves devoted the greatest attention to the question of the distribution of products. From Fourier to Weitling and from the latter to Bellamy there runs a series of the most manifold attempts at a solution, which often bear witness to admirable acuteness. There is no lack of 'positive proposals'; many of them are as simple as they are practical.</p>
 ```
 
 :::
@@ -3216,7 +3232,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The question, however, by no means has the importance that is so often ascribed to it.</p>
 ```
 
 :::
@@ -3236,7 +3252,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Formerly people were accustomed to regard the distribution of products as something quite independent of production. And since the contradictions and grievances of the capitalist mode of production came to light first of all in the manner peculiar to it of distributing products, it was quite natural that the exploited and their friends saw in the 'unjust' distribution of products the root of all evil.</p>
 ```
 
 :::
@@ -3256,7 +3272,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Naturally they assumed, in accordance with the views that prevailed at the beginning of our century, that this distribution was a consequence of the prevailing <em>ideas</em>, of the conceptions of law. In order to eliminate the unjust distribution, it was therefore a matter of devising a better and more just one and of convincing the world of its advantages. The just distribution could be none other than the opposite of the existing one. Today the crassest <em>inequality</em> prevails; the principle of distribution, according to some, should therefore be <em>equality</em>. Today the idler sits in riches, the worker suffers want, and therefore others called out: <em>To each according to his achievements</em> (or in more recent form: <em>To each the yield of his labour</em>). But against the one formula as against the other objections were raised, and so a third arose: <em>To each according to his needs.</em></p>
 ```
 
 :::
@@ -3276,7 +3292,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Since then the socialists have come to recognise that the distribution of products in a society is determined not by the conceptions of law and forms of law prevailing within it, but by the mode of production prevailing within it. The share of landowners, capitalists and wage labourers in the total product in present-day society is determined by the role that land and soil, the objects of capital ownership, and labour-power play in the present-day mode of production. In a socialist society, to be sure, the distribution of products will not be carried out according to blindly operating laws which assert themselves without properly coming to the consciousness of those involved. Just as today in a large industrial enterprise production and wage payment are well-considered and ordered according to a plan, so this too will have to be the case in a socialist society, which is nothing but a single gigantic industrial enterprise. The rules according to which the distribution of products is carried out will be established by those involved themselves. But it will not lie in their discretion which rules they wish to establish; these will not be able to be devised arbitrarily for the sake of this or that 'principle', but will be determined by the actual conditions which prevail in society, above all by the conditions of <em>production</em>.</p>
 ```
 
 :::
@@ -3296,7 +3312,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Thus, for example, the respective level of the productivity of labour will be of the greatest influence on the manner of distributing the product of labour. One can imagine that the application of science in industry will one day yield so high a productivity of labour that people possess everything they need in abundance; then the formula: 'To each according to his needs' would come to be carried out without difficulty, almost of itself. On the other hand, the deepest conviction of the justice of this formula would not be able to bring about its implementation if the productivity of labour remained so slight that one does not produce, without excessive expenditure of labour, more than one just needs.</p>
 ```
 
 :::
@@ -3316,7 +3332,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The formula: 'To each the yield of his labour' will in any case founder on the needs of production. For if this formula is to have any sense, then it presupposes that the entire respective product of social labour is distributed to the members of the socialist commonwealth. This view, just like that of the great division with which the reign of socialism is supposedly to be inaugurated, moves within the circle of ideas of present-day private property. To distribute all products year in, year out would mean gradually restoring private property in the means of production.</p>
 ```
 
 :::
@@ -3336,7 +3352,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The nature of socialist production necessarily entails that only a <em>fraction</em> of the products manufactured at any given time comes up for distribution. All those products which are destined for the continuation and expansion of <em>production</em> (as well as for covering any deficits) naturally do not come up for distribution. Nor do those products which serve <em>common consumption,</em> that is, the establishment, maintenance, or expansion of public institutions for education, instruction, healing, recreation, amusement, and the like.</p>
 ```
 
 :::
@@ -3356,7 +3372,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The number and extent of such institutions is already steadily growing in present-day society; in these fields too the large-scale enterprise increasingly pushes back the small-scale enterprise – here in particular the family. In a socialist society this development will naturally not be checked, but rather promoted.</p>
 ```
 
 :::
@@ -3376,7 +3392,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The number of products that can pass into private consumption, into private property, will therefore be much smaller in a socialist society <em>in relation to the quantity of the total product</em> than in present-day society, where almost all products are commodities, private property. It is not, as nowadays, almost the entire product that comes up for distribution, but only a remainder.</p>
 ```
 
 :::
@@ -3396,7 +3412,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But even over this remainder the socialist society will not be able to dispose entirely at will; in its distribution too the needs of the continuation of production will be decisive. And since production will be in a state of constant transformation and development, for this reason alone the forms and kinds of distribution of products in a socialist society will be subject to manifold changes.</p>
 ```
 
 :::
@@ -3416,7 +3432,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is entirely utopian thinking to suppose that the task is to devise a particular system of distribution which is then to be authoritative for all eternity. In this field too, as in all others, the socialist society will make no leap, but will build upon what it finds already in existence. The distribution of goods in a socialist society will, for the foreseeable future, probably proceed only in forms which represent a further development of the <em>wage forms</em> existing today. From these it will have to set out. And just as the forms of wages vary not only over time but also simultaneously for different branches of labour and in different regions, so it is by no means excluded that in a socialist society, according to the various historical traditions and the habits that persist in the population, and according to the changing needs of production, the most manifold forms of distribution of products will occur side by side. One must picture a socialist society neither as something rigid nor as something uniform, but as something caught up in the full flow of development and endowed with that wealth of changing forms which follows with natural necessity from the increase of the division of labour, of world commerce, and of the rule of science and art in society.</p>
 ```
 
 :::
@@ -3436,7 +3452,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Besides “sharing out,” it is “equality” that causes our opponents the greatest headaches. “The Social Democrats,” they say, “want everyone to receive an equal share of the total product. Thus the diligent worker is to receive just as much as the lazy one; heavy and unpleasant work is to be rewarded just as well as light and pleasant work; the simple manual task just as well as the most artistic creation that requires years of preparation, and so forth. Naturally, under these circumstances everyone will work as little as possible, no one will perform the difficult and unpleasant work, no one will want to learn anything more, and the end result will be the complete disruption of society, barbarism. From this one clearly perceives the impracticability of the Social Democratic aspirations.”</p>
 ```
 
 :::
@@ -3456,7 +3472,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>How nonsensical this assertion is scarcely needs to be discussed in detail after what has been said. We are not so far-sighted as our opponents, and can therefore by no means declare with the same certainty as they whether the “state of the future” will decree the full equality of all incomes or not. But should it ever occur to a socialist society to issue such a regulation, and should this regulation really begin to draw after it the appalling consequences so clearly seen by our opponents, then the natural consequence would be that not socialist production but – the principle of equality would be thrown overboard.</p>
 ```
 
 :::
@@ -3476,7 +3492,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Our opponents would have a right to infer the impracticability of socialist society from the equality of incomes only if they succeeded in proving, first, that this equality is under all circumstances incompatible with the progress of production. This proof they have not so far furnished, and never will be able to furnish, since the activity of the individual in production depends not merely on his remuneration, but on the most various circumstances, such as a sense of duty, ambition, emulation, habit, the attractive force of the work, and so forth, about whose configuration in the future society we can have only conjectures, but no certainty – conjectures, incidentally, that speak <em>against</em> and not <em>for</em> the view of our opponents; but the opponents would in addition also have to prove, secondly, that equality of incomes is necessarily conditioned by the nature of a socialist society, so that such a society would be inconceivable without this equality. This proof too they cannot possibly furnish, for even a glance at the various forms of communist production which have existed hitherto, from the most primitive communism of the earliest savages down to the mark associations and household associations of our peasants, shows how manifold are the forms of distribution of products that are compatible with common ownership of the means of production. All the forms of present-day wage payment – fixed salary, time-wage, piece-wage, premiums for performances that exceed a certain average measure, differing payment for differing activities – all these wage forms are – of course suitably transformed – compatible with the nature of a socialist society, and each of them may, according to the various needs and habits of the members of society and the needs of production, play at times a more or less large role in the various socialist societies.</p>
 ```
 
 :::
@@ -3496,7 +3512,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>By this, however, it is not meant to be asserted that the principle of <em>equality</em> (which need not necessarily be uniformity) of incomes or of the material conditions of life will not also play a role in socialist societies, yet not as the goal of a forcible <em>levelling</em> imposed without further ado and abruptly, but as the goal of a <em>natural development,</em> as a <em>tendency.</em></p>
 ```
 
 :::
@@ -3516,7 +3532,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the capitalist mode of production there prevails both the tendency towards the enlargement and the tendency towards the diminution of the differences in incomes, towards the <em>enlargement</em> and towards the <em>reduction</em> of <em>inequality.</em></p>
 ```
 
 :::
@@ -3536,7 +3552,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>By dissolving the middle strata and causing the great capitals to swell ever more, it visibly widens the gulf that exists between the <em>mass</em> of the population and its <em>summits</em>. These tower ever higher above the former, ever more unapproachable and abrupt. At the same time, however, the tendency of the capitalist mode of production goes towards equalising, more and more, the existing income differences within the mass of the population itself. It not only casts peasants and petty bourgeois into the proletariat or presses their incomes down to a proletarian level; it also increasingly abolishes the differences existing within the bosom of the proletariat. The machine strives more and more to abolish the differences which longer or shorter apprenticeship, greater or lesser supply of labour-power, tighter or looser organisation under the dominance of the handicraft and even of the manufacture produced in the wages of the various strata of workers, and which, in view of the permanence in the forms of production that existed before the introduction of machinery, became standing, firmly rooted differences. Today the differences in the levels of wages of the various strata of workers are ceaselessly changing and more and more equalising themselves. At the same time, too, as we have seen, the income of the head-workers begins to become more and more equal to that of the proletarians: this equalisation, which our opponents brand with the greatest moral indignation as an intention of Social Democracy, is taking place before their eyes in present-day society!</p>
 ```
 
 :::
@@ -3556,7 +3572,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In socialist society, of course, all those tendencies towards the increase of inequality that spring from private property in the means of production come to an end. On the other hand, the tendency towards the equalisation of the differences in incomes will come to expression there all the more strongly. But here again what we were able to remark above applies, when we spoke of the dissolution of the traditional form of the family and then of the demise of the small-scale enterprise: the <em>tendency</em> of economic development remains in a certain respect the same in socialist as in capitalist society, but it expresses itself in another manner. Today the equalisation of the incomes of the great mass of the population takes place by way of the higher incomes being <em>pressed down</em> to the level of the low ones. In a socialist society it will naturally come about in such a way that the lower incomes are <em>raised</em> and made equal to the higher ones.</p>
 ```
 
 :::
@@ -3576,7 +3592,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Our opponents seek to frighten the workers and petty bourgeois by saying that an equalisation of the incomes would only worsen their situation, for the total income of the well-to-do classes would not suffice, if distributed among them, to bring the income of the worst-placed classes up to the level of the average income of the working class. In the interest of "equality" the better-placed workers and petty bourgeois would therefore also have to give up something of their income. They would lose through socialism, instead of gaining.</p>
 ```
 
 :::
@@ -3596,7 +3612,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>There is this much truth in that: the most wretched, above all the lumpenproletarians, are indeed today so numerous and their distress so great that it would scarcely suffice to distribute the enormous incomes of the rich among them in order to make possible for them the existence of a better-placed worker. Whether that is precisely a reason which makes the preservation of our splendid society particularly urgently necessary appears to us doubtful, however. We should think that even an <em>improvement</em> of the distress that would be brought about by such a distribution would have to signify a step forward.</p>
 ```
 
 :::
@@ -3616,7 +3632,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But, as we know, it is not a question of "sharing out" at all, but of the change of the <em>mode of production. The transition from capitalist to socialist production, however, must unconditionally bring about a rapid upward surge in the mass of products produced annually.</em> Let us not forget that capitalist commodity production has become an obstacle to economic development, an obstacle to the full unfolding of the productive forces of modern society. It is not only incapable of absorbing the small-scale enterprises to the degree that technical development makes possible, indeed requires; it also no longer even has the possibility of employing all the available labour-power. It squanders it by driving an ever-growing fraction of it into the ranks of the unemployed, of the lumpenproletarians, of the parasites, of the unproductive middlemen, and by feeding another fraction in the standing armies without benefit to production.</p>
 ```
 
 :::
@@ -3636,7 +3652,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A socialist society would find productive work for all this labour-power; it would considerably increase the number of workers active in production, perhaps double it, but in the same measure also cause the total mass of the annual products to swell. This expansion of production alone would already suffice to raise the incomes of all the workers, not merely those of the most wretched among them.</p>
 ```
 
 :::
@@ -3656,7 +3672,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But through the transition to a socialist production, as we have already set out, the absorption of the small-scale enterprises and their replacement by large-scale enterprises would also be greatly promoted, and thereby the productivity of labour in general considerably heightened. It would be possible not merely to raise the incomes of the workers, but also to reduce the working time.</p>
 ```
 
 :::
@@ -3676,7 +3692,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is accordingly quite senseless to assert that socialism means the equality of the beggar's sack for all. This equality is not the tendency of socialism, but that of the present-day mode of production. The transition to socialist production must, by natural necessity, bring with it a raising of the prosperity of <em>all the working classes,</em> including the peasants and the petty bourgeois. According to the circumstances and the economic conditions under which this transition takes place, this raising will be a greater or a smaller one, but in any case a <em>noticeable</em> one. And every further economic advance will from then on bring about an <em>increase,</em> not, as nowadays, a <em>diminution</em> of the general prosperity.</p>
 ```
 
 :::
@@ -3696,7 +3712,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This reversal in the direction of income development appears to us even more important for the well-being of society than the absolute increase of incomes. For the thinking human being lives more in the future than in the present; what the former threatens or promises him occupies him more than the enjoyment of the moment. Not <em>being,</em> but <em>becoming,</em> not <em>conditions,</em> but <em>tendencies</em> decide over the happiness and unhappiness of the individual and of whole societies.</p>
 ```
 
 :::
@@ -3716,7 +3732,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We here come to know a new side of the superiority of a socialist society over the capitalist one. It offers not merely <em>heightened prosperity,</em> but also <em>security of existence,</em> a security such as the greatest wealth cannot grant today. If the increase of prosperity affects only the hitherto exploited, then the securing of the livelihood is a welcome gift also for the present-day exploiters, for those whose comfortable living no longer needs an increase, is often no longer capable of one. Insecurity hovers over the rich as over the poor, and it is perhaps even more tormenting than want; it makes even those feel want in spirit who have not yet been seized by it; it is a spectre that does not spare even palaces.</p>
 ```
 
 :::
@@ -3736,7 +3752,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>All investigators who have come to know communist communities — such as Indian or Russian village communes (before their dissolution by commodity production, state intervention, the money economy and the usury that followed from it) or peasant household cooperatives, such as are still found today among the South Slavs — have above all been struck by the sense of calm, of security, of equanimity that was peculiar to all their members. Entirely independent of all the fluctuations of the commodity market, in full possession of their means of production, they are self-sufficient, they regulate their work according to their needs and know beforehand what they have to expect.</p>
 ```
 
 :::
@@ -3756,14 +3772,16 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>And yet the security which these primitive communist societies offered was not complete. Their mastery over nature was slight, the communities themselves were small. Losses through cattle plagues, crop failures, floods and the like occurred not infrequently and then struck the whole cooperative. How much more secure, by contrast, stands a socialist community of the extent of a modern state, which has at its disposal all the achievements of present-day science!<br/> <a id="ch4-t10" name="ch4-t10"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 10. Der Sozialismus und die Freiheit
+##### 10. Socialism and Freedom ⚑
+
+<p class="de-subtitle">10. Der Sozialismus und die Freiheit</p>
 
 ::: {.parallel-container}
 
@@ -3778,7 +3796,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">That a socialist society offers its members prosperity and security has been recognised and acknowledged even by many of our opponents. But, they object, these advantages are bought too dearly, for they are paid for with the complete loss of <em>freedom.</em> The bird in the cage may count each day on sufficient feed; it is secured against hunger, storms and enemies. But it lacks freedom, and for that reason it is nonetheless a pitiable creature that yearns to go out into the world of dangers and want, out into the struggle for existence.</p>
 ```
 
 :::
@@ -3798,7 +3816,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Socialism, they say, destroys economic freedom, the freedom of labour. It introduces a despotism compared with which the most unbounded political absolutism is a state of freedom, for the latter captures only <em>one</em> side of the human being, whereas the former captures the <em>whole</em> human being.</p>
 ```
 
 :::
@@ -3818,7 +3836,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>So great is the fear of the bondage of communism that there are even socialists who have been seized by it, the <em>anarchists.</em> These abhor communism as much as commodity production and seek to escape the dangers of both by – wanting both at the same time. They want a communism with commodity production. This is absurd in theory; in practice it amounts to the workers' cooperatives of liberal “self-help” already characterised.</p>
 ```
 
 :::
@@ -3838,7 +3856,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is correct when it is said that socialist production is incompatible with the full freedom of labour, that is, with the freedom of the worker to work when, where and how he pleases. But this freedom of the worker is incompatible with <em>any</em> planned cooperation of several persons, in whatever form it may take place, whether on a capitalist or a cooperative basis. The freedom of labour is possible only for the <em>small-scale enterprise,</em> and even for it only up to a certain degree. Even where the small-scale enterprise is freed from all constricting regulations – compulsory field rotation, guild compulsion and the like – the individual worker still remains dependent on natural and social influences: the peasant, for example, on the weather, the artisan on the state of the market, and so forth. Yet the small-scale enterprise does offer the possibility of a certain freedom of labour; this freedom is its ideal, the most revolutionary ideal of which the petty bourgeois is capable, who cannot see beyond the horizon of the small-scale enterprise.</p>
 ```
 
 :::
@@ -3858,7 +3876,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A hundred years ago, at the time of the French Revolution, this ideal was still well grounded in the economic conditions. Today it has lost all support and can only haunt the heads of people who do not see what economic upheaval has taken place since then. With the downfall of the small-scale enterprise, the downfall of the freedom of labour is also necessarily bound up. It is not the Social Democrats who destroy it, but the unstoppable advances of large-scale industry. Precisely those who carry the phrase about the necessity of the freedom of labour most in their mouths, the capitalists, are the ones who contribute most to abolishing it.</p>
 ```
 
 :::
@@ -3878,7 +3896,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Not only for factory work does the freedom of labour cease, but for every kind of work in which the individual acts merely as a member of a great whole. It does not exist for the detail workers of the manufactory and of the domestic industry, but neither for all those <em>brain-workers</em> who are active as employees in institutions and not as individuals on their own account. The hospital doctor as well as the schoolteacher, the railway official as well as the newspaper writer, and so forth – none of them has the freedom of labour, but rather they are bound to definite rules, must work at definite, prescribed places at definite times, and so on. And since, as already noted, in the fields of intellectual activity the large-scale enterprise displaces the small-scale enterprise just as in other fields of human endeavour, the freedom of labour is also diminishing more and more for the brain-workers already in present-day society.</p>
 ```
 
 :::
@@ -3898,7 +3916,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To be sure, the worker under the rule of capitalist large-scale industry still possesses a certain freedom. If the work in one enterprise does not suit him today, he is free to seek work in another; he can pass from one employment into another. In a socialist commonwealth all the means of production are united in <em>one</em> hand; there is only a single “employer,” whom it is impossible to change.</p>
 ```
 
 :::
@@ -3918,7 +3936,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In this respect, then, the present-day wage worker has one freedom over the worker of the socialist society, but this freedom cannot really be called the freedom of labour. He may pass ever so often from one factory into another; he will find the freedom of labour in none of them; in each the tasks of every individual worker will be precisely determined and regulated. This is a technical necessity.</p>
 ```
 
 :::
@@ -3938,7 +3956,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The freedom whose loss threatens the worker in socialist production is thus not the freedom of labour, but only the freedom to choose his master himself. This freedom is by no means without significance today; it forms a bulwark for the worker, as everyone knows who was or is employed in a monopoly enterprise. But even this freedom is called more and more into question by the economic development; growing unemployment brings it about that the number of positions becoming vacant is far smaller than the number of applicants for them. As a rule the unemployed worker must be glad to find any post at all. And the increasing concentration of the means of production in few hands works towards the result that in the end the worker finds in every enterprise the same “employer,” or at least the same conditions of work.</p>
 ```
 
 :::
@@ -3958,7 +3976,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>What our opponents proclaim as the wicked intention of a Social Democracy hostile to culture and freedom is a naturally necessary tendency of the economic development in present-day society. This holds true here, as in so many other fields.</p>
 ```
 
 :::
@@ -3978,7 +3996,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is not Social Democracy, but the economic development, by which the freedom to choose the opportunity for work is abolished just as much as the freedom during work. Social Democracy, to be sure, does not want to, and indeed cannot at all, arrest this development; but, as we have already seen in other fields, so here too it will give the development another shape, one more favourable for the workers. It cannot abolish the dependence of the worker on the economic mechanism in which he forms a little cog, but in place of the dependence of the worker on a capitalist whose interests stand hostilely opposed to his own, it substitutes his dependence on a society of which he himself is a member, a society of comrades with equal rights who have the <em>same interests</em>.</p>
 ```
 
 :::
@@ -3998,7 +4016,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Such a dependence may appear unbearable to a liberal lawyer or man of letters; it is not so for a modern proletarian, as a glance at the <em>trade-union movement</em> shows. The trade unions already give us a picture of that “tyranny of the socialist compulsory state” of which our opponents prattle. There the conditions of work of the individual are already regulated in the most precise and strictest manner, yet it has as yet occurred to no member of one of these societies to see in this an unbearable infringement of his personal freedom. Those who found it necessary to defend the “freedom of labour” against this “terrorism” – often by force of arms, amid bloodshed – were not the workers, but their exploiters. Poor freedom, which today finds no defenders other than the slaveholders!</p>
 ```
 
 :::
@@ -4018,7 +4036,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But in a socialist commonwealth the unfreedom of labour not only loses its oppressive character, <em>it will also become the foundation of the highest freedom</em> that has hitherto been possible for the human race.</p>
 ```
 
 :::
@@ -4038,7 +4056,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This sounds contradictory. But the contradiction is only apparent.</p>
 ```
 
 :::
@@ -4058,7 +4076,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Until the advent of large-scale industry, the labour required to produce and acquire the products necessary for the maintenance of life—let us say, in short, <em>gainful labour</em>—fully absorbed those engaged in it; it demanded the exertion of all one's powers, not merely of the body but also of the mind. This holds not only for the hunter and the fisherman; it holds also for the peasant, the artisan, and the merchant: the life of the gainfully employed person was almost entirely taken up by his gainful activity. It was labour that steeled his sinews and nerves, that made his brain inventive and eager for knowledge. But the more the division of labour developed, the more one-sided it inevitably made the gainfully employed person. Mind and body cease to be active in the most varied fields and to develop all their faculties. Entirely absorbed by the momentary partial task, the gainfully employed lost their sense for the totality of the phenomena of their surroundings. A harmonious, all-round development of the mental and physical powers, an intensive occupation with the questions concerning the interconnections in society and in nature, philosophical thought—that is, a search for the highest truths for their own sake—could under these circumstances be found only among those who remained free of gainful labour. Until the rise of the machine system, this was possible only through shifting this labour onto others, through <em>exploitation.</em></p>
 ```
 
 :::
@@ -4078,7 +4096,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The most idealistic, the most philosophical race that history has hitherto known, a uniquely outstanding society of thinkers and artists who served science and art for their own sake, was the Athenian aristocracy, was the slaveholding landowners of Athens.</p>
 ```
 
 :::
@@ -4098,7 +4116,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Labour—not only slave labour, but also <em>free</em> labour—was regarded among them as something degrading, and rightly so. It was no arrogance when Socrates said: “The shopkeepers and artisans (banausics) lack education, if only because of the lack of leisure, without which a good education is impossible. <em>They learn only what their trade requires;</em> knowledge in itself has no attraction for them. Thus they occupy themselves with arithmetic only for the sake of trade, not in order to become acquainted with the nature of numbers. They have not the power to strive for anything higher. The tradesman says: the joy in honour and in learning is, in comparison with monetary gain, worthless. The blacksmiths, carpenters, and cobblers may be skilled in their craft, but most of them are slave souls; they do not know what is beautiful, good, and just.”</p>
 ```
 
 :::
@@ -4118,7 +4136,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Since then economic development has advanced, the division of labour has reached an incredible height, and the overgrowth of commodity production has driven the exploiters and the educated into the circle of the gainfully employed. Like the artisans and peasants, today the rich too are wholly absorbed in their gainful activity. It is not in gymnasia and academies that they gather, but at stock exchanges and markets; the speculations in which they are immersed concern not the concepts of truth and justice, but wool and schnaps, Russian loans and Portuguese coupons. Their mental powers are exhausted in these speculations. After the “work” is done, they retain only the energy and interest for the most mindless amusements possible.</p>
 ```
 
 :::
@@ -4138,7 +4156,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>For the educated, however, education has become a commodity, as we have seen. They too no longer have the time or the impulse for the selfless search for truth, for striving after the ideal. Everyone buries himself in his speciality and regards every minute as lost that he spends learning something he cannot turn to account. Hence the present-day craze to remove Greek and Latin from the secondary schools. Here it is less pedagogical grounds that speak against them than the endeavour to let the young learn only what they will one day “need”—that is, what they can convert into money.</p>
 ```
 
 :::
@@ -4158,7 +4176,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Among the men of science as well as of art too, the sense for the whole, the striving after all-round, harmonious development is being lost. Everywhere only one-sided specialised study. Science and art sink to the level of a craft. For them too holds what Socrates said of the banausic occupations. The philosophical spirit is in the process of dying out—that is to say, within the classes mentioned here.</p>
 ```
 
 :::
@@ -4178,7 +4196,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the meantime, however, a new kind of labour has arisen, <em>labour at the machine,</em> and a new class, the <em>proletariat.</em></p>
 ```
 
 :::
@@ -4198,7 +4216,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The machine robs labour of all mental content. The worker at the machine no longer has to think, no longer has to reflect; he has to obey the machine without a will of his own. It prescribes to him what he has to do; he becomes its appendage.</p>
 ```
 
 :::
@@ -4218,7 +4236,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>What holds for labour at the machine holds also, though as a rule to a lesser degree, for the partial labours of the manufactory and of the domestic industry. The breaking down of the labour of the artisan, who creates something whole, into a series of partial labours, each of which, by means of one or several quite simple manipulations, produces only the part of a whole product, forms, as is well known, the preliminary stage and introduction to the machine system.</p>
 ```
 
 :::
@@ -4238,7 +4256,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The first consequence that the monotony and mindlessness of labour brings for the proletarian is the apparent deadening of his mind.</p>
 ```
 
 :::
@@ -4258,7 +4276,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the next consequence is that he feels himself driven to revolt against the excessively long extension of labour. For him, working is not synonymous with living. Life begins for him only when the work is over. For that worker to whom work and life are one, the <em>freedom of labour</em> can mean a <em>free life.</em> The worker who lives only when he is not working can attain a <em>free life</em> only through <em>liberation from</em> <em>labour.</em> Naturally the striving of the latter class of workers cannot be to rid themselves of all labour. Labour is, after all, the precondition of life. But their striving must of natural necessity be to restrict the labour they have to perform so far that it leaves them room for living.</p>
 ```
 
 :::
@@ -4278,7 +4296,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This is one of the strongest roots of the struggle for the shortening of the working time of the modern proletarians, a struggle which the peasants and artisans of the old stamp confront without understanding. It is not a struggle for small economic advantages, for some wage increase, for a reduction in the number of the unemployed; these aims play their part, but at bottom it is a <em>struggle for life.</em></p>
 ```
 
 :::
@@ -4298,7 +4316,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Yet a further consequence arises from the fact that labour has been stripped of its intellectual content by the machine: the mental powers of the proletarian are not, like those of the other gainfully employed, exhausted by their gainful activity; they lie fallow during it. All the more powerful, therefore, is the proletarian's urge to exercise his mind outside of work, provided the latter grants him even some room for it. One of the most striking phenomena of present-day society is the <em>proletariat's thirst for knowledge.</em> While all other classes seek to kill their leisure time as mindlessly as possible, the proletariat strives with a veritable greed after education. Only one who has had occasion to work among proletarians can fully gauge the strength of this urge for knowledge and enlightenment. But even the more distant observer can get an inkling of it if he compares the newspapers, journals and pamphlets of the workers with the literature that is popular in other circles of society.</p>
 ```
 
 :::
@@ -4318,7 +4336,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>And this urge for knowledge is an entirely disinterested one. To the worker at the machine, knowledge cannot help to increase his income. When he seeks the truth, he seeks it for its own sake, not for the sake of any material gain. That is why he does not confine himself to a single, narrower field; his gaze is directed at the whole; he wants to comprehend the whole of society, the whole world. The most difficult riddles attract him the most; with predilection he turns to questions of philosophy, of metaphysics, and it is often hard to bring him back down from the clouds to the earth.</p>
 ```
 
 :::
@@ -4338,7 +4356,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is not the <em>possession</em> of knowledge, but the <em>striving</em> after knowledge that makes the philosopher. It is in the despised, ignorant proletarians that the philosophical spirit of the brilliant thinkers of the Athenian aristocracy revives. But a free development of this spirit is not possible in present-day society. For the proletarians are without the means to instruct themselves, without guidance for systematic study, left to all the accidents and obstacles of an unplanned self-education, and above all without sufficient leisure! Science and art remain for them a promised land, which they behold from afar, for the possession of which they struggle, but which they cannot enter.</p>
 ```
 
 :::
@@ -4358,7 +4376,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only the victory of socialism unlocks for the proletariat all the sources of education; only the victory of socialism makes it possible to shorten the time of labour needed to secure a livelihood so far that the worker is given the leisure necessary to acquire a sufficient stock of knowledge. The capitalist mode of production awakens the proletariat's thirst for knowledge; the socialist mode of production alone can slake it.</p>
 ```
 
 :::
@@ -4378,7 +4396,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Not the <em>freedom of labour,</em> but the <em>liberation from labour,</em> as the machine system makes possible to a far-reaching degree in a socialist society, will bring mankind the <em>freedom of life,</em> the <em>freedom of artistic and scientific activity,</em> the <em>freedom of the noblest enjoyment.</em></p>
 ```
 
 :::
@@ -4398,7 +4416,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>That happy, harmonious cultivation which has hitherto appeared only once in world history, as the privilege of a small band of select aristocrats, will become the common possession of all civilised peoples; what the slaves accomplished for the former, the machines will accomplish for the latter; they will feel all the elevating influences of liberation from gainful labour, without having to accept into the bargain any of those degrading effects through which the slave economy ultimately enervated the aristocrats of Athens. And just as the present-day aids of science and art are far superior to those known two thousand years ago; and just as the present-day world of culture far surpasses little Greece, so will the socialist society far surpass the most brilliant commonwealth that history has hitherto known, in moral greatness and material welfare.</p>
 ```
 
 :::
@@ -4418,7 +4436,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Happy is everyone to whom it is granted to devote his strength to the struggle for the realisation of this glorious ideal!</p>
 ```
 
 :::
@@ -4440,7 +4458,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="note"><a href="#ch4-f8" id="ch4-n8" name="ch4-n8">8.</a> Let it merely be remarked here in passing that, since economic development can by no means come to a standstill under socialist social conditions, its progress will bring about a steady growth in the size that a socialist cooperative requires in order to be able to prosper. That the individual socialist nations will ultimately merge into a single commonwealth, that the whole human race will form a single society, is our firm conviction. However, we are here concerned only with the starting points, not with the later course of the development of socialist social forms, and thus we need not draw the world republic into the scope of our discussion.</p>
 ```
 
 :::

@@ -3,9 +3,9 @@ title: "V. The Class Struggle"
 subtitle: "V. Der Klassenkampf"
 ---
 
-## V. Der Klassenkampf
+##### 1. Socialism and the Propertied Classes
 
-##### 1. Der Sozialismus und die besitzenden Klassen
+<p class="de-subtitle">1. Der Sozialismus und die besitzenden Klassen</p>
 
 ::: {.parallel-container}
 
@@ -20,7 +20,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The final paragraphs of the general part of our present programme read:</p>
 ```
 
 :::
@@ -40,7 +40,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">„This social transformation means the emancipation not merely of the proletariat, but of the entire human race, which suffers under present conditions. But it can only be the work of the working class, because all other classes, despite the conflicts of interest among themselves, stand upon the ground of private property in the means of production and have the preservation of the foundations of present-day society as their common goal.</p>
 ```
 
 :::
@@ -60,7 +60,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quote">The struggle of the working class against capitalist exploitation is necessarily a political struggle. The working class cannot conduct its economic struggles and cannot develop its economic organisation without political rights. It cannot bring about the transfer of the means of production into the possession of the community without having come into possession of political power.</p>
 ```
 
 :::
@@ -80,7 +80,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quote">To shape this struggle of the working class into a conscious and unified one and to point out to it its naturally necessary goal – that is the task of the Social Democratic Party.</p>
 ```
 
 :::
@@ -100,7 +100,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quote">The interests of the working class are the same in all countries with a capitalist mode of production. With the expansion of world commerce and of production for the world market, the condition of the workers of every country becomes ever more dependent on the condition of the workers in the other countries. The emancipation of the working class is thus a work in which the workers of all civilised countries are equally involved. In recognition of this, the Social Democratic Party of Germany feels and declares itself one with the class-conscious workers of all other countries.</p>
 ```
 
 :::
@@ -120,7 +120,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quote">The Social Democratic Party of Germany therefore fights not for new class privileges and prerogatives, but for the abolition of class rule and of the classes themselves, and for equal rights and equal duties of all without distinction of sex and descent. Proceeding from these views, it combats in present-day society not merely the exploitation and oppression of wage labourers, but every kind of exploitation and oppression, whether it be directed against a class, a party, a sex or a race.“</p>
 ```
 
 :::
@@ -140,7 +140,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The introductory sentence of the first of these paragraphs scarcely requires any further elucidation. We have already demonstrated in detail that the displacement of capitalist production by socialist production lies not merely in the interest of the propertyless and the exploited, but also in the interest of the entire social development, and thereby in a certain sense even in the interest of the propertied and the exploiters. These too suffer under the contradictions to which the modern mode of production gives rise. Some of them degenerate in idleness, others wear themselves out in a breathless chase after profit, and over all of them there always hovers the Damoclean sword of bankruptcy, of sinking into the proletariat.</p>
 ```
 
 :::
@@ -160,7 +160,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But appearances teach us that the great mass of the propertied and the exploiting confront socialism not merely with doubt and mistrust, but even in the most embittered hostility.</p>
 ```
 
 :::
@@ -180,7 +180,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Could mere lack of knowledge and insight be to blame for this? But the spokesmen among the opponents of socialism are precisely those whose position in the state, in society, in science ought to make them most capable of grasping the social connections and understanding the direction of social development.</p>
 ```
 
 :::
@@ -200,7 +200,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>And so glaring are the conditions of present-day society that no one who wishes to be taken seriously in politics or in science any longer dares to deny the justification of the socialist critique. On the contrary, the most enlightened minds in all non-socialist parties acknowledge that it has a „justified kernel“, indeed some of them even declare the victory of socialism to be inevitable – but only conditionally, namely, inevitable only if society does not suddenly reverse course and improve itself, which can happen entirely at will and with ease if one hastens to do justice to the particular wishes of one or the other of these parties.</p>
 ```
 
 :::
@@ -220,7 +220,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In this way even those members of the non-socialist parties who have best grasped the socialist critique evade, by a logical sidestep at precisely the decisive point, the necessity of drawing the consequences of this critique.</p>
 ```
 
 :::
@@ -240,7 +240,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The reason for this curious phenomenon is not difficult to recognise. Even though certain interests, not to be underestimated, of the propertied themselves speak against private property in the means of production, other, much more immediate and more easily comprehensible interests of theirs demand the maintenance of this private property.</p>
 ```
 
 :::
@@ -260,7 +260,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This applies above all, of course, to the <em>rich.</em> They can gain nothing directly from the abolition of private property in the means of production. Beneficial social consequences must indeed result from it, which would benefit them too, but these lie comparatively far off. In contrast, the disadvantages that the abolition of this private property must bring them are evident from the outset; in power and prestige they must decidedly lose, some of them perhaps also in comfort and easy living, according to the circumstances under which the social revolution takes place.</p>
 ```
 
 :::
@@ -280,7 +280,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is otherwise with the lower strata of the propertied, with the exploited among them, the small artisans, small peasants, etc. These have nothing to forfeit in power and prestige, and in easy living they can only gain through the introduction and development of the socialist mode of production. But in order to be able to grasp this, they must raise themselves above the horizon of the classes to which they belong. From the standpoint of the narrow-minded petty bourgeois or small peasant, the capitalist mode of production is incomprehensible, though they feel its effects on their own bodies, and even more incomprehensible for them is modern socialism. What they do readily grasp, on the other hand, is the necessity of private property in the means of production for their own mode of operation.</p>
 ```
 
 :::
@@ -300,7 +300,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>As long as the artisan feels himself an artisan, the peasant a peasant, the small trader a small trader, as long as they possess a vigorous class consciousness, they must cling to private property in the means of production and remain inaccessible to socialism, however badly things may go for them.</p>
 ```
 
 :::
@@ -320,7 +320,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We have seen in an earlier chapter how private property in the means of production chains the declining petty bourgeois and small peasants to their backward enterprises, even when these have long ceased to be able to provide them with any tolerably adequate existence, and even when they would improve their position by passing over to wage labour. Thus private property is also the power which chains all propertied classes to the present mode of production, even those who at the same time belong to the exploited, even those whose property is now only a mocking caricature of the concept of &#8222;property&#8220;.</p>
 ```
 
 :::
@@ -340,7 +340,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only those among the petty bourgeois and small peasants who despair of the continued existence of their class, who no longer close their minds to the conviction that the forms of enterprise upon which their existence rests are doomed to destruction—only they are capable of grasping the doctrines of socialism. But the lack of education and the narrowness of their horizon, the natural consequences of their conditions of life, make it very difficult for them to attain the necessary insight into the hopelessness of their class situation. Their misery, their convulsive search for a means that might deliver them from it, has hitherto for the most part accomplished nothing other than to make them easy prey for every demagogue who displayed the requisite self-assurance and did not fail to offer glittering promises.</p>
 ```
 
 :::
@@ -360,7 +360,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the higher strata of the propertied classes more education and a broader outlook are to be found. Also, in many an educated person there still lingers a remnant of the old idealism from the time of the revolutionary struggles of the rising bourgeoisie, the age of the Enlightenment. But woe to the bourgeois who allows himself to be led into taking an interest in socialism and acting upon it! He soon faces the choice of either abandoning his ideas or tearing apart all the social bonds which until then have not merely fettered him but also sustained him. Only a few preserve enough courage and independence to press forward to this parting of the ways, and only the very fewest of these few possess the strength, once they have arrived there, to break decisively with their class. But of these few of the few, the greater part have hitherto tended to grow weary all too soon; later they came to recognise their &#8222;youthful follies&#8220; and became &#8222;sensible&#8220;.</p>
 ```
 
 :::
@@ -380,7 +380,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The bourgeois <em>idealists</em> are the only ones among the members of the higher bourgeoisie of whom it is at all possible that they should become adherents of socialism. But for the great majority of those of these idealists who have acquired a deeper insight into social conditions and into the problems arising from them, the insight gained forms merely the occasion to exhaust themselves in a fruitless search for a so-called &#8222;peaceful&#8220; solution of the &#8222;social question&#8220;, a solution which reconciles the demands of their more or less socialist knowledge and conscience with the class interests of the bourgeoisie—which is just as impossible as a wet fire or a burning water.</p>
 ```
 
 :::
@@ -400,7 +400,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only those bourgeois idealists who have not merely attained the necessary theoretical insight but have also already broken with the bourgeoisie at least inwardly, and who possess the courage and the strength to break with it outwardly as well, are able to develop into true socialists.</p>
 ```
 
 :::
@@ -420,7 +420,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>From the propertied classes, then, the cause of socialism has not much to expect. Individual members of them may be won for socialism, but only such as no longer belong, according to their consciousness, to the class to which their economic position assigns them. That will always be a small minority, except in revolutionary times, when the scales seem to incline to the side of socialism. Then, indeed, a serious desertion is likely to break out in the ranks of the propertied classes.</p>
 ```
 
 :::
@@ -440,14 +440,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But hitherto the only fruitful recruiting grounds of the socialist armies have not been the classes of those who still had something, even if perhaps not much, to lose, but of those who &#8222;have nothing to lose but their chains, who have a world to win&#8220;.<br/> <a id="ch5-t2" name="ch5-t2"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 2. Gesinde und Bediententum
+##### 2. Domestic Servants and the Servant Class
+
+<p class="de-subtitle">2. Gesinde und Bediententum</p>
 
 ::: {.parallel-container}
 
@@ -462,7 +464,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">By no means, however, are all strata of the propertyless to be regarded as productive recruiting grounds for Social Democracy.</p>
 ```
 
 :::
@@ -482,7 +484,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We cannot, of course, give here a natural history of the proletariat; we have already said the most important things about it in Chapter II, where we considered the role of the proletariat in the present-day mode of production. Here let us give only a few supplementary remarks that seem to us necessary in order to explain the role played by the various strata of the proletariat in the economic and political struggles of our time.</p>
 ```
 
 :::
@@ -502,7 +504,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We already know that, even though the saying beloved of the philistine—that there have always been poor people—is false, it must nevertheless be acknowledged that poverty is as old as commodity production. To be sure, it formerly constituted, as a rule, only an isolated phenomenon. In the Middle Ages, for example, the number of those who did not possess the means of production necessary for their own economic operation was small. Of the few propertyless, the majority easily succeeded in finding acceptance in a propertied family as helpers, farmhands, journeymen, maids; for the most part these were younger people to whom the prospect still beckoned of one day being able to establish their own economic operation and their own hearth. In any case, they worked together with the head of the family or his wife, and enjoyed together with them the fruits of their labour. As members of a propertied family they were not proletarians; they felt themselves in solidarity with the property of the family, in whose advantages they shared, by whose injuries they too were harmed. And this still holds true today in those remote regions where such a patriarchal relationship has been preserved. Where the domestic servants still belong to the family of the propertied person, they defend property, although they themselves are propertyless, and there socialism finds no ground.</p>
 ```
 
 :::
@@ -522,7 +524,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Matters stood similarly with the artisan journeymen. (Cf. Chap. II, 1.)</p>
 ```
 
 :::
@@ -542,7 +544,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Alongside the class of farmhands and journeymen there arose the <em>servant class.</em> A portion of the propertyless turned to the families of the greater <em>exploiters,</em> in the Middle Ages and the beginnings of the modern era especially to the nobles and princes, the higher clergy and the merchants. They entered their pay, not to help them at work, but to protect them and to serve their opulence, as men-at-arms and lackeys. The common sharing of work and enjoyment, the patriarchal relationship, was lacking here, and with it also the solidarity between master and servant that springs from it. But a solidarity of a different kind developed between the master and the servant. Where a larger body of servants is maintained, there are also <em>rank differences</em> within it. The individual has to hope for promotion, for an increase in income, power and prestige. This increase, however, depends on the whim of his master. The more skilfully he adapts and subordinates himself to it, and the more he outdoes his fellow servants, the better his prospects. Thus the servant feels himself in solidarity with the master, but as a secret enemy of all his fellow workers. And yet another solidarity forms between the master and the servant. The greater the master's income, power and prestige, the more of all this falls to the servant. This holds especially of the actual luxury servants, who have nothing to do but to "represent," to prove how much superfluous money their master has at his disposal, and to help him to squander it as quickly and pleasantly as possible, by serving him fearlessly and "faithfully" in all his follies and vices. The servant therefore feels himself in solidarity with the exploiter and oppressor against the exploited and oppressed; indeed, he easily behaves toward them even more ruthlessly than the master himself. For the master, if he is at all reasonable, will not slaughter the hen that lays him golden eggs; he wants to preserve it not only for himself but also for his descendants. For the servant this consideration does not exist.</p>
 ```
 
 :::
@@ -562,7 +564,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>No wonder that nothing is more hated among the people than the servant class, that its fawning upward and brutality downward are proverbial. By a servant's soul one understands the epitome of all wretchedness.</p>
 ```
 
 :::
@@ -582,7 +584,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Naturally these influences upon the character of the servant class are operative not only in the propertyless person from the lower estates, but also in the propertyless or little-propertied person from the higher estates, such as the impoverished nobleman who seeks his fortune as a higher servant, a courtier at a princely court. <a href="#ch5-n9" id="ch5-f9" name="ch5-f9">[9]</a></p>
 ```
 
 :::
@@ -602,7 +604,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Here, however, we are dealing only with the lower servants, and must therefore refrain, however tempting it might be, from pursuing the comparison with the noble servants—a comparison which, incidentally, suggests itself and which is not hard to spin out further. What matters here is to demonstrate why the servant class, although it belongs to the propertyless, forms no particularly promising recruiting ground for socialism. It is, rather, a bulwark of existing society.</p>
 ```
 
 :::
@@ -622,7 +624,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The growth of exploitation, of the mass of surplus value annually produced, and the resulting increase of luxury, favours a steady multiplication of the servant class. But fortunately for social development, its warlike variety, the <em>mercenary soldiery,</em> has greatly declined since the transformation of the military constitution which the French Revolution initiated, since the replacement of the mercenary army by the army of universal conscription. To be sure, it has by no means wholly disappeared, and it is due not least to its remnants in the modern armies that the "nation in arms" has hitherto in most cases proved to be a by no means democratic institution.</p>
 ```
 
 :::
@@ -642,14 +644,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the growth of the actual servant class and of domestic servants in general is likewise counteracted, despite the steady increase of luxury, by a strong tendency: the dissolution of the traditional family form and the division of labour, which assigns ever more tasks of the household and of personal service to separate, independent occupations: hairdressers, waiters, hired cabmen, porters, etc. These occupations branched off from the servant class do indeed still display, long after they have become independent, the character marks of their origin, but gradually they nevertheless begin to take on the qualities and views of the industrial wage-labouring class.<br/> <a id="ch5-t3" name="ch5-t3"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 3. Das Lumpenproletariat
+##### 3. The Lumpenproletariat
+
+<p class="de-subtitle">3. Das Lumpenproletariat</p>
 
 ::: {.parallel-container}
 
@@ -664,7 +668,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">However numerous the domestic and luxury servants as well as the journeymen and mercenaries may have been at times, they were as a rule not in a position to absorb all those without property. Those without property who were <em>incapable of work</em> – children, the aged, the sick, cripples – were from the outset in no position to find their livelihood in one of these occupations. But there gathered around them, as we have seen, from the beginnings of modern times such a mass of people seeking work – especially peasants driven from their farms or fleeing from ill-treatment – that numerous able-bodied persons fell into the same situation as those incapable of work. Nothing remained for them but to beg, to steal, or to prostitute themselves. They were confronted with the choice of starving or acting contrary to all the prevailing conceptions of shame, honour, and dignity. They could only eke out their lives by continually placing concern for their most immediate personal needs above concern for their good reputation. That such a condition must have a highly demoralising and corrupting effect is clear.</p>
 ```
 
 :::
@@ -684,7 +688,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This corruption was, and still is, further increased by the fact that the workless poor are utterly superfluous to society, that society not only does not need them but, on the contrary, would be rid of an unwelcome burden through their removal. But every class must degenerate that is superfluous, that has no necessary functions to perform in society; this applies to the lowest as well as to the highest.</p>
 ```
 
 :::
@@ -704,7 +708,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>And the beggars cannot even raise themselves through the self-deception that they are necessary; they possess no memories of a time when their class rendered society a service; they cannot, insisting on their power, force their parasitism upon society.</p>
 ```
 
 :::
@@ -724,7 +728,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>They are merely tolerated: humility is therefore the first duty of the beggar, it is regarded as the highest virtue of the poor. Like the servants, this kind of proletarian is also servile towards the powerful; they form no opposition to the existing social order. On the contrary. They are dependent on the crumbs that fall from the rich man's table: how could they wish that the rich man should vanish! They themselves are not exploited; but the greater the degree of the exploitation of the worker, the greater the income of the rich man, the more generous he can be, the more the poor have to expect from him. They partake in the exploitation, like the servants; what cause would they have to combat it? In the beginnings of the Reformation in Germany, when the Catholic Church was hated in the extreme by all classes because it exploited them all, it was these proletarians who clung faithfully to it, for they received from it more plentiful alms than from the stingy townsfolk and the plundered peasants.</p>
 ```
 
 :::
@@ -744,7 +748,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This kind of proletariat – the <em>lumpenproletariat</em> – has never yet confronted exploitation of its own accord. But of course, it is not a bulwark of exploitation either, like the warlike variety of the servant class. Cowardly and without principle, it deserts without hesitation those whose alms it has pocketed, as soon as they lose their wealth and power. It has never stood in the vanguard of a revolutionary movement, but it was at once at hand in all disturbances to fish in troubled waters. It has sometimes helped to give the final blow to a ruling class that was in the act of falling. As a rule, in a revolution it has contented itself with exploiting and compromising it, in order to betray it at the first opportunity.</p>
 ```
 
 :::
@@ -764,7 +768,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The capitalist mode of production has greatly increased the lumpenproletariat; it constantly supplies it with new recruits; it forms, especially in the large cities, a considerable part of the population.</p>
 ```
 
 :::
@@ -784,14 +788,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Very close to it in character and outlook is that part of the small peasantry and petty bourgeoisie which has come down utterly in the world, which despairs of its own strength and seeks to keep its head above water by means of alms thrown to it by the upper classes.<br/> <a id="ch5-t4" name="ch5-t4"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 4. Die Anfänge des Lohnproletariats
+##### 4. The Beginnings of the Wage Proletariat
+
+<p class="de-subtitle">4. Die Anfänge des Lohnproletariats</p>
 
 ::: {.parallel-container}
 
@@ -806,7 +812,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">It was these latter strata from which nascent capitalist production, and above all <em>large-scale industry,</em> preferred to draw its labour-power. This industry demands less <em>skilled</em> workers than <em>patient, unresisting</em> workers who fit themselves without will into the great machinery of a modern factory, which can only function without disturbance if each of its countless little cogs punctually and steadily carries out the movements assigned to it. And just as the strata of the working classes nearest to the lumpenproletariat—indeed some parts of the lumpenproletariat itself—supplied the majority of the workers of the emerging capitalist large-scale industry, so too the treatment which these strata put up with became decisive for the treatment which the capitalists wished to mete out to their workers in general. Labour itself, whose ennobling influence bourgeois economists and moralists so gladly describe, became for the proletarians at first a source of further degradation, not of elevation. The workers' lack of resistance made it possible for the capitalists to extend working time to the utmost. What powerful motives in capitalist large-scale industry drove them to this we have already seen in Chapter II. Capital does not grant the proletarian time to live and to educate himself, if it is not obliged to. Where it finds no barriers, it lets labour continue to the point of complete exhaustion. If a short pause remains between work and sleep, then it suffices only for the most fleeting pleasures, so as thereby to numb the consciousness of misery—for the intoxication of alcohol or of sexual intercourse. The working together of men and women, of adults and children, which among joyful, free, and duty-conscious human beings can be a source of the highest intellectual stimulation and moral ennoblement for all involved, became in the capitalist factory at first only a means of increasing the danger of contagion through its demoralising and enervating influences, of letting depravity spread still more rapidly in the proletariat.</p>
 ```
 
 :::
@@ -826,14 +832,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>No wonder that the working proletarians in the beginnings of capitalist large-scale industry scarcely differed from the lumpenproletarians. How deeply they were sunk in crime, drunkenness, brutality, and filth—physical and mental—is best seen from the classic description that <em>Friedrich Engels</em> gave of the condition of the working classes of England in the first decades of this century. <a href="#ch5-n10" id="ch5-f10" name="ch5-f10">[10]</a><br/> <a id="ch5-t5" name="ch5-t5"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 5. Die Erhebung des Lohnproletariats
+##### 5. The Rise of the Wage Proletariat
+
+<p class="de-subtitle">5. Die Erhebung des Lohnproletariats</p>
 
 ::: {.parallel-container}
 
@@ -848,7 +856,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The concept of the proletarian seemed to be synonymous with that of the most extreme degradation. There are still people today who hold this view, among them some who fancy themselves to be very modern. And yet, already at the time when the working proletariat outwardly had so many features in common with the lumpenproletariat, a deep gulf was forming between the two.</p>
 ```
 
 :::
@@ -868,7 +876,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The lumpenproletariat has essentially always remained the same, whenever and wherever it appeared as a mass phenomenon. The lumpenproletariat of present-day Berlin or London does not differ all that greatly from that of ancient Rome. The modern working proletariat, by contrast, is a quite peculiar phenomenon, such as world history has not yet seen.</p>
 ```
 
 :::
@@ -888,7 +896,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Between the lumpenproletariat and the working proletariat of capitalist production there exists above all the enormous, fundamental difference that the former is a parasite, whereas the latter is one of the roots of society—and indeed a root that increasingly becomes not only the most important but ultimately also the <em>only</em> one from which society draws its strength. The working proletarian is propertyless, but no <em>recipient of alms.</em> Far from being maintained by society, he maintains it through his labour. In the beginnings of capitalist production, to be sure, the working proletarian still feels himself to be a poor man; in the capitalist who exploits him he sees his benefactor, who gives him work and thereby also bread, the bread-giver, the employer. This "patriarchal" relationship is naturally very agreeable to the capitalists. To this day they demand from their workers, in return for the wage they pay them, not merely the stipulated work performance, but also submissiveness and gratitude.</p>
 ```
 
 :::
@@ -908,7 +916,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But capitalist production can nowhere last long without the fine patriarchal conditions of its beginnings going to the devil. However enslaved and dulled the workers may be, sooner or later they nonetheless notice that they are the bread-givers of the capitalist and not the other way around. While they remain poor or perhaps grow even poorer, the capitalist becomes ever richer. And when they ask the manufacturer, this alleged patriarch, for more bread, he gives them a stone.</p>
 ```
 
 :::
@@ -928,7 +936,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The working proletarians differ from the lumpenproletarians and the servants in that they do not live off the exploitation practised by the exploiters; from the household servants and the journeymen artisans (cf. Chapter II) they differ in that they neither work together nor live together with their exploiter, that every personal relationship between the exploited and the exploiter has disappeared for them. They live in wretched holes and build their exploiter a palace; they go hungry and prepare him a sumptuous meal. They toil until they collapse from exhaustion, in order to provide him and his family with the means to kill time.</p>
 ```
 
 :::
@@ -948,7 +956,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This is a quite different antagonism from that between the rich man and the "little man," the poor man of the pre-capitalist era. The latter envies the rich man, to whom he looks up with admiration, who is his model, his ideal. He would like to be in his place, an exploiter like him. It does not occur to him to want to abolish exploitation. The working proletarian does not envy the rich man, he does not wish himself in his place; <em>he hates him and despises him;</em> he hates him as his exploiter and despises him as a drone. At first he hates merely the particular capitalist with whom he happens to be dealing, but he soon recognizes that they all, by and large, proceed against him in the same manner, and his initial personal hatred develops into a conscious antagonism towards the entire capitalist class.</p>
 ```
 
 :::
@@ -968,7 +976,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This antagonism towards the exploiting class is one of the earliest characteristics of the working proletariat. Class hatred is by no means a result of socialist propaganda—it made itself felt long before the latter's activity in the working class. Among servants, household servants, and journeymen artisans, such an intense class hatred is impossible. Given the intimate personal relationships of the members of these occupations to their "masters," such hatred would make any fruitful activity impossible for them. In these occupations there are enough conflicts between the wage labourers and the heads of enterprise and household; but reconciliation always follows. In the capitalist mode of production the workers can harbour the most embittered hostility towards the entrepreneur without production thereby being disrupted, indeed even without his noticing anything of it.</p>
 ```
 
 :::
@@ -988,7 +996,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This hatred at first expresses itself only timidly and only in isolated cases. If it takes some time before the proletarians notice that it is anything but nobility of mind that moves the manufacturers to employ them, it takes even longer before they find the <em>courage</em> to confront the "master" openly in a conflict.</p>
 ```
 
 :::
@@ -1008,7 +1016,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The lumpenproletarian is cowardly and humble because he feels himself superfluous and is deprived of any material support. The same character traits are initially exhibited also by the working proletariat, insofar as it recruits itself from the lumpenproletariat and the strata close to it. It does indeed feel all the mistreatment meted out to it, but it protests against it only in secret; it clenches its fist in its pocket. Alongside this, the indignation of especially energetic and passionate natures vents itself in secret crimes.</p>
 ```
 
 :::
@@ -1028,7 +1036,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The consciousness of their own strength and the spirit of resistance develop in the strata of the wage-labouring class here under discussion only when they arrive at the consciousness of the community of interest, of the <em>solidarity</em> that prevails among their members. With the awakening of the <em>feeling of solidarity</em> begins the moral rebirth of the proletariat, the rise of the working proletariat out of the swamp of the lumpenproletariat.</p>
 ```
 
 :::
@@ -1048,7 +1056,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The working conditions of capitalist production of themselves point the proletarians towards the necessity of holding firmly together, of the subordination of the individual to the whole. Whereas in the artisan trade in its classic form each individual creates a whole for himself alone, capitalist industry rests on working together, on <em>cooperation.</em> There the individual worker can accomplish nothing without his comrades. If they take up the work in a united and systematic manner, then the productive capacity of each individual among them is doubled and tripled. Thus labour brings home to them the power of association; thus labour develops in them a voluntary, joyful discipline, which is the precondition of a cooperative, a socialist production, but which is also a precondition of every successful struggle of the proletariat against exploitation in capitalist production. That production itself thereby trains the proletariat for its own overthrow and for work in the socialist society.</p>
 ```
 
 :::
@@ -1068,7 +1076,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Perhaps even more powerful than cooperation in awakening the feeling of solidarity in the proletariat is the <em>equality of the working conditions</em>. In a factory there are, as a rule, virtually no gradations of rank among the workers, no hierarchy. The higher posts are generally inaccessible to the proletarians, but always so few in number that they are of no account for the mass of the workers. Only a very few can be corrupted by these positions of favour. For the great majority the same working conditions prevail, and the individual has no possibility of improving them for himself alone; he can only raise his own position if that of the whole, that of all his fellow workers, is raised. The manufacturers do indeed attempt to sow discord among the workers by artificially bringing about inequalities in the working conditions. But the levelling effect of modern large-scale industry is too strong for such expedients — piece-work, bonuses and the like — to be able in the long run to deaden the consciousness of the solidarity of interests among the workers. The longer capitalist production lasts, the more vigorously proletarian solidarity develops, the more deeply it takes root in the proletariat, and the more it becomes its most conspicuous characteristic.</p>
 ```
 
 :::
@@ -1088,7 +1096,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We need only point to what we said above about the servant class in order to show how greatly the working proletariat differs from it in this respect. But the domestic servants also fall short of the proletariat of capitalist production in this regard, indeed even the journeymen of the crafts do so.</p>
 ```
 
 :::
@@ -1108,7 +1116,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The solidarity of the journeymen halted at a point that the solidarity of the proletarians has crossed. The solidarity of both alike is not confined to the workers of the same enterprise; like the proletarians, the journeymen too gradually came to the recognition that the workers everywhere encounter the same adversaries, everywhere have the same interests. The journeymen established national organisations, embracing the whole territory of the nation, at a time when the bourgeoisie was still deeply mired in petty provincialism and particularism. The proletariat of today is wholly international in its feeling and its action; in the midst of the most embittered nationality struggles, the most zealous war preparations of the ruling classes, the proletarians of all countries have united.</p>
 ```
 
 :::
@@ -1128,7 +1136,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We already find the beginnings of international organisations among the journeymen; they showed themselves capable of overcoming national narrowness. But over <em>one</em> barrier they were unable to raise themselves: the <em>trade.</em> The German hatter or coppersmith might, on his wanderings, find a hospitable reception among his colleagues in Sweden or Switzerland; the shoemakers or joiners of his own country, of his own native town, on the other hand, remained strangers to him. The trades were, precisely, strictly separated in the crafts. For years the apprentice had to learn until he attained journeyman status, and then throughout his life he remained faithful to his craft. Its flourishing and its power were also his own. If the journeyman stood in a certain opposition to the master of his craft, he stood in no less opposition to the masters and journeymen of other crafts. In the heyday of the crafts we find the journeymen's associations of the various crafts embroiled in fierce struggles and hostilities among themselves.</p>
 ```
 
 :::
@@ -1148,7 +1156,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Capitalist production, by contrast, jumbles the various trades colourfully together. In a capitalist enterprise workers of different trades usually work side by side and together for the attainment of a common purpose. On the other hand, it has the tendency to abolish the concept of the trade in production altogether. The machine shortens the former years-long apprenticeship of the worker to a training period of a few weeks, often days. It enables the individual worker to pass from one manipulation to another without too great difficulty. It often compels him to do so, by making him superfluous in his previous occupation, throwing him onto the pavement and forcing him to look about for another. The freedom of choice of occupation, which the philistine fears he will lose in the "state of the future", has for the worker already today lost all meaning.</p>
 ```
 
 :::
@@ -1168,7 +1176,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Under these circumstances it is easy for him to cross the barrier before which the journeymen halted. If the consciousness of solidarity of the modern proletariat is an international one, it also extends to the <em>whole working class.</em></p>
 ```
 
 :::
@@ -1188,7 +1196,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Various forms of wage labour existed already in antiquity and the Middle Ages. The struggles between wage labourers and their exploiters are likewise nothing new. But only under the domination of capitalist large-scale industry do we see a unified class of wage labourers arise who are well aware of the community of their interests and who subordinate not only their personal but also their local and — so far as they still exist — their occupational special interests more and more to the great collective interests of the <em>class.</em> Only in our century do the struggles of the wage labourers against exploitation acquire the character of a <em>class struggle.</em> And only through this is it possible that these struggles receive a wider, higher goal than that of the redress of momentary grievances, that the workers' movement becomes a <em>revolutionary</em> movement.</p>
 ```
 
 :::
@@ -1208,7 +1216,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the concept of the working class becomes ever wider. In the first place, what has been said here applies to the working proletarians of large-scale industry. But just as industrial capital becomes ever more decisive for the whole of capital, indeed for all economic undertakings within the domain of the capitalist nations, so the thinking and feeling of the proletariat working in large-scale industry becomes ever more decisive for the thinking and feeling of the wage labourers in general. The consciousness of the general community of interests seizes also the workers of capitalist manufacture and of the crafts, and the latter all the sooner, the more the craft loses its original character and approaches manufacture or sinks down to the level of the capitalistically exploited domestic industry.</p>
 ```
 
 :::
@@ -1228,7 +1236,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To them are joined, little by little, the workers of the non-industrial urban trades, those of commerce, of transport, of "lodging and refreshment", as the German occupational statistics put it. The rural workers too gradually become conscious of their community of interests with the other wage labourers, as soon as capitalist production dissolves the old patriarchal management of agriculture and makes of it an industry that produces with wage proletarians, no longer with servants belonging to the farmer's family. Indeed, finally the feeling of solidarity begins to seize the worse-placed among the independent craftsmen, and under certain circumstances even to infect peasants: thus the working classes are welded together more and more into a single unified <em>working class</em>, which is animated by the spirit of the proletariat of large-scale industry, which steadily increases in number and economic importance. There spreads within it more and more that spirit, peculiar to the large-industrial proletariat, of comradely cohesion, of cooperative discipline, of opposition to capital; but there also spreads within its ranks that insatiable thirst for knowledge peculiar to the proletariat, to which we pointed at the close of the previous chapter.</p>
 ```
 
 :::
@@ -1248,14 +1256,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Thus there gradually arises out of the despised, maltreated, degraded proletariat a new world-historical power, before which the old powers begin to tremble: a new class emerges with a new morality and a new philosophy, increasing daily in number, in cohesion, in economic indispensability, in self-consciousness and in insight.<br/> <a id="ch5-t6" name="ch5-t6"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 6. Der Widerstreit der das Proletariat erhebenden und der es herabdrückenden Tendenzen
+##### 6. The Conflict of the Tendencies Elevating the Proletariat and Those Depressing It
+
+<p class="de-subtitle">6. Der Widerstreit der das Proletariat erhebenden und der es herabdrückenden Tendenzen</p>
 
 ::: {.parallel-container}
 
@@ -1270,7 +1280,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The elevation of the proletariat out of its degradation is an inevitable, naturally necessary process. But it is neither a peaceful nor an even one. The tendencies of the capitalist mode of production, as we have seen in Chapter II, tend to depress the working population ever further. The moral regeneration of the proletariat is only possible in <em>conflict</em> against these tendencies and their bearers, the capitalists. It is only possible in so far as the counter-effects, the counter-tendencies, grow sufficiently strong, which are generated in the bosom of the proletariat by the new conditions under which it works and lives. But the depressing tendencies of the capitalist mode of production are very different at different times, in different regions, in different branches of industry; they depend on the state of the market, on the degree of competition of the individual enterprises with one another, on the level of development of machinery in the branches of industry concerned, on the measure of insight the capitalists have into their lasting interests, and so on, and so on. The counter-effects that develop in the bosom of the individual proletarian strata likewise depend on the most manifold conditions: on the habits and needs of the classes of the population from which the proletarians in question are chiefly recruited; on the degree of skill or strength which the labour requires in the branch of industry in which they are active; on the extent of the labour of women and children; on the size of the industrial reserve army, which is by no means the same for all occupations; on the insight of the workers; and finally on whether the labour brings with it a dispersal and separation, or a uniting and gathering together of the workers, and so on.</p>
 ```
 
 :::
@@ -1290,7 +1300,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Each of these conditions is highly different for the various branches of industry and strata of workers, and is subject to constant change, since the technical and economic revolution proceeds without interruption. Daily new regions and new branches of occupation are subjected by capital to exploitation and proletarianisation, daily new branches of production are created, and the existing ones are ceaselessly revolutionised. As in the beginnings of the capitalist mode of production, so too today we see again and again new strata of the population sinking into the proletariat, going under in the lumpenproletariat, and again and again new strata rising out of it; within the working proletariat itself a constant surge upward and downward is perceptible, some strata moving in an ascending, others in a descending direction, according as the depressing or the elevating tendencies prevail among them.</p>
 ```
 
 :::
@@ -1310,14 +1320,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But fortunately for the further development of human society, sooner or later the moment arrives, in most proletarian strata, when the elevating tendencies decisively gain the upper hand; and once these tendencies have been active in a proletarian stratum to such a degree that they have awakened in it self-consciousness, class consciousness, the consciousness of the solidarity of all its members with one another and with the entire working class, the consciousness of the strength that springs from firm cohesion; once they have reared up in this proletarian stratum the consciousness of its economic indispensability and its self-respect; once they have awakened in it the conviction that the working class is moving towards a better future: as soon as a proletarian stratum has thus elevated itself, it becomes infinitely difficult to thrust it down again into the dull mass of those degraded existences that may indeed hate, but cannot band together for enduring struggle, that, despairing of themselves and their future, seek forgetfulness in intoxication, that draw from their sufferings not the urge to defiant revolt but to timid submission. It is almost impossible to eradicate class consciousness in a proletarian stratum once it has firmly taken root in it. However heavily the depressing tendencies of the capitalist mode of production may then make themselves felt, they can bring this stratum down <em>economically</em>, but not <em>morally</em> – unless the pressure be no longer merely depressing but wholly crushing, as in some decaying domestic industries. In every other case the pressure will only have the effect of producing counter-pressure; it now acts less to stunt than to embitter; the proletarian is thereby no longer depressed into a rogue, but elevated into a martyr.<br/> <a id="ch5-t7" name="ch5-t7"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 7. Die Philanthropie und die Arbeiterschutzgesetzgebung
+##### 7. Philanthropy and Labour Protection Legislation
+
+<p class="de-subtitle">7. Die Philanthropie und die Arbeiterschutzgesetzgebung</p>
 
 ::: {.parallel-container}
 
@@ -1332,7 +1344,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">Were every stratum of the proletariat dependent solely on its own forces, then for the majority of them the process of ascent would begin far later and take an even more protracted and painful form than is actually the case. Without outside help many a stratum of the proletariat that now occupies a respectable position would never have managed to overcome the difficulties which, like all beginnings, also inhere in the beginnings of the ascent from the mire into which the proletariat is hurled by capitalist development. The help came to these proletarian strata from certain strata of society standing above them, from the higher strata of the working <em>proletariat</em> as well as from the <em>propertied classes.</em></p>
 ```
 
 :::
@@ -1352,7 +1364,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The latter help was, particularly in the beginnings of large-scale capitalist industry, not without significance.</p>
 ```
 
 :::
@@ -1372,7 +1384,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the Middle Ages poverty was so slight that public (particularly ecclesiastical) and private charity sufficed to cope with it. It posed no riddles to be solved; insofar as it gave occasion for reflection, it prompted at most edifying contemplations. It was regarded as a pedagogical instrument of the dear Lord; it counted, when those afflicted by it were sinful, as a rod of chastisement, and when they were pious, as a trial, in order to make their trust in God triumph all the more gloriously. For the rich, however, poverty was a drill-ground for their virtues, one that appeared just as necessary for the salvation of their soul as, say, a tournament-ground for the steeling of their body.</p>
 ```
 
 :::
@@ -1392,7 +1404,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But when, through the development of commodity production, the old feudal agriculture was dissolved, when the migration of the released peasants to the towns began and there "overpopulation," unemployment, mass poverty began to spread, then this phenomenon, as new as it was terrible and fraught with danger, drew upon itself the attention of all thinking and feeling people. Against mass poverty the medieval means of charity did not suffice: the Reformation moreover stopped up the most important source of alms, the poor-relief of the Catholic Church. To provide for all the poor appeared more and more as a task surpassing the powers of society; a new social problem arose: <em>the abolition of poverty.</em> The most varied solutions to it were devised, according to the insight and the humanity of the devisers, from the convenient method of doing away with poverty by clearing the poor out of the way (say, by the gallows or by deportation), up to the deeply considered plans for a new, a communist society. These latter found great applause among the educated, but the convenient methods were the only ones to which the various fathers of the land and sages of state could bring themselves. Yet all the more heads grew back to poverty, the more proletarians one beheaded and branded.</p>
 ```
 
 :::
@@ -1412,7 +1424,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But gradually the question of poverty took on yet another face. The capitalist mode of production had arisen and began to extend itself ever further, to become ever more the dominant one in society. With that, the problem of the abolition of poverty ceased to exist for the thinkers of the bourgeoisie. Capitalist production rests upon the proletariat; to abolish the latter means to make capitalist production impossible. Mass poverty is the foundation of capitalist mass wealth; whoever wishes to check mass poverty lays hands on wealth. Whoever today wishes to remedy the propertylessness of the workers undermines property; he is a subversive, an enemy of society.</p>
 ```
 
 :::
@@ -1432,7 +1444,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To be sure, pity and fear continue to work — for poverty is dangerous to all of society; it breeds epidemics and crime — in bourgeois circles in favour of the proletariat and dispose many of the more deeply thinking and better feeling bourgeois to do something for the proletarians. But for the great mass of these bourgeois, who neither dare nor are able to break with their class, the problem can no longer read: <em>abolition of the proletariat,</em> but only: <em>elevation of the proletarians.</em> These are to remain fit for work and become content — but they must not cease to be compliant proletarians. Beyond this boundary bourgeois philanthropy (love of mankind) no longer proceeds.</p>
 ```
 
 :::
@@ -1452,7 +1464,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Within these boundaries philanthropy can of course occupy itself in the most manifold ways. Most of its methods are either wholly useless or at most capable of procuring a passing relief for individual persons. But when, in the first decades of our century, large-scale capitalist industry made its entry in England (at first in the textile industry) with all the terrors it is capable of calling forth, then the most perceptive among the philanthropists arrived at the conviction that only <em>one</em> thing was capable of counteracting the complete degradation of the workers of this industry: a <em>state protection of labour</em> at least for the most defenceless strata of workers, the children and the women.</p>
 ```
 
 :::
@@ -1472,7 +1484,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The capitalists of large-scale industry did not at that time yet form so decisive a part of the propertied classes as today. In favour of restricting their power over the workers spoke various economic as well as political interests of the non-capitalists among the propertied classes — landowners and petty bourgeois; there spoke further in favour of it the recognition that without this restriction the foundation of England's industrial flourishing, its working class, would perish, a consideration which had to win over every perceptive member of the ruling classes who was above momentary interests to the cause of labour protection; there spoke, finally, in favour of it even the special interests of individual large manufacturers themselves, who possessed the means to bear these restrictions easily and to adapt production to them, whereas those of their smaller competitors, who only kept their heads above water with difficulty through the most atrocious grinding of their workers, were driven toward ruin by labour protection. Despite this, and although within the working class itself a powerful movement for labour protection developed, it cost hard struggles to obtain even the first timid protective laws and then to build them out ever further.</p>
 ```
 
 :::
@@ -1492,7 +1504,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Nevertheless, however slight the achievements attained were at first, they already constituted, for the proletarian strata whom they benefited, an impulse that awakened them from their dullness and unleashed within them the elevating tendencies of their social position. Indeed, even before any victory in the matter had been won, the very struggles that were fought over it sufficed to show the proletarians how important, how necessary they were, that they signified a power. Already these struggles roused them, lent them self-consciousness and self-respect, killed off their hopelessness and gave them a goal of their striving reaching beyond what lay nearest at hand.</p>
 ```
 
 :::
@@ -1512,7 +1524,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Another of those means for the elevation of the working class which are also supported from the bourgeois side is the <em>public elementary school.</em> A closer treatment of this, however, does not fall within the frame of the present work. It is an important means, whose significance may not be underestimated, but for the elevation of the proletariat as a <em>class</em> it is nonetheless less effective than a resolute labour protection legislation.</p>
 ```
 
 :::
@@ -1532,7 +1544,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The more the capitalist mode of production develops, the more large-scale enterprise displaces the other forms of production or alters them in their essence, the more necessary becomes a steady intensification of labour protection and a steady extension of it not merely over all branches of large-scale enterprise, but also over the handicrafts and the domestic industry, as well as agriculture. But to the same degree there also grows the influence of the industrial capitalists in bourgeois society; the non-capitalist propertied classes, petty bourgeois and landowners, likewise become infected with a capitalist mentality, and the thinkers and statesmen of the bourgeoisie are transformed from its foresighted leaders into its hired bruisers, ready to stand up for each of its momentary interests.</p>
 ```
 
 :::
@@ -1552,14 +1564,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The devastations which capitalist production wreaks among its workers are so ghastly that only the greediest and most shameless capitalists and friends of capital dare to refuse a certain, meagre measure of legal labour protection. But for an ample labour protection that goes beyond this small measure, as for example for the eight-hour day, which today means the same thing as the ten-hour day did in the forties for English industry, there are at present only few advocates to be found in the ranks of the propertied. Bourgeois philanthropy becomes ever more timid. It leaves it more and more to the workers alone to wage the struggle for adequate labour protection. The present struggle for the eight-hour day in England has quite a different aspect from the struggle that was waged there half a century ago for the ten-hour day. In so far as bourgeois politicians stand up for it today, they do so not out of philanthropy, but because they are pressed by the workers, their voters. The struggle for labour protection becomes ever more a pure <em>class struggle between proletariat and bourgeoisie.</em> On the continent of Europe, where the struggle for labour protection laws began much later than in England, it has borne this character from the very outset. The proletariat has no more support to expect from the propertied classes in its striving for social elevation. It is entirely dependent on its own strength, that is to say, in the first instance on the strength of those of its many strata which have preserved or newly won the capacity and the joy for struggle.<br/> <a id="ch5-t8" name="ch5-t8"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 8. Die Gewerkschaftsbewegung
+##### 8. The Trade Union Movement
+
+<p class="de-subtitle">8. Die Gewerkschaftsbewegung</p>
 
 ::: {.parallel-container}
 
@@ -1574,7 +1588,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">Struggles between wage labourers and their exploiters are nothing new. We already find them at the close of the Middle Ages in the <em>handicrafts,</em> between journeymen and masters, as soon as the latter, under the influence of the unfolding of commodity production and world commerce then taking place, began to feel capitalist inklings and inclinations. As early as the fifteenth century, many a one of them tried to increase the number of journeymen he employed to such an extent that he could live off their labour without working himself, or he at least tried to shift the lion's share of the work onto the journeymen. Endeavours towards increasing the number of working days, towards curtailing the holidays, indeed even towards Sunday work, became noticeable. In doing so, the master gentlemen sought to set themselves apart from the journeymen; the latter were to make do with poorer fare, and so forth. The familial bond was loosened. Finally, the guild masters began to close themselves off; for journeymen who were not the sons or sons-in-law of masters, becoming a master was made very difficult, often downright impossible. Thus the journeyman estate became more and more an estate of its own; it ceased to be merely an intermediate station between apprenticeship and mastership.</p>
 ```
 
 :::
@@ -1594,7 +1608,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When the masters began to play the capitalist, the naturally necessary consequence of this was that the relationship between them and their workers took on something of the sharpness of the later antagonism between the capitalist entrepreneur and the wage proletarian. But the journeymen were not to be compared with the humble, downtrodden proletarians of the incipient large-scale industry. Defiant and eager to fight, they not only parried every blow directed against them, but if possible answered it with a still coarser blow of their own. The towns were small, and the number of journeymen of each trade in a town was therefore relatively small. They were all the easier to unite because as a rule every trade was carried on in a particular street. <em>Labour,</em> to be sure, set the one apart from the other; only a few, seldom more than one or two, worked for a single master. But labour did not fill up their lives. The number of holidays in the year was legion, and <em>sociability</em> at that time played just as great a role in the life of each individual as labour did, and sociability united the journeymen. Their taverns became the centres of their organisations, the starting points of the battles they delivered against the masters. Whoever among the journeymen did not join in was ostracised. In view of the closing-off of the trades from one another, exclusion from the journeymen's association of his handicraft was, for the journeyman, tantamount to exclusion from society. The journeymen's organisation of a trade therefore embraced <em>all</em> journeymen of it. An industrial reserve army remained as good as unknown; to draw in workers from other trades was, for the most various reasons, impossible; no wonder that the position of the journeymen vis-à-vis the masters was a comparatively most favourable one. The weapons they employed were the stoppage of work and the declaration of boycott – strike and boycott – and these weapons were not spared. Our guild enthusiasts, who dream of the restoration of the medieval handicraft and who thereby hope for the establishment of peace between the workers and their exploiters, would have their hair stand on end if today, in proportion to the extent of industry, strikes were as frequent and as stubborn as in the leading handicrafts during the fifteenth and sixteenth centuries.</p>
 ```
 
 :::
@@ -1614,7 +1628,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only the rising modern state power was able to teach the journeymen manners. Holding down the workers was one of the first labours of love it rendered to the bourgeoisie, and it has remained one of its principal tasks to this day. There began the age of wage schedules (that is, maximum wages) and of the prohibition, or at least the police suppression, of all organisations of wage labourers. Nevertheless, the state too did not succeed in wholly getting the better of the journeymen. Just as well as their opponents, they too knew what power they would possess through the combination of their forces, and how defenceless they would be without organisation. They everywhere tried most tenaciously to hold fast to it. Where public organisations were made impossible for them, they founded secret ones. The most terrible punishments and abuses were inflicted upon them on this account, but were unable to loosen their cohesion. The sufferings and privations that the Anti-Socialist Law brought upon the German proletariat, although in themselves bad enough, were child's play compared with what the workers had to endure during the last centuries and, in some countries, right into the middle of the present one. And yet they overcame all persecutions victoriously.</p>
 ```
 
 :::
@@ -1634,7 +1648,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The majority of the workers of the emerging capitalist <em>manufacture</em> did not possess the same power of resistance as the journeymen of the handicraft. The operations necessary for the production of an entire product are, as we have already remarked, apportioned in manufacture among various workers, each of whom has only one or several comparatively simple manipulations to perform. The apprenticeship period of the worker is thereby shortened, and the labour of women and children already begins to penetrate. Furthermore, under the rule of manufacture we find great armies of workers in the industrial towns. There it is impossible for one worker to know another personally, something which in the medieval small towns had come about of itself among the journeymen. From the development of the large towns the handicraft journeymen too suffered in part, to be sure, but not so severely, for to the same extent as they increased in number, so also grew the multiplicity, and thereby the disunity, of their opponents, the masters. In the capitalist enterprises, on the other hand, numerous workers stand opposed to a few entrepreneurs, who can easily come to an understanding among themselves.</p>
 ```
 
 :::
@@ -1654,7 +1668,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>There was the additional fact that the rule of guild compulsion hindered the development of manufactures in the old towns. These enterprises had to be established outside the domain of guild compulsion, mostly in the open countryside, where the workers were easier to supervise, found no backing in other strata of the working population, and remained dependent solely upon the employment opportunity of the manufacture.</p>
 ```
 
 :::
@@ -1674,7 +1688,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Finally, however, the time for sociable gatherings – that important means of combination and of the unity of action arising therefrom – was greatly curtailed for the workers, notably through the abolition of the medieval holidays.</p>
 ```
 
 :::
@@ -1694,7 +1708,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To be sure, manufacture brings together larger masses of workers at labour and compels them to work together, to cooperate. But the beneficial consequences that result therefrom for the cohesion of the workers are in part offset by the fact that not only were the workers recruited from the most various strata of the population, but also that the various operations are very differently remunerated; we find here a series of ranks among the workers, as with the servants of a great luxury household. To be sure, among the workers the belonging to each particular rank is determined chiefly by their achievements in production, not by their personal pliability; the hierarchy therefore does not engender among them the qualities of servility, but it nonetheless produces such great differences in the interests of the individual groups of workers of one enterprise that the community of their interests only with difficulty comes to their consciousness.</p>
 ```
 
 :::
@@ -1714,7 +1728,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>At all events, the workers of the manufactory still possess one great advantage: although their period of apprenticeship is much shorter than in the handicraft, their work nonetheless rests upon a manual dexterity, a skill, that can be acquired only through longer practice. They are therefore not easily replaced. And however large the number of unemployed proletarians seeking work may already be at the stage of development with which we are here dealing, the number of trained manufactory workers among them is still small. The industrial reserve army has, in general, still little significance for the workers of the manufactory period.</p>
 ```
 
 :::
@@ -1734,7 +1748,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only the machine changes this; it makes the entire mass of the unemployed serviceable to industry and throws the wives and children of the proletarians onto the labour market in droves as well. With what results for the workers' capacity for resistance, we have seen.</p>
 ```
 
 :::
@@ -1754,7 +1768,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Since the introduction of machinery into production, the process of transforming the whole of industry into a capitalist one has taken on an exceedingly rapid pace. But the capitalist enterprises do not immediately become factories producing with machine power in all fields of production. The manufactory has in some fields, for example in typesetting, maintained itself to the present day. There are even branches of industry in which, even under capitalist operation, handicraft production can maintain itself for a time, for example in tailoring, insofar as it does not serve mass production. As a rule, however, the capitalist exploitation of a trade that still stands at the stage of the handicraft leads to the dwarf-like, domestic-industrial enterprise, not to the large-scale enterprise. But the workers of the domestic industry are the most incapable of resistance of all.</p>
 ```
 
 :::
@@ -1774,7 +1788,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Even under the rule of large-scale industry operated with machines, there is maintained in the capitalist mode of production a series of branches of industry – gradually dwindling, to be sure – that cannot dispense with trained workers who have acquired a certain skill. Large-scale industry itself creates a series of new branches of work or extends already existing ones which presuppose a special strength or skill or a special knowledge and which have not to fear the competition of untrained workers or that of women and children. This held true, for example, and still holds true for the most part in some branches of the extraction and processing of metals.</p>
 ```
 
 :::
@@ -1794,7 +1808,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The working proletariat accordingly divides into two great strata: a higher one, favoured by circumstances in various respects, that of the trained or skilled (English <em>skilled)</em> or <em>qualified</em> workers. Beneath this stratum spreads the large and daily increasing mass of workers who are engaged in occupations for the learning of which no special prior knowledge or skills or aptitudes are required: however skilful or knowledgeable or capable some among these workers may be, they fall into the category of untrained, unskilled <em>(unskilled)</em> or <em>unqualified</em> workers, who are easily replaceable, to whom one owes no consideration, whose capacity for resistance is slight.</p>
 ```
 
 :::
@@ -1814,7 +1828,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is the better-placed, the qualified workers to whom the vanguard role in the struggle for the elevation of the working class falls. They form the most combative elements of the proletariat, those who are most readily able to offer resistance to capital. And they have proven their combativeness in numerous struggles.</p>
 ```
 
 :::
@@ -1834,7 +1848,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Their position exhibits many similarities to that of the guild journeymen; the latter's traditions have in many cases also been preserved in their midst, and the latter's methods of organisation and struggle have become exemplary for them. The new economic fighting organisations of the workers – and indeed at first only of the qualified workers –, the <em>trade unions,</em> sometimes form direct continuations of the old <em>journeymen's associations;</em> often, at least in the beginnings of the trade-union movements, they have grown out of the traditions which the guild journeymanship left behind among the wage labourers.</p>
 ```
 
 :::
@@ -1854,7 +1868,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The original kinship of the trade-union movement with the guild journeymen's movement expresses itself not only in the spirit of resistance and the capacity for resistance of the trade unions. Sometimes there also comes to light in these a guild spirit, a tendency towards a caste-like exclusion, towards a one-sided pursuit merely of the narrower occupational interests without regard to the general interests of the workers. Under certain circumstances this can go so far that trade unions of qualified workers not only disregard all duties of solidarity with the whole working class, but seek directly to gain advantages at the expense of the rest of the workers – for example, by restricting the number of apprentices who are trained in their occupation. By this means they do indeed reduce the supply of labour-power in their own occupation, but only at the expense of the workers in other branches of work, who do not have the strength to enforce such restrictions, so that all the more labour-power now turns to these occupations.</p>
 ```
 
 :::
@@ -1874,7 +1888,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Sometimes it is merely individual trades whose organised members set themselves apart as "aristocrats" of labour from the "rabble" and seek to climb higher on the latter's shoulders. This held true, for example, in Germany until some time ago for the majority of the typesetters. In England, however, the qualified workers have set themselves apart in their entirety from the unqualified. To them were added the workers of the branches of work subject to the Factory Act, who had been placed by it in a more favourable position. These better-placed workers until recently formed – and in part still form today – a labour aristocracy set apart from the great mass of the wage proletariat.</p>
 ```
 
 :::
@@ -1894,7 +1908,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Where the trade-union movement leads to a cultivation of one-sided caste spirit and to an aristocratic exclusion of the better-placed workers, there it not only contributes nothing to the elevation of the whole proletariat as a <em>class,</em> it is even capable of <em>hindering</em> and <em>delaying</em> it. It is a far more effective means to this end than the brutal and witless measures of suppression which conventional statecraft is so fond of employing. The latter's measures directed against the fighting organisations of the working class are, on the contrary, the most effective means of welding the qualified workers together with the unqualified into a unified resistance against the suppression.</p>
 ```
 
 :::
@@ -1914,7 +1928,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is therefore today only the most witless and most ignorant statesmen who imagine that the proletariat can be held down by such measures. The most dangerous enemies of the proletariat, on the other hand, are those who, appearing not as its opponents but as its friends, seek by means of a trade-union movement in the spirit just described to split the proletariat and to transform its most resistant components from vanguard fighters into oppressors of its more defenceless components. These false friends of the working class carry on their mischief in Germany too; admittedly, so far mostly only in the universities. But they are making attempts to gain influence over the workers themselves as well. Fortunately, the ruling parties are too narrow-minded, the German workers too clear-sighted, and the economic conditions too far developed, for these gentlemen to be able to do lasting harm.</p>
 ```
 
 :::
@@ -1934,7 +1948,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>However greatly a stratum of workers favoured by circumstances may become arrogant and shut itself off from the mass of the proletariat, in the long run it cannot escape the effects of economic development, which press it towards union with the entire working class. Depending on the insight of this stratum of workers, on the level of economic development of its trade, and on the role which it plays in the domestic market and the world market, it may take a shorter or a longer time until its aristocratic tendencies are broken; but sooner or later it comes to this with every one of the strata of workers under discussion.</p>
 ```
 
 :::
@@ -1954,7 +1968,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>No trade, on the other hand, is safe from being seized one day by the technical revolution, which replaces the skilled worker with the unskilled one and creates competition for the man from woman and child. Despite all restrictions on the number of apprentices and so forth, the number of the unemployed rises in every occupation, however high the demands it may make upon its workers. There rises the number of those skilled workers who, because they do not earn enough, must stand outside the organisations and can be used against the organised workers. More and more, even the most tightly organised workers with the best-filled treasuries must recognise that resistance to the depressing effects of capitalism, let alone the overcoming of them, is a task to which the isolated trade organisations are not equal. They must recognise that they are the weaker the weaker the entire proletariat is, and the stronger the stronger the latter is. They must come to the insight that it is bad policy to want to rise up on the shoulders of people who are sinking in a swamp and whom one presses still deeper into it by rising above them. They must strive to get firm ground under their feet if they wish to rise up and hold their ground there. But they cannot do this without helping the lower strata standing beneath them to raise themselves out of the swamp.</p>
 ```
 
 :::
@@ -1974,7 +1988,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Thus one of the "aristocratic" strata of workers after another comes to regard its struggles against exploitation not as special struggles concerned merely with its special interests, but as parts of the great class struggle which the entire proletariat wages. They come to the recognition that the struggles of the other proletarian strata are by no means without significance for them, that in these too their own cause is at stake, and that they therefore have the duty, wherever they can, to take part in them helpfully and supportively. They come to the recognition that they must, where possible, also safeguard the interests of those proletarian strata which are not yet able to defend their own skins by their own strength, which still stand outside the framework of the labour movement.</p>
 ```
 
 :::
@@ -1994,7 +2008,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But at the same time, one stratum after another also rises up from the ranks of the unskilled workers. The mere sight of the great struggles of the skilled workers has a rousing and encouraging effect on many of their "unskilled" brothers. We have already mentioned the similar effect exercised by the struggles for labour protection. A whole series of other causes is also at work, now and then, as the result of a favourable coincidence, in prompting a stratum of workers to enter the ranks of the fighting proletariat.</p>
 ```
 
 :::
@@ -2014,7 +2028,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The direct economic successes of the struggles of the unskilled proletarians are as a rule slight. Their history is "a long series of defeats [of the workers], interrupted by a few isolated victories" (Engels). But like the giant Antaeus of Greek legend, the proletarians draw new strength even from defeat. Whatever the outcome of the struggle may be, it is the struggle itself that raises the workers morally, that brings out and gives effect in them to all those qualities which we have above designated as the characteristic ones of the proletariat, that promotes its moral and social rebirth, even when it contributes nothing to its economic elevation, perhaps even results in an economic worsening of its position.</p>
 ```
 
 :::
@@ -2034,7 +2048,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Thus there gradually forms out of skilled and unskilled proletarians the stratum of the working class that is in motion – the labour movement. This is the part of the proletariat that fights for the general interests of its class, its <em>ecclesia militans</em> (fighting church). This stratum grows just as much at the expense of the arrogant "aristocrats" of labour, sunk in a narrow egoism, as at the expense of the dull-witted "mob," the lower strata of the wage proletariat still vegetating in hopelessness and powerlessness. We have seen that the working proletariat is in constant increase; we know further that it becomes ever more determining for the other working classes, whose living conditions, whose feeling and thinking are ever more influenced by its own; now we see that within this ever-growing mass the militant part becomes ever larger, not only in itself but also relatively. However rapidly the proletariat increases, its <em>fighting part</em> is increasing still more rapidly.</p>
 ```
 
 :::
@@ -2054,14 +2068,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p><em>The fighting proletariat is, however, by far the most important and most productive recruiting ground of the Social Democracy.</em> The latter is essentially nothing other than the purposeful part of the fighting proletariat; the latter has the tendency to become ever more identical with the Social Democracy; in Germany and Austria the two have in fact become one.<br/> <a id="ch5-t9" name="ch5-t9"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 9. Der politische Kampf
+##### 9. The Political Struggle
+
+<p class="de-subtitle">9. Der politische Kampf</p>
 
 ::: {.parallel-container}
 
@@ -2076,7 +2092,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">Just as the proletariat models its most primitive organizations of resistance on those of the journeymen artisans, so too its most primitive means of struggle are, everywhere it appears in closed masses, the same as those the journeymen artisans employed: the <em>boycott,</em> but above all the <em>strike.</em></p>
 ```
 
 :::
@@ -2096,7 +2112,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The proletariat cannot, however, stop at these means of struggle. The more the individual strata of which it consists join together into a unified working class, the more its struggles must take on a <em>political character,</em> for, as the <strong>Communist Manifesto</strong> already says, every class struggle is a political struggle.</p>
 ```
 
 :::
@@ -2116,7 +2132,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The needs of the purely trade-union struggle alone compel the workers to raise political demands. We have seen how the modern state regards it as its chief task, with respect to the wage labourers, to make their organizing impossible. But the secret organization can always be only an inadequate surrogate for the public one, and this holds all the more, the greater the masses that are to be gathered together into a single body. The more the proletariat develops, the more it needs freedom of association, the <em>freedom of coalition.</em></p>
 ```
 
 :::
@@ -2136,7 +2152,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But this freedom alone does not suffice if the proletariat is to be placed in a position to build up its organizations as completely as possible and to apply them as appropriately as possible. We have already pointed out how easy it was for the journeymen artisans to come together. In every town relatively so few worked in each trade, and moreover mostly crowded together in a single street, that they were in constant personal contact with one another. A single tavern usually sufficed to accommodate the journeymen of a trade. Each town, however, formed more or less an economic whole in itself. The roads were bad, the traffic from town to town slight. Under these circumstances the individual wandering journeymen were entirely sufficient to maintain the connection between the journeymen's organizations of the various towns.</p>
 ```
 
 :::
@@ -2156,7 +2172,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Today, in the great industrial centres, thousands of workers labour, each of whom stands in closer personal contact only with a few fellow workers, but not with the great mass of his comrades. To bring these masses into connection with one another, to awaken in them the consciousness of their broader community of interests and to win them for the organizations that serve the protection of their interests, requires the possibility of being able to speak freely to great masses; it requires the freedom of <em>assembly</em> and of the <em>press.</em> The journeymen artisans had no need of the press. For the small conditions in which they lived, oral communication sufficed. To unite the enormous masses of today's wage labourers in organizations and to bring them to unified action is downright impossible without the aid of the press.</p>
 ```
 
 :::
@@ -2176,7 +2192,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This holds all the more, the more the modern means of communication develop. These form a powerful weapon for the capitalists in their struggles with the workers. They enable them, for example, to dispatch great masses of workers rapidly over long distances; if they come into conflict with their workers, they can easily replace them with outside labour-power, provided the latter stand in no connection with the former. The development of communications therefore makes it ever more necessary to unite the individual local movements of the workers of the various trades into a single movement encompassing the whole fighting working class of the whole country, and finally of all industrial countries. But this national and international unification of the wage-labouring class needs, even more than the local work of organization, the <em>press.</em></p>
 ```
 
 :::
@@ -2196,7 +2212,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Thus we see everywhere that where the working class stirs, where it makes the first attempts to achieve an improvement of its economic situation, it raises, alongside purely economic demands, political ones as well, namely the demands for freedom of association, of assembly, of the press. These freedoms are of the greatest importance for the working class; they belong to its <em>conditions of life,</em> which it absolutely requires for its development. They mean light and air for the proletariat, and whoever curtails or withholds them from it, or wishes to hold the workers back from the struggle for the winning and extension of these freedoms, belongs among the worst enemies of the proletariat, however great a love for it he may feel or feign, whether he calls himself an Anarchist or a Christian-Social or whatever else. Just like its open enemies, he too harms the proletariat, and whether he does this out of malice or merely out of ignorance is a matter of indifference; he must be combated just as much as the acknowledged opponents of the proletariat.</p>
 ```
 
 :::
@@ -2216,7 +2232,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The political struggle has sometimes been set in opposition to the economic one, and it has been declared necessary that the proletariat turn one-sidedly only to the one or the other. In truth the two cannot be separated from one another. The economic struggle requires the political rights just named, which, however, do not fall from heaven, but require for their attainment and assertion the most energetic political activity. The political struggle itself, however, is in the last instance also an economic struggle; often it is downright directly such a one, for example in matters of tariffs, worker protection, and the like. The political struggle is only a particular form of the economic struggle, the most comprehensive and usually also the most incisive one.</p>
 ```
 
 :::
@@ -2236,7 +2252,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Not only the laws that directly concern the working class in particular, but also the great majority of the others touch its interests more or less. Like every other class, therefore, the working class too must strive after political influence and political power, must strive to make the state power serviceable to itself.</p>
 ```
 
 :::
@@ -2256,7 +2272,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>For this there are in the <em>modern</em> state two ways: first, the personal influencing of the head of state. This was (and is) in the absolutistically governed states the only possibility of acting upon the administration of the state. It lies in the interest of those classes which have personal access to the head of state and are in a position to acquire his favour, to make him dependent upon themselves or to prove themselves useful to him. These classes—the court nobility, the higher clergy, the heads of the army and of the bureaucracy, and finally the great creditors, the gentlemen of high finance—are therefore the natural defenders of the absolute form of government.</p>
 ```
 
 :::
@@ -2276,7 +2292,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>All the other classes of the population can, in a modern great state, gain influence over the administration of the state only by means of a <em>parliament</em> elected by them, a parliament that lays down the conditions under which the classes it represents are prepared to grant the necessary contributions of the population for the state budget. The right and the possibility of <em>refusing taxes</em> is the foundation out of which the rights of making or rejecting laws and of overthrowing ministries have developed, rights that belong to every parliament which really deserves this name, which is more than what has been called a fig-leaf of absolutism.</p>
 ```
 
 :::
@@ -2296,7 +2312,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We may leave direct legislation by the people out of consideration here. At least in a modern great state — and it is only with such that we are here concerned — it cannot render parliament superfluous; at most it can come into operation alongside parliament in individual cases to correct it. To have it manage the entire legislation of the state is absolutely impossible, and just as impossible is it to supervise the state administration through it and, if necessary, to direct it. As long as the modern great state exists, the centre of gravity of political activity will always lie in its parliament.</p>
 ```
 
 :::
@@ -2316,7 +2332,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The ultimate consequence of parliamentarism is the parliamentary republic; whether this still retains the monarchy as a decoration, as the English do, or not, is fairly immaterial. In fact, in a truly parliamentary-governed country the state administration falls into complete dependence on the parliament, which holds the money-bag, that is, the soul of the modern state as of every modern enterprise, in its hand. And a king without money is today even worse off than a king without land.</p>
 ```
 
 :::
@@ -2336,7 +2352,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The striving of all classes that develop an independent, vigorous political life and that have no prospect of reaching their goal more quickly through personal influence upon the head of state is directed, in the modern state, on the one hand towards increasing the power of parliament and on the other towards increasing their power within parliament. The power of parliament depends on the strength and courage of the classes that stand behind it, and on the strength and courage of the classes upon which it has to impose its will. The power of a class within parliament depends first of all on the shape of the electoral law. Classes that possess no franchise cannot, of course, be represented in parliament. But then it depends on the power and influence which this class exercises over the circles of voters, and finally it depends on the aptitude of the class in question for parliamentary activity.</p>
 ```
 
 :::
@@ -2356,7 +2372,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The first points require no elaboration; only to the last shall a few words be devoted. Parliamentary activity is not everybody's affair. It presupposes a certain adroitness, which is acquired only through a longer, especially oratorical, effectiveness in public life. It further requires a wider horizon, an eye capable of grasping questions of general national and international significance. The peasant population, and likewise the greater part of the petty-bourgeois population, lacks these preconditions for participation in parliamentary life. We have seen that gainful labour claims these circles entirely. But that labour isolates them, separates one from another, restricts the intercourse of each to a small circle. Their horizon is necessarily an exceedingly restricted one; even questions of the most general significance they measure by the yardstick of personal, or at most local, momentary needs. Their living conditions not only hinder the development of parliamentary politicians among them, they also hinder these classes from combining into firm national (in the sense of embracing the class throughout the whole nation) parties. They form incoherent masses, ruled by momentary moods; they are not only incapable of sending representatives from their own class into parliament, they are also incapable of keeping the men of their choice under sharp control. A handicraftsman, or even a genuine peasant, in a parliament is a white raven. If the peasants and petty bourgeois want to be represented in parliament, then they elect not one of their own kind but an advocate or professor if they are liberal, a great landowner, cleric or higher official if they are conservative. That such a deputy, even if he has honest intentions, does not constitute the most fitting representative of the interests of the handicraftsmen and peasants is clear. But very often he has no honest intentions at all. Once in parliament, he can do as he pleases; his electors lack all means of influencing him. At most they can let the traitor fall through at the next election — in order to elect another traitor.</p>
 ```
 
 :::
@@ -2376,7 +2392,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>No wonder that peasants and petty bourgeois are ill-disposed towards parliamentarism. It stands quite otherwise with the bourgeoisie. It has at its disposal all the material and intellectual means to safeguard its interests both in the electoral contests and in the struggles within parliament itself. It commands not only sufficient monetary resources, it also finds in its ranks numerous educated men, men with knowledge of the world, men who are accustomed to administer great social organizations, men who have made a profession out of knowledge of the law, indeed out of speaking: advocates and professors. No other class has hitherto equalled it in this; it has therefore dominated the parliaments right up to the most recent times, and parliamentarism has shown itself to be the means most in accordance with its nature and most effective for securing to it the domination in the state and for making the strength of the lower classes politically serviceable to it.</p>
 ```
 
 :::
@@ -2396,7 +2412,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The radical petty bourgeois who would like to put an end to capitalism is therefore inclined to see in parliamentarism the chief cause that maintains and perpetuates the bondage of the lower classes. He will have nothing to do with it and is convinced that only by a complete turning away from parliamentarism can the overthrow of the bourgeoisie be brought about. The one party demands the complete replacement of parliament by direct legislation, the others go still further; since they recognize that in the modern state politics and parliamentarism are inseparably bound together, they condemn all political activity whatsoever. That may sound very revolutionary, but is in fact nothing but a political declaration of bankruptcy on the part of the lower classes.</p>
 ```
 
 :::
@@ -2416,7 +2432,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The proletariat stands in a more favourable position towards parliamentarism than peasants and petty bourgeois. We have already seen how the modern mode of production raises the proletarian above philistinism, how it awakens in him a thirst for knowledge and an understanding of the totality of phenomena, of great questions of general significance. By this alone he is superior as a politician to the petty bourgeois and peasant. He is more readily capable of grasping party principles, he inclines to a principled politics, uninfluenced by momentary moods, personal or local interests. But the conditions of life in which he finds himself also compel him to unite with his comrades in great masses, to act uniformly with them. His conditions of life produce in him a strict discipline, which, however, he demands of his own champions just as it is demanded of him. And activity on behalf of the proletarian organizations, as well as activity within them, is an excellent parliamentary school; it accustoms to parliamentary forms, trains speakers, men versed in the law, and organizers.</p>
 ```
 
 :::
@@ -2436,7 +2452,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The proletariat is therefore capable — and it has already proved it, as one knows best in Germany — of forming a party of its own, independent of the other classes, which neither peasants nor petty bourgeois have hitherto succeeded in doing, and which they are also unlikely ever to succeed in doing anywhere else; it also knows very well how to control its representatives and to keep them serviceable to its interests <a href="#ch5-n11" id="ch5-f11" name="ch5-f11">[11]</a>; finally, it finds ever more people in its own ranks who are capable of representing it successfully as deputies in parliament.</p>
 ```
 
 :::
@@ -2456,7 +2472,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Where the proletariat, as a self-conscious class, takes part in the struggles over parliament (particularly the electoral struggles) and within parliament, parliamentarism too begins to change its former character. It ceases to be a mere instrument of domination of the bourgeoisie. It is precisely these struggles which prove to be the most powerful means of rousing the still indifferent strata of the proletariat, of instilling in them confidence and joyful hope; they prove to be the most powerful means of welding the various strata of the proletariat ever more firmly into a unified working class, and finally also the most powerful means presently at the disposal of the proletariat for influencing the state power in its favour and for wringing from it those concessions which, according to the circumstances, can for the time being be wrung from it at all: in short, these struggles belong among the most effective levers for raising the proletariat out of its economic, social and moral degradation.</p>
 ```
 
 :::
@@ -2476,14 +2492,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The working class therefore not only has no reason to keep away from parliamentarism, it has every reason to be active in the most decisive manner everywhere for the strengthening of parliament against the state administration and for the strengthening of its representation in parliament. Alongside the <em>right of combination</em> and <em>freedom of the press</em>, <em>universal suffrage</em> constitutes a <em>condition of life</em> for the flourishing development of the proletariat.<br/> <a id="ch5-t10" name="ch5-t10"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 10. Die Arbeiterpartei
+##### 10. The Workers' Party
+
+<p class="de-subtitle">10. Die Arbeiterpartei</p>
 
 ::: {.parallel-container}
 
@@ -2498,7 +2516,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">Not in all countries does the working class already possess these conditions of life; almost nowhere does it possess them to a sufficient degree; almost everywhere there exists the tendency to curtail again what has already been won by it. It requires long and sacrificial struggles for the working class to gain and to assert the necessary political rights.</p>
 ```
 
 :::
@@ -2518,7 +2536,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the beginnings of its political struggles the proletariat's task is sometimes made easier by struggles within the propertied classes themselves. The industrial capitalists, the merchants, the landowners, the courtly, absolutist classes, and so forth, very often fall into fierce discord with one another. Under these circumstances each of them seeks allies, whom it tries to induce, by means of a small concession, to attach themselves to it. Often, after victory has been won, the ally is then cheated out of its share of the spoils; on the other hand, a political party has also often seen itself moved to grant one of the lower classes a significant political right, in order thereby to enable it to render useful services to that party.</p>
 ```
 
 :::
@@ -2538,7 +2556,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The ruling parties have often enough appealed to the proletariat; they have themselves dragged it into the arena of political struggle. As long as it had <em>not</em> yet attained an independent politics, they regarded it as mere "voting cattle," which, like the peasants and petty bourgeois, could be exploited to render heerbann service to its own exploiters. And indeed, often enough it has performed this service.</p>
 ```
 
 :::
@@ -2558,7 +2576,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Meanwhile, the interests of the proletariat and those of the bourgeoisie are of too antagonistic a nature for the political endeavours of the two classes to be able to be united with one another in the long run. Sooner or later, in every country of the capitalist mode of production, the participation of the working class in politics must lead to its detaching itself from the bourgeois parties and forming an independent party, the <em>Workers' Party.</em> This lies in the nature of the matter and, after our expositions concerning the interests, endeavours and views of the two classes, requires no further elucidation.</p>
 ```
 
 :::
@@ -2578,7 +2596,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>When the proletariat in a country comes to take this decisive step, to cut, as it were, the umbilical cord that politically links it to bourgeois society, from whose womb it has emerged—this depends above all on the level of economic development of the country in question, by which indeed the extent, strength and cohesion of the proletariat are chiefly determined. But there is also a series of other conditions which are of significance for the earlier or later occurrence of the political independence of the working class. Two in particular are to be named here: the level of the working class's insight into political and economic conditions, and the conduct of the bourgeois parties towards it. Both conditions have hitherto in Germany been particularly favourable to the political detachment of the workers from the bourgeoisie, much more favourable than in any other of the great industrial states; and so it has come about that in Germany the labour movement, with regard to independence from the bourgeois parties, is far ahead of the labour movements of other countries.</p>
 ```
 
 :::
@@ -2598,7 +2616,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But however different, under the influence of the various conditions, the moment may be at which the labour movement of the individual countries of the capitalist mode of production condenses into a separate workers' party, in each of these countries economic development brings it about with natural necessity.</p>
 ```
 
 :::
@@ -2618,7 +2636,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Every political party, however, must set political rule as its goal. It must strive to make the state power subservient to itself, that is, to the interests of the class it represents; it must strive to become the ruling party in the state. With the fact that the working class organises itself as an independent party, this goal is given to it with natural necessity, and just as naturally does economic development bring about the attainment of that goal. Here too, as with the detachment of the workers from the bourgeois parties, the <em>moment</em> of the occurrence of this event depends not on the level of the country's industrial development alone, but alongside this a series of other conditions of a national and international nature act as co-determinants. The <em>manner</em> too in which it takes place can be very different. But what can be doubtful to no one who has followed the economic and political development of modern society, especially in the course of this century, is <em>the natural necessity of the final victory of the proletariat.</em> While it increases ever more in extent, in moral and political strength and in economic indispensability, while the class struggle educates it to solidarity and discipline and widens its horizon, while its organisations steadily grow in scope and cohesion, while in the domain of the capitalist mode of production it becomes ever more the most important and finally the sole working class, upon whose activity the whole of society is dependent, the classes hostile to the proletariat melt away ever more in number, lose visibly in moral and political strength, and become not only superfluous but in part downright obstructive to the progress of production, which under their direction falls into ever more hopeless confusion and conjures up ever more intolerable conditions.</p>
 ```
 
 :::
@@ -2638,7 +2656,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In view of this, there is no doubt as to which side victory will finally incline. Long ago the propertied classes were seized with dread at their approaching end. They will not admit to themselves the terribleness of their situation; they seek to lie it away and to shout it away in jubilation; they blind themselves in order not to see the abyss towards which they are hastening, and do not notice that through their self-delusion they accelerate their downfall and make it still more disastrous.</p>
 ```
 
 :::
@@ -2658,7 +2676,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The proletariat, as the lowest of the exploited classes—the lumpenproletariat is not exploited; it itself belongs to the parasites—cannot, however, use the rule it has conquered, as other classes before it have done, to shift the burden of exploitation onto other shoulders, to make itself into an exploiting class. It must use it to put an end to its own exploitation, and thereby to all exploitation in bourgeois society. The root of its exploitation, however, is private property in the means of production. The proletariat can only remove the former if it abolishes the latter. If its <em>propertylessness</em> makes it <em>possible</em> to win the proletariat over to the abolition of this private property, then its <em>exploitation compels</em> the proletariat to carry out this abolition and to put cooperative production in the place of capitalist production.</p>
 ```
 
 :::
@@ -2678,7 +2696,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But we have seen that this cannot become the general form of production under the dominion of commodity production. In order to put cooperative production generally in place of capitalist production, it is indispensable that at the same time production for the community and under the control of the community takes the place of production for the market — of commodity production. <em>Socialist production</em> is thus the naturally necessary consequence of the victory of the proletariat. Should the proletariat not consciously wish to use its dominion in the state to seize the means of production by means of the state power and to put socialist production in place of capitalist commodity production, then the logic of the facts would ultimately call this into being, though perhaps only after various blunders, errors and superfluous sacrifices, after a useless squandering of energy and time. But socialist production will and must come. Its victory is inevitable as soon as that of the proletariat has become inevitable. The proletariat <em>must</em> strive to use its victory for the removal of its exploitation, and it <em>cannot</em> reach this goal in any way other than through socialist production. Economic and political development itself offers the points of connection for this in the large-scale enterprises, the cartels, the state economy; it will itself press the proletariat in the direction of socialism, it will cause any possible attempt of the victorious proletariat of a country to move in another direction to fail, and so this proletariat will ultimately tread the path of socialism even if it should at first be averse to it.</p>
 ```
 
 :::
@@ -2698,7 +2716,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is, however, by no means to be expected that the proletariat of any country should adopt such a rejecting attitude once it has come to power. That would mean nothing other than that it remained at the childhood stage in its consciousness and its knowledge, while it matured economically, politically and morally into the man who possesses the strength and the ability to overcome his powerful opponents and to force his will upon them. Such a disproportion in development is, however, in the case of the proletariat precisely most improbable. We have already pointed out several times how, thanks to the machine, there grows in the proletariat, as soon as it has once raised itself out of its initial degradation, a theoretical sense, a receptivity for great problems and goals lying beyond the sphere of momentary interests, such as one would search for in vain among the other working and gainfully occupied classes before it and above it. At the same time, however, the economic development of present-day society proceeds so rapidly and expresses itself in such striking mass phenomena that it becomes recognisable even to the unlearned as soon as he has once been pointed to it. And this pointing is not lacking, for at the same time the insight into the course of economic development and the whole economic mechanism has become an exceedingly deep- and far-reaching one, thanks to the continuation by <em>Karl Marx</em> of the work begun by bourgeois classical economics.</p>
 ```
 
 :::
@@ -2718,7 +2736,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Everything combines to make the fighting proletariat receptive in the highest degree to the socialist doctrines. Socialism is for it no message of misfortune, but a glad tidings, a new gospel. The ruling classes cannot recognise socialism without committing moral suicide. The proletariat draws from it new life, new strength, enthusiasm and joyful hope. And should it in the long run stand indifferent or even rejecting towards such a doctrine?</p>
 ```
 
 :::
@@ -2738,7 +2756,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Where it comes to the formation of an independent workers' party, this party must with natural necessity sooner or later adopt socialist tendencies, if it is not filled with such from the outset; it must ultimately become a <em>socialist</em> workers' party: <em>Social Democracy.</em></p>
 ```
 
 :::
@@ -2758,7 +2776,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We now see its principal recruiting ground precisely delimited before us. Briefly put, the result of our latest expositions shows the following: it is the fighting strata of the industrial proletariat, which have attained political self-consciousness, that form the bearers of the socialist movement. But the more the influence of the proletariat grows upon the social strata neighbouring on it, the more it influences their feeling and thinking, the more these too are drawn into the socialist movement.</p>
 ```
 
 :::
@@ -2778,14 +2796,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The class struggle of the proletariat has as its natural goal socialist production; it cannot end before this has been attained. As certainly as the proletariat must ultimately become the ruling class in the state, just as certain is the victory of socialism.<br/> <a id="ch5-t11" name="ch5-t11"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 11. Die Arbeiterbewegung und der Sozialismus
+##### 11. The Labour Movement and Socialism
+
+<p class="de-subtitle">11. Die Arbeiterbewegung und der Sozialismus</p>
 
 ::: {.parallel-container}
 
@@ -2800,7 +2820,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The socialists by no means recognised from the outset the role which the fighting proletariat is called upon to play in the socialist movement. They could not do so, of course, as long as there was no fighting proletariat. Socialism, however, is older than the class struggle of the proletariat. It is as old as the appearance of the proletariat as a mass phenomenon. But this had existed for a long time without any stirring of independent life. The first and, at that time, the only root of socialism was the <em>compassion</em> which the philanthropists of the upper classes felt for the poor and the wretched. The socialists were the boldest and most far-sighted of these friends of humanity, those who most clearly recognised the roots of the proletariat in private property in the means of production, and who did not shrink from drawing the most extreme conclusions from this recognition. Socialism was the most characterful, most penetrating and most magnificent expression of bourgeois philanthropy. There was no class interest to which the socialists could then appeal in the struggle for their aims; they could only turn to the enthusiasm and the sympathy of the idealists in the upper classes; they sought to win them over, on the one hand through alluring portrayals of a socialist community, and on the other through vivid depictions of the prevailing misery. Not through struggle, but through peaceful persuasion, were the rich and powerful to be moved to provide the means for a thorough alleviation of misery, for the establishment of the ideal society. The socialists of this period, as is well known, waited in vain for the millionaires and princes whose magnanimity was to redeem humanity.</p>
 ```
 
 :::
@@ -2820,7 +2840,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the first decades of our century the proletariat began to give signs of an independent life. In the thirties we already find a vigorous labour movement in France and especially in England.</p>
 ```
 
 :::
@@ -2840,7 +2860,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the socialists confronted it without understanding. They did not consider it possible that the poor, ignorant, coarse proletarians could ever attain that moral height and social power which are required for carrying through the socialist aspirations. But it was not merely distrust that they felt towards the labour movement. It also became inconvenient for them, if only for the reason that it threatened to rob them of an effective argument. For the bourgeois socialists could only hope that the sensitive bourgeois would perceive the necessity of socialism if they succeeded in proving that this was the only means of stemming misery even to some degree, that every attempt at an alleviation of misery, at an elevation of the propertyless, would prove futile in modern society, and that it was impossible for the proletarians to raise themselves by their own strength. But the labour movement proceeded from premises which contradicted this train of thought. To this was added yet another factor. The class struggle between the proletariat and the bourgeoisie naturally embittered the latter against the aspiring proletarians. In the eyes of the bourgeoisie these were transformed from pitiable unfortunates who had to be helped into a depraved rabble that had to be beaten down and held down. The chief root of socialism in bourgeois circles, compassion for the poor and the wretched, began to wither. The socialist doctrines themselves no longer appeared to the alarmed bourgeoisie as a harmless plaything, but as a highly dangerous weapon which might fall into the hands of the multitude and thereby cause untold calamity. In short, the more strongly the labour movement grew, the more difficult socialist propaganda became in the ruling classes, and the more hostilely these confronted socialism.</p>
 ```
 
 :::
@@ -2860,7 +2880,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>As long as the socialists held the view that the means for attaining the socialist aims could come only from the upper classes, they were bound accordingly not only to confront the labour movement with distrust, but often even to arrive at decided hostility towards it, and to incline to the view that nothing damaged the cause of socialism more than the class struggle.</p>
 ```
 
 :::
@@ -2880,7 +2900,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The dismissive attitude of the bourgeois socialists towards the labour movement was naturally not without influence on the position of the latter towards socialism. If the aspiring part of the proletariat found among these socialists in its struggles not only no support, but rather resistance, if their doctrines threatened to discourage it instead of firing it, then distrust and aversion against the totality of the socialist doctrines, and not merely against their application to the struggles of the present, could all too easily take root in the proletariat. This was favoured by the lack of education and the thoughtlessness which prevailed among the masses even of the fighting proletarians at the beginning of the labour movement. The narrowness of their horizon made it difficult for them to grasp the ultimate aims of socialism, and they still lacked an insightful and clear consciousness of the social position and the tasks of their class; they felt only a dull <em>class instinct</em> which taught them to regard with distrust everything that came from the bourgeoisie, and hence also the socialism of that time as well as bourgeois philanthropy in general.</p>
 ```
 
 :::
@@ -2900,7 +2920,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In some strata of workers, especially in England, the distrust of socialism took deep root at that time. Its after-effects are in part to be credited – alongside many other causes – for why England, until a decade ago, was as good as inaccessible to socialist aspirations, although the more recent socialism takes a quite different attitude towards the labour movement than that of the bourgeois utopians.</p>
 ```
 
 :::
@@ -2920,7 +2940,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Nevertheless, however great the gulf between the fighting proletariat and socialism might at times become, the latter corresponds so much to the needs of the more far-thinking proletarian that even where the masses confronted socialism with hostility, the best minds of the working class gladly turned to it, in so far as they had the opportunity to become acquainted with its doctrines. Through them the views of the bourgeois socialists now underwent an important transformation. They did not, like the latter, have to show consideration for the bourgeoisie, which they hated and bitterly combated; the peaceful socialism of the bourgeois utopians, which wanted to bring the redemption of humanity by means of the intervention of the best elements of the upper classes, was transformed among the workers into a violent, revolutionary socialism, whose realisation proletarian fists were to see to.</p>
 ```
 
 :::
@@ -2940,7 +2960,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But this primitive workers' socialism, too, had no understanding of the labour movement; it too stood in hostile opposition to the class struggle—at least to its highest form, the political one. Admittedly for different reasons than the bourgeois utopians. Scientifically, it was impossible for it to advance beyond the latter. The proletarian can at best appropriate a part of the knowledge that bourgeois scholarship has brought to light and process it in accordance with his purposes and needs, but he lacks—so long as he remains a proletarian—the leisure and the means to carry science independently beyond the measure attained by bourgeois thinkers. Thus the primitive workers' socialism too was bound to bear all the essential characteristics of utopianism: it had no inkling of the economic development which creates the material elements of socialist production and, through the class struggle, rears and matures that class which is called upon to seize these elements and to develop the new society out of them. Like the bourgeois utopians, these proletarians too believed that a form of society was a building which could be erected arbitrarily according to a predetermined plan, if only one had the means and the site for it. The strength to see to the construction the proletarian utopians, as energetic and bold as they were naive, already credited to themselves; the only question was to procure for them the necessary site and the necessary means. They naturally awaited no millionaire and no prince who would place these at their disposal; the <em>revolution</em> was to supply what was needed, was to tear down the old building, shatter the old powers, and confer upon the inventor or the small group of inventors of the new building plan the dictatorship which would enable the new Messiah to erect the edifice of socialist society.</p>
 ```
 
 :::
@@ -2960,7 +2980,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In this line of thought the class struggle found no place. The proletarian utopians felt too bitterly the misery in which they lived not to wish impatiently for its immediate abolition. Even if they had considered it possible that the class struggle could gradually raise the proletariat and enable it to develop society further, this procedure would have seemed to them far too cumbersome. But they did not believe in this elevation. They stood at the beginnings of the labour movement; the strata of proletarians who took part in it were few, and among these few fighting proletarians only isolated individuals were to be found who had anything more in view than the safeguarding of their momentary interests. To educate the great mass of the population to socialist thinking seemed hopeless. The only thing this mass could accomplish was an outburst of despair, in which it destroyed the existing order and thereby cleared the path for the socialists. The worse things went for the masses, the nearer, so the primitive workers' socialists believed, must be the moment when their condition became so unbearable for them that they burst asunder the social superstructure that was crushing them. A struggle for the gradual elevation of the working class was, in the view of these socialists, not merely hopeless, it was decidedly harmful, because the slight improvements it might temporarily achieve made the existing order more bearable for the masses and thereby postponed the moment of their uprising and of the collapse of the existing order, and with it also the moment of the thorough abolition of misery. Every form of the class struggle that did not aim at the immediate and complete overthrow of the existing order, and thus every form of it that could be taken seriously and was effective, was accordingly regarded in the eyes of these socialists as nothing less than a <em>betrayal of the cause of humanity.</em></p>
 ```
 
 :::
@@ -2980,7 +3000,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is more than half a century since this line of thought, which perhaps found its most brilliant expression through <em>Weitling</em>, emerged in the working class. It has not yet died out today. The inclination towards it appears in every stratum of the proletariat that is preparing to enter the ranks of the fighting proletariat; it appears in every country whose proletariat is beginning to attain consciousness of its unworthy and unbearable condition and to fill itself with socialist tendencies, without yet possessing clear insight into social conditions and without crediting itself with the strength for a sustained class struggle; and since ever new strata of the proletariat rise up out of the mire into which economic development has pressed them down, and since ever new countries fall prey to the capitalist mode of production and to proletarianisation, this line of thought of the primitive utopian workers' socialists can arise ever anew. It is a childhood disease which threatens every young proletarian-socialist movement that has not yet advanced beyond utopianism.</p>
 ```
 
 :::
@@ -3000,7 +3020,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Nowadays this kind of socialist outlook is termed <em>anarchism,</em> but it is by no means necessarily bound up with the latter. Since it springs not from clear insight but only from instinctive rebellion against the existing order, it is compatible with the most diverse theoretical standpoints. But it is true that in more recent times the crude and violent socialism of the primitive proletarian and the often very sensitive, delicately strung and peaceable anarchism of the refined petty bourgeois are fond of joining together, since, for all their profound differences, they have one thing in common: aversion to, indeed hatred of, the sustained class struggle, in particular of its highest form, the political struggle.</p>
 ```
 
 :::
@@ -3020,14 +3040,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>As little as the bourgeois, the proletarian utopian socialism was able to overcome the opposition between socialism and the labour movement. It is true that participation in the class struggle was at times forced upon the proletarian utopians by circumstances, but given their theoretical instability, this participation did not amount to an eventual union of socialism and the labour movement, but to a displacement of the former by the latter. It is well known that the anarchist movement (the word here taken in the sense of this proletarian utopianism) has, wherever it became a mass movement, a real class struggle, always ended sooner or later, despite its apparent radicalism, in guild-minded mere trade-unionism.<br/> <a id="ch5-t12" name="ch5-t12"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 12. Die Sozialdemokratie – die Vereinigung von Arbeiterbewegung und Sozialismus
+##### 12. Social Democracy – the Union of the Labour Movement and Socialism
+
+<p class="de-subtitle">12. Die Sozialdemokratie – die Vereinigung von Arbeiterbewegung und Sozialismus</p>
 
 ::: {.parallel-container}
 
@@ -3042,7 +3064,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">If the socialist movement and the labour movement were to be reconciled with one another and fused into a single unified movement, then socialism had to be raised above the sphere of ideas belonging to utopianism. To have accomplished this is the world-historical deed of <em>Marx</em> and <em>Engels,</em> who in 1847 laid the scientific foundations of the new, modern socialism, or, as one says today, of Social Democracy, in their <strong>Communist Manifesto</strong>. They thereby gave socialism a backbone; they made it, which until then had been a beautiful dream of a few well-meaning enthusiasts, into a serious object of struggle; they demonstrated it to be the naturally necessary consequence of economic development. To the fighting proletariat, however, they gave a clear consciousness of its historical tasks, and they enabled it to hasten toward its great goal as quickly and with as few sacrifices as possible. The socialists no longer have the task of freely <em>inventing</em> the new society, but rather of <em>discovering</em> its elements in the existing society. They no longer have to bring the proletariat its redemption from its misery from above, but rather have to support its class struggle by increasing its insight and promoting its economic and political organisations, so that it may ripen more quickly and more painlessly toward the moment when it is able to redeem itself. <em>To shape the class struggle of the proletariat as purposefully and expediently as possible, that is the task of Social Democracy.</em></p>
 ```
 
 :::
@@ -3062,7 +3084,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A further exposition of the train of thought of the doctrine of Marx and Engels is not necessary, for the whole of the present book rests upon it, is nothing but a presentation and elaboration of it.</p>
 ```
 
 :::
@@ -3082,7 +3104,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The class struggle of the proletariat acquires a new character through this doctrine. As long as socialist production is not set for it as a conscious goal, as long as the strivings of the fighting proletariat do not go beyond the framework of the existing mode of production, the class struggle apparently always moves in a circle, without advancing from the spot, and the proletariat's struggle for a satisfactory existence appears as a Sisyphean labour. For the depressing tendencies of the capitalist mode of production are not eliminated by the class struggle and its achievements, but at best only somewhat pushed back. The proletarianisation of the middle strata of society proceeds uninterruptedly; incessantly, individual members and whole strata of the working classes are pushed down into the lumpenproletariat; incessantly, the profit-madness of the capitalists threatens all the achievements of the better-placed strata of the working class. Every shortening of working time, whether won through economic or political struggle, becomes the occasion for the introduction of labour-saving machinery, for the more intense exertion of the workers; every improvement of the proletarian organisations is answered by an improvement of the capitalist organisations, and so forth. And with this, unemployment grows, the crises increase in extent and depth, the insecurity of existence becomes ever greater and more tormenting. The elevation of the working class which the class struggle brings about is less an economic than a moral one. The economic conditions of the proletarians on the whole improve only little and slowly as a result of the class struggle and its achievements — if they improve at all. But the self-respect of the proletarians rises, and the respect which the other classes of society pay them; they begin to feel themselves equal to those placed higher and to compare their fate with theirs; they begin to make greater demands upon themselves, upon their dwelling and clothing, their knowledge, the education of their children, and so forth; they demand to take part in all the achievements of culture. And they become ever more sensitive to every slight and oppression.</p>
 ```
 
 :::
@@ -3102,7 +3124,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This moral elevation of the proletariat is equivalent to the awakening and steady growth of its "covetousness." This grows much more rapidly than the improvements of its economic condition compatible with the present mode of exploitation can increase. All these improvements, of which some hope and others again fear that they would make the workers content, must lag behind the demands of the workers, which are the naturally necessary consequence of their moral elevation. The consequence of the class struggle can therefore always only be an increase in the discontent of the proletariat with its lot. A discontent which naturally makes itself felt most strongly there where the economic elevation of the proletariat lags furthest behind its moral elevation, but whose increase cannot in the long run be prevented anywhere. And thus the class struggle ultimately appears as purposeless and fruitless if it does not strive beyond the existing mode of production. The higher it raises the proletarian, the further he sees himself from the goal of his striving, a contented existence corresponding to his conceptions of human dignity.</p>
 ```
 
 :::
@@ -3122,7 +3144,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only socialist production can put an end to the disproportion between the demands of the workers and the means of satisfying them, by abolishing exploitation and class distinctions; it thereby removes that powerful incentive to the worker's discontent with his lot which today is produced by the example of the exploiters' luxury. Once this incentive is cleared out of the way, the limitation of the workers' demands to the measure compatible with the available means of satisfying their needs follows of itself. How greatly socialist production increases these means themselves, we have already seen.</p>
 ```
 
 :::
@@ -3142,7 +3164,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Gnawing discontent, "covetousness," is unknown in communist societies. On the other hand, it arises with natural necessity out of class antagonism and exploitation there where the exploited feel themselves morally equal or even superior to the exploiters. Once an exploited class has come this far, then its "covetousness" will not be stilled until it has put an end to its exploitation.</p>
 ```
 
 :::
@@ -3162,14 +3184,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>So long, therefore, as the class struggle of the proletariat stood in opposition to socialism, so long as it aimed at nothing more than to win for the proletariat a satisfactory position by means of concessions within the framework of the present society, it was impossible for it to attain its goal. It resembled an endless screw. It is quite otherwise since the socialist movement has been fused with the labour movement: now the latter has a goal towards which it visibly draws nearer; now all sides of this struggle become significant, even those which do not directly entail practical consequences, provided only that they promote the self-consciousness and standing of the proletariat, its cooperative cohesion and its discipline. Now many an apparently lost battle becomes a victory; now every lost strike, every rejected bill that should have served the interests of the proletariat, means a step forward towards the goal of attaining a life worthy of a human being. From now on it becomes apparent that all economic and political measures taken with regard to the proletariat turn out to its advantage, whether they pursue tendencies hostile or friendly to it, whether they succeed or fail, so long only as they contribute to its awakening and moral elevation. From now on the struggling proletariat no longer resembles an army that cannot move from the spot and only with the greatest losses laboriously holds the positions it has once won; now it becomes clear, little by little, even to the dullest eye, that it is an irresistible conqueror whose triumphal march nothing can hinder.<br/> <a id="ch5-t13" name="ch5-t13"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 13. Die Internationalität der Sozialdemokratie
+##### 13. The Internationality of Social Democracy
+
+<p class="de-subtitle">13. Die Internationalität der Sozialdemokratie</p>
 
 ::: {.parallel-container}
 
@@ -3184,7 +3208,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">The new socialism founded by Marx and Engels had its origin in Germany. Its two founders were Germans, Germans were their first pupils, and the first writings that expounded it appeared in the German language. This alone explains—though it was by no means the sole cause—why the fusion of the labour movement with socialism was first accomplished in Germany, why <em>Social Democracy</em> first took root in <em>Germany</em>—whereby Germany here is to be understood not as the German Reich, but as every region inhabited by a larger number of German-speaking workers.</p>
 ```
 
 :::
@@ -3204,7 +3228,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the spread of Social Democracy has not remained confined to Germany. The founders of modern socialism recognised from the outset the international character which the labour movement of today strives everywhere to assume, and therefore sought from the beginning to give their propaganda an international basis.</p>
 ```
 
 :::
@@ -3224,7 +3248,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>International intercourse is necessarily bound up with the capitalist mode of production. Its development out of simple commodity production is most intimately connected with the development of world trade. This, however, is not possible without the peaceful intercourse of the individual nations with one another; for its unfolding it requires that the foreign merchant be protected in the country with which he trades just as he is in his own. Through the development of world trade the merchant is also greatly raised on the social ladder. His way of thinking begins to greatly influence the way of thinking of society as a whole. But the merchant has always been a mobile element; his principle has ever been: <em>Ubi bene, ibi patria</em>—where things go well for me, where there are profits to be had, there is my fatherland.</p>
 ```
 
 :::
@@ -3244,7 +3268,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Thus, to the extent that world trade and capitalist production spread, cosmopolitan tendencies develop within bourgeois society, the desire for an eternal peace among the nations, for a fraternisation of peoples.</p>
 ```
 
 :::
@@ -3264,7 +3288,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the capitalist mode of production generates the strangest contradictions; just as it is at once characterised by the tendencies toward the increase of equality and of inequality, toward the depression of the proletariat into the deepest degradation and toward its elevation to the ruling class, toward the complete freedom of the individual and toward his utter enslavement side by side, so too, hand in hand with its tendency toward the fraternisation of peoples goes the tendency toward the heightening of national antagonisms. Intercourse requires peace, but competition generates war. If in every country there exists a perpetual state of war among the individual capitalists and the individual classes with one another, so too there is one between the capitalists and capitalist classes of the individual nations. Every nation seeks to extend the market for its products and to drive the others from that market. The more developed world intercourse becomes, the more necessary world peace becomes, the more savage the competitive struggle, the greater the danger of hostile collisions between the individual nations. The more intimate the international intercourse, the louder the demand for national self-enclosure. The stronger the need for peace, the more threatening the danger of war: these seemingly mad contradictions correspond perfectly to the character of the capitalist mode of production. They already lie concealed within simple commodity production, but only capitalist production unfolds them into the gigantic and the intolerable. That it heightens the warlike tendencies to the same degree that it makes peace indispensable is only one of the many contradictions from which it must perish.</p>
 ```
 
 :::
@@ -3284,7 +3308,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The proletariat takes no part in the contradictory attitude that arises from this for the other classes of present-day society. The more it develops and becomes an independent class, the more clearly there appears, in the most varied fields, the phenomenon that of two opposing tendencies of the capitalist mode of production only <em>one</em> touches it, while the other becomes ever more ineffective for it. Thus, for example, the present-day mode of production simultaneously generates the tendency toward the combination of producers in large associations for common activity and the tendency toward the bitter struggle of all (producers) against all. In the proletariat the second tendency ceases to operate. Instead of the antagonism between <em>monopoly</em> and <em>competition</em>, which wears out and rends the bourgeoisie, we find here more and more only the former tendency active in the direction of strengthening and extending proletarian <em>solidarity.</em> A natural consequence of this “one-sidedness” is that increasingly it is also only the tendency toward intimate <em>international union</em> that influences the proletarians of the various civilised countries, and that the tendency toward <em>national self-enclosure</em> and <em>national struggle</em> loses all effect in their ranks.</p>
 ```
 
 :::
@@ -3304,7 +3328,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The capitalist mode of production has, by making the worker propertyless, detached him from the soil. He no longer has a fixed home and therefore also no fixed homeland. Like the merchant, he too adopts the principle: Ubi bene, ibi patria—where the best working conditions are, there is my homeland. The journeymen artisans had already begun to extend their wanderings into foreign lands, and the beginnings of an international connection, to which we have already pointed, were the consequence of this. But what are these wanderings compared with the modern ones, such as the development of present-day traffic makes possible! And the journeyman artisan wandered with the intention of returning to his homeland; the modern proletarian wanders with wife and child in order to remain where the best working conditions are attainable for him. He is not a tourist, but a nomad.</p>
 ```
 
 :::
@@ -3324,7 +3348,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Like the proletarian, the merchant too—at least the merchant of world trade—seeks to make himself independent of the soil and to settle where he believes he can best safeguard his business interests. But he does not thereby lose the connection with his fatherland. For his standing abroad, his position, the possibility of conducting business unhindered and of duping his foreign colleagues, depends for the most part on the importance and power of the state to which he belongs, which protects him. The merchant abroad therefore remains nationally minded; as a rule these gentlemen are the most chauvinistic fellows; they feel most immediately what the greatness of their fatherland means for their purse. It is otherwise with the proletarian. He has not been spoilt in his homeland by state protection of his interests; as a rule he does not need the protection of his fatherland abroad either, at least in the civilised countries. On the contrary, when he seeks out a foreign country, it is usually one whose laws and state administration are more favourable to the workers than those of his homeland. And his new fellow workers have no interest whatsoever in depriving him, say, of his legal protection in the very case in which he needs it most urgently, namely as against his exploiter. Their own interest rather commands them to see to it that his power of resistance against his exploiter grows.</p>
 ```
 
 :::
@@ -3344,7 +3368,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Quite differently from the wandering journeyman artisan of the guild era and from the merchant, the modern proletarian is therefore detached from his soil. He becomes a true citizen of the world; the whole world is his homeland.</p>
 ```
 
 :::
@@ -3364,7 +3388,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Admittedly, this world citizenship brings with it manifold disadvantages, sometimes downright dangers, for the workers of those countries in which a higher standard of living and better working conditions prevail, in which immigration therefore outweighs emigration. For it is undeniable that these higher-standing workers are hampered in their class struggle by the competition of the less demanding and less resistant immigrants.</p>
 ```
 
 :::
@@ -3384,7 +3408,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Under certain circumstances, this competition can, just like the competition among the capitalists of different nations, lead to a sharpening of national antagonisms, to national hatred of the native workers against the foreigners. But the nationality struggle, which is a permanent phenomenon in the circles of the bourgeoisie, can in the circles of the proletarians always be only of a transitory nature.</p>
 ```
 
 :::
@@ -3404,7 +3428,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>For sooner or later they must come to the recognition – if not in another way, then through bitter experience – that the immigration of cheap labour-power from backward into economically advanced regions is just as necessarily bound up with the capitalist mode of production as the introduction of machinery and the penetration of women into industry, and that it can be suppressed just as little as these two last phenomena.</p>
 ```
 
 :::
@@ -3424,7 +3448,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In another way, the labour movement of an advanced country is harmed by the backwardness of the workers in foreign countries, in that the degree of exploitation which the latter tolerate serves the capitalists of the former country as a good pretext, sometimes as a real reason, for opposing the efforts of their workers to improve their working conditions through legislation or “free” agreement.</p>
 ```
 
 :::
@@ -3444,7 +3468,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In the one way as in the other, it is also made clear to the workers who remain in the country how dependent the progress of their class struggle is on the progress of the working class in other countries. This may temporarily fill them with resentment against the foreign workers, but in the end the insight nonetheless breaks through among them that there is only <em>one</em> effective means of removing the hampering influences of the backwardness of foreign countries: <em>the removal of this backwardness itself.</em> The German workers have every reason to wish, and, as far as it is possible for them, to work towards, that the Slavic and Italian workers, abroad as at home, should attain higher wages and shorter working hours; the English workers have the same interest with regard to the German and others, the American workers with regard to the European workers in general.</p>
 ```
 
 :::
@@ -3464,7 +3488,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The close dependence in which the class struggle of the proletariat of one country stands upon the class struggles of the other countries leads with natural necessity to the close union of the fighting proletarian strata of the various countries.</p>
 ```
 
 :::
@@ -3484,7 +3508,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>More and more the remnants of national seclusion and national hatred, which the proletariat took over from the bourgeoisie, disappear; more and more it frees itself from the national prejudices; more and more the worker learns to recognise and value in the foreign fellow-worker, whatever language he may speak, the comrade in struggle, the comrade.</p>
 ```
 
 :::
@@ -3504,7 +3528,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Most intimate of all, naturally, must the international solidarity become between those proletarian strata of the various nations that have set themselves the same goals and pursue them with the same means.</p>
 ```
 
 :::
@@ -3524,7 +3548,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>How indispensable the international combination of the class struggles of the proletariat is, if they are to go beyond a definite framework in respect of goal, strength and scope, the authors of the <strong>Communist Manifesto</strong> recognised from the outset. It addresses itself to the <em>proletarians of all countries</em> and closes with the appeal to them: “Unite!” And the organisation which they had won over to the principles of the Manifesto, and in whose name it was issued, was an <em>international</em> one, the <em>“League of Communists”.</em></p>
 ```
 
 :::
@@ -3544,7 +3568,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The consequences of the suppression of the revolutionary movements of 1848 and 1849 put an end to this League, but with the reawakening of the labour movement in the beginnings of the sixties it too arose again in the <em>“International Working Men's Association”</em> (founded 1864), whose soul was once more Marx. Its task was not only to awaken the feeling of international solidarity in the proletarians of the various countries, but also to give them a common goal and to have them take a common path towards it. The former task it fulfilled in ample measure; in the other it partly failed. The “International” was to bring about the union of the fighting proletariat with modern socialism in all countries. It declared that the emancipation of the working classes can be won only by these themselves; that the political movement is a mere means to this goal; and that the emancipation of the proletariat is impossible so long as its dependence on the monopolists of the means of production, the sources of life, continues. Against these principles there arose in the “International” an opposition all the stronger the clearer it became that their consequence was social democracy. All those adherents of bourgeois, petty-bourgeois and primitive-proletarian utopianism, still relatively so numerous 20 and 30 years ago, as well as the representatives of the guild-minded pure-and-simple trade unionism of a labour aristocracy, broke away from the “International” when they noticed where it was heading. The fall of the Commune of Paris in 1871 and the persecutions by the state power in the various countries of the European continent furthered its downfall.</p>
 ```
 
 :::
@@ -3564,7 +3588,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But the consciousness of international solidarity, which it had scattered abroad, could not be stifled.</p>
 ```
 
 :::
@@ -3584,7 +3608,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Since then the ideas of the <strong>Communist Manifesto</strong> have seized the fighting proletariat of all Europe (and various proletarian strata outside Europe); everywhere the fusion of the class struggle with modern socialism is either already accomplished or in rapid course of accomplishment. The foundations, goals and means of the proletarian class struggle everywhere become more and more the same. From this there arose of itself an ever closer contact between the socialist labour movements of the various countries; the international consciousness became ever more powerful within them, and it needed only an external impulse to give this fact visible expression.</p>
 ```
 
 :::
@@ -3604,7 +3628,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This, as is well known, happened on the occasion of the hundredth anniversary of the storming of the Bastille, at the international congress of <em>Paris</em> (1889). The congress at <em>Brussels</em> (1891) gave the opportunity to confirm anew the international connection of the fighting proletariat, which moreover receives its visible expression every year in the <em>May Day celebration.</em> It is not isolated thinkers and enthusiasts, regarded as eccentrics by the mass of their class comrades, who come together at these congresses, as at the peace congresses of the bourgeoisie, but the representatives and spokesmen of hundreds of thousands, indeed millions, of working men and women. Every May Day celebration shows in the most impressive manner that it is the <em>masses</em> of the working population who, in all the centres of economic and political life in all the countries of modern culture, are conscious of the international solidarity of the proletariat, who protest against war and declare that the so-called national antagonisms are in fact no longer antagonisms of the peoples, but only antagonisms of their <em>exploiters.</em></p>
 ```
 
 :::
@@ -3624,7 +3648,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Such a bridging of the gulf between the individual nations, such an international unification of the broadest strata of the people, world history has not yet seen. This process appears all the more magnificent since it takes place in the shadow of a war cloud, which for its part likewise promises to offer a spectacle such as world history has never yet witnessed, a war cloud that threatens Europe with unspeakably horrible devastation.</p>
 ```
 
 :::
@@ -3644,14 +3668,16 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>In view of this situation, Social Democracy has the twofold obligation to emphasise its international standpoint decisively. This has also been done in the most emphatic manner in the Erfurt Programme.<br/> <a id="ch5-t14" name="ch5-t14"> </a></p>
 ```
 
 :::
 
 :::
 
-##### 14. Die Sozialdemokratie und das Volk
+##### 14. Social Democracy and the People
+
+<p class="de-subtitle">14. Die Sozialdemokratie und das Volk</p>
 
 ::: {.parallel-container}
 
@@ -3666,7 +3692,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="fst">Social Democracy is, from the very outset and by its entire nature, an international party. But at the same time it also has the tendency to become more and more a <em>national party,</em> that is, a people's party, in the sense that it becomes the representative not merely of the industrial wage labourers, but of all the working and exploited strata, and thus of the great majority of the entire population, of that which one commonly calls the "people." We have already seen that the industrial proletariat has the tendency to become ultimately the sole working class. We have also already pointed out that the other working classes are becoming ever more similar to the proletariat in their standard of living and their working conditions; finally, we already know that the working proletariat is the only one among the working classes which is continually increasing in strength, intelligence, and consciousness of its aim, that it is becoming more and more the centre around which the steadily dwindling remnants of the other working classes group themselves. Its feeling and thinking become ever more decisive for the entire mass of the "little people."</p>
 ```
 
 :::
@@ -3686,7 +3712,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To the extent that the wage labourers take over the leadership of the people, the workers' party becomes a people's party. Indeed, as soon as the independent worker of the small-scale enterprise feels like a proletarian, as soon as he recognises that he, or at the very least his children, are irretrievably fallen prey to the proletariat, that there is no salvation for him other than the emancipation of the proletariat – from that moment on he must see in Social Democracy the natural representative of his interests.</p>
 ```
 
 :::
@@ -3706,7 +3732,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We have already explained in the previous chapter that he has no cause to fear its victory, that this victory rather also lies in his interest, for it means the bringing about of a condition of society which grants to all workers – not merely to the wage labourers, but also to the independent workers of the small-scale enterprises – liberation from exploitation and oppression, the attainment of security and prosperity.</p>
 ```
 
 :::
@@ -3726,7 +3752,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But Social Democracy represents the interests of all the "little people" not merely in the <em>future,</em> but already in <em>present-day society.</em> The proletariat, as the lowest of the exploited strata, cannot free itself from exploitation and oppression without destroying every kind of exploitation and oppression. It is therefore the sworn enemy of these, in whatever form they may appear; it is the champion of all the exploited and oppressed.</p>
 ```
 
 :::
@@ -3746,7 +3772,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>We spoke above of the "International." It is now significant that the occasion for its founding was a proletarian demonstration in favour of the <em>Poles</em> rising up against the yoke of the Tsar; that the first address which the "International" issued after its constitution was an address of congratulation to Lincoln, the President of the United States, in which the workers' society gave expression to its sympathies for the cause of the <em>emancipation of the slaves;</em> and that finally the "International" was the first organisation existing in England and counting Englishmen among its members which took the side of the <em>Irish,</em> mistreated by the ruling classes of England, and did so in the most vigorous manner. Neither the Irish nor the Polish movement, nor the emancipation of the slaves, had directly anything to do with the class interests of the wage-labouring body.</p>
 ```
 
 :::
@@ -3766,7 +3792,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Similar examples could be drawn by the dozen from the history of every socialist workers' movement.</p>
 ```
 
 :::
@@ -3786,7 +3812,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is said, to be sure, that Social Democracy builds upon the progress of economic development; that socialist production has as its precondition the fullest possible displacement of the small-scale enterprise by the large-scale enterprise on all sides. Social Democracy, therefore, has an interest in the downfall of the small-scale enterprises, in the downfall of the small artisans, small traders, small peasants; it must promote their ruin, and can thus impossibly be active in their interest.</p>
 ```
 
 :::
@@ -3806,7 +3832,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>To this the following is to be replied: Social Democracy does not <em>make</em> the economic development; the displacement of the small-scale enterprise by the large-scale enterprise is accomplished most thoroughly by the capitalist class without any assistance on its part. It is true that it has no cause to set itself against this development. But to wish to halt economic development in no way means to represent the real interests of the small peasants and petty bourgeois. For all attempts in that direction must fail; insofar as they come to any effect at all, they can only do harm, not benefit. To hold out to the artisans and peasants measures by which their small-scale enterprises are to be made viable in no way means to represent their interests; it rather means to awaken illusions in them which can never be realised and which divert them from the right path to the best representation of their interests.</p>
 ```
 
 :::
@@ -3826,7 +3852,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>But even if the downfall of the small-scale enterprise is unavoidable, it is nevertheless by no means unavoidable that this downfall should proceed precisely amid all the hideous accompanying phenomena which as a rule attach to it today. We have seen that the disappearance of a small-scale enterprise is only the final act of a long drama, in whose earlier acts nothing else is played out than the slow and agonising decline of the independent small producer. But Social Democracy not only has not the slightest interest in the small bourgeois and small peasants declining; it rather has the greatest interest that this should not be the case. For the more decayed the circles are from which the proletariat is recruited, the more difficult it is to raise these recruits so far that they become capable and willing to enter the ranks of the <em>fighting proletariat.</em> But upon <em>its</em> expansion, not upon the expansion of the entire proletariat, depend the expansion and strength of Social Democracy. The fewer his needs, the more accustomed to endless labour the peasant and artisan is, the more devoid of resistance he proves to be as soon as he has sunk into the proletariat, the more he lets himself be exploited, the more he harms the higher-standing workers through his competition. In part the same reasons which bring about the international solidarity of the workers also lead to a solidarity of the proletariat with the classes from which it is recruited – a solidarity, to be sure, which up to now has as a rule been felt and practised only from one side, that of the proletarians.</p>
 ```
 
 :::
@@ -3846,7 +3872,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Of course, when the sinking small peasants and petty bourgeois seek to keep themselves above water at the expense of the proletarians, for instance through excessive exploitation of apprentices or through obstructing the organisation of their wage labourers, they will always meet with the energetic resistance of the proletariat and of Social Democracy. On the other hand, the latter enters most decidedly in favour of a series of measures by which, without detriment to the proletariat, but rather with its simultaneous promotion, considerable <em>improvements</em> and <em>reliefs</em> for the small peasant and petty bourgeois are brought about.</p>
 ```
 
 :::
@@ -3866,7 +3892,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This becomes clearly and distinctly evident from the demands which Social Democracy makes upon the present-day state as <em>immediately to be realised.</em> The enumeration of these demands forms the second part of the Erfurt Programme. It reads as follows:</p>
 ```
 
 :::
@@ -3886,7 +3912,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">Proceeding from these principles, the Social Democratic Party of Germany demands first of all:</p>
 ```
 
 :::
@@ -3906,7 +3932,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">1. Universal, equal, direct suffrage and voting rights with secret ballot for all citizens of the Reich over 20 years of age without distinction of sex, for all elections and votes. Proportional representation, and until its introduction, statutory redistricting of the constituencies after every census. Two-year legislative periods. Holding of elections and votes on a statutory day of rest. Compensation for the elected representatives. Abolition of every restriction of political rights except in the case of legal incapacitation.</p>
 ```
 
 :::
@@ -3926,7 +3952,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">2. Direct legislation by the people by means of the rights of proposal and rejection. Self-determination and self-government of the people in the Reich, state, province, and municipality. Election of officials by the people, together with their responsibility and liability. Annual granting of taxes.</p>
 ```
 
 :::
@@ -3946,7 +3972,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">3. Education for universal capacity to bear arms. A people's militia in place of the standing armies. Decision over war and peace by the popular representative body. Settlement of all international disputes by means of arbitration.</p>
 ```
 
 :::
@@ -3966,7 +3992,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">4. Abolition of all laws which restrict or suppress the free expression of opinion and the right of association and assembly.</p>
 ```
 
 :::
@@ -3986,7 +4012,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">5. Abolition of all laws which place women at a disadvantage relative to men in matters of public and private law.</p>
 ```
 
 :::
@@ -4006,7 +4032,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">6. Declaration of religion to be a private matter. Abolition of all expenditure from public funds for ecclesiastical and religious purposes. The ecclesiastical and religious communities are to be regarded as private associations which order their affairs entirely independently.</p>
 ```
 
 :::
@@ -4026,7 +4052,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">7. Secular character of the school. Compulsory attendance at the public elementary schools. Free provision of instruction, of teaching materials, and of board in the public elementary schools as well as in the higher educational institutions for those male and female pupils who, by virtue of their abilities, are deemed suited to further education.</p>
 ```
 
 :::
@@ -4046,7 +4072,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">8. Free administration of justice and legal counsel. Adjudication by judges elected by the people. Right of appeal in criminal cases. Compensation for those innocently accused, arrested, and convicted. Abolition of the death penalty.</p>
 ```
 
 :::
@@ -4066,7 +4092,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">9. Free medical assistance, including obstetric care and remedies. Free burial of the dead.</p>
 ```
 
 :::
@@ -4086,7 +4112,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">10. A progressively graduated income and property tax to meet all public expenditure, insofar as this is to be covered by taxes. Obligation of self-assessment. An inheritance tax, graduated progressively according to the size of the estate and according to the degree of kinship. Abolition of all indirect taxes, tariffs, and other economic-policy measures which sacrifice the interests of the general public to the interests of a privileged minority.</p>
 ```
 
 :::
@@ -4106,7 +4132,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">For the protection of the working class, the Social Democratic Party of Germany demands first of all:</p>
 ```
 
 :::
@@ -4126,7 +4152,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">1. An effective national and international labour protection legislation on the following basis:</p>
 ```
 
 :::
@@ -4146,7 +4172,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">a) The fixing of a normal working day amounting to at most eight hours.</p>
 ```
 
 :::
@@ -4166,7 +4192,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">b) Prohibition of gainful employment for children under fourteen years of age.</p>
 ```
 
 :::
@@ -4186,7 +4212,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">c) Prohibition of night work, except for those branches of industry which by their nature, for technical reasons or for reasons of public welfare, require night work.</p>
 ```
 
 :::
@@ -4206,7 +4232,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">d) An uninterrupted rest period of at least 36 hours in every week for every worker.</p>
 ```
 
 :::
@@ -4226,7 +4252,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">e) Prohibition of the truck system.</p>
 ```
 
 :::
@@ -4246,7 +4272,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">2. Supervision of all industrial enterprises, investigation and regulation of working conditions in town and country by an Imperial Labour Office, district labour offices and labour chambers. Thoroughgoing industrial hygiene.</p>
 ```
 
 :::
@@ -4266,7 +4292,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">3. Legal equalisation of agricultural labourers and domestic servants with industrial workers; abolition of the servants' regulations.</p>
 ```
 
 :::
@@ -4286,7 +4312,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">4. Safeguarding of the right of association.</p>
 ```
 
 :::
@@ -4306,7 +4332,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="quoteb">5. Assumption of the entire workers' insurance by the Reich, with the workers having a decisive share in its administration.</p>
 ```
 
 :::
@@ -4326,7 +4352,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>A closer examination of these points does not lie within the plan of this work, which concerns itself merely with the <em>principles</em> of Social Democracy, not with the <em>practical conclusions</em> that follow from them. These conclusions concern us here only in so far as they can serve to illustrate those principles. From this standpoint we shall attach a few brief remarks to them, which are to conclude our work; for we have arrived at the end of the train of thought pursued by the fundamental part of the Erfurt Programme.</p>
 ```
 
 :::
@@ -4346,7 +4372,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Above all it becomes apparent to us that only a part of the demands of Social Democracy are pure workers' demands, that is to say, such demands as are raised exclusively in the interest of the wage proletariat. By far the greatest part of the demands, on the other hand, concerns the sphere of interests which the proletariat has in common with the other strata of the working population.</p>
 ```
 
 :::
@@ -4366,7 +4392,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Some of these demands are also raised by <em>bourgeois</em> democracy; the others, however, can only be raised by Social Democracy as the <em>only</em> anti-capitalist party, and even the bourgeois-democratic demands are championed by no party with the emphasis that it gives them. It seeks to raise the standard of living of the common people and to relieve them by the abolition of indirect taxes, by shifting the greatest burden of taxation onto the rich by means of a progressive income tax, by the abolition of the standing armies, by the elimination of the system of state debts most intimately bound up with them, and so forth. It seeks to raise the common people <em>intellectually</em>, while at the same time relieving them economically, in that it demands not merely a free elementary-school education satisfying all the requirements of modern culture, but also the free provision of teaching materials and the maintenance of the schoolchildren by the community. It alone is the party which wishes to offer the "little man" free, adequate medical assistance and nursing care and free administration of justice, free legal aid.</p>
 ```
 
 :::
@@ -4386,7 +4412,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Only measures lying in the direction of these demands are capable of improving the situation of the independent workers of the small-scale enterprises in present-day society as far as is at all possible. To help the artisans and peasants as <em>producers</em> while retaining their backward modes of operation contradicts the course of economic development and is impracticable. It is equally impossible to raise them all, or even a considerable part of them, to the status of capitalists. The <em>mass</em> of these "little people" can be given some help only as <em>consumers</em>. But it is precisely the parties apparently most kindly disposed towards the artisans and peasants that burden them most as consumers. This burden is a real one and painfully perceptible. The raising up of the small-scale enterprises which is supposed to go hand in hand with it, on the other hand, becomes ever more nothing but mere shadow-boxing.</p>
 ```
 
 :::
@@ -4406,7 +4432,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The raising up of the petty bourgeois and small peasants as consumers not only does not contradict economic development, it is a means of promoting it. It is therefore not only possible, but for this very reason to be striven for, quite apart from numerous other reasons which spring partly from rational considerations, partly from the stirrings of compassion with the poor, decaying peasants and petty bourgeois. The better their situation as consumers, the higher their standard of living, the greater their bodily and intellectual claims, the greater their insight, the sooner will they cease to want to wage the struggle against the large-scale enterprise by means of <em>starvation competition</em>, the sooner will they give up the hopeless struggle and strengthen the ranks of the proletariat; but not the ranks of its humble, defenceless, undemanding lowest strata. They will enter directly into the ranks of the fighting, "covetous", purposeful proletarians and thereby accelerate their victory.</p>
 ```
 
 :::
@@ -4426,7 +4452,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>This victory will not arise out of degradation, as many have believed; just as little out of the degradation of the petty bourgeoisie and the peasantry as out of that of the proletariat. Social Democracy has every reason to counteract degradation on the one side just as decidedly as on the other, and it does so, too, as far as its powers reach. To strengthen these powers therefore lies not merely in the interest of the wage labourers alone, but equally in the interest of all other members of the population who live from their labour, not from exploitation.</p>
 ```
 
 :::
@@ -4446,7 +4472,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The petty bourgeoisie and the peasantry have never really been able, as long as the modern state has existed, to assert their interests by themselves alone against the other classes. Today they are less able to do so than ever. To safeguard their interests they must combine with one or several other classes. Their instincts, reared by private property, drive them into the arms of the bourgeois parties, that is to say, to combination with one of the various groups of the upper propertied classes. The bourgeois parties themselves seek this combination, partly out of purely party-political needs, because they see in the common people the "voting cattle" that they need, but partly also out of more deeply lying considerations. For they know very well that the private property of the small peasants and petty bourgeois still forms today the strongest support of private property in general, and thereby also of the exploitation which they practise. The <em>prosperity</em> of the little man is a matter of indifference to them. To burden him as a <em>consumer</em>, they are ready at once. Let him decay, so long as only his small-scale enterprise does not vanish entirely, the enterprise which keeps him confined within the circle of private property. Meanwhile all these parties are interested in the extension of capitalist exploitation, that is to say, in the advance of economic development. They may indeed <em>wish</em> to preserve the peasant and the artisan, they may also <em>promise</em> it to him, but <em>in fact</em> they do everything in their power to extend the dominance of the large-scale enterprise and to crush peasant and artisan production.</p>
 ```
 
 :::
@@ -4466,7 +4492,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>Quite different is the relationship between the independent workers of the small-scale enterprises and Social Democracy. It cannot, to be sure, advocate the preservation of the small-scale enterprise, but in fact the latter has nothing to fear from it. It is the capitalists and the large landowners, not the proletarians, who expropriate the artisans and peasants. The victory of the proletariat is rather, as we have seen in the previous chapter, the only means of putting an end to these expropriations. As <em>consumers</em>, however, the independent workers of the small-scale enterprises have the same interests as the proletarians. They have therefore every reason to bring about the safeguarding of their interests through combination with the latter, that is to say, through joining Social Democracy.</p>
 ```
 
 :::
@@ -4486,7 +4512,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>It is admittedly not to be expected that this insight will spread among them all too rapidly. Yet the desertion of the petty bourgeois and peasants from the ranks of the bourgeois parties has already begun — a desertion of a quite peculiar kind, for it is precisely the ablest, the most combative, who are the first to throw down their weapons, not in order to escape the turmoil of battle, but in order to flee from the petty struggle to sustain a wretched existence into the gigantic, world-moving struggle for the bringing about of a new society, one that lets all its members share in the great achievements of modern culture; into the struggle for the liberation of the whole of civilised humanity, indeed of the whole of humanity, from the spell of a society that threatens to crush it.</p>
 ```
 
 :::
@@ -4506,7 +4532,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The more unbearable the existing mode of production becomes, the more evidently it hastens towards its bankruptcy, and the more incapable the ruling parties prove of removing the alarmingly growing social ills; the more unprincipled and lacking in principle these parties become, shrinking ever more into cliques of personally interested politicians — the more numerously will the members of the non-proletarian classes stream to the Social Democracy and, hand in hand with the irresistibly advancing proletariat, follow its banner to victory and triumph.</p>
 ```
 
 :::
@@ -4528,7 +4554,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="note"><a href="#ch5-f9" id="ch5-n9" name="ch5-n9">9.</a> How close the servant and the courtier are to one another is shown to us in amusing fashion by Le Sage’s novel <strong>Gil Blas,</strong> that classic natural history of servitude. On the other side, the servant extends his hand to the lumpenproletarian. Gil Blas rises, without changing in his essential nature, from the lowest servant and companion of rogues to the secretary and favourite of the first minister at the Spanish court.</p>
 ```
 
 :::
@@ -4548,7 +4574,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="note"><a href="#ch5-f10" id="ch5-n10" name="ch5-n10">10.</a> This highly important book <strong>[The Condition of the Working Class in England</strong> – <em>Ed.</em>] was first published in 1845. The third edition of it is now appearing from the publishing house of J.H.W. Dietz in Stuttgart.</p>
 ```
 
 :::
@@ -4568,7 +4594,7 @@ subtitle: "V. Der Klassenkampf"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p class="note"><a href="#ch5-f11" id="ch5-n11" name="ch5-n11">11.</a> One may perhaps counter this assertion with the English “labour members,” who have so often betrayed the English working class in Parliament; but these gentlemen owe their election not to the influence of the working class as a whole, but to that of a guild-minded, arrogant labour aristocracy that wishes to raise itself above the proletariat. Messrs. Broadhurst and company have always acted only in the sense of these their principals.</p>
 ```
 
 :::
