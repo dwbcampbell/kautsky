@@ -15,11 +15,107 @@ website:
         contents:
           - chapters/vorwort-92.qmd
           - chapters/vorwort-04.qmd
-          - chapters/ch1.qmd
-          - chapters/ch2.qmd
-          - chapters/ch3.qmd
-          - chapters/ch4.qmd
-          - chapters/ch5.qmd
+          - section: "I. The Decline of Small-Scale Enterprise"
+            href: chapters/ch1.qmd
+            contents:
+              - text: "1. Small-Scale Enterprise and Private Property"
+                href: chapters/ch1.qmd#small-scale-enterprise-and-private-property
+              - text: "2. Commodity and Capital"
+                href: chapters/ch1.qmd#commodity-and-capital
+              - text: "3. The Capitalist Mode of Production"
+                href: chapters/ch1.qmd#the-capitalist-mode-of-production
+              - text: "4. The Death Struggle of Small-Scale Enterprise"
+                href: chapters/ch1.qmd#the-death-struggle-of-small-scale-enterprise
+          - section: "II. The Proletariat"
+            href: chapters/ch2.qmd
+            contents:
+              - text: "1. The Proletarian and the Journeyman Artisan"
+                href: chapters/ch2.qmd#the-proletarian-and-the-journeyman-artisan
+              - text: "2. The Wage of Labour"
+                href: chapters/ch2.qmd#the-wage-of-labour
+              - text: "3. The Dissolution of the Proletarian Family"
+                href: chapters/ch2.qmd#the-dissolution-of-the-proletarian-family
+              - text: "4. Prostitution"
+                href: chapters/ch2.qmd#prostitution
+              - text: "5. The Industrial Reserve Army"
+                href: chapters/ch2.qmd#the-industrial-reserve-army
+              - text: "6. The Growing Expansion of the Proletariat"
+                href: chapters/ch2.qmd#the-growing-expansion-of-the-proletariat-the-commercial-and-the-educated-proletariat
+          - section: "III. The Capitalist Class"
+            href: chapters/ch3.qmd
+            contents:
+              - text: "1. Trade and Credit"
+                href: chapters/ch3.qmd#trade-and-credit
+              - text: "2. Division of Labour and Competition"
+                href: chapters/ch3.qmd#division-of-labour-and-competition
+              - text: "3. Profit"
+                href: chapters/ch3.qmd#profit
+              - text: "4. Ground Rent"
+                href: chapters/ch3.qmd#ground-rent
+              - text: "5. Taxes"
+                href: chapters/ch3.qmd#taxes
+              - text: "6. The Fall of Profit"
+                href: chapters/ch3.qmd#the-fall-of-profit
+              - text: "7. The Growth of Large-Scale Enterprises"
+                href: chapters/ch3.qmd#the-growth-of-large-scale-enterprises.-the-cartels
+              - text: "8. Economic Crises"
+                href: chapters/ch3.qmd#economic-crises
+              - text: "9. Chronic Overproduction"
+                href: chapters/ch3.qmd#chronic-overproduction
+          - section: "IV. The State of the Future"
+            href: chapters/ch4.qmd
+            contents:
+              - text: "1. Social Reform and Revolution"
+                href: chapters/ch4.qmd#social-reform-and-revolution
+              - text: "2. Private Property and Cooperative Property"
+                href: chapters/ch4.qmd#private-property-and-cooperative-property
+              - text: "3. Socialist Production"
+                href: chapters/ch4.qmd#socialist-production
+              - text: "4. The Economic Significance of the State"
+                href: chapters/ch4.qmd#the-economic-significance-of-the-state
+              - text: "5. State Socialism and Social Democracy"
+                href: chapters/ch4.qmd#state-socialism-and-social-democracy
+              - text: "6. The Construction of the Future State"
+                href: chapters/ch4.qmd#the-construction-of-the-future-state
+              - text: "7. The \"Abolition of the Family\""
+                href: chapters/ch4.qmd#the-abolition-of-the-family
+              - text: "8. The Confiscation of Property"
+                href: chapters/ch4.qmd#the-confiscation-of-property
+              - text: "9. The Distribution of Products in the 'State of the Future'"
+                href: chapters/ch4.qmd#the-distribution-of-products-in-the-state-of-the-future
+              - text: "10. Socialism and Freedom"
+                href: chapters/ch4.qmd#socialism-and-freedom
+          - section: "V. The Class Struggle"
+            href: chapters/ch5.qmd
+            contents:
+              - text: "1. Socialism and the Propertied Classes"
+                href: chapters/ch5.qmd#socialism-and-the-propertied-classes
+              - text: "2. Domestic Servants and the Servant Class"
+                href: chapters/ch5.qmd#domestic-servants-and-the-servant-class
+              - text: "3. The Lumpenproletariat"
+                href: chapters/ch5.qmd#the-lumpenproletariat
+              - text: "4. The Beginnings of the Wage Proletariat"
+                href: chapters/ch5.qmd#the-beginnings-of-the-wage-proletariat
+              - text: "5. The Rise of the Wage Proletariat"
+                href: chapters/ch5.qmd#the-rise-of-the-wage-proletariat
+              - text: "6. The Conflict of the Tendencies"
+                href: chapters/ch5.qmd#the-conflict-of-the-tendencies-elevating-the-proletariat-and-those-depressing-it
+              - text: "7. Philanthropy and Labour Protection Legislation"
+                href: chapters/ch5.qmd#philanthropy-and-labour-protection-legislation
+              - text: "8. The Trade Union Movement"
+                href: chapters/ch5.qmd#the-trade-union-movement
+              - text: "9. The Political Struggle"
+                href: chapters/ch5.qmd#the-political-struggle
+              - text: "10. The Workers' Party"
+                href: chapters/ch5.qmd#the-workers-party
+              - text: "11. The Labour Movement and Socialism"
+                href: chapters/ch5.qmd#the-labour-movement-and-socialism
+              - text: "12. Social Democracy"
+                href: chapters/ch5.qmd#social-democracy-the-union-of-the-labour-movement-and-socialism
+              - text: "13. The Internationality of Social Democracy"
+                href: chapters/ch5.qmd#the-internationality-of-social-democracy
+              - text: "14. Social Democracy and the People"
+                href: chapters/ch5.qmd#social-democracy-and-the-people
 
 format:
   html:
