@@ -13,35 +13,10 @@ Untranslated blocks render with a visible TODO marker in the English column,
 so a draft site can be built at any stage of the translation.
 """
 
-import re
-
-from bs4 import BeautifulSoup
-
-from common import CHAPTERS, CHAPTERS_DIR, load_blocks
+from common import (CHAPTERS, CHAPTERS_DIR, flatten, heading_level,
+                    load_blocks, remap_anchors, strip_tags)
 
 STATUS_BADGE = {"flagged": " ⚑", "untranslated": "", "translated": "", "verified": ""}
-
-
-def strip_tags(html: str) -> str:
-    return BeautifulSoup(html, "lxml").get_text(" ", strip=True)
-
-
-def remap_anchors(html: str, chapter_id: str) -> str:
-    """Make footnote anchor names/hrefs unique per chapter."""
-    html = re.sub(r'href="#([^"]+)"', rf'href="#{chapter_id}-\1"', html)
-    html = re.sub(r'(name|id)="([^"]+)"', rf'\1="{chapter_id}-\2"', html)
-    return html
-
-
-def heading_level(de_html: str) -> int:
-    m = re.match(r"<h(\d)", de_html)
-    return int(m.group(1)) if m else 3
-
-
-def flatten(html: str) -> str:
-    """Single-line HTML: newlines/indentation inside a block would otherwise
-    be re-parsed by pandoc as blank lines or indented code."""
-    return re.sub(r"\s*\n\s*", " ", html).strip()
 
 
 def render_block(block: dict, chapter_id: str) -> str:

@@ -1,6 +1,6 @@
 PY := .venv/bin/python
 
-.PHONY: venv scrape segment translate qa site render clean
+.PHONY: venv scrape segment translate qa site render epub clean
 
 venv:
 	python3 -m venv .venv
@@ -25,5 +25,9 @@ site:
 render:
 	quarto render site/
 
+epub:
+	$(PY) pipeline/06_generate_epub.py
+	quarto render book/
+
 clean:
-	rm -rf site/_site site/.quarto
+	rm -rf site/_site site/.quarto book/_book book/.quarto

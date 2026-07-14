@@ -1,0 +1,312 @@
+# II. The Proletariat
+
+## 1. The Proletarian and the Journeyman Artisan
+
+```{=html}
+<p class="fst">We have already seen in the previous chapter that capitalist commodity production presupposes <em>the separation of the means of labour from the worker.</em> In the capitalist large-scale enterprise we find on the one side the <em>capitalist,</em> who owns the means of production but does not take part in production; and on the other side the <em>wage labourers,</em> the proletarians, who own nothing but their labour-power, from the sale of which they live, and whose labour alone brings forth the products of this large-scale enterprise. In order to procure the quantity of proletarians needed for the requirements of capital, there was at first, as we have seen, a need for violent assistance. Today this is no longer necessary. The superiority of the large-scale enterprise over the small-scale enterprise suffices nowadays, without violating the laws of private property, but rather on the basis of them, to expropriate year in, year out, so many peasants and artisans and cast them onto the pavement, that their number, together with the offspring of the proletarians already "set free," more than covers the capitalists' demand for fresh human flesh.</p>
+```
+
+```{=html}
+<p>That the number of proletarians grows incessantly and rapidly is such an obvious fact that not even those dare to deny it who would have us believe that society still stands today on the same foundations on which it stood a hundred and more years ago, and who show us the future of the small-scale enterprise in the rosiest light.</p>
+```
+
+```{=html}
+<p>Just as in production the capitalist large-scale enterprise has become the dominant form of enterprise, so in state and society the wage labourer – in particular the industrial wage labourer – has taken the first place among the working classes. Four hundred years ago it was still the peasants, a hundred years ago still the petty bourgeois, who occupied this place.</p>
+```
+
+```{=html}
+<p>The proletarians are today already the strongest class in the civilised states; it is their conditions and views that increasingly determine the life and thought of the other working classes as well. This, however, signifies a complete revolution in the traditional living conditions and forms of thought of the great mass of the population. For the conditions of the proletarians, especially the industrial ones (and agriculture too becomes an industry under the capitalist mode of production), are entirely different from those of the earlier strata of workers.</p>
+```
+
+```{=html}
+<p>When the peasant and the artisan are the free owners of their means of production, the full product of their labour also belongs to them. The product of the proletarian's labour, by contrast, belongs not to him but to the capitalist, the buyer of his labour-power, the owner of the necessary means of production. To be sure, the proletarian is paid for it by the capitalist, but the value contained in his wage in no way coincides with the value of his product.</p>
+```
+
+```{=html}
+<p>When the industrial capitalist buys the commodity labour-power, he does so of course only with the intention of using it in a profitable manner. We have seen that the expenditure of a certain quantity of labour creates a certain quantity of value. The more the worker produces, the greater will be – all other circumstances being equal – the value he has created. If the industrial capitalist were to let the wage labourer he has hired work only long enough for the value produced by him to equal the value of the wage he receives, then the entrepreneur would achieve no profit. But however gladly the latter may pose as the benefactor of suffering humanity, capital cries out for profit, and it finds no deaf ear with the capitalist. The longer the worker toils in the service of capital beyond the labour time necessary to produce the value of his wage, the greater is the surplus of the total value of the product produced by him over the sum of value that his wage represents, the greater is the <em>surplus value,</em> as this surplus is called, the greater the exploitation of the worker. This finds its limit only in the exhaustion of the exploited and – in his power of resistance against the exploiter.</p>
+```
+
+```{=html}
+<p>For the proletarian, therefore, private property in the means of production signifies from the outset something different than it does for the artisan and peasant. Whereas for these it was originally a means to secure to them the full possession of their product, for the proletarian it has never been anything other, and will never be anything other, than a means of exploiting him, of withholding from him the surplus value he has created. The proletarian is therefore anything but an enthusiast for private property. In this, however, he differs not merely from the propertied peasant and artisan, but also from the journeyman artisan of the pre-capitalist period.</p>
+```
+
+```{=html}
+<p>The journeymen formed the transition from the independent artisan to the proletarian, just as the enterprises in which they were employed in larger numbers formed the transition from the small-scale enterprise to the large-scale enterprise. But nevertheless, how different they were from the proletarian!</p>
+```
+
+```{=html}
+<p><em>They belonged to the master's family and had the prospect of one day becoming masters themselves. The proletarian is thrown entirely upon himself and condemned to remain forever a proletarian.</em> In these two points is summed up the ground of the difference between the journeyman artisan and the proletarian.</p>
+```
+
+```{=html}
+<p>Since the journeyman belonged to the master's family, he ate with him at the same table and slept in his house. The housing question and the stomach question did not exist for him. His money wage was only a part of what he received from the master for his labour-power. The wage served less to satisfy the most necessary needs, which were indeed satisfied by living with the master, than to acquire comforts or to <em>save,</em> to accumulate the means that the journeyman needed in order to attain the position of master.</p>
+```
+
+```{=html}
+<p>The journeyman worked together with the master. If the latter extended the working time excessively, he did so not only for his journeyman but also for himself. The master's endeavour to extend the labour to the point of exhaustion was therefore not very strong and could mostly be curbed without great effort. If the master sought to arrange his working conditions as pleasantly as possible, this also benefited his journeymen.</p>
+```
+
+```{=html}
+<p>The means of production that the small master needed were so slight that the journeyman did not require a great fortune in order to become a master himself. Every journeyman therefore had a master's position in prospect, he already felt himself to be a future master, and since <em>saving</em> was to furnish him the means for attaining mastership, he was just as decided an advocate of private property as the independent artisan.</p>
+```
+
+```{=html}
+<p>It should be well understood that we have here in mind the conditions of the crafts as they had developed in the pre-capitalist period.</p>
+```
+
+```{=html}
+<p>Now let us compare with this the conditions of the proletarian.</p>
+```
+
+```{=html}
+<p>In the capitalist enterprise, wage labourer and capitalist are not active together. Even though in the course of economic development the industrial capitalist separates from the actual merchant, and the capitalists of commerce and those of industry become two different classes, the industrial capitalist nevertheless remains at bottom a merchant. His activity as a capitalist – insofar as he is active at all in his enterprise – is confined, like that of the tradesman, to the <em>market.</em> His task is to buy the necessary raw materials, auxiliary materials, labour-power, etc., as suitably and as cheaply as possible, and to sell the commodities finished in his enterprise as dearly as possible. In the sphere of <em>production</em> he has nothing to do but to see to it that the workers perform as much labour as possible for the smallest possible wage, that as much surplus value as possible is squeezed out of them. Towards his workers he is not a <em>fellow worker,</em> but a <em>driver</em> and an <em>exploiter.</em> The longer they work, the better for him. He does not grow tired when the working time lasts too long, he does not perish when the mode of working is a murderous one.</p>
+```
+
+```{=html}
+<p>The capitalist is therefore far more ruthless towards the body and life of the worker than the craft master had been. Extension of the working day, abolition of holidays, introduction of night work, work in damp or overheated workplaces or in ones filled with harmful gases, etc., etc. – these are the „improvements“ that the capitalist enterprise brings with it for the worker.</p>
+```
+
+```{=html}
+<p>The introduction of machinery increases still further the dangers to the worker's health and life. He is now chained to a monster that strikes about it incessantly with gigantic forces and insane speed. Only the most strained, never-slackening attentiveness can protect the worker at such a machine from being seized and crushed by it. Protective devices cost money; the capitalist does not introduce them unless compelled to do so. Thriftiness is indeed the chief virtue of the capitalist; it also bids him economise on space, to crowd as many machines as possible into a single workshop. What does he care if he thereby threatens the sound limbs of his workers to the utmost? Workers are cheap, but large, spacious workrooms are dear.</p>
+```
+
+```{=html}
+<p>In yet another way the capitalist application of machinery worsens the working conditions of the worker.</p>
+```
+
+```{=html}
+<p>The tool of the craftsman was not very costly. It was also seldom subject to major changes that would have rendered it useless. The machine is otherwise. It costs money, much money. If it becomes useless prematurely, or if it is not properly utilised, then it brings the capitalist harm instead of benefit. But the machine wears out not only when it is used, but also when it stands idle. On the other hand, the introduction of science into the economic mechanism – of which the machine is precisely the result – has also led to the constant making of new inventions and discoveries, now of greater, now of lesser scope, whereby now one, now another kind of machine, indeed whole factory installations, are constantly rendered incapable of competition and thus worthless before they have been fully worn out. Through these incessant revolutions of technique every machine is in danger of being devalued before it wears out. Reason enough for the capitalist to utilise it as rapidly as possible from the moment of its acquisition. That is, machinery forms a particular spur for the capitalist to extend the working time as far as possible and, where feasible, to introduce uninterrupted operation, the alternation of day and night shifts, thus to make the so ruinous night work into a standing institution.</p>
+```
+
+```{=html}
+<p>When machinery developed, some idealists declared that the golden age had come. The machine would take the worker's labour off his hands and make him a free man. But in the hand of the capitalist the machine has become the most powerful lever for making the worker's burden of labour a crushing one, his servitude an unbearable, murderous one.</p>
+```
+
+```{=html}
+<p>Just as with regard to <em>working time,</em> so too with regard to <em>wages</em> the wage labourer of the capitalist mode of production is worse off than the craft journeyman was in former times. The proletarian does not eat at the capitalist's table, does not live in his dwelling. He may live in the most wretched quarter, he may feed on the most hideous refuse, indeed he may go hungry – the capitalist's well-being is not thereby disturbed. The concepts <em>hunger</em> and <em>wage</em> formerly excluded one another. In earlier times the free worker could at most fall prey to hunger if he found no work. Whoever worked also had food to eat. To the capitalist mode of production belongs the credit of having reconciled the two opposites <em>hunger</em> and <em>wage</em> with one another and of having made the <em>starvation wage</em> into a standing institution, indeed into a pillar of society.<br/> <a id="ch2-t2" name="ch2-t2"> </a></p>
+```
+
+## 2. The Wage of Labour
+
+```{=html}
+<p class="fst">The wage of labour cannot rise so high that it makes it impossible for the capitalist to carry on his business and to live from it. For under such circumstances it would be more advantageous for the capitalist to abandon the business altogether. The worker's wage can therefore never rise so high that it equals the value of his product. It must always leave a surplus, a surplus value, for it is only the expectation of this surplus that induces the capitalist to buy labour-power. The wage of labour can therefore never rise so high in capitalist society that the exploitation of the worker comes to an end.</p>
+```
+
+```{=html}
+<p>But the surplus, the surplus value, is greater than one usually assumes. It contains not merely the profit of the manufacturer, but much of what is reckoned among the <em>costs of production</em> or of <em>sale</em>: ground rent "(rent), interest on the fixed capital, payment of the commercial staff, discount for the merchant who takes over the industrialist's commodity, taxes, and so forth. All this is deducted from the surplus by which the value of the worker's product exceeds his wage. This surplus must therefore be a fairly considerable one if an enterprise is to "pay"; the wage can accordingly never rise so far that the worker would receive in it even approximately the value of what he has created. The capitalist wage system means under all circumstances the exploitation of the wage labourer. It is impossible to abolish exploitation as long as this system exists. And even with the highest wages the exploitation of the worker must be a high-grade one.</p>
+```
+
+```{=html}
+<p>But the wage hardly ever reaches the highest level it could reach; more often, on the contrary, it approaches its lowest level. It reaches this level where it ceases to eke out for the worker even the bare necessities of life. When the worker on his wage not merely goes hungry but rapidly starves, then work ceases altogether.</p>
+```
+
+```{=html}
+<p>Between these two limits the wage fluctuates up and down; it is the lower, the smaller the customary living needs of the workers, the greater the supply of labour-power on the labour market, the smaller the workers' power of resistance.</p>
+```
+
+```{=html}
+<p>In general the wage must of course be high enough to keep the worker capable of working, or better said, it must be high enough to promise the capitalist the amount of labour-power he requires. It must therefore be high enough to enable the worker not only to keep himself capable of working, but also to raise children capable of working.</p>
+```
+
+```{=html}
+<p>The economic development now displays a tendency (inclination) most agreeable to the capitalist, namely to lower the maintenance costs of the worker, <em>but thereby also to depress wages.</em></p>
+```
+
+```{=html}
+<p>Skill and strength were formerly indispensable for the worker. The apprenticeship of the artisan was a very long one, and the costs of his training therefore fairly considerable. The advances of the division of labour and of machinery make specialised skill and strength ever more superfluous in production. They make it possible to put unskilled, cheaper labour-power in the place of skilled labour-power, but they also make it possible to replace men at work by weak women, indeed by children. Already in manufacture the inclination towards this emerges; but only with the introduction of machines into production does the mass exploitation of women and children of the tenderest age begin, the exploitation of the most defenceless among the defenceless, who are given over to the most outrageous maltreatment and drudgery. Here we come to know a new fine quality of the machine in the hands of capital.</p>
+```
+
+```{=html}
+<p>The wage labourer, who did not belong to the family of the entrepreneur, originally had to receive in his wage not only the costs of his own maintenance but also those of his family, if he was to be in a position to reproduce himself and to pass on his labour-power. Without this passing on, the heirs of the capitalist would find no proletarians whom they could exploit. But when the wife and, from early youth on, also the children of the worker are in a position to provide for themselves, then the wage of the male worker can, without endangering the maintenance of labour-power, be reduced almost entirely to the amount of the maintenance costs of his own person.</p>
+```
+
+```{=html}
+<p>In addition, the labour of women and children offers the further advantage that they offer less resistance than men. And through their enrolment into the ranks of the working population the supply of labour-power on the labour market is also enormously increased.</p>
+```
+
+```{=html}
+<p>The labour of women and children thus not merely lowers the maintenance costs of the worker; it also diminishes his power of resistance and increases the supply of labour-power: through each of these circumstances it works towards depressing the wage of the worker.<br/> <a id="ch2-t3" name="ch2-t3"> </a></p>
+```
+
+## 3. The Dissolution of the Proletarian Family
+
+```{=html}
+<p class="fst">In capitalist society, however, the industrial labour of women also signifies the complete destruction of the workers' family life, without replacing it with a higher form of family. In most cases the capitalist mode of production does not dissolve the individual household of the worker, but it robs it of all its bright sides and lets only its dark sides persist — above all the squandering of energy and the exclusion of the woman from public life. The industrial labour of the woman today does not mean her relief from housework, but rather the addition of a new burden to those she already bears. But one cannot serve two masters. The household of the worker goes to ruin when his wife must also help to earn; yet what present-day society puts in place of the individual household and the individual family is a wretched surrogate, the <em>soup kitchen</em> and the <em>pauper school,</em> which throw to the lower classes the scraps of the bodily and spiritual nourishment of the rich.</p>
+```
+
+```{=html}
+<p>The Social Democracy is accused of wanting to abolish the family. Very well, we know that every particular mode of production also has its particular form of the household, to which a particular form of the family corresponds. We do not regard the presently existing form of the family as its final one, and we expect that a new form of society will also develop a new form of the family. But such an expectation is indeed something quite different from a striving after the dissolution of every family bond. Those who abolish the family — who not merely <em>wish</em> to abolish it, but actually abolish it before our very eyes — are not the Social Democrats, but the <em>capitalists.</em> Many a slaveholder in former times tore the man from the wife, the parents from their children capable of work; but the capitalists outdo even the abominations of slavery; they tear the <em>infant</em> from the mother and compel her to entrust it to strange hands. And a society in which this happens daily in hundreds and thousands of cases, a society which has created its own "charitable" institutions, favoured by its "upper crust," which are meant to make it easier for the mother to part from her child — such a society has the effrontery to reproach us with wanting to dissolve the family, because we are convinced that the labours of the household will, more and more, as hitherto so also henceforth, develop into particular occupational activities, and thereby transform the household economy and family life!<br/> <a id="ch2-t4" name="ch2-t4"> </a></p>
+```
+
+## 4. Prostitution
+
+```{=html}
+<p class="fst">Hand in hand with the reproach that we wish to dissolve the family goes the reproach of the <em>community of women</em> which we allegedly strive for. This reproach is just as mendacious as the other. We assert, on the contrary, that precisely the opposite of any community of women, of any sexual coercion and any lewdness — namely, ideal love — will be the foundation of all marital unions in a socialist commonwealth, and that this love can attain universal validity only in such a commonwealth. What, by contrast, do we see today? The defencelessness of women, who, hitherto shut up in their households, mostly have only vague notions of public life and of the power of organisation, is so great that the capitalist entrepreneur may dare to pay them permanently wages that do not suffice for their maintenance, and to refer them for supplementing these wages to <em>prostitution</em>. The increase of industrial female labour everywhere shows the tendency to bring about an increase of prostitution in its train. In the state of the fear of God and pious morals there exist whole "flourishing" branches of industry whose women workers are so badly paid that they would have to starve if they did not prostitute themselves. And the entrepreneurs declare that it is precisely on these low wages that the competitiveness, the "flourishing" of their industry rests. Higher wages would ruin them.</p>
+```
+
+```{=html}
+<p>Prostitution is as old as the antagonism between rich and poor. But formerly the prostitutes constituted a something between beggars and swindlers; they were a luxury that society could permit itself, but whose loss would in no way have endangered its existence. Today it is not merely the women of the lumpenproletariat, but also the <em>working</em> women, who are forced to surrender their bodies for payment. This surrender is no longer merely a matter of luxury; it has become one of the foundations of the development of industry. Under the capitalist mode of production <em>prostitution becomes one of the pillars of society.</em> That which the defenders of this society reproach us with, they themselves practise — the community of women. Admittedly only community with the women of the <em>proletariat.</em> And so deep roots has this kind of community of women struck in present-day society that its representatives generally declare prostitution to be a <em>necessity</em>. They cannot imagine that the abolition of the proletariat means the abolition of prostitution, because they cannot imagine any society without a community of women at all.</p>
+```
+
+```{=html}
+<p>The present-day community of women is an invention of the higher strata of society, not of the proletariat. This community of women is one of the modes of exploitation of the proletariat. It is not socialism, but the opposite of it.<br/> <a id="ch2-t5" name="ch2-t5"> </a></p>
+```
+
+## 5. The Industrial Reserve Army
+
+```{=html}
+<p class="fst">The introduction of women's and children's labour into industry is, as we have seen, one of the most powerful means for the capitalists to force down wages.</p>
+```
+
+```{=html}
+<p>But at times another means works just as powerfully: the influx of workers from backward regions, where the population still has few wants but possesses a labour-power not yet broken by the factory system. The development of large-scale enterprise, and of machinery in particular, creates not only the possibility of employing these untrained workers in place of trained ones; it also creates the possibility of bringing them in cheaply and quickly. Hand in hand with the development of production goes the development of the means of transport; to mass production corresponds mass transport, not only of goods, but also of <em>persons.</em> Steamships and railways, those vaunted bearers of culture, bring not only rifles, spirits and syphilis to the barbarians; they also bring the barbarians to us and, with them, barbarism. The influx of agricultural labourers into the towns now becomes ever stronger. And the undemanding, enduring and unresisting hordes come pouring in from ever further afield. Slavs, Swedes and Italians come to Germany as wage-depressors; Germans, Belgians, Italians to France; Slavs, Germans, Italians, Irishmen, Swedes to England and the United States; Chinese to America and Australia, and perhaps, in a not too distant time, to Europe as well. On German ships, Chinese and Negroes are already taking the place of white workers.</p>
+```
+
+```{=html}
+<p>These foreign workers are in part expropriated persons, small peasants and petty burghers whom the capitalist mode of production has ruined and driven from house and home, and from whom it takes not only their home but also their homeland. Let one look at the countless hordes of emigrants and ask oneself whether it is Social Democracy that makes them fatherlandless, that breeds fatherlandlessness.</p>
+```
+
+```{=html}
+<p>Through the expropriation of small peasants and petty burghers, through the bringing in of masses of workers from distant lands, through the development of women's and children's labour, through the shortening of the apprenticeship, which becomes a mere period of training, the capitalist mode of production succeeds in enormously increasing the number of labour-powers at its disposal. And hand in hand with this goes a steady increase in the productivity of human labour as a result of the uninterrupted progress of technical improvements and refinements. And, as if that were not enough, capitalist exploitation also increases to the utmost the utilisation of the individual labour-power, partly by extending the working time, partly too, and especially where legislation or workers' organisations render the former impracticable, by greater exertion of the worker.</p>
+```
+
+```{=html}
+<p><em>And at the same time the machine works to make labour-powers superfluous.</em> Every machine saves labour-power – if it did not do so, it would be pointless. In every branch of industry the transition from hand labour to machine labour is bound up with the greatest suffering of the hand workers affected, who, be they craftsmen or manufacturing workers, are made superfluous and cast out onto the street. It was this effect of the machine that the workers felt first. Numerous uprisings in the first decades of our century bore witness to what sums of suffering the transition to machine labour visited upon the hand workers, what indignation and despair it brought with it. The introduction of machinery, as well as every subsequent improvement of it, is always ruinous for <em>particular strata of workers:</em> to be sure, under certain circumstances other strata of workers – e.g. those employed in machine manufacture – may gain by it. But we do not believe that this awareness will greatly console those who are starving.</p>
+```
+
+```{=html}
+<p>Every new machine has the effect that, as a result of its introduction, as much as before is produced with fewer workers, or, with the same number of workers, more than before. Thus, if the number of workers employed in a country is not to decline under the influence of the progressive development of machinery, <em>then the market must expand in the same proportion</em> in which the productive power of the workers grows. But since economic development simultaneously raises the labour output of the workers and rapidly increases the quantity of available labour-powers – and indeed far more rapidly than the total population increases – then, if unemployment is not to set in, the market must expand <em>still far more rapidly</em> than corresponds to the increase in the productive power of the workers by the machine.</p>
+```
+
+```{=html}
+<p>So rapid an expansion of the market has scarcely ever occurred under the rule of capitalist large-scale industry, and certainly never for even a moderately considerable period across a larger domain of capitalist industry. <em>Unemployment is therefore a permanent phenomenon of capitalist large-scale industry, inseparably bound up with it.</em> Even in the best of times, when the market suddenly undergoes a considerable expansion and business is at its briskest, industry is not able to set all the unemployed to work; in bad times, during a stagnation of business, their number grows to gigantic proportions. They form a whole army – the <em>industrial reserve army,</em> as Marx called it, for they form an army of labour-powers that is always at the disposal of capital, from which it can always draw reserves when the industrial campaign begins to grow heated.</p>
+```
+
+```{=html}
+<p>For the capitalist this reserve army is invaluable. It forms for him an important weapon for keeping the army of the working population in check and making it pliable. After the overwork of the one has brought about the unemployment of the other, the unemployment of the latter becomes a means for maintaining and increasing the overwork of the former. And after that, let one say that in this world all is not arranged for the best!</p>
+```
+
+```{=html}
+<p>Although the extent of the industrial reserve army fluctuates up and down with the fluctuations of business life, it nevertheless shows in general the tendency to move in an <em>ascending direction.</em> For the technical revolution proceeds ever more rapidly, embracing ever wider domains; the expansion of the market, on the other hand, meets with ever more barriers. We shall return to this in another connection. Here it is enough to have pointed it out.</p>
+```
+
+```{=html}
+<p>But what does unemployment mean? It means not merely want and misery for those affected by it, not merely increased subjugation and exploitation for those who work; it also means the <em>insecurity of existence for the entire working class.</em></p>
+```
+
+```{=html}
+<p>Whatever the earlier modes of exploitation may have inflicted upon the exploited, one thing they gave him: the security of his existence. The livelihood of the slave and of the serf was assured, at least for as long as the existence of his master himself was assured. Only the downfall of his master could rob him of his conditions of life.</p>
+```
+
+```{=html}
+<p>Whatever misery, whatever want may at times have broken in upon the population under the earlier modes of production, it was not a consequence of production, but of a <em>disturbance</em> of production, through crop failure, epidemics, floods, invasion by hostile armies, and so forth.</p>
+```
+
+```{=html}
+<p>The existence of the exploiter and that of the exploited are today not bound up with one another. The worker can at any moment be thrown out onto the street with wife and child and given over to death by starvation, without the least change occurring in the circumstances of the exploiter whom he has made rich.</p>
+```
+
+```{=html}
+<p>And the misery of unemployment is today only quite exceptionally a consequence of disturbances of production caused by external, overwhelming influences; it is rather the naturally necessary consequence of the development of production itself. Disturbances of production nowadays often increase the opportunity for work instead of diminishing it: one need only recall the consequences of the War of 1870 for the economic life of Germany and France in the years immediately following.</p>
+```
+
+```{=html}
+<p>Under the rule of the small-scale enterprise the income of the worker in his own economy was the greater the more industrious he was. Idleness, on the other hand, ruined him, made him unemployed. Today unemployment becomes the greater the more, the longer the workers work. The worker creates his own unemployment through his own labour. Like so many another principle from the world of the small-scale enterprise, the principle that the industry of the worker is the foundation of his happiness has also been turned into its opposite by the capitalist large-scale enterprise. And like this one, the other principle too has become a lie, which many a philistine still carries on his lips towards the workers, namely that everyone who wishes to work will find his bread.</p>
+```
+
+```{=html}
+<p>Just as little as property is the possession of labour-power today a secure bulwark against want and misery. If over the small peasant and small artisan there always hovers the spectre of <em>bankruptcy,</em> so over the wage labourer there always hovers the spectre of <em>unemployment.</em></p>
+```
+
+```{=html}
+<p>This constant insecurity is of all the evils of the present-day mode of production the most tormenting, but also the most exasperating, the one that stirs minds most deeply, the one that most thoroughly puts an end to every conservative inclination. This eternal insecurity of one's own situation undermines faith in the security of the existing order and interest in its preservation. And whoever is kept in eternal fear by the existing order loses his fear of the new.</p>
+```
+
+```{=html}
+<p>Overwork, unemployment and the dissolution of the family—that is what the capitalist mode of production brings to the proletariat, and at the same time it ensures that the proletarian condition extends to ever wider circles and visibly becomes the condition of the great mass of the population.<br/> <a id="ch2-t6" name="ch2-t6"> </a></p>
+```
+
+## 6. The Growing Expansion of the Proletariat: The Commercial and the “Educated” Proletariat
+
+```{=html}
+<p class="fst">It is not merely through the constant expansion of large-scale industry that the capitalist mode of production brings about the situation in which the proletarian condition increasingly becomes the condition of the people as a whole. It also brings this about because the situation of the wage labourers in large-scale industry becomes determinative for the situation of the wage labourers in the other branches of work. Their working and living conditions, too, are revolutionised by large-scale industry; the advantages which these workers may have possessed over those of capitalist industry are now, under the influence of the latter, transformed into so many disadvantages. Where, for example, the artisan worker today still lives and eats at his master's, this becomes a means of letting him live and eat even worse than the wage labourer who runs his own household. The long apprenticeship was formerly a means of preventing the handicrafts from being flooded with labour-power; today the apprentice system is the most effective means of flooding the handicrafts with cheap labour-power and rendering the adult workers breadless.</p>
+```
+
+```{=html}
+<p>Here too, as in other spheres, what was reason and benefaction under the rule of small-scale enterprise has become nonsense and torment under the influence of the capitalist mode of production.</p>
+```
+
+```{=html}
+<p>The endeavour of the guild advocates to renew the old guild system amounts basically to obtaining, through the revival of the old forms, new means of exploitation over against their workers. They seek to protect themselves from sinking into the swamp by placing a few proletarian bodies beneath themselves. And then these gentlemen are indignant when the proletariat cannot become enthusiastic about this way of postponing somewhat the inevitable downfall of small-scale enterprise.</p>
+```
+
+```{=html}
+<p>The same development as in the handicrafts takes place in the <em>commercial trade.</em> Large-scale enterprise is beginning to displace small-scale enterprise in the sphere of the intermediate trade as well. The number of small-scale commercial enterprises need not decline on that account. On the contrary, it increases. The intermediate trade is the last refuge of the bankrupt existences of the petty bourgeoisie. <a href="#ch2-n5" id="ch2-f5" name="ch2-f5">[5]</a> To restrict the intermediate trade — for instance by curtailing the peddling trade — means nothing other than to pull the ground entirely from under the feet of these existences and to thrust them into the lumpenproletariat, to make of them beggars, vagabonds, candidates for the penitentiary: a singular social reform.</p>
+```
+
+```{=html}
+<p>The influence of the development of large-scale enterprise manifests itself in the intermediate trade not in the <em>decline</em> in the number of small-scale enterprises, but in their <em>decay.</em> The existence of the independent small traders becomes ever more insecure, ever more proletarian in character. And alongside this the number of those employed in the large-scale enterprises increases, real proletarians who have no prospect of ever becoming independent; child labour and women's labour grow, together with their companion, prostitution; overwork, unemployment, and wage depression grow in this economic sphere as well. The situation of the commercial employee approaches ever more that of the proletarian of industry. He differs from him almost only in that he must maintain the <em>appearance</em> of a higher standard of living and must make sacrifices for it which the industrial proletarian does not know.</p>
+```
+
+```{=html}
+<p>And yet another proletarian stratum is beginning to develop: the <em>proletariat of the educated.</em> To be educated has become a special business in our mode of production. The measure of knowledge has expanded infinitely and grows from day to day. And capitalist society, like the capitalist state, needs ever more men of science and art for the conduct of its affairs and for the subjugation of the forces of nature, whether for purposes of production or of destruction or for the luxurious employment of its increasing superfluity. But not only the peasant, the artisan, or indeed the proletarian, but also the merchant, the manufacturer, the banker, the stock-exchange speculator, the great landowner have no time to devote themselves to art and science. They are entirely taken up by their businesses and pleasures. In present-day society it is not, as in earlier forms of society, the exploiters themselves, or at least a class among them, who cultivate the arts and sciences. They leave this activity to a special class, whom they pay for it. Education becomes a commodity.</p>
+```
+
+```{=html}
+<p>But until a few decades ago it was still a rare commodity. Schools were few, and studying was bound up with considerable costs. The peasants were for the most part too impoverished to have raised the means to send their sons to the higher schools. The handicrafts and trade, on the other hand, still had a golden foundation; whoever was in them remained in them; only special talent or special circumstances led the son of the artisan or merchant to turn to art or science. While the demand for officials, technicians, physicians, teachers, artists, and so on rose, the supply remained almost entirely restricted to the offspring of these circles themselves.</p>
+```
+
+```{=html}
+<p>The commodity education therefore stood high in price. Its possession secured, at least for those who employed it for practical purposes — the advocates, officials, physicians, professors, etc. — mostly a comfortable living, and it often secured fame and honour as well. The artist, the poet, the philosopher were the companions of kings. The aristocrat of the mind felt himself superior to the aristocrat of birth as well as to that of money. His only care was the development of his intellectual goods. Hence the educated could be idealists, and often were. They stood above the other classes and their material strivings and antagonisms. Education meant power, happiness, and amiability: what conclusion lay nearer than that, in order to make all men happy and amiable, in order to overcome the class antagonisms and rid the world of poverty and baseness, nothing was necessary but the diffusion of education?</p>
+```
+
+```{=html}
+<p>Since then the expansion of higher education — and it is only higher education that concerns us here — has made enormous progress. The number of educational institutions has been immensely increased. The number of pupils grew to an even greater degree. Small-scale enterprise in commerce and industry has lost its golden soil. The petty bourgeois no longer knows how to preserve his children from sinking into the proletariat other than by having them study, provided he can somehow afford the means for it. And he must take care to provide not only for his <em>sons,</em> but also for his <em>daughters.</em> For the advancing division of labour, as already mentioned, transforms more and more of the tasks of the household into distinct occupations, and steadily reduces the work in the household, so that a marriage in which the wife is nothing but a housekeeper becomes more and more a luxury. At the same time, however, as we have seen, the petty bourgeoisie is being impoverished, so that it increasingly loses the capacity to allow itself a luxury. Ever greater grows the number of the unmarried, ever greater the number of those families in which wife and daughter must work in order to earn. Thus women's work grows not only in the fields of large- and small-scale industry and of intermediary trade, but also in the officialdom of the state and of private enterprises, of the post, telegraphy, railways, banks, etc., in art and in science. However loudly prejudices and personal interests may cry out against it, women's work is becoming ever more established in the most varied fields of intellectual labour. Not vanity, not pushiness, not presumption, but the compulsion of economic development drives women to work in these as in the other fields of human activity. If in some branches of intellectual labour that are still organised along guild lines the men have succeeded in excluding the competition of women, then the latter press all the more into the non-guild branches, e.g. authorship, painting, music.</p>
+```
+
+```{=html}
+<p>A consequence of this whole development is that the number of the educated has, in relation to earlier times, increased enormously. But the favourable consequences that the idealists expected from the increase of education have failed to materialise. As long as education is a commodity, the spread of education means the multiplication of this commodity and thereby the lowering of its price, that is, the worsening of the situation of its possessors. The number of the educated has grown to such an extent that it more than suffices for the needs of the capitalists and of the capitalist state. The labour market for the workers of education is today just as overcrowded as that of the manual workers. The intellectual workers too already have their <em>reserve army,</em> <em>unemployment</em> is just as much a constant guest in their ranks as in those of the industrial workers. Those who wish to attain a state office must wait years, often more than a decade, before they reach one of the poorly paid lower posts. Among the others, unemployment and overwork alternate just as they do among the manual workers, and, as with these, the depression of wages is the order of the day.</p>
+```
+
+```{=html}
+<p>The class situation of the workers of education is visibly worsening; whereas formerly one spoke of the aristocracy of the intellect, one now speaks of the proletariat of the intelligentsia; and soon only one thing will distinguish these proletarians from the other wage labourers: their <em>presumption.</em> In their majority they still imagine themselves to be something better than the proletarians; they still count themselves as belonging to the burgherdom, to the bourgeoisie <a href="#ch2-n6" id="ch2-f6" name="ch2-f6">[6]</a>, but in the way that the servant counts himself as belonging to his masters. They have ceased to be the intellectual leaders of the bourgeoisie and have become its hired brawlers. Careerism runs rampant among them; not the <em>development,</em> but the <em>exploitation</em> of their intellectual goods is now their first concern, and the <em>prostitution of their own selves</em> their chief means of getting ahead. Like the small tradesmen, they too are dazzled by a few brilliant winning tickets in the lottery of their lives; they overlook the countless blanks that confront them, and barter away soul and body for the mere prospect of drawing such a grand prize. The <em>selling of one's own convictions</em> and the <em>marriage for money,</em> these have become, in the eyes of the majority of our educated people, two means as self-evident as they are indispensable for "making one's fortune." That is what the capitalist mode of production has made of the idealists, the researchers, thinkers, and dreamers!</p>
+```
+
+```{=html}
+<p>But the supply grows too strongly for much, in general, to be gained from education itself, even when one throws one's personality into the bargain as well. The sinking of the mass of the educated into the proletariat can no longer be halted.</p>
+```
+
+```{=html}
+<p>Whether this development will lead to the educated joining the fighting proletariat in mass, and not merely in isolated cases as hitherto, is still uncertain. But one thing is certain: with the proletarianisation of the educated, the last way out has been closed to the proletarian, of escaping the proletariat on his own account, for himself alone, and rising into a higher class.</p>
+```
+
+```{=html}
+<p>That the wage labourer should become a capitalist is from the outset excluded, at least in the regular course of things. A win in the Hamburg lottery or a rich uncle in America do not come into consideration for reasonable people in discussions about the situation of the working class. But under especially favourable circumstances it may indeed here and there succeed for one of the better-placed workers, through hard privations, to save so much that he can open a small artisan's workshop or a little shop, or let one of his sons study, become something "better." It was always ridiculous to refer the workers to such possibilities in order to improve their situation or that of their children. For in the ordinary course of things a worker, if he manages to save at all, can be glad if he succeeds in laying aside enough in good times so as not to stand entirely destitute when unemployment sets in. Today, however, the consoling of the workers with these ways out is more ridiculous than ever. For economic development not only makes the worker's saving ever more impossible, it also makes it impossible that he, even if he does succeed in setting aside what is needed, should thereby raise himself or his children out of the proletarian existence. To pass over into an independent small-scale enterprise means for him to throw himself out of one misery into another, only, as a rule, soon to have to return to the former misery and to purchase the recognition that the small-scale enterprise is untenable with the loss of his savings.</p>
+```
+
+```{=html}
+<p>Even more difficult than the transition to an independent small-scale enterprise, indeed almost hopeless today, is the proletarian's attempt to let his son study. But let us assume that such an attempt has succeeded — what use, now, is his higher education to the proletarian's son, who cannot wait to make his knowledge profitable, who has no patronage at his side, now, when thousands of jurists must wait for years before their turn comes in the state service, when technicians, chemists, graduates of commercial schools run about by the hundreds without positions?</p>
+```
+
+```{=html}
+<p>Wherever the proletarian may turn today, he everywhere encounters proletarian conditions of life and labour. The proletarian condition increasingly and ever more pervades the whole of society; in all civilised countries the mass of the population has already sunk to the level of the proletariat. Every prospect has vanished for the individual proletarian of working his own way out, by his own strength, from the mire into which the present-day mode of production casts him. He can achieve his own elevation only through the elevation of the entire class to which he belongs.</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td align="left">Enterprises</td> <td align="center">Industry</td> <td align="center">Commerce</td> <td align="center">Lodging and refreshment</td> </tr> <tr> <td align="left">without assistants</td> <td align="center">245</td> <td align="center">359</td> <td align="center">285</td> </tr> <tr> <td align="left">with 1–5 assistants</td> <td align="center">324</td> <td align="center">448</td> <td align="center">552</td> </tr> <tr> <td align="left">with 6–10 assistants</td> <td align="center">  43</td> <td align="center">  68</td> <td align="center">  70</td> </tr> <tr> <td align="left">with 11–50 assistants</td> <td align="center">126</td> <td align="center">103</td> <td align="center">  89</td> </tr> <tr> <td align="left">with over 50 assistants</td> <td align="center">262</td> <td align="center">  22</td> <td align="center">    4</td> </tr> </table>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#ch2-f5" id="ch2-n5" name="ch2-n5">5.</a> In Germany in 1882, out of every thousand workers of the group in question, there were employed in</p>
+```
+
+```{=html}
+<p class="note">One sees that in commerce and the inn-keeping trade the small-scale enterprises predominate much more than in industry.</p>
+```
+
+```{=html}
+<p class="note"><a href="#ch2-f6" id="ch2-n6" name="ch2-n6">6.</a> In German the word „Bürger“ denotes not merely the member of a particular class, the class of the propertied in the towns, but also every member of the state, the citizen. The Frenchman has two designations for this. The former is the „bourgeois“, the latter the „citoyen“. Since the word bourgeois is more distinctive than the word „Bürger“, it has also become naturalised in Germany.</p>
+```
+

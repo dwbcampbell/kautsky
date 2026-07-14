@@ -16,6 +16,8 @@ make translate   # fill en_html via Anthropic API; needs ANTHROPIC_API_KEY; resu
 make qa          # deterministic checks; flags problem blocks in place
 make site        # blocks.jsonl → site/chapters/*.qmd
 make render      # quarto render site/  (output in site/_site/)
+make epub        # blocks.jsonl → book/chapters/*.qmd, then quarto render book/
+                 # (English-only EPUB in book/_book/)
 ```
 
 Scripts run directly with `.venv/bin/python`. Translate accepts chapter IDs to restrict a run: `.venv/bin/python pipeline/03_translate.py ch1 ch2`. Preview locally with `quarto preview site/`. There are no tests or linters.
@@ -39,7 +41,9 @@ The pipeline stages (`pipeline/01_…05_*.py`, shared constants and atomic block
 - **04_qa_check** runs three deterministic checks (en/de length ratio, inline-tag multiset parity, glossary term presence/avoidance) and sets `status` to `flagged` with reasons in `qa`. Blocks marked `verified` are never touched — that status is the human sign-off, set by hand-editing `blocks.jsonl`.
 - **05_generate_qmd** renders CSS-grid parallel columns (German left, English right), headings as real Markdown headings for the TOC, tables full-width, and footnotes in a bilingual end section with anchors remapped to chapter-unique IDs. Block HTML is emitted through `{=html}` raw blocks — without them pandoc re-parses the content as markdown and breaks the `:::` fences.
 
-**`site/chapters/*.qmd` are generated files — never hand-edit them.** Corrections go into `blocks.jsonl` (by block ID, flipping `status` to `verified`), then `make site render`.
+- **06_generate_epub** writes English-only chapters to `book/chapters/*.qmd` for the Quarto *book* project in `book/` (a separate project because only book projects can emit EPUB). `book/_quarto.yml` (chapter list, metadata) and `book/index.qmd` (about page) are maintained by hand.
+
+**`site/chapters/*.qmd` and `book/chapters/*.qmd` are generated files — never hand-edit them.** Corrections go into `blocks.jsonl` (by block ID, flipping `status` to `verified`), then `make site render` / `make epub`.
 
 The sidebar in `site/_quarto.yml` (chapter and subsection links) is maintained by hand; if headings change, its anchor hrefs must be updated to match the slugs Quarto generates.
 

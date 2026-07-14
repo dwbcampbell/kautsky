@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "The Erfurt Programme"
+  subtitle: "The Erfurt Programme Explained in its Fundamental Part"
+  author: "Karl Kautsky"
+  date: "1892"
+  chapters:
+    - index.qmd
+    - chapters/vorwort-92.qmd
+    - chapters/vorwort-04.qmd
+    - chapters/ch1.qmd
+    - chapters/ch2.qmd
+    - chapters/ch3.qmd
+    - chapters/ch4.qmd
+    - chapters/ch5.qmd
+
+format:
+  epub:
+    lang: en
+    toc: true

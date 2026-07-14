@@ -1,9 +1,12 @@
-"""Shared constants and block I/O for the translation pipeline."""
+"""Shared constants, block I/O, and HTML helpers for the translation pipeline."""
 
 import json
 import os
+import re
 import tempfile
 from pathlib import Path
+
+from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -12,6 +15,8 @@ BLOCKS_PATH = DATA / "blocks.jsonl"
 GLOSSARY_PATH = DATA / "glossary.yaml"
 SITE = ROOT / "site"
 CHAPTERS_DIR = SITE / "chapters"
+BOOK = ROOT / "book"
+BOOK_CHAPTERS_DIR = BOOK / "chapters"
 
 BASE_URL = "https://www.marxists.org/deutsch/archiv/kautsky/1892/erfurter/"
 
@@ -42,6 +47,28 @@ def load_blocks() -> list[dict]:
             if line:
                 blocks.append(json.loads(line))
     return blocks
+
+
+def strip_tags(html: str) -> str:
+    return BeautifulSoup(html, "lxml").get_text(" ", strip=True)
+
+
+def remap_anchors(html: str, chapter_id: str) -> str:
+    """Make footnote anchor names/hrefs unique per chapter."""
+    html = re.sub(r'href="#([^"]+)"', rf'href="#{chapter_id}-\1"', html)
+    html = re.sub(r'(name|id)="([^"]+)"', rf'\1="{chapter_id}-\2"', html)
+    return html
+
+
+def heading_level(de_html: str) -> int:
+    m = re.match(r"<h(\d)", de_html)
+    return int(m.group(1)) if m else 3
+
+
+def flatten(html: str) -> str:
+    """Single-line HTML: newlines/indentation inside a block would otherwise
+    be re-parsed by pandoc as blank lines or indented code."""
+    return re.sub(r"\s*\n\s*", " ", html).strip()
 
 
 def save_blocks(blocks: list[dict]) -> None:
