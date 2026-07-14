@@ -3936,7 +3936,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p>In this respect, then, the present-day wage worker has one freedom over the worker of the socialist society, but this freedom cannot really be called the freedom of labour. He may pass ever so often from one factory into another; he will find the freedom of labour in none of them; in each the tasks of every individual worker will be precisely determined and regulated. This is a technical necessity.</p>
+<p>In this respect, then, the present-day wage labourer has one freedom over the worker of the socialist society, but this freedom cannot really be called the freedom of labour. He may pass ever so often from one factory into another; he will find the freedom of labour in none of them; in each the tasks of every individual worker will be precisely determined and regulated. This is a technical necessity.</p>
 ```
 
 :::

@@ -464,7 +464,7 @@ subtitle: "II. Das Proletariat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p>But the surplus, the surplus value, is greater than one usually assumes. It contains not merely the profit of the manufacturer, but much of what is reckoned among the <em>costs of production</em> or of <em>sale</em>: ground rent "(rent), interest on the fixed capital, payment of the commercial staff, discount for the merchant who takes over the industrialist's commodity, taxes, and so forth. All this is deducted from the surplus by which the value of the worker's product exceeds his wage. This surplus must therefore be a fairly considerable one if an enterprise is to "pay"; the wage can accordingly never rise so far that the worker would receive in it even approximately the value of what he has created. The capitalist wage system means under all circumstances the exploitation of the wage worker. It is impossible to abolish exploitation as long as this system exists. And even with the highest wages the exploitation of the worker must be a high-grade one.</p>
+<p>But the surplus, the surplus value, is greater than one usually assumes. It contains not merely the profit of the manufacturer, but much of what is reckoned among the <em>costs of production</em> or of <em>sale</em>: ground rent "(rent), interest on the fixed capital, payment of the commercial staff, discount for the merchant who takes over the industrialist's commodity, taxes, and so forth. All this is deducted from the surplus by which the value of the worker's product exceeds his wage. This surplus must therefore be a fairly considerable one if an enterprise is to "pay"; the wage can accordingly never rise so far that the worker would receive in it even approximately the value of what he has created. The capitalist wage system means under all circumstances the exploitation of the wage labourer. It is impossible to abolish exploitation as long as this system exists. And even with the highest wages the exploitation of the worker must be a high-grade one.</p>
 ```
 
 :::
@@ -584,7 +584,7 @@ subtitle: "II. Das Proletariat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p>The wage worker, who did not belong to the family of the entrepreneur, originally had to receive in his wage not only the costs of his own maintenance but also those of his family, if he was to be in a position to reproduce himself and to pass on his labour-power. Without this passing on, the heirs of the capitalist would find no proletarians whom they could exploit. But when the wife and, from early youth on, also the children of the worker are in a position to provide for themselves, then the wage of the male worker can, without endangering the maintenance of labour-power, be reduced almost entirely to the amount of the maintenance costs of his own person.</p>
+<p>The wage labourer, who did not belong to the family of the entrepreneur, originally had to receive in his wage not only the costs of his own maintenance but also those of his family, if he was to be in a position to reproduce himself and to pass on his labour-power. Without this passing on, the heirs of the capitalist would find no proletarians whom they could exploit. But when the wife and, from early youth on, also the children of the worker are in a position to provide for themselves, then the wage of the male worker can, without endangering the maintenance of labour-power, be reduced almost entirely to the amount of the maintenance costs of his own person.</p>
 ```
 
 :::
