@@ -411,7 +411,7 @@ subtitle: "III. Die Kapitalistenklasse"
 
 :::
 
-##### 3. Profit ⚑
+##### 3. Profit
 
 <p class="de-subtitle">3. Der Profit</p>
 
@@ -599,7 +599,7 @@ subtitle: "III. Die Kapitalistenklasse"
 
 :::
 
-##### 5. Taxes ⚑
+##### 5. Taxes
 
 <p class="de-subtitle">5. Die Steuern</p>
 
@@ -1571,7 +1571,7 @@ subtitle: "III. Die Kapitalistenklasse"
 
 :::
 
-##### 8. Economic Crises ⚑
+##### 8. Economic Crises
 
 <p class="de-subtitle">8. Die wirtschaftlichen Krisen</p>
 

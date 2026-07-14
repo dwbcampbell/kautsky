@@ -711,7 +711,7 @@ subtitle: "IV. Der Zukunftsstaat"
 
 :::
 
-##### 3. Socialist Production ⚑
+##### 3. Socialist Production
 
 <p class="de-subtitle">3. Die sozialistische Produktion</p>
 
@@ -3779,7 +3779,7 @@ subtitle: "IV. Der Zukunftsstaat"
 
 :::
 
-##### 10. Socialism and Freedom ⚑
+##### 10. Socialism and Freedom
 
 <p class="de-subtitle">10. Der Sozialismus und die Freiheit</p>
 
