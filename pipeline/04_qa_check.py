@@ -35,6 +35,16 @@ def tag_counts(html: str) -> Counter:
                    if t.lower() not in IGNORED_TAGS)
 
 
+def snippet(text: str, term: str, width: int = 30) -> str:
+    """Short excerpt of `text` around the first occurrence of `term`."""
+    i = text.lower().find(term.lower())
+    if i < 0:
+        return ""
+    start, end = max(i - width, 0), i + len(term) + width
+    return (("…" if start > 0 else "") + text[start:end].strip()
+            + ("…" if end < len(text) else ""))
+
+
 def check_block(block: dict, glossary: list[dict]) -> list[str]:
     problems = []
     de_text = block["de_text"]
@@ -45,7 +55,8 @@ def check_block(block: dict, glossary: list[dict]) -> list[str]:
         ratio = len(en_text) / max(len(de_text), 1)
         if not RATIO_MIN <= ratio <= RATIO_MAX:
             problems.append(f"length ratio {ratio:.2f} outside "
-                            f"[{RATIO_MIN}, {RATIO_MAX}]")
+                            f"[{RATIO_MIN}, {RATIO_MAX}] "
+                            f"(en {len(en_text)} / de {len(de_text)} chars)")
 
     de_tags, en_tags = tag_counts(block["de_html"]), tag_counts(en_html)
     if de_tags != en_tags:
@@ -56,12 +67,18 @@ def check_block(block: dict, glossary: list[dict]) -> list[str]:
 
     de_lower, en_lower = de_text.lower(), en_text.lower()
     for entry in glossary:
-        if any(stem in de_lower for stem in entry["de"]):
+        matched = [stem for stem in entry["de"] if stem in de_lower]
+        if matched:
             if entry["en"].lower() not in en_lower:
-                problems.append(f"glossary: expected '{entry['en']}'")
+                problems.append(
+                    f"glossary: expected '{entry['en']}' for de stem "
+                    f"'{matched[0]}' (de: \"{snippet(de_text, matched[0])}\")")
             for avoid in entry.get("avoid", []):
                 if avoid.lower() in en_lower:
-                    problems.append(f"glossary: found avoided term '{avoid}'")
+                    problems.append(
+                        f"glossary: found avoided term '{avoid}' "
+                        f"(en: \"{snippet(en_text, avoid)}\"; "
+                        f"use '{entry['en']}')")
     return problems
 
 
