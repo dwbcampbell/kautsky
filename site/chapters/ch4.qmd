@@ -2380,7 +2380,7 @@ subtitle: "IV. Der Zukunftsstaat"
 ::: {.parallel-col-en}
 
 ```{=html}
-<p class="todo">[not yet translated]</p>
+<p>The tendencies of the capitalist mode of production are precisely known today. And yet no one can say what forms it will have assumed in 10, 20, or 30 years – provided that it still eke out its existence for that long. But of us people demand a depiction of social forms extending even beyond the existence of the present mode of production!</p>
 ```
 
 :::
