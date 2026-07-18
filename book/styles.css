@@ -1,0 +1,159 @@
+/* EPUB-specific styles for The Erfurt Programme */
+
+/* Base typography - optimized for e-readers */
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 110%;
+  line-height: 1.6;
+  color: #222;
+  text-rendering: optimizeLegibility;
+}
+
+/* Chapter headings */
+h1 {
+  font-size: 1.6em;
+  font-weight: normal;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  text-align: center;
+  page-break-after: avoid;
+}
+
+h2 {
+  font-size: 1.3em;
+  font-weight: normal;
+  margin-top: 1.4em;
+  margin-bottom: 0.8em;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 1.15em;
+  font-weight: normal;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+/* First paragraph after heading - no indent */
+p + p {
+  text-indent: 0;
+}
+
+/* Regular paragraphs */
+p {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+  text-indent: 1.2em;
+  orphans: 3;
+  widows: 3;
+}
+
+/* Blockquotes - for Programme text */
+blockquote {
+  margin-left: 1em;
+  margin-right: 1em;
+  font-style: italic;
+  color: #333;
+  padding-left: 0.5em;
+  border-left: 2px solid #aaa;
+}
+
+blockquote p {
+  text-indent: 0;
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+
+/* Lists */
+ul, ol {
+  margin-top: 0.6em;
+  margin-bottom: 0.6em;
+  padding-left: 1.5em;
+}
+
+li {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+li p {
+  text-indent: 0;
+}
+
+/* Links */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footnotes */
+.footnote {
+  font-size: 0.85em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+/* Notes section heading */
+h2#notes {
+  margin-top: 1.5em;
+  border-top: 1px solid #ccc;
+  padding-top: 0.5em;
+}
+
+/* Unnumbered elements (like About page) */
+.unnumbered {
+  text-indent: 0;
+}
+
+/* Tod placeholder */
+.todo {
+  color: #999;
+  font-style: italic;
+}
+
+/* Programme text highlighting - subtle for EPUB */
+.quote,
+.quoteb {
+  background-color: #fef5e6;
+  padding: 0.3em 0.5em;
+  border-left: 2px solid #d4a017;
+  margin: 0.4em 0;
+}
+
+/* Ensure blockquotes with programme classes have the styling */
+blockquote p.quote,
+blockquote p.quoteb {
+  background-color: #fef5e6;
+  padding: 0.3em 0.5em;
+  border-left: 2px solid #d4a017;
+  margin: 0.4em 0;
+  font-style: normal;
+}
+
+/* Table of contents styling */
+nav[role="doc-toc"] {
+  font-size: 0.9em;
+}
+
+nav[role="doc-toc"] ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+nav[role="doc-toc"] li {
+  margin: 0.3em 0;
+}
+
+/* Page breaks */
+.page-break {
+  page-break-before: always;
+}
+
+/* Prevent orphans at page breaks */
+:first-child {
+  page-break-before: avoid;
+}

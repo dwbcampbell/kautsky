@@ -6,8 +6,10 @@ book:
   subtitle: "The Erfurt Programme Explained in its Fundamental Part"
   author: "Karl Kautsky"
   date: "1892"
+  reader-mode: true
   chapters:
     - index.qmd
+    - prologue.qmd
     - chapters/vorwort-92.qmd
     - chapters/vorwort-04.qmd
     - chapters/ch1.qmd
@@ -16,7 +18,18 @@ book:
     - chapters/ch4.qmd
     - chapters/ch5.qmd
 
+contributor:
+  - name: "Douglas Campbell"
+    role: "Translator"
+
 format:
   epub:
     lang: en
     toc: true
+    toc-depth: 3
+    css: styles.css
+    cover-image: assets/cover.svg
+    metadata:
+      identifier: urn:uuid:12345678-1234-5678-1234-567812345678
+      publisher: "Independent"
+      rights: "CC BY-SA 4.0"

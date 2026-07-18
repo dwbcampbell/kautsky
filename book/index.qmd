@@ -1,14 +1,29 @@
 # About this edition {.unnumbered}
 
-Karl Kautsky, *Das Erfurter Programm in seinem grundsätzlichen Theil
-erläutert* (1892) — a complete, unabridged English translation.
+Karl Kautsky, *Das Erfurter Programm in seinem grundsätzlichen Theil erläutert* (1892) — a complete, unabridged English translation.
 
-The German source text is the Marxists Internet Archive transcription of the
-Dietz Verlag (Berlin) 1965 edition. The English translation is new: the
-standard 1910 translation by William E. Bohn (*The Class Struggle*) abridged
-the text to roughly two-thirds of its length and rendered core theoretical
-terminology inconsistently.
+## The Text
 
-A parallel German/English edition of this translation, with an editorial note
-on translation principles and methodology, is published as a companion
-website.
+The German text is the Marxists Internet Archive transcription of the Dietz Verlag (Berlin) 1965 edition of *Das Erfurter Programm in seinem grundsätzlichen Theil erläutert* (first published 1892). Kautsky died in 1938; the German text is in the public domain.
+
+## Why a New Translation
+
+The standard English translation, William E. Bohn's *The Class Struggle* (1910), abridged the German text to roughly two-thirds of its length and rendered core theoretical terminology inconsistently. This edition restores the complete text with consistent terminology based on a controlled termbase.
+
+## Translation Principles
+
+- **Complete and unabridged.** No clause of the German is merged, summarized, or omitted.
+- **Consistent terminology.** Core theoretical terms are fixed: *Arbeitskraft* is always "labour-power", *Mehrwert* always "surplus value", and so on.
+- **British spelling conventions** throughout.
+
+## Method
+
+The draft translation was produced with an AI-assisted pipeline (Claude, Anthropic) constrained by a termbase and validated by mechanical checks for omissions, markup fidelity, and terminological consistency, followed by human review of every block.
+
+## License
+
+This translation is licensed under **CC BY-SA 4.0**. You are free to share and adapt this work, provided you give appropriate credit and distribute your contributions under the same license.
+
+---
+
+*This edition was translated and prepared by Douglas Campbell.*
