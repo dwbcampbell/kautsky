@@ -310,3 +310,7 @@
 <p class="note"><a href="#ch2-f6" id="ch2-n6" name="ch2-n6">6.</a> In German the word „Bürger“ denotes not merely the member of a particular class, the class of the propertied in the towns, but also every member of the state, the citizen. The Frenchman has two designations for this. The former is the „bourgeois“, the latter the „citoyen“. Since the word bourgeois is more distinctive than the word „Bürger“, it has also become naturalised in Germany.</p>
 ```
 
+
+---
+
+[↑ Previous: I. The Decline of Small-Scale Enterprise](ch1.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: III. The Capitalist Class ↓](ch3.qmd)

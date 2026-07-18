@@ -1,6 +1,7 @@
 ---
 title: "V. The Class Struggle"
 subtitle: "V. Der Klassenkampf"
+aliases: ["/chapters/ch5.html"]
 ---
 
 ##### 1. Socialism and the Propertied Classes

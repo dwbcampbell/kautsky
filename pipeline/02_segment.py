@@ -1,34 +1,32 @@
 #!/usr/bin/env python3
 """Segment the cached MIA HTML into aligned translation blocks.
 
-Output: data/blocks.jsonl — one JSON object per line, the pipeline's source
-of truth. Existing translations are preserved on re-runs: blocks are keyed by
-a content hash of the German text, so a segmenter fix never orphans work
-already done.
+Output: the work's data/blocks.jsonl — one JSON object per line, the
+pipeline's source of truth. Existing translations are preserved on re-runs:
+blocks are keyed by a content hash of the German text, so a segmenter fix
+never orphans work already done.
 
 MIA markup conventions (verified against the cached pages):
-  - masthead:   h4 "Karl Kautsky" + h3 "Das Erfurter Programm"   -> drop
-  - navigation: p.link / p.toplink / p.updat                     -> drop
-  - quotations: p.quote / p.quoteb (the Erfurt program text etc.)-> blockquote
-  - footnotes:  h3 "Anmerkungen des Verfassers" then p.note      -> footnote
-  - statistics: <table> without links, digit-heavy               -> table
+  - masthead:   author/title headings (work.yaml masthead_texts)  -> drop
+  - navigation: p.link / p.toplink / p.updat                      -> drop
+  - quotations: p.quote / p.quoteb (program text etc.)            -> blockquote
+  - footnotes:  h3 "Anmerkungen des Verfassers" then p.note       -> footnote
+  - statistics: <table> without links, digit-heavy                -> table
 """
 
 import hashlib
-import json
 import re
 import sys
 
 from bs4 import BeautifulSoup, Tag
 
-from common import BLOCKS_PATH, CHAPTERS, RAW_HTML, load_blocks
+from common import load_blocks, parse_work_arg, save_blocks
 
 BLOCK_TAGS = ["h1", "h2", "h3", "h4", "h5", "p", "blockquote", "table", "ol", "ul"]
 HEADING_TAGS = {"h1", "h2", "h3", "h4", "h5"}
 
 DROP_P_CLASSES = {"link", "toplink", "linkback", "updat", "information", "footer", "toc"}
 QUOTE_P_CLASSES = {"quote", "quoteb", "quotec"}
-MASTHEAD_TEXTS = {"karl kautsky", "das erfurter programm"}
 NOTES_HEADING = re.compile(r"^anmerkung", re.I)
 
 # Fallback footnote signal: definition anchors like <a name="n2">.
@@ -43,12 +41,12 @@ def looks_like_data_table(table: Tag) -> bool:
     return sum(ch.isdigit() for ch in text) >= 10
 
 
-def classify(el: Tag, text: str, in_notes: bool) -> str | None:
+def classify(el: Tag, text: str, in_notes: bool, masthead_texts: frozenset[str]) -> str | None:
     """Return block type, 'NOTES_START' for the notes heading, or None to drop."""
     classes = set(el.get("class") or [])
 
     if el.name in HEADING_TAGS:
-        if text.lower() in MASTHEAD_TEXTS:
+        if text.lower() in masthead_texts:
             return None
         if NOTES_HEADING.match(text):
             return "NOTES_START"
@@ -82,7 +80,8 @@ def top_level_blocks(soup: BeautifulSoup) -> list[Tag]:
     return [el for el in selected if not any(id(p) in ids for p in el.parents)]
 
 
-def segment_chapter(chapter_id: str, html: str) -> list[dict]:
+def segment_chapter(chapter_id: str, html: str,
+                    masthead_texts: frozenset[str]) -> list[dict]:
     soup = BeautifulSoup(html, "lxml")
     blocks: list[dict] = []
     seen_hashes: dict[str, int] = {}
@@ -93,7 +92,7 @@ def segment_chapter(chapter_id: str, html: str) -> list[dict]:
         if not text:
             continue
 
-        btype = classify(el, text, in_notes)
+        btype = classify(el, text, in_notes, masthead_texts)
         if btype == "NOTES_START":
             # We render our own bilingual notes heading; everything from here
             # to the end of the page is footnote material.
@@ -123,17 +122,20 @@ def segment_chapter(chapter_id: str, html: str) -> list[dict]:
 
 
 def main() -> None:
+    work = parse_work_arg()
+
     # Preserve existing translations across re-segmentation.
     existing: dict[str, dict] = {}
-    if BLOCKS_PATH.exists():
-        existing = {b["id"]: b for b in load_blocks()}
+    if work.blocks_path.exists():
+        existing = {b["id"]: b for b in load_blocks(work)}
 
     all_blocks: list[dict] = []
-    for chapter_id, filename, _, _ in CHAPTERS:
-        path = RAW_HTML / filename
+    for chapter in work.chapters:
+        path = work.raw_html / chapter.source
         if not path.exists():
             sys.exit(f"missing {path} — run pipeline/01_scrape.py first")
-        chapter_blocks = segment_chapter(chapter_id, path.read_text(encoding="utf-8"))
+        chapter_blocks = segment_chapter(chapter.id, path.read_text(encoding="utf-8"),
+                                         work.masthead_texts)
         carried = 0
         for b in chapter_blocks:
             old = existing.get(b["id"])
@@ -143,14 +145,12 @@ def main() -> None:
         counts: dict[str, int] = {}
         for b in chapter_blocks:
             counts[b["type"]] = counts.get(b["type"], 0) + 1
-        print(f"{chapter_id:12s} {len(chapter_blocks):4d} blocks  {counts}"
+        print(f"{chapter.id:12s} {len(chapter_blocks):4d} blocks  {counts}"
               + (f"  ({carried} translations carried over)" if carried else ""))
         all_blocks.extend(chapter_blocks)
 
-    with open(BLOCKS_PATH, "w", encoding="utf-8") as f:
-        for b in all_blocks:
-            f.write(json.dumps(b, ensure_ascii=False) + "\n")
-    print(f"\nwrote {len(all_blocks)} blocks to {BLOCKS_PATH}")
+    save_blocks(work, all_blocks)
+    print(f"\nwrote {len(all_blocks)} blocks to {work.blocks_path}")
 
 
 if __name__ == "__main__":

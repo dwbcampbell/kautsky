@@ -1,6 +1,7 @@
 ---
 title: "The Erfurt Programme (1891)"
 subtitle: "Complete Text from the Quotations in Kautsky's Commentary"
+aliases: ["/prologue.html"]
 ---
 
 ## Prologue: The Erfurt Programme

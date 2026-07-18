@@ -1,0 +1,54 @@
+# Work manifest: everything the shared pipeline needs to know about this work.
+slug: erfurter-programm
+author: Karl Kautsky
+title_de: Das Erfurter Programm
+title_full_de: Das Erfurter Programm in seinem grundsätzlichen Theil erläutert
+title_en: The Erfurt Programme
+year: 1892
+base_url: https://www.marxists.org/deutsch/archiv/kautsky/1892/erfurter/
+
+# Masthead headings on the MIA pages (lowercased); 02_segment drops them.
+masthead_texts: [karl kautsky, das erfurter programm]
+
+translation:
+  # Fills the opening sentence of the translation system prompt.
+  description: >-
+    Karl Kautsky's 'Das Erfurter Programm' (1892), the theoretical commentary
+    on the SPD's Erfurt Programme
+  # Appended to the completeness rule in the system prompt; may be empty.
+  completeness_note: >-
+    (The 1910 Bohn edition was abridged; this edition must be strictly complete.)
+
+# When set, 05_generate_qmd emits Quarto `aliases` frontmatter so URLs from
+# the old single-work site layout redirect to the new per-work pages.
+legacy_url_prefix: /chapters
+
+chapters:
+  - id: vorwort-92
+    source: vorwort-92.htm
+    title_de: Vorwort zur ersten Auflage
+    title_en: Preface to the First Edition
+  - id: vorwort-04
+    source: vorwort-04.htm
+    title_de: Vorrede zur fünften Auflage
+    title_en: Preface to the Fifth Edition
+  - id: ch1
+    source: 1-untergang.htm
+    title_de: I. Der Untergang des Kleinbetriebes
+    title_en: I. The Decline of Small-Scale Enterprise
+  - id: ch2
+    source: 2-proletariat.htm
+    title_de: II. Das Proletariat
+    title_en: II. The Proletariat
+  - id: ch3
+    source: 3-kapitalisten.htm
+    title_de: III. Die Kapitalistenklasse
+    title_en: III. The Capitalist Class
+  - id: ch4
+    source: 4-zukunftsstaat.htm
+    title_de: IV. Der Zukunftsstaat
+    title_en: IV. The State of the Future
+  - id: ch5
+    source: 5-klassenkampf.htm
+    title_de: V. Der Klassenkampf
+    title_en: V. The Class Struggle

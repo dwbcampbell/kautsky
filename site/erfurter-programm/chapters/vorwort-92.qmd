@@ -1,6 +1,7 @@
 ---
 title: "Preface to the First Edition"
 subtitle: "Vorwort zur ersten Auflage"
+aliases: ["/chapters/vorwort-92.html"]
 ---
 
 ::: {.parallel-container}

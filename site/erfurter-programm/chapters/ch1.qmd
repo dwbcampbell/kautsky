@@ -1,6 +1,7 @@
 ---
 title: "I. The Decline of Small-Scale Enterprise"
 subtitle: "I. Der Untergang des Kleinbetriebes"
+aliases: ["/chapters/ch1.html"]
 ---
 
 ##### 1. Small-Scale Enterprise and Private Property

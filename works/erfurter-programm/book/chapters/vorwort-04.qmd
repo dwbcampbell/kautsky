@@ -94,3 +94,7 @@
 <p class="note"><a href="#vorwort-04-f1" id="vorwort-04-n1" name="vorwort-04-n1">1.</a> This Internet edition reproduces the programme commentary according to the first, unaltered edition.</p>
 ```
 
+
+---
+
+[↑ Previous: Preface to the First Edition](vorwort-92.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: I. The Decline of Small-Scale Enterprise ↓](ch1.qmd)

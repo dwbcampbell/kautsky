@@ -1,47 +1,160 @@
-"""Shared constants, block I/O, and HTML helpers for the translation pipeline."""
+"""Shared work loading, block I/O, and HTML helpers for the translation pipeline.
 
+Work-specific facts (source URLs, chapter lists, prompt text) live in
+works/<slug>/work.yaml; every pipeline script takes the work slug as its
+first positional argument and gets a `Work` back from `parse_work_arg()`.
+"""
+
+import argparse
 import json
 import os
 import re
+import sys
 import tempfile
+from dataclasses import dataclass, field
 from pathlib import Path
 
+import yaml
 from bs4 import BeautifulSoup
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data"
-RAW_HTML = DATA / "raw_html"
-BLOCKS_PATH = DATA / "blocks.jsonl"
-GLOSSARY_PATH = DATA / "glossary.yaml"
+WORKS = ROOT / "works"
+SHARED_GLOSSARY_PATH = ROOT / "shared" / "glossary.yaml"
 SITE = ROOT / "site"
-CHAPTERS_DIR = SITE / "chapters"
-BOOK = ROOT / "book"
-BOOK_CHAPTERS_DIR = BOOK / "chapters"
-
-BASE_URL = "https://www.marxists.org/deutsch/archiv/kautsky/1892/erfurter/"
-
-# (chapter_id, source_file, german_title, english_title)
-CHAPTERS = [
-    ("vorwort-92", "vorwort-92.htm",
-     "Vorwort zur ersten Auflage", "Preface to the First Edition"),
-    ("vorwort-04", "vorwort-04.htm",
-     "Vorrede zur fünften Auflage", "Preface to the Fifth Edition"),
-    ("ch1", "1-untergang.htm",
-     "I. Der Untergang des Kleinbetriebes", "I. The Decline of Small-Scale Enterprise"),
-    ("ch2", "2-proletariat.htm",
-     "II. Das Proletariat", "II. The Proletariat"),
-    ("ch3", "3-kapitalisten.htm",
-     "III. Die Kapitalistenklasse", "III. The Capitalist Class"),
-    ("ch4", "4-zukunftsstaat.htm",
-     "IV. Der Zukunftsstaat", "IV. The State of the Future"),
-    ("ch5", "5-klassenkampf.htm",
-     "V. Der Klassenkampf", "V. The Class Struggle"),
-]
 
 
-def load_blocks() -> list[dict]:
+@dataclass(frozen=True)
+class Chapter:
+    id: str
+    source: str          # filename on the MIA site and in data/raw_html/
+    title_de: str
+    title_en: str
+
+
+@dataclass(frozen=True)
+class Work:
+    slug: str
+    author: str
+    title_de: str
+    title_full_de: str
+    title_en: str
+    year: int
+    base_url: str
+    masthead_texts: frozenset[str]      # lowercased headings to drop
+    translation_description: str        # opening sentence of the system prompt
+    completeness_note: str              # appended to the completeness rule
+    legacy_url_prefix: str | None       # old URL prefix to emit aliases for
+    chapters: tuple[Chapter, ...] = field(default=())
+
+    @property
+    def root(self) -> Path:
+        return WORKS / self.slug
+
+    @property
+    def data(self) -> Path:
+        return self.root / "data"
+
+    @property
+    def raw_html(self) -> Path:
+        return self.data / "raw_html"
+
+    @property
+    def blocks_path(self) -> Path:
+        return self.data / "blocks.jsonl"
+
+    @property
+    def glossary_path(self) -> Path:
+        """Optional per-work glossary extension."""
+        return self.data / "glossary.yaml"
+
+    @property
+    def book_dir(self) -> Path:
+        return self.root / "book"
+
+    @property
+    def book_chapters_dir(self) -> Path:
+        return self.book_dir / "chapters"
+
+    @property
+    def site_dir(self) -> Path:
+        return SITE / self.slug
+
+    @property
+    def site_chapters_dir(self) -> Path:
+        return self.site_dir / "chapters"
+
+
+def available_slugs() -> list[str]:
+    return sorted(p.parent.name for p in WORKS.glob("*/work.yaml"))
+
+
+def load_work(slug: str) -> Work:
+    manifest_path = WORKS / slug / "work.yaml"
+    if not manifest_path.exists():
+        sys.exit(f"unknown work '{slug}' — available: {', '.join(available_slugs())}")
+    m = yaml.safe_load(manifest_path.read_text(encoding="utf-8"))
+    translation = m.get("translation") or {}
+    return Work(
+        slug=m["slug"],
+        author=m["author"],
+        title_de=m["title_de"],
+        title_full_de=m.get("title_full_de", m["title_de"]),
+        title_en=m["title_en"],
+        year=m["year"],
+        base_url=m["base_url"],
+        masthead_texts=frozenset(t.lower() for t in m.get("masthead_texts", [])),
+        translation_description=translation.get("description", "").strip(),
+        completeness_note=translation.get("completeness_note", "").strip(),
+        legacy_url_prefix=m.get("legacy_url_prefix"),
+        chapters=tuple(Chapter(**c) for c in m["chapters"]),
+    )
+
+
+def parse_work_arg(extra_args: bool = False, description: str | None = None):
+    """Parse the work slug (first positional arg) common to all pipeline scripts.
+
+    Returns the Work, or (Work, remaining_args) when `extra_args` is true.
+    """
+    parser = argparse.ArgumentParser(description=description)
+    parser.add_argument("work", help="work slug, e.g. " + ", ".join(available_slugs()))
+    if extra_args:
+        parser.add_argument("extra", nargs="*",
+                            help="optional chapter ids to restrict the run")
+    args = parser.parse_args()
+    work = load_work(args.work)
+    return (work, args.extra) if extra_args else work
+
+
+def load_glossary(work: Work) -> list[dict]:
+    """Shared glossary plus the work's optional extension.
+
+    A per-work entry replaces any shared entry whose `de` stem set intersects
+    its own (case-insensitive); otherwise it is appended.
+    """
+    shared = yaml.safe_load(SHARED_GLOSSARY_PATH.read_text(encoding="utf-8")) or []
+    if not work.glossary_path.exists():
+        return shared
+    local = yaml.safe_load(work.glossary_path.read_text(encoding="utf-8")) or []
+
+    merged = list(shared)
+    overridden = 0
+    for entry in local:
+        stems = {s.lower() for s in entry["de"]}
+        overlapping = [i for i, e in enumerate(merged)
+                       if stems & {s.lower() for s in e["de"]}]
+        for i in overlapping:
+            merged[i] = None
+            overridden += 1
+        merged = [e for e in merged if e is not None]
+        merged.append(entry)
+    print(f"merged glossary: {len(shared)} shared + {len(local)} work "
+          f"({overridden} overridden)")
+    return merged
+
+
+def load_blocks(work: Work) -> list[dict]:
     blocks = []
-    with open(BLOCKS_PATH, encoding="utf-8") as f:
+    with open(work.blocks_path, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
             if line:
@@ -71,14 +184,14 @@ def flatten(html: str) -> str:
     return re.sub(r"\s*\n\s*", " ", html).strip()
 
 
-def save_blocks(blocks: list[dict]) -> None:
+def save_blocks(work: Work, blocks: list[dict]) -> None:
     """Atomic write: never leave blocks.jsonl half-written on a crash."""
-    fd, tmp = tempfile.mkstemp(dir=DATA, prefix=".blocks-", suffix=".jsonl")
+    fd, tmp = tempfile.mkstemp(dir=work.data, prefix=".blocks-", suffix=".jsonl")
     try:
         with os.fdopen(fd, "w", encoding="utf-8") as f:
             for block in blocks:
                 f.write(json.dumps(block, ensure_ascii=False) + "\n")
-        os.replace(tmp, BLOCKS_PATH)
+        os.replace(tmp, work.blocks_path)
     except BaseException:
         os.unlink(tmp)
         raise

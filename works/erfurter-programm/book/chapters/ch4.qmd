@@ -906,3 +906,7 @@
 <p class="note"><a href="#ch4-f8" id="ch4-n8" name="ch4-n8">8.</a> Let it merely be remarked here in passing that, since economic development can by no means come to a standstill under socialist social conditions, its progress will bring about a steady growth in the size that a socialist cooperative requires in order to be able to prosper. That the individual socialist nations will ultimately merge into a single commonwealth, that the whole human race will form a single society, is our firm conviction. However, we are here concerned only with the starting points, not with the later course of the development of socialist social forms, and thus we need not draw the world republic into the scope of our discussion.</p>
 ```
 
+
+---
+
+[↑ Previous: III. The Capitalist Class](ch3.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: V. The Class Struggle ↓](ch5.qmd)

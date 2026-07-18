@@ -18,10 +18,9 @@ marked 'verified' by human review are never touched.
 import re
 from collections import Counter
 
-import yaml
 from bs4 import BeautifulSoup
 
-from common import GLOSSARY_PATH, load_blocks, save_blocks
+from common import load_blocks, load_glossary, parse_work_arg, save_blocks
 
 RATIO_MIN, RATIO_MAX = 0.75, 1.60
 TAG_RE = re.compile(r"<([a-zA-Z][a-zA-Z0-9]*)")
@@ -83,8 +82,9 @@ def check_block(block: dict, glossary: list[dict]) -> list[str]:
 
 
 def main() -> None:
-    glossary = yaml.safe_load(GLOSSARY_PATH.read_text(encoding="utf-8"))
-    blocks = load_blocks()
+    work = parse_work_arg()
+    glossary = load_glossary(work)
+    blocks = load_blocks(work)
 
     checked = flagged = 0
     for block in blocks:
@@ -100,7 +100,7 @@ def main() -> None:
             for p in problems:
                 print(f"    {p}")
 
-    save_blocks(blocks)
+    save_blocks(work, blocks)
     print(f"\nchecked {checked} blocks, flagged {flagged}")
 
 

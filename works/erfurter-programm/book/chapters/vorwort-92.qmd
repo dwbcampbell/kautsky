@@ -42,3 +42,7 @@
 <p class="note"><a href="#vorwort-92-f1" id="vorwort-92-n1" name="vorwort-92-n1">1.</a> <strong>The Condition of the Working Class in England</strong> did indeed appear two years before the <strong>Communist Manifesto,</strong> but it already breathes the same spirit as the latter.</p>
 ```
 
+
+---
+
+[↑ Return to Table of Contents](../index.qmd) [Next: Preface to the Fifth Edition ↓](vorwort-04.qmd)
