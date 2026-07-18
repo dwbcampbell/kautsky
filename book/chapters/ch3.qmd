@@ -500,3 +500,7 @@
 <p class="note"><a href="#ch3-f7" id="ch3-n7" name="ch3-n7">7.</a> Strictly speaking, rent of tenancy and ground-rent are not the same thing. In the rent of tenancy there is usually also a portion of capital interest. For our purposes here, however, one may equate rent of tenancy and ground-rent.</p>
 ```
 
+
+---
+
+[↑ Return to Table of Contents](../index.qmd)
