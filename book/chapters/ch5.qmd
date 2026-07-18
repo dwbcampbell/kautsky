@@ -938,3 +938,7 @@
 <p class="note"><a href="#ch5-f11" id="ch5-n11" name="ch5-n11">11.</a> One may perhaps counter this assertion with the English “labour members,” who have so often betrayed the English working class in Parliament; but these gentlemen owe their election not to the influence of the working class as a whole, but to that of a guild-minded, arrogant labour aristocracy that wishes to raise itself above the proletariat. Messrs. Broadhurst and company have always acted only in the sense of these their principals.</p>
 ```
 
+
+---
+
+[↑ Return to Table of Contents](../index.qmd)
