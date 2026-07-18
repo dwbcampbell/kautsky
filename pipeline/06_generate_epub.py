@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Generate English-only Quarto book chapters from data/blocks.jsonl.
+"""Generate English-only Quarto book chapters from the work's blocks.jsonl.
 
-Output: book/chapters/*.qmd, rendered to EPUB by `quarto render book/`
-(book/_quarto.yml lists the chapters and EPUB metadata; book/index.qmd is a
-static about-this-edition page).
+Output: the work's book/chapters/*.qmd, rendered to EPUB by
+`quarto render works/<slug>/book/` (book/_quarto.yml lists the chapters and
+EPUB metadata; book/index.qmd is a static about-this-edition page).
 
 Layout rules:
   - each chapter opens with `# {english title}` (the source h1 is skipped);
@@ -17,11 +17,8 @@ Layout rules:
   - Return to TOC link added at bottom of each chapter
 """
 
-from common import (BOOK_CHAPTERS_DIR, CHAPTERS, flatten, heading_level,
-                    load_blocks, remap_anchors, strip_tags)
-
-# Chapter order for previous/next navigation
-CHAPTER_ORDER = [cid for cid, _, _, _ in CHAPTERS]
+from common import (flatten, heading_level, load_blocks, parse_work_arg,
+                    remap_anchors, strip_tags)
 
 
 def render_block(block: dict, chapter_id: str) -> str:
@@ -38,55 +35,46 @@ def render_block(block: dict, chapter_id: str) -> str:
     return f"```{{=html}}\n{en}\n```\n\n"
 
 
-def get_prev_next(chapter_id: str) -> tuple[str | None, str | None]:
-    """Get previous and next chapter IDs."""
-    idx = CHAPTER_ORDER.index(chapter_id)
-    prev = CHAPTER_ORDER[idx - 1] if idx > 0 else None
-    next_ = CHAPTER_ORDER[idx + 1] if idx < len(CHAPTER_ORDER) - 1 else None
-    return prev, next_
-
-
 def main() -> None:
-    BOOK_CHAPTERS_DIR.mkdir(parents=True, exist_ok=True)
-    blocks = load_blocks()
+    work = parse_work_arg()
+    work.book_chapters_dir.mkdir(parents=True, exist_ok=True)
+    blocks = load_blocks(work)
     by_chapter: dict[str, list[dict]] = {}
     for b in blocks:
         by_chapter.setdefault(b["chapter"], []).append(b)
 
-    for chapter_id, _, _, en_title in CHAPTERS:
-        chapter_blocks = by_chapter.get(chapter_id, [])
+    chapter_ids = [c.id for c in work.chapters]
+    title_by_id = {c.id: c.title_en for c in work.chapters}
+
+    for chapter in work.chapters:
+        chapter_blocks = by_chapter.get(chapter.id, [])
         if not chapter_blocks:
             continue
         body = [b for b in chapter_blocks if b["type"] != "footnote"]
         notes = [b for b in chapter_blocks if b["type"] == "footnote"]
 
-        out = [f"# {en_title}\n\n"]
-        out += [render_block(b, chapter_id) for b in body]
+        out = [f"# {chapter.title_en}\n\n"]
+        out += [render_block(b, chapter.id) for b in body]
         if notes:
             out.append("## Notes\n\n")
-            out += [render_block(b, chapter_id) for b in notes]
+            out += [render_block(b, chapter.id) for b in notes]
 
         # Add navigation links
-        prev_id, next_id = get_prev_next(chapter_id)
-        
+        idx = chapter_ids.index(chapter.id)
+        prev_id = chapter_ids[idx - 1] if idx > 0 else None
+        next_id = chapter_ids[idx + 1] if idx < len(chapter_ids) - 1 else None
+
         nav_links = []
         if prev_id:
-            prev_title = next((en for _, _, _, en in CHAPTERS if _[0] == prev_id), None)
-            if prev_title:
-                nav_links.append(f"[↑ Previous: {prev_title}]({prev_id}.qmd)")
-        
+            nav_links.append(f"[↑ Previous: {title_by_id[prev_id]}]({prev_id}.qmd)")
         nav_links.append("[↑ Return to Table of Contents](../index.qmd)")
-        
         if next_id:
-            next_title = next((en for _, _, _, en in CHAPTERS if _[0] == next_id), None)
-            if next_title:
-                nav_links.append(f"[Next: {next_title} ↓]({next_id}.qmd)")
-        
-        if nav_links:
-            out.append("\n---\n\n")
-            out.append(" ".join(nav_links) + "\n")
+            nav_links.append(f"[Next: {title_by_id[next_id]} ↓]({next_id}.qmd)")
 
-        path = BOOK_CHAPTERS_DIR / f"{chapter_id}.qmd"
+        out.append("\n---\n\n")
+        out.append(" ".join(nav_links) + "\n")
+
+        path = work.book_chapters_dir / f"{chapter.id}.qmd"
         path.write_text("".join(out), encoding="utf-8")
         print(f"wrote {path}  ({len(body)} blocks, {len(notes)} footnotes)")
 

@@ -8,8 +8,8 @@ Design (see Plan.md):
   after the first per chapter reads it at ~0.1x price, and pronoun reference
   never drifts for lack of antecedent context.
 - Structured outputs guarantee a parseable {id -> en_html} array.
-- Progress is written back to data/blocks.jsonl after every section, so the
-  script can be interrupted and re-run at any time.
+- Progress is written back to the work's blocks.jsonl after every section, so
+  the script can be interrupted and re-run at any time.
 
 Auth: ANTHROPIC_API_KEY env var, or an `ant auth login` profile.
 """
@@ -20,7 +20,7 @@ import sys
 import anthropic
 import yaml
 
-from common import GLOSSARY_PATH, load_blocks, save_blocks
+from common import load_blocks, load_glossary, parse_work_arg, save_blocks
 
 MODEL = "claude-opus-4-8"
 MAX_TOKENS = 16000
@@ -48,14 +48,12 @@ SCHEMA = {
 }
 
 SYSTEM_TEMPLATE = """\
-You are a scholarly translator of historical socialist theory, translating Karl \
-Kautsky's 'Das Erfurter Programm' (1892) from German into precise, complete, \
-unabridged English.
+You are a scholarly translator of historical socialist theory, translating \
+{description} from German into precise, complete, unabridged English.
 
 RULES:
 1. Completeness is the highest priority. Never merge, split, summarize, or omit \
-a single clause. (The 1910 Bohn edition was abridged; this edition must be \
-strictly complete.)
+a single clause.{completeness_note}
 2. Apply this glossary strictly:
 {glossary}
 3. Render Kautsky's formal analytical German in clear, readable academic \
@@ -74,9 +72,14 @@ its own entry.
 """
 
 
-def build_system(glossary_text: str, chapter_de_text: str) -> list[dict]:
+def build_system(work, glossary_text: str, chapter_de_text: str) -> list[dict]:
+    system_text = SYSTEM_TEMPLATE.format(
+        description=work.translation_description,
+        completeness_note=" " + work.completeness_note if work.completeness_note else "",
+        glossary=glossary_text,
+    )
     return [
-        {"type": "text", "text": SYSTEM_TEMPLATE.format(glossary=glossary_text)},
+        {"type": "text", "text": system_text},
         {
             "type": "text",
             "text": (
@@ -136,15 +139,14 @@ def translate_section(client: anthropic.Anthropic, system: list[dict],
 
 
 def main() -> None:
-    # Optional args restrict the run to specific chapters, e.g.:
-    #   python pipeline/03_translate.py vorwort-92 ch1
-    only = set(sys.argv[1:])
+    # Extra args restrict the run to specific chapters, e.g.:
+    #   python pipeline/03_translate.py erfurter-programm vorwort-92 ch1
+    work, extra = parse_work_arg(extra_args=True)
+    only = set(extra)
     client = anthropic.Anthropic()
-    glossary_text = yaml.dump(
-        yaml.safe_load(GLOSSARY_PATH.read_text(encoding="utf-8")),
-        allow_unicode=True, sort_keys=False,
-    )
-    blocks = load_blocks()
+    glossary_text = yaml.dump(load_glossary(work),
+                              allow_unicode=True, sort_keys=False)
+    blocks = load_blocks(work)
     by_id = {b["id"]: b for b in blocks}
 
     chapters: dict[str, list[dict]] = {}
@@ -159,7 +161,7 @@ def main() -> None:
         if not todo:
             continue
         chapter_de_text = "\n\n".join(b["de_text"] for b in chapter_blocks)
-        system = build_system(glossary_text, chapter_de_text)
+        system = build_system(work, glossary_text, chapter_de_text)
         print(f"\n=== {chapter_id}: {len(todo)} blocks to translate ===")
 
         for section in sections(todo):
@@ -174,7 +176,7 @@ def main() -> None:
                 by_id[block_id]["en_html"] = en_html
                 by_id[block_id]["status"] = "translated"
             done += len(result)
-            save_blocks(blocks)
+            save_blocks(work, blocks)
             missing = [b["id"] for b in section if b["id"] not in result]
             if missing:
                 failed += len(missing)
