@@ -1,15 +1,17 @@
 ---
-title: "Das Erfurter Programm / The Erfurt Programme"
+title: "German Marxists in Translation"
+sidebar: false
 ---
 
-Karl Kautsky, *Das Erfurter Programm in seinem grundsätzlichen Theil erläutert*
-(1892) — a complete, unabridged parallel German/English edition.
+Complete, unabridged parallel German/English editions of works of German
+Marxism. The German texts follow the [Marxists Internet
+Archive](https://www.marxists.org/deutsch/) transcriptions; the English
+translations are new, with terminology fixed by a common termbase and
+completeness checked mechanically block by block.
 
-The German text follows the Marxists Internet Archive transcription of the
-Dietz Verlag (Berlin) 1965 edition. The English translation is new: the
-standard 1910 translation by William E. Bohn (*The Class Struggle*) abridged
-the text to roughly two-thirds of its length and rendered core theoretical
-terminology inconsistently.
+## Karl Kautsky
 
-See the [editorial note](editorial.qmd) for translation principles and
-methodology, or begin with the [Preface to the First Edition](chapters/vorwort-92.qmd).
+- [**The Erfurt Programme** / *Das Erfurter Programm*](erfurter-programm/index.qmd)
+  (1892) — the theoretical commentary on the SPD's Erfurt Programme.
+  Parallel edition with [editorial note](erfurter-programm/editorial.qmd)
+  and the [programme text itself](erfurter-programm/prologue.qmd) as prologue.

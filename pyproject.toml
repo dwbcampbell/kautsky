@@ -1,7 +1,7 @@
 [project]
-name = "kautsky-erfurt"
+name = "marxists-translations"
 version = "0.1.0"
-description = "Parallel DE/EN translation of Kautsky's Das Erfurter Programm (1892)"
+description = "Parallel DE/EN translations of German Marxist works from marxists.org"
 requires-python = ">=3.10"
 dependencies = [
     "anthropic>=0.90",

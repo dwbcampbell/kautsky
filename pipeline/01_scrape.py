@@ -10,26 +10,27 @@ import time
 
 import requests
 
-from common import BASE_URL, CHAPTERS, RAW_HTML
+from common import parse_work_arg
 
 HEADERS = {
-    "User-Agent": "ErfurtTranslationProject/0.1 (dwbcampbell@gmail.com)"
+    "User-Agent": "MarxistsTranslationProject/0.1 (dwbcampbell@gmail.com)"
 }
 
 
 def main() -> None:
-    RAW_HTML.mkdir(parents=True, exist_ok=True)
-    for _, filename, _, _ in CHAPTERS:
-        dest = RAW_HTML / filename
+    work = parse_work_arg()
+    work.raw_html.mkdir(parents=True, exist_ok=True)
+    for chapter in work.chapters:
+        dest = work.raw_html / chapter.source
         if dest.exists():
-            print(f"cached   {filename}")
+            print(f"cached   {chapter.source}")
             continue
 
-        r = requests.get(BASE_URL + filename, headers=HEADERS, timeout=30)
+        r = requests.get(work.base_url + chapter.source, headers=HEADERS, timeout=30)
         r.raise_for_status()
         r.encoding = r.apparent_encoding or "utf-8"
         dest.write_text(r.text, encoding="utf-8")
-        print(f"fetched  {filename}  ({len(r.text)} chars)")
+        print(f"fetched  {chapter.source}  ({len(r.text)} chars)")
         time.sleep(1.5)
 
 

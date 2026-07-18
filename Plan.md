@@ -8,6 +8,11 @@ publish it as a bilingual parallel-column website built with Quarto.
 compresses the German text to roughly two-thirds of its length — omitting illustrative
 passages, statistical tables, and nuance — and renders core terminology inconsistently.
 
+*This document records the original single-work design; its rationale still governs the
+pipeline. The repo has since been restructured to host several works — see
+[Multi-work structure](#multi-work-structure) at the end for the current layout and the
+recipe for adding a work.*
+
 ## Source
 
 German text on the Marxists Internet Archive (based on the Dietz Verlag, Berlin 1965
@@ -26,20 +31,21 @@ edition). Verified page inventory:
 Base URL: `https://www.marxists.org/deutsch/archiv/kautsky/1892/erfurter/`
 
 The German text is public domain (Kautsky died 1938). The new translation is our
-copyright; state a license (e.g. CC BY-SA) in `site/editorial.qmd`.
+copyright; state a license (e.g. CC BY-SA) in `site/erfurter-programm/editorial.qmd`.
 
 ## Pipeline
 
 ```
-[ MIA German HTML ] ─► 01_scrape ──► data/raw_html/            (cached, one-time)
-                       02_segment ─► data/blocks.jsonl         (one block per line — SOURCE OF TRUTH)
-                       03_translate ► en_html filled in-place  (Anthropic API, resumable)
-                       04_qa_check ─► blocks flagged in-place  (deterministic checks first)
-                       05_generate ─► site/chapters/*.qmd
+[ MIA German HTML ] ─► 01_scrape ──► works/<slug>/data/raw_html/    (cached, one-time)
+                       02_segment ─► works/<slug>/data/blocks.jsonl (one block per line — SOURCE OF TRUTH)
+                       03_translate ► en_html filled in-place       (Anthropic API, resumable)
+                       04_qa_check ─► blocks flagged in-place       (deterministic checks first)
+                       05_generate ─► site/<slug>/chapters/*.qmd
                        quarto render site/ ─► parallel bilingual website
 ```
 
-A single file, `data/blocks.jsonl`, is the source of truth. Each line is one block:
+A single file per work, `works/<slug>/data/blocks.jsonl`, is the source of truth. Each
+line is one block:
 
 ```json
 {"id": "ch1-3f9a02c1", "chapter": "ch1", "type": "paragraph|heading|blockquote|table|list|footnote",
@@ -94,7 +100,7 @@ One line per block keeps git diffs reviewable; status transitions record progres
 
 ## Glossary (termbase)
 
-`data/glossary.yaml` — the contract that fixes Bohn's inconsistencies. Each entry:
+`shared/glossary.yaml` — the contract that fixes Bohn's inconsistencies. Each entry:
 German stems (matched as lowercase substrings, so compounds are caught), the required
 English rendering, terms to avoid, and a note. Grow it as translation proceeds; QA
 enforces it mechanically.
@@ -138,12 +144,58 @@ dollars** total. Not worth optimizing further.
 
 ```
 make venv        # one-time: .venv + dependencies
-make scrape      # cache the 7 MIA pages (polite: 1.5 s delay, cache guard)
-make segment     # raw_html → data/blocks.jsonl
+make scrape      # cache the MIA pages (polite: 1.5 s delay, cache guard)
+make segment     # raw_html → blocks.jsonl
 make translate   # needs ANTHROPIC_API_KEY (or `ant auth login`); resumable
 make qa          # deterministic checks; flags blocks
-make site        # blocks.jsonl → site/chapters/*.qmd
+make site        # blocks.jsonl → site/<slug>/chapters/*.qmd
 make render      # quarto render site/
 ```
 
+All pipeline targets operate on one work, selected by `WORK` (default
+`erfurter-programm`), e.g. `make segment WORK=another-work`.
+
 Then iterate: review in browser → correct blocks.jsonl → `make site render`.
+
+## Multi-work structure
+
+The repo hosts several works of German Marxists; the site's root index groups them by
+author. Work-specific facts live in a manifest, `works/<slug>/work.yaml` (author,
+titles, year, MIA base URL, masthead headings to drop, translation-prompt text,
+`legacy_url_prefix` for redirect aliases, and the chapter list). The pipeline code in
+`pipeline/` is shared and work-parameterized: every script takes the work slug as its
+first positional argument (`pipeline/common.py:parse_work_arg`), and `Work`/`Chapter`
+dataclasses carry the manifest plus all derived paths.
+
+```
+pipeline/               shared, work-parameterized scripts
+shared/glossary.yaml    common Marxist termbase
+works/<slug>/           work.yaml + data/{raw_html/,blocks.jsonl} + book/ (EPUB project)
+site/                   one combined Quarto website
+  index.qmd             works index, grouped by author (hand-maintained)
+  <slug>/               per-work pages: index/editorial/prologue + generated chapters/
+```
+
+The glossary is `shared/glossary.yaml` plus an optional per-work
+`works/<slug>/data/glossary.yaml`; a per-work entry replaces any shared entry whose
+German stem set overlaps its own, otherwise it is appended (`common.load_glossary`
+prints a merge summary so overrides are visible).
+
+`site/_quarto.yml` holds one *named* sidebar per work (`id: <slug>`), whose hrefs are
+all prefixed with the work slug; Quarto shows each sidebar only on its own pages. The
+root `index.qmd` sets `sidebar: false`.
+
+### Adding a work (Milestone 2 recipe)
+
+1. `mkdir works/<slug>` and write `work.yaml` (copy `works/erfurter-programm/work.yaml`
+   as a template; chapter ids/titles from the MIA index page).
+2. `make scrape segment WORK=<slug>`, sanity-check the block counts, then
+   `make translate qa WORK=<slug>`.
+3. Copy/adapt a `book/` Quarto book project (only `_quarto.yml` chapter list,
+   `index.qmd`, cover) if an EPUB is wanted.
+4. Hand-write `site/<slug>/index.qmd` (+ editorial notes as desired), append a
+   `- id: <slug>` sidebar block to `site/_quarto.yml`, and add the work under its
+   author on the root `site/index.qmd`.
+5. `make site render` and review.
+
+Nothing in `pipeline/` or the existing works should need to change.

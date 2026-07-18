@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate Quarto .qmd chapter pages from data/blocks.jsonl.
+"""Generate Quarto .qmd chapter pages from the work's blocks.jsonl.
 
 Layout rules:
   - headings: real Markdown headings (tags stripped, so the TOC stays clean),
@@ -13,8 +13,8 @@ Untranslated blocks render with a visible TODO marker in the English column,
 so a draft site can be built at any stage of the translation.
 """
 
-from common import (CHAPTERS, CHAPTERS_DIR, flatten, heading_level,
-                    load_blocks, remap_anchors, strip_tags)
+from common import (flatten, heading_level, load_blocks, parse_work_arg,
+                    remap_anchors, strip_tags)
 
 STATUS_BADGE = {"flagged": " ⚑", "untranslated": "", "translated": "", "verified": ""}
 
@@ -59,28 +59,33 @@ def render_block(block: dict, chapter_id: str) -> str:
 
 
 def main() -> None:
-    CHAPTERS_DIR.mkdir(parents=True, exist_ok=True)
-    blocks = load_blocks()
+    work = parse_work_arg()
+    work.site_chapters_dir.mkdir(parents=True, exist_ok=True)
+    blocks = load_blocks(work)
     by_chapter: dict[str, list[dict]] = {}
     for b in blocks:
         by_chapter.setdefault(b["chapter"], []).append(b)
 
-    for chapter_id, _, de_title, en_title in CHAPTERS:
-        chapter_blocks = by_chapter.get(chapter_id, [])
+    for chapter in work.chapters:
+        chapter_blocks = by_chapter.get(chapter.id, [])
         if not chapter_blocks:
             continue
         body = [b for b in chapter_blocks if b["type"] != "footnote"]
         notes = [b for b in chapter_blocks if b["type"] == "footnote"]
 
-        out = [f'---\ntitle: "{en_title}"\nsubtitle: "{de_title}"\n---\n\n']
+        front = [f'title: "{chapter.title_en}"', f'subtitle: "{chapter.title_de}"']
+        if work.legacy_url_prefix:
+            # Quarto renders redirect stubs at the pre-restructure URLs.
+            front.append(f'aliases: ["{work.legacy_url_prefix}/{chapter.id}.html"]')
+        out = ["---\n" + "\n".join(front) + "\n---\n\n"]
         # The page h1 duplicates the front-matter title; skip it.
-        out += [render_block(b, chapter_id) for b in body
+        out += [render_block(b, chapter.id) for b in body
                 if not (b["type"] == "heading" and heading_level(b["de_html"]) == 1)]
         if notes:
             out.append("## Notes / Anmerkungen\n\n")
-            out += [render_block(b, chapter_id) for b in notes]
+            out += [render_block(b, chapter.id) for b in notes]
 
-        path = CHAPTERS_DIR / f"{chapter_id}.qmd"
+        path = work.site_chapters_dir / f"{chapter.id}.qmd"
         path.write_text("".join(out), encoding="utf-8")
         print(f"wrote {path}  ({len(body)} blocks, {len(notes)} footnotes)")
 

@@ -1,6 +1,7 @@
 ---
 title: "III. The Capitalist Class"
 subtitle: "III. Die Kapitalistenklasse"
+aliases: ["/chapters/ch3.html"]
 ---
 
 ##### 1. Trade and Credit

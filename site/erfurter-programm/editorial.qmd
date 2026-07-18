@@ -1,5 +1,6 @@
 ---
 title: "Editorial Note"
+aliases: ["/editorial.html"]
 ---
 
 ## The text
