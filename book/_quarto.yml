@@ -18,10 +18,6 @@ book:
     - chapters/ch4.qmd
     - chapters/ch5.qmd
 
-contributor:
-  - name: "Douglas Campbell"
-    role: "Translator"
-
 format:
   epub:
     lang: en
@@ -33,3 +29,4 @@ format:
       identifier: urn:uuid:12345678-1234-5678-1234-567812345678
       publisher: "Independent"
       rights: "CC BY-SA 4.0"
+      contributor: "Douglas Campbell (Translator)"
