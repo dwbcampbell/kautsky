@@ -13,6 +13,10 @@ The Programme consists of a theoretical introduction followed by practical deman
 
 ### I. Theoretical Foundations
 
+> **→ Discussed in** [Chapter I: The Decline of Small-Scale Enterprise](chapters/ch1.qmd), [Chapter IV: The State of the Future](chapters/ch4.qmd), [Chapter V: The Class Struggle](chapters/ch5.qmd)
+
+#### The Four Foundational Paragraphs (from Chapter I)
+
 ::: {.parallel-container}
 
 ::: {.parallel-col-de}
@@ -33,9 +37,69 @@ The Programme consists of a theoretical introduction followed by practical deman
 
 :::
 
-> **→ Discussed in** [Chapter I: The Decline of Small-Scale Enterprise](chapters/ch1.qmd)
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">Hand in Hand mit dieser Monopolisierung der Produktionsmittel geht die Verdrängung der zersplitterten Kleinbetriebe durch kolossale Großbetriebe, geht die Entwicklung des Werkzeugs zur Maschine, geht ein riesenhaftes Wachstum der Produktivität der menschlichen Arbeit. Aber alle Vorteile dieser Umwandlung werden von den Kapitalisten und Großgrundbesitzern monopolisiert. Für das Proletariat und die versinkenden Mittelschichten – Kleinbürger, Bauern – bedeutet sie wachsende Zunahme der Unsicherheit ihrer Existenz, des Elends, des Drucks, der Knechtung, der Erniedrigung, der Ausbeutung.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">Hand in hand with this monopolisation of the means of production goes the displacement of the fragmented small-scale enterprises by colossal large-scale enterprises, goes the development of the tool into the machine, goes a gigantic growth in the productivity of human labour. But all the advantages of this transformation are monopolised by the capitalists and large landowners. For the proletariat and the sinking middle strata – petty bourgeois, peasants – it means a growing increase in the insecurity of their existence, in misery, in oppression, in servitude, in degradation, in exploitation.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">Immer größer wird die Zahl der Proletarier, immer massenhafter die Armee der überschüssigen Arbeiter, immer schroffer der Gegensatz zwischen Ausbeutern und Ausgebeuteten, immer erbitterter der Klassenkampf zwischen Bourgeoisie und Proletariat, der die moderne Gesellschaft in zwei feindliche Heerlager trennt und das gemeinsame Merkmal aller Industrieländer ist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">Ever greater becomes the number of proletarians, ever more massive the army of surplus workers, ever sharper the antagonism between exploiters and exploited, ever more embittered the class struggle between bourgeoisie and proletariat, which divides modern society into two hostile camps and is the common feature of all industrial countries.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">Der Abgrund zwischen Besitzenden und Besitzlosen wird noch erweitert durch die im Wesen der kapitalistischen Produktionsweise begründeten Krisen, die immer umfangreicher und verheerender werden, die allgemeine Unsicherheit zum Normalzustand der Gesellschaft erheben und den Beweis liefern, daß die Produktivkräfte der heutigen Gesellschaft über den Kopf gewachsen sind, daß das Privateigentum an Produktionsmitteln unvereinbar geworden ist mit deren zweckentsprechender Anwendung und voller Entwicklung.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">The abyss between the propertied and the propertyless is still further widened by the crises founded in the very nature of the capitalist mode of production, which become ever more extensive and devastating, which raise the general insecurity to the normal condition of society and furnish the proof that the productive forces of present-day society have grown beyond its control, that private property in the means of production has become incompatible with their appropriate application and full development.“</p>
+```
+
+:::
+
+:::
 
 ---
+
+#### On Private Property (from Chapter IV)
 
 ::: {.parallel-container}
 
@@ -57,9 +121,9 @@ The Programme consists of a theoretical introduction followed by practical deman
 
 :::
 
-> **→ Discussed in** [Chapter IV: The State of the Future](chapters/ch4.qmd)
-
 ---
+
+#### The Final Paragraphs of the General Part (from Chapter V)
 
 ::: {.parallel-container}
 
@@ -81,15 +145,93 @@ The Programme consists of a theoretical introduction followed by practical deman
 
 :::
 
-> **→ Discussed in** [Chapter V: The Class Struggle](chapters/ch5.qmd)
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">Der Kampf der Arbeiterklasse gegen die kapitalistische Ausbeutung ist notwendigerweise ein politischer Kampf. Die Arbeiterklasse kann ihre ökonomischen Kämpfe nicht führen und ihre ökonomische Organisation nicht entwickeln ohne politische Rechte. Sie kann den Übergang der Produktionsmittel in den Besitz der Gesamtheit nicht bewirken, ohne in den Besitz der politischen Macht gekommen zu sein.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">The struggle of the working class against capitalist exploitation is necessarily a political struggle. The working class cannot conduct its economic struggles and cannot develop its economic organisation without political rights. It cannot bring about the transfer of the means of production into the possession of the community without having come into possession of political power.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">Diesen Kampf der Arbeiterklasse zu einem bewußten und einheitlichen zu gestalten und ihm sein naturnotwendiges Ziel zu weisen – das ist die Aufgabe der Sozialdemokratischen Partei.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">To shape this struggle of the working class into a conscious and unified one and to point out to it its naturally necessary goal – that is the task of the Social Democratic Party.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">Die Interessen der Arbeiterklasse sind in allen Ländern mit kapitalistischer Produktionsweise die gleichen. Mit der Ausdehnung des Weltverkehrs und der Produktion für den Weltmarkt wird die Lage der Arbeiter eines jeden Landes immer abhängiger von der Lage der Arbeiter in den anderen Ländern. Die Befreiung der Arbeiterklasse ist also ein Werk, an dem die Arbeiter aller Kulturländer gleichmäßig beteiligt sind. In dieser Erkenntnis fühlt und erklärt die Sozialdemokratische Partei Deutschlands sich eins mit den klassenbewußten Arbeitern aller übrigen Länder.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">The interests of the working class are the same in all countries with a capitalist mode of production. With the expansion of world commerce and of production for the world market, the condition of the workers of every country becomes ever more dependent on the condition of the workers in the other countries. The emancipation of the working class is thus a work in which the workers of all civilised countries are equally involved. In recognition of this, the Social Democratic Party of Germany feels and declares itself one with the class-conscious workers of all other countries.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">Die Sozialdemokratische Partei Deutschlands kämpft also nicht für neue Klassenprivilegien und -Vorrechte, sondern für die Abschaffung der Klassenherrschaft und der Klassen selbst und für gleiche Rechte und gleiche Pflichten aller ohne Unterschied des Geschlechts und der Abstammung. Von diesen Anschauungen ausgehend, bekämpft sie in der heutigen Gesellschaft nicht bloß die Ausbeutung und Unterdrückung der Lohnarbeiter, sondern jede Art der Ausbeutung und Unterdrückung, richte sie sich gegen eine Klasse, eine Partei, ein Geschlecht oder eine Rasse.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">The Social Democratic Party of Germany therefore fights not for new class privileges and prerogatives, but for the abolition of class rule and of the classes themselves, and for equal rights and equal duties of all without distinction of sex and descent. Proceeding from these views, it combats in present-day society not merely the exploitation and oppression of wage labourers, but every kind of exploitation and oppression, whether it be directed against a class, a party, a sex or a race.“</p>
+```
+
+:::
+
+:::
 
 ---
 
 ### II. Practical Demands
 
-#### A. General Political Demands
-
 > **→ Discussed in** [Chapter V: The Class Struggle](chapters/ch5.qmd)
+
+#### A. General Political Demands
 
 ::: {.parallel-container}
 
