@@ -1,6 +1,7 @@
 ---
 title: "IV. The State of the Future"
 subtitle: "IV. Der Zukunftsstaat"
+aliases: ["/chapters/ch4.html"]
 ---
 
 ##### 1. Social Reform and Revolution

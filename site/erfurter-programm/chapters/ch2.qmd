@@ -1,6 +1,7 @@
 ---
 title: "II. The Proletariat"
 subtitle: "II. Das Proletariat"
+aliases: ["/chapters/ch2.html"]
 ---
 
 ##### 1. The Proletarian and the Journeyman Artisan

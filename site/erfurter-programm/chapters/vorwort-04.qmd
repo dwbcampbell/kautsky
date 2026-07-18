@@ -1,6 +1,7 @@
 ---
 title: "Preface to the Fifth Edition"
 subtitle: "Vorrede zur fünften Auflage"
+aliases: ["/chapters/vorwort-04.html"]
 ---
 
 ::: {.parallel-container}

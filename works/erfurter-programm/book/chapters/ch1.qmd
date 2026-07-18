@@ -381,4 +381,4 @@
 
 ---
 
-[↑ Return to Table of Contents](../index.qmd)
+[↑ Previous: Preface to the Fifth Edition](vorwort-04.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: II. The Proletariat ↓](ch2.qmd)
