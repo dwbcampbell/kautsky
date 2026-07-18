@@ -48,6 +48,15 @@
   font-style: italic;
 }
 
+/* Erfurt Programme excerpts - the actual 1891 program text quoted by Kautsky */
+.parallel-col-de .quoteb,
+.parallel-col-en .quoteb {
+  background-color: #fef3c7;
+  padding: 0.5rem 0.75rem;
+  border-left: 3px solid #f59e0b;
+  margin: 0.25rem 0;
+}
+
 /* Mobile: stack columns, German first */
 @media (max-width: 768px) {
   .parallel-container {
@@ -60,5 +69,9 @@
     background-color: #f7fafc;
     padding: 0.8rem;
     border-radius: 4px;
+  }
+  .parallel-col-de .quoteb,
+  .parallel-col-en .quoteb {
+    border-left: 3px solid #f59e0b;
   }
 }
