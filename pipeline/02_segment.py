@@ -10,8 +10,8 @@ MIA markup conventions (verified against the cached pages):
   - masthead:   author/title headings (work.yaml masthead_texts)  -> drop
   - navigation: p.link / p.toplink / p.updat                      -> drop
   - quotations: p.quote / p.quoteb (program text etc.)            -> blockquote
-  - footnotes:  h3 "Anmerkungen des Verfassers" then p.note       -> footnote
-  - statistics: <table> without links, digit-heavy                -> table
+  - footnotes:  h3 "Anmerkungen …"/"Fußnote(n)" then p.note       -> footnote
+  - content tables (statistics, equations): no hyperlinks         -> table
 """
 
 import hashlib
@@ -27,18 +27,17 @@ HEADING_TAGS = {"h1", "h2", "h3", "h4", "h5"}
 
 DROP_P_CLASSES = {"link", "toplink", "linkback", "updat", "information", "footer", "toc"}
 QUOTE_P_CLASSES = {"quote", "quoteb", "quotec"}
-NOTES_HEADING = re.compile(r"^anmerkung", re.I)
+NOTES_HEADING = re.compile(r"^(anmerkung|fußnote|fussnote)", re.I)
 
 # Fallback footnote signal: definition anchors like <a name="n2">.
 FOOTNOTE_ANCHOR = re.compile(r"^(n|fn|note)\d+$", re.I)
 
 
 def looks_like_data_table(table: Tag) -> bool:
-    """Kautsky's statistical tables vs. any layout/navigation table."""
-    if table.find("a", href=True):
-        return False
-    text = table.get_text(" ", strip=True)
-    return sum(ch.isdigit() for ch in text) >= 10
+    """Content tables (statistics, display equations, datelines) carry no
+    hyperlinks; MIA navigation tables always do. Empty-text tables (e.g.
+    image-only) are already skipped by the caller."""
+    return table.find("a", href=True) is None
 
 
 def classify(el: Tag, text: str, in_notes: bool, masthead_texts: frozenset[str]) -> str | None:

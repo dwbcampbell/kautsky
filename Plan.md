@@ -128,6 +128,12 @@ enterprise, *Lohnarbeit* → wage labour, *Genossenschaft* → cooperative,
   so the TOC stays clean), with the German original as a subtitle line.
 - **Tables:** rendered full-width between the parallel columns (DE and EN versions
   stacked), inside an `overflow-x` container.
+- **Images:** the segmenter skips image-only tables, so embedded diagrams (e.g. the
+  two working-day GIFs in *Oekonomische Lehren* ab2-kap07) are hand-inserted
+  `verified` blocks in blocks.jsonl, with `src="../assets/…"` resolving from both
+  `site/<slug>/chapters/` and `book/chapters/`, and the files copied into
+  `site/<slug>/assets/` and `works/<slug>/book/assets/`. **Re-running 02_segment
+  drops these blocks — re-insert them after any re-segment.**
 
 ## Site
 
