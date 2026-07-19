@@ -1,0 +1,1982 @@
+---
+title: "Chapter 1. The Commodity"
+subtitle: "1. Kapitel. Die Waare"
+---
+
+##### 1. The Character of Commodity Production
+
+<p class="de-subtitle">1. Der Charakter der Waarenproduktion</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Was Marx in seinem <strong>Kapital</strong> zu erforschen sich vornahm, war die <em>kapitalistische Produktionsweise,</em> welche die heute herrschende ist. Er beschäftigt sich in dem Werk nicht mit den Naturgesetzen, die dem Vorgang des Produzirens zu Grunde liegen; deren Erforschung ist eine der Aufgaben der Mechanik und Chemie, nicht der politischen Oekonomie. Er stellt sich andererseits nicht die Aufgabe, nur die Formen der Produktion zu erforschen, die allen Völkern gemein, da eine solche Untersuchung zum großen Theil nur Gemeinplätze zu Tage fördern kann, wie etwa den, daß der Mensch, um produziren zu können, stets Werkzeuge, Boden und Lebensmittel braucht. Marx untersuchte vielmehr die Bewegungsgesetze einer bestimmten Form des gesellschaftlichen Produzirens, die einer bestimmten Zeit (den letzten Jahrhunderten) und bestimmten Nationen eigenthümlich ist (den europäischen oder aus Europa stammenden; in letzter Zeit beginnt sich diese unsere Produktionsweise auch bei anderen Nationen einzubürgern, z. B. bei den Japanesen und Hindus). Diese, heute herrschende Produktionsweise, die kapitalistische, deren Eigenthümlichkeiten wir noch näher kennen lernen werden, ist von anderen Produktionsweisen streng geschieden, z. B. der feudalen, wie sie in Europa im Mittelalter herrschte, oder der urwüchsigen kommunistischen, wie sie an der Schwelle der Entwicklung aller Völker steht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">What Marx set himself to investigate in his <strong>Capital</strong> was the <em>capitalist mode of production,</em> which is the one prevailing today. In the work he does not concern himself with the natural laws that underlie the process of producing; their investigation is one of the tasks of mechanics and chemistry, not of political economy. On the other hand, he does not set himself the task of merely investigating those forms of production common to all peoples, since such an inquiry could for the most part bring to light only commonplaces, such as, for instance, that man, in order to be able to produce, always needs tools, soil, and means of subsistence. Rather, Marx investigated the laws of motion of a particular form of social production which is peculiar to a particular period (the last few centuries) and to particular nations (the European ones, or those descended from Europe; in recent times this mode of production of ours has also begun to take root among other nations, for example among the Japanese and the Hindus). This mode of production prevailing today, the capitalist one, whose peculiarities we shall come to know more closely, is strictly distinguished from other modes of production, for example the feudal one as it prevailed in Europe in the Middle Ages, or the primitive communist one as it stands at the threshold of the development of all peoples.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Betrachten wir die heutige Gesellschaft, so finden wir, daß ihr Reichthum aus Waaren besteht. Eine Waare ist ein Arbeitsprodukt, das nicht für den eigenen Gebrauch, sei es des Produzenten oder mit ihm verbundener Menschen, sondern zum Zeit des Austausches mit anderen Produkten erzeugt worden. Es sind also nicht natürliche, sondern <em>gesellschaftliche</em> Eigenthümlichkeiten, welche ein Produkt zur Waare machen. Ein Beispiel wird das klar machen. Das Garn, das ein Mädchen in einer urwüchsigen Bauernfamilie aus Flachs spinnt, damit aus ihm Leinwand gewebt werde, welche in der Familie selbst verbraucht wird, ist ein <em>Gebrauchsgegenstand,</em> aber keine <em>Waare.</em> Wenn aber ein Spinner Flachs verspinnt, um vom Nachbar Bauer Weizen gegen das Leinengarn einzutauschen, oder wenn gar ein Fabrikant tagaus tagein viele Zentner von Flachs verspinnen läßt, um das Produkt zu verkaufen, so ist dieses eine Waare. Es ist wohl auch Gebrauchsgegenstand, aber Gebrauchsgegenstand, der eine besondere gesellschaftliche Rolle zu spielen hat, d. h. der ausgetauscht werden soll. Man sieht es dem Leinengarn nicht an, ob es eine Waare ist oder nicht. Seine Naturalform kann ganz dieselbe sein, ob es in einer Bauernhütte zur Aussteuer der Spinnerin von dieser selbst gesponnen worden, oder in einer Fabrik von einem Fabrikmädchen, das vielleicht nie auch nur einen Faden davon selbst benutzen wird. Erst an der gesellschaftlichen Rolle, der <em>gesellschaftlichen Funktion,</em> in der das Leinengarn thätig ist, kann man erkennen, ob es Waare ist oder nicht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If we consider present-day society, we find that its wealth consists of commodities. A commodity is a product of labour that has been produced not for one's own use, whether of the producer or of persons connected with him, but for the purpose of exchange with other products. It is therefore not natural, but <em>social</em> peculiarities that make a product into a commodity. An example will make this clear. The yarn which a girl in a primitive peasant family spins from flax, so that linen may be woven from it which is consumed within the family itself, is an <em>object of use,</em> but not a <em>commodity.</em> But if a spinner spins flax in order to exchange the linen yarn with the neighbouring peasant for wheat, or if indeed a manufacturer has many hundredweight of flax spun day in and day out in order to sell the product, then this is a commodity. It too is indeed an object of use, but an object of use that has a special social role to play, that is, that is meant to be exchanged. One cannot tell from the linen yarn itself whether it is a commodity or not. Its natural form can be quite the same whether it was spun in a peasant's hut by the spinner herself for her own trousseau, or in a factory by a factory girl who will perhaps never herself use so much as a single thread of it. Only from the social role, the <em>social function,</em> in which the linen yarn is active can one recognise whether it is a commodity or not.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In der kapitalistischen Gesellschaft nehmen nun in immer steigendem Maße die Arbeitsprodukte die Form von Waaren an; wenn heute noch nicht alle Arbeitsprodukte bei uns Waaren sind, so deswegen, weil noch Reste früherer Produktionsweisen in die jetzige hineinragen. Sieht man von diesen ab, die ganz unbedeutend find, so kann man sagen, <em>daß heute alle Arbeitsprodukte die Form von Waaren annehmen.</em> Wir können die heutige Produktionsweise nicht verstehen, wenn wir uns über den Charakter der Waare nicht klar geworden. Wir haben daher mit einer Untersuchung der Waare zu beginnen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In capitalist society the products of labour now assume the form of commodities to an ever-increasing degree; if not yet all products of labour among us are commodities today, this is because remnants of earlier modes of production still project into the present one. If we disregard these, which are quite insignificant, one can say that <em>today all products of labour assume the form of commodities.</em> We cannot understand the present-day mode of production if we have not become clear about the character of the commodity. We must therefore begin with an investigation of the commodity.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Das Verständniß dieser Untersuchung wird jedoch unseres Erachtens sehr gefördert, wenn wir vor Allem die charakteristischen Eigenthümlichkeiten der Waarenproduktion im Gegensatz zu anderen Arten der Produktion darlegen. Wir gelangen dadurch am leichtesten zum Verständniß des Standpunktes, den Marx bei seiner Untersuchung der Waare eingenommen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In our view, however, the understanding of this investigation is greatly furthered if we first of all set out the characteristic peculiarities of commodity production in contrast to other kinds of production. In this way we most easily arrive at an understanding of the standpoint which Marx adopted in his investigation of the commodity.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Soweit wir in der Geschichte des Menschengeschlechts zurücksehen können, immer finden wir, daß die Menschen in kleineren oder größeren Gesellschaften ihren Lebensunterhalt erworben haben, daß die Produktion stets einen <em>gesellschaftlichen</em> Charakter hatte. Marx hat diesen bereits in seinen Artikeln über <em>Lohnarbeit und Kapital</em> in der <strong>Neuen Rheinischen Zeitung</strong> (1849) <a href="#ab1-kap1-n1" id="ab1-kap1-f1" name="ab1-kap1-f1">[1]</a> klar dargethan.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>As far back as we can look in the history of the human race, we always find that men have earned their livelihood in smaller or larger societies, that production always had a <em>social</em> character. Marx already demonstrated this clearly in his articles on <em>Wage Labour and Capital</em> in the <strong>Neue Rheinische Zeitung</strong> (1849) <a href="#ab1-kap1-n1" id="ab1-kap1-f1" name="ab1-kap1-f1">[1]</a>.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„In der Produktion beziehen sich die Menschen nicht allein auf die Natur,“ heißt es da. „Sie produziren, indem sie auf eine bestimmte Weise zusammenwirken und ihre Thätigkeiten gegen einander austauschen. Um zu produziren, treten sie in bestimmte Beziehungen und Verhältnisse zu einander, und nur innerhalb dieser gesellschaftlichen Beziehungen und Verhältnisse findet ihre Beziehung zur Natur, findet die Produktion statt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">"In production, men do not enter into relation solely with nature," it says there. "They produce by co-operating in a certain way and exchanging their activities with one another. In order to produce, they enter into definite connections and relations with one another, and only within these social connections and relations does their relation to nature take place, does production take place.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">„Je nach dem Charakter der Produktionsmittel werden natürlich diese gesellschaftlichen Verhältnisse, worin die Produzenten zu einander treten, die Bedingungen, unter welchen sie ihre Thätigkeiten austauschen und an dem Gesammtakt der Produktion theilnehmen, verschieden sein. Mit der Erfindung eines neuen Kriegsinstruments, des Feuergewehrs, änderte sich nothwendig die ganze innere Organisation der Armee, verwandelten sich die Verhältnisse, innerhalb deren Individuen eine Armee bilden und als Armee wirken können, änderte sich auch das Verhältniß verschiedener Armeen zu einander.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">"According to the character of the means of production, these social relations into which the producers enter with one another, the conditions under which they exchange their activities and take part in the whole act of production, will naturally be different. With the invention of a new instrument of war, the firearm, the whole internal organisation of the army necessarily changed; the relations within which individuals can constitute an army and act as an army were transformed; the relation of different armies to one another also changed.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">„Die gesellschaftlichen Verhältnisse, worin die Individuen produziren, die gesellschaftlichen Produktionsverhältnisse, ändern sich also, verwandeln sich mit der Veränderung und Entwicklung der Produktionsmittel, der Produktionskräfte. Die Produktionsverhältnisse in ihrer Gesammtheit bilden das, was man die gesellschaftlichen Verhältnisse, die Gesellschaft nennt, und zwar eine Gesellschaft auf bestimmter, geschichtlicher Entwicklungsstufe, eine Gesellschaft mit eigenthümlichem, unterscheidendem Charakter.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">"The social relations within which individuals produce, the social relations of production, thus change, are transformed, with the change and development of the means of production, of the productive forces. The relations of production in their totality constitute what are called the social relations, society, and, moreover, a society at a definite, historical stage of development, a society with a peculiar, distinctive character."</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Einige Beispiele mögen das Gesagte illustriren. Nehmen wir irgend ein urwüchsiges Volk, das auf einer niederen Stufe der Produktion steht, bei dem Jagd einen Hauptzweig der Erwerbung von Nahrungsmitteln bildet, wie die Indianer. Dodge berichtet in seinem Buch <strong>Ueber die heutigen Indianer des fernen Westens</strong> folgendes über deren Art und Weise, zu jagen:</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">A few examples may illustrate what has been said. Let us take some primitive people that stands at a low stage of production, among whom the hunt forms a principal branch of the acquisition of foodstuffs, like the Indians. Dodge reports the following in his book <strong>On the Present-Day Indians of the Far West</strong> concerning their manner of hunting:</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„Da Kopf und Herz nur gelegentlich zu Hilfe gerufen werden, die Anforderungen des Magens aber unaufhörlich sind, so steht der Stamm gewöhnlich unter der Herrschaft des ‚dritten Standes.‘ Diese Macht besteht aus sämmtlichen Jägern des Stammes, welche eine Art Zunft oder Gilde bilden, von deren Entscheidungen in ihrem eigenen besonderen Bereich es keine Appellation giebt. Unter den Cheyennes heißen diese Männer ‚Hundesoldaten.‘ Die jüngeren und rührigeren Häuptlinge gehören stets diesen ‚Hundesoldaten‘ an, befehligen dieselben aber nicht nothgedrungen. Die ‚Soldaten‘ selbst verfügen durch mündlichen Entschluß über allgemeine Angelegenheiten, deren Einzelheiten dann den unter ihnen ausgewählten berühmtesten und scharfsinnigsten Jägern überlassen bleiben. Unter diesen ‚Hundesoldaten‘ befinden sich viele Jungen, welche die einweihende Probe als Krieger noch nicht bestanden haben. Mit einem Wort, diese Jägerzunft umfaßt die ganze Arbeitskraft der Bande und ist diejenige Macht, welche die Weiber und Kinder beschützt und mit Nahrung versieht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">"Since head and heart are called upon for help only occasionally, but the demands of the stomach are unceasing, the tribe is usually under the rule of the 'third estate.' This power consists of all the hunters of the tribe, who form a kind of guild or corporation, from whose decisions, within their own particular sphere, there is no appeal. Among the Cheyennes these men are called 'dog-soldiers.' The younger and more active chiefs always belong to these 'dog-soldiers,' but do not necessarily command them. The 'soldiers' themselves dispose, by verbal decision, of general affairs, whose details are then left to the most famous and shrewdest hunters chosen from among them. Among these 'dog-soldiers' there are many boys who have not yet passed the initiatory test as warriors. In a word, this hunters' guild embraces the whole labour-power of the band and is the power which protects the women and children and supplies them with food.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">„Jedes Jahr finden die großen Herbstjagden statt, um möglichst viel Wild zu erlegen und einen bedeutenden Fleischvorrath für den Winter einzuthun und zu dörren. Jetzt sind die ‚Hundesoldaten‘ die Herren des Tages, und wehe dem Unglücklichen, der auch die unbedeutendsten ihrer willkürlichen oder demokratischen Bestimmungen ungehorsam zu mißachten wagt! Wenn alles fertig ist, so ziehen die besten Jäger Morgens lange vor Tagesanbruch aus. Werden mehrere Büffelherden entdeckt, so wird diejenige zum Schlachten ausersehen, deren Stellung so ist, daß die einleitenden Vorkehrungen und Manöver zum Umzingeln derselben und das Geschrei und Schießen beim Anreiten am wenigsten im Stande ist, die übrigen Herden zu beunruhigen ... Während dieser ganzen Zeit hält der gesammte männliche Theil der Bande, welcher bei der bevorstehenden Niedermetzlung der Büffel mitzuwirken im Stande ist, zu Pferde auf einem Haufen in irgend einer benachbarten Schlucht, außerhalb des Gesichtskreises der Büffel, schweigend und vor Aufregung zitternd. Ist die Herde in einer für die Jagd günstigen Stellung, so zählen die leitenden Jäger ihre Leute ab und schicken sie unter zeitweiligen Anführern nach den vorbezeichneten Oertlichkeiten. Wenn der leitende Jäger dann sieht, daß jeder Mann an seiner richtigen Stelle und Alles bereit ist, so sucht er mit einer Abtheilung Reiter die Herde zu umflügeln und die offene Seite zu schließen, giebt dann das Zeichen und nun sprengt die ganze Schaar mit einem gellenden Geschrei, das beinahe die Todten auferwecken könnte, voran und dringt dicht auf das Wild ein. Binnen wenigen Minuten ist das Gemetzel in vollem Gange; einige wenige mögen den Kordon durchbrochen haben und entkommen sein, diese werden aber nicht verfolgt, wenn andere Herden in der Nähe sind.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">„Every year the great autumn hunts take place, in order to slay as much game as possible and to lay in and dry a considerable store of meat for the winter. Now the ‚dog-soldiers‘ are the masters of the day, and woe to the unfortunate one who dares disobediently to disregard even the most insignificant of their arbitrary or democratic ordinances! When everything is ready, the best hunters set out in the morning long before daybreak. If several herds of buffalo are discovered, that one is singled out for the slaughter whose position is such that the introductory preparations and manoeuvres for surrounding it, and the shouting and shooting during the charge, are least able to alarm the remaining herds ... During this whole time the entire male part of the band, which is capable of taking part in the impending massacre of the buffalo, holds together in a body on horseback in some neighbouring ravine, out of the range of vision of the buffalo, silent and trembling with excitement. If the herd is in a position favourable for the hunt, the leading hunters count off their men and send them under temporary leaders to the previously designated localities. When the leading hunter then sees that every man is in his proper place and everything is ready, he seeks with a detachment of riders to outflank the herd and to close the open side, then gives the signal, and now the whole troop dashes forward with a shrill cry that could almost raise the dead, and presses in close upon the game. Within a few minutes the slaughter is in full swing; a few may have broken through the cordon and escaped, but these are not pursued if other herds are near.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">„Als noch Bogen und Pfeile allein gebraucht wurden, kannte jeder Krieger seine Pfeile und hatte keine Schwierigkeit, die von ihm getödteten Büffel positiv zu erkennen. Diese waren ganz sein individuelles Eigenthum, ausgenommen, daß er um einen gewissen Theil desselben besteuert wurde zum Besten der Witwen oder der Familien, welche keinen Krieger als Versorger für sich hatten. Fanden sich Pfeile von verschiedenen Männern in demselben todten Büffel, so wurden die Eigenthumsansprüche je nach deren Lage entschieden. Wenn jeder Pfeil eine tödtliche Wunde verursachte, so wurde der Büffel getheilt, oder nicht selten auch irgend einer Witwe zugeschieden. Der oberste Jäger entschied alle derartigen Fragen, allein gegen seine Entscheidung konnte noch eine Berufung an das allgemeine Urtheil der ‚Hundesoldaten‘ eingelegt werden. Seit aber der allgemeine Gebrauch der Feuerwaffen die Identifizirung der todten Büffel unmöglich gemacht hat, sind die Indianer in ihren Ansichten kommunistischer geworden <a href="#ab1-kap1-n2" id="ab1-kap1-f2" name="ab1-kap1-f2">[2]</a>, und die gesammte Masse von Fleisch und Häuten wird nach irgend einem Maßstab der gleichen verhältnißmäßigen Vertheilung nach ihrer eigenen Erfindung ausgetheilt.“ (S. 206–211)</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">„When bow and arrow alone were still used, every warrior knew his arrows and had no difficulty in positively recognising the buffalo killed by him. These were entirely his individual property, except that he was taxed a certain portion of them for the benefit of the widows or of the families which had no warrior as provider for themselves. If arrows of different men were found in the same dead buffalo, the claims of ownership were decided according to their position. If each arrow had caused a fatal wound, the buffalo was divided, or not seldom also allotted to some widow. The chief hunter decided all such questions, but against his decision an appeal could still be lodged to the general judgment of the ‚dog-soldiers.‘ But since the general use of firearms has made the identification of the dead buffalo impossible, the Indians have become more communistic in their views <a href="#ab1-kap1-n2" id="ab1-kap1-f2" name="ab1-kap1-f2">[2]</a>, and the entire mass of meat and hides is distributed according to some standard of equal proportional distribution of their own invention.“ (pp. 206–211)</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir sehen, bei diesem Jägervolke wird <em>gesellschaftlich</em> produzirt; es wirken verschiedene Arten von Arbeit zusammen, um ein Gesammtresultat zu erzielen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">We see that among this hunting people production is carried on <em>socially</em>; various kinds of labour work together in order to achieve a total result.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir finden hier bereits Anfänge der Arbeitstheilung und des planmäßigen Zusammenarbeitens (der Kooperation <a href="#ab1-kap1-n3" id="ab1-kap1-f3" name="ab1-kap1-f3">[3]</a>). Je nach den verschiedenen Fähigkeiten verrichten die Jäger verschiedene Arbeiten, aber nach gemeinsamem Plane. Das Ergebniß des Zusammenwirkens der verschiedenen Arbeiten, „des Austausches der Thätigkeiten,“ wie Marx sich in <em>Lohnarbeit und Kapital</em> ausdrückt, die Jagdbeute, wird nicht <em>ausgetauscht,</em> sondern <em>vertheilt.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We already find here the beginnings of the division of labour and of planned cooperation (of cooperation <a href="#ab1-kap1-n3" id="ab1-kap1-f3" name="ab1-kap1-f3">[3]</a>). According to their different capacities the hunters perform different kinds of labour, but according to a common plan. The result of the cooperation of the various kinds of labour, „of the exchange of activities,“ as Marx expresses it in <em>Wage Labour and Capital</em>, the spoils of the hunt, is not <em>exchanged</em> but <em>distributed.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nur nebenbei sei darauf hingewiesen, wie die Aenderung in den Produktionsmitteln – Ersetzung von Bogen und Pfeil durch das Feuergewehr – eine Aenderung des Vertheilungsmodus zur Folge hat.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let it merely be pointed out in passing how the change in the means of production – the replacement of bow and arrow by the firearm – has as its consequence a change in the mode of distribution.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Betrachten wir nun eine andere, höhere Art einer gesellschaftlichen Produktionsweise, z. B. die auf dem Ackerbau beruhende <em>indische Dorfgemeinde.</em> Von dem urwüchsigen Kommunismus, der in derselben herrschte, finden sich in Indien nur noch einige kümmerliche Reste. Aber Nearch, der Admiral des makedonischen Alexander des Großen, berichtete noch, nach Strabo, XV, I, 66, von Gegenden Indiens, wo das Land Gemeineigeuthum war, gemeinsam bebaut und nach der Ernte der Ertrag des Bodens unter die Dorfgenossen vertheilt wurde. Nach Elphinstone hat diese Gemeinschaft noch im Anfang unseres Jahrhunderts in einigen Theilen Indiens bestanden. Auf Java besteht der Dorfkommunismus in der Weise fort, daß das Ackerland von Zeit zu Zeit von Neuem unter die Dorfgenossen vertheilt wird, welche ihre Antheile nicht als Privateigenthum, sondern nur zur Nutznießung für eine bestimmte Periode erhalten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us now consider another, higher kind of social mode of production, for example the <em>Indian village community</em> resting upon agriculture. Of the primitive communism which prevailed in it there are found in India only a few pitiful remnants. But Nearchus, the admiral of the Macedonian Alexander the Great, still reported, according to Strabo, XV, I, 66, of regions of India where the land was common property, cultivated in common, and after the harvest the yield of the soil was distributed among the village members. According to Elphinstone this community still existed at the beginning of our century in some parts of India. In Java village communism persists in such a way that the arable land is from time to time distributed anew among the village members, who receive their shares not as private property but only for usufruct for a definite period.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In Vorderindien ist das Ackerland meist schon in das Privateigenthum der einzelnen Dorfgenossen übergegangen, Wald, Weide und unbebauter Boden sind jedoch vielfach noch Gemeineigenthum, an dem alle Gemeindemitglieder das Nutzungsrecht haben.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In Hither India the arable land has for the most part already passed into the private property of the individual village members, but forest, pasture and uncultivated soil are in many cases still common property, in which all members of the community have the right of use.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Was uns an einer solchen Dorfgemeinde interessirt, die noch nicht dem zersetzenden Einfluß der englischen Herrschaft, namentlich der durch diese eingeführten Steuersysteme, zum Opfer gefallen, ist der Charakter, den die <em>Arbeitstheilung</em> in derselben annimmt. Wir fanden bereits bei den Indianern eine solche; eine viel höhere jedoch bietet die indische Dorfgemeinde.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>What interests us in such a village community, which has not yet fallen victim to the disintegrating influence of English rule, in particular of the taxation systems introduced by it, is the character which the <em>division of labour</em> assumes in it. We already found such a division among the Indians; but the Indian village community offers a much higher one.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Neben dem Gemeindevorstand, der Pateel heißt, wenn er aus einer einzelnen Person besteht, Pantsch dagegen, wenn er ein Kollegium von meist fünf Mitgliedern bildet, finden wir in der indischen Wirthschaftskommune noch eine Reihe von Beamten: den Karnam oder Matsaddi, den Rechnungsführer, der die finanziellen Verhältnisse der Gemeinde zu ihren einzelnen Mitgliedern und zu anderen Gemeinden und zum Staate zu überwachen und zu leiten hat; den Tallier für die Erforschung von Verbrechen und Uebertretungen, dem zugleich der Schuß der Reisenden und deren sicheres Geleit über die Gemeindegrenze in die nächste Gemeinde obliegt; den Toti, den Flurschütz und Landvermesser, der darauf zu sehen hat, daß nicht benachbarte Gemeinden die Grenzen der Flur verrücken, ein Umstand, der sich namentlich beim Reisbau leicht ereignen kann; den Aufseher über die Wasserläufe, der sie im Stand zu halten und dafür zu sorgen hat, daß sie gehörig geöffnet und geschlossen werden und jedes Feld genügend Wasser erhalte, was insbesonders beim Reisbau von großer Wichtigkeit; den Brahmanen zur Vollziehung der nothwendigen Gottesdienste; den Schullehrer, der die Kinder im Lesen und Schreiben unterrichtet; den Kalender-Brahmanen oder Astrologen, der die glücklichen oder unglücklichen Tage für Säen, Ernten, Dreschen und andere wichtigen Arbeiten auszuforschen hat; den Schmied, den Zimmermann und Rademacher; den Töpfer; den Wäscher; den Barbier; den Kuhhirten; den Arzt; die Devadaschi (das Tanzmädchen); mitunter sogar einen Sänger.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Alongside the village headman, who is called Pateel when he consists of a single person, but Pantsch when he forms a college of mostly five members, we find in the Indian economic commune yet a whole series of officials: the Karnam or Matsaddi, the accountant, who has to supervise and direct the financial relations of the community to its individual members and to other communities and to the state; the Tallier for the investigation of crimes and transgressions, upon whom at the same time devolves the protection of travellers and their safe escort across the community boundary into the next community; the Toti, the field-guard and land-surveyor, who has to see to it that neighbouring communities do not shift the boundaries of the field-mark, a circumstance which can easily occur especially in rice cultivation; the overseer of the watercourses, who has to keep them in order and to see that they are properly opened and closed and that every field receives sufficient water, which is of great importance especially in rice cultivation; the Brahmin for the performance of the necessary religious services; the schoolteacher, who instructs the children in reading and writing; the calendar-Brahmin or astrologer, who has to ascertain the lucky or unlucky days for sowing, harvesting, threshing and other important tasks; the smith, the carpenter and wheelwright; the potter; the washerman; the barber; the cowherd; the physician; the Devadasi (the dancing-girl); sometimes even a singer.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Alle diese haben für die ganze Gemeinde und deren Mitglieder zu arbeiten und werden dafür entweder durch Antheile an der Feldmark, oder durch Antheile an den Ernteerträgen entschädigt. Auch hier bei dieser hochentwickelten Arbeitstheilung sehen wir <em>Zusammenwirken der Arbeiten, Vertheilung der Produkte.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>All these have to work for the whole community and its members and are compensated for this either by shares in the field-mark or by shares in the harvest yields. Here too, in this highly developed division of labour, we see <em>cooperation of the kinds of labour, distribution of the products.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir noch ein Beispiel, das Jedermann bekannt sein dürfte: das einer patriarchalischen Bauernfamilie, die ihren Bedarf selbst befriedigt; ein gesellschaftliches Gebilde, das sich aus einer Produktionsweise herausentwickelt hat, wie wir sie eben in der indischen Wirthschaftskommune geschildert haben, einer Produktionsweise, die sich im Anfang der Entwicklung aller näher bekannten Kulturvölker nachweisen läßt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us take yet another example, which should be familiar to everyone: that of a patriarchal peasant family which satisfies its own needs itself; a social formation which has developed out of a mode of production such as we have just described in the Indian economic commune, a mode of production which can be demonstrated at the beginning of the development of all the more closely known civilised peoples.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Eine solche Bauernfamilie zeigt uns ebenfalls keine isolirten Menschen, sondern ein gesellschaftliches Zusammenarbeiten und ein Zusammenwirken verschiedener Arbeiten, die nach Alter, Geschlecht und Jahreszeit wechseln. Da wird gepflügt, gemäht, das Vieh gewartet, gemolken, Holz gesammelt, gesponnen, gewebt, genäht, gestrickt, geschnitzt, gezimmert &amp;c. &amp;c. Die verschiedensten Arbeiten wirken da zusammen, beziehen sich aufeinander; die Produkte werden hier ebensowenig wie in den früheren Beispielen von den einzelnen Arbeitern <em>ausgetauscht,</em> sondern unter diese den Verhältnissen entsprechend <em>vertheilt.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Such a peasant family likewise shows us no isolated individuals, but rather a social working-together and a co-operation of various kinds of labour that alternate according to age, sex, and season of the year. Here there is ploughing, mowing, tending the cattle, milking, gathering wood, spinning, weaving, sewing, knitting, carving, joinery, etc., etc. The most diverse kinds of labour work together here, relate to one another; and the products, just as little as in the earlier examples, are <em>exchanged</em> by the individual workers, but rather <em>distributed</em> among them in accordance with the circumstances.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir nun an <a href="#ab1-kap1-n4" id="ab1-kap1-f4" name="ab1-kap1-f4">[4]</a>, die Produktionsmittel einer Ackerbaugemeinde, wie wir sie geschildert, vervollkommneten sich so sehr, daß weniger Arbeit als bisher dem Ackerbau zu widmen ist. Arbeitskräfte werden frei, die vielleicht, wenn die technischen Hilfsmittel so weit entwickelt, dazu verwendet werden, ein auf dem Gemeindegebiet gelegenes Lager von Feuerstein auszubeuten, Feuersteinwerkzeuge und Waffen zu fabriziren. Die Produktivität der Arbeit ist so groß, daß weit mehr Werkzeuge und Waffen erzeugt werden, als die Gemeinde braucht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us now assume <a href="#ab1-kap1-n4" id="ab1-kap1-f4" name="ab1-kap1-f4">[4]</a> that the means of production of an agricultural community such as we have described improve so greatly that less labour than before need be devoted to agriculture. Labour-powers are set free, which perhaps, when the technical aids are so far developed, are employed to exploit a deposit of flint located within the community's territory, to manufacture flint tools and weapons. The productivity of labour is so great that far more tools and weapons are produced than the community needs.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ein Stamm nomadischer Hirten kommt auf seinen Wanderungen in Berührung mit dieser Gemeinde. Die Produktivität der Arbeit ist in diesem Stamm auch gestiegen, er ist dahin gekommen, mehr Vieh zu züchten, als er bedarf. Es liegt nahe, daß dieser Stamm gern seinen Ueberschuß an Vieh gegen überschüssige Werkzeuge und Waffen der Ackerbaugemeinde austauschen wird. Das überschüssige Vieh und die überschüssigen Werkzeuge werden durch diesen Austausch zu <em>Waaren.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>A tribe of nomadic herdsmen comes, on its wanderings, into contact with this community. The productivity of labour has risen in this tribe as well; it has come to breed more cattle than it requires. It is natural that this tribe will readily exchange its surplus of cattle for surplus tools and weapons of the agricultural community. The surplus cattle and the surplus tools become, through this exchange, <em>commodities.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Waarenaustausch ist die natürliche Folge der Entwicklung der Produktivkräfte über die engen Bedürfnisse der urwüchsigen Gemeinwesen hinaus. Der ursprüngliche Kommunismus wird, von einer gewissen Höhe der technischen Entwicklung an, zu einer Schranke für deren Fortschreiten. Die Produktionsweise fordert eine <em>Erweiterung</em> des Kreises der gesellschaftlichen Arbeit; da aber die einzelnen Gemeinwesen einander fremd und unabhängig gegenüber standen, war diese Erweiterung nicht möglich durch Erweiterung der kommunistischen planmäßigen Arbeit, sondern nur durch gegenseitigen Austausch der Ueberschüsse der Arbeit der Gemeinwesen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The exchange of commodities is the natural consequence of the development of the productive forces beyond the narrow needs of the primitive communities. Original communism becomes, from a certain height of technical development onwards, a barrier to their advance. The mode of production demands an <em>expansion</em> of the sphere of social labour; but since the individual communities stood over against one another as strangers and independent, this expansion was not possible through an extension of communist, planned labour, but only through the mutual exchange of the surpluses of the labour of the communities.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wie der Waarenaustausch auf die Produktionsweise innerhalb der Gemeinwesen zurückwirkte, bis die Waarenproduktion die Produktion von einander unabhängiger <em>Privatarbeiter</em> wurde, denen die Produktionsmittel und die Produkte ihrer Arbeiten privateigenthümlich gehören, haben wir nicht zu untersuchen. Was wir zeigen wollen, ist Folgendes: Die Waarenproduktion ist eine <em>gesellschaftliche</em> Art der Produktion; sie ist außerhalb des gesellschaftlichen Zusammenhanges undenkbar, ja sie bedeutet eine Ausdehnung der <em>gesellschaftlichen Produktion</em> über die Grenzen der ihr vorhergehenden kommunistischen (im Stamm, der Gemeinde oder der patriarchalischen Familie) hinaus. Aber der gesellschaftliche Charakter tritt bei ihr nicht offen zu Tage.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>How the exchange of commodities reacted back upon the mode of production within the communities, until commodity production became the production of mutually independent <em>private workers</em>, to whom the means of production and the products of their labours belong as private property, we do not have to investigate here. What we wish to show is the following: commodity production is a <em>social</em> kind of production; it is inconceivable outside the social connection, indeed it signifies an extension of <em>social production</em> beyond the limits of the communist production that preceded it (within the tribe, the community, or the patriarchal family). But its social character does not openly come to light.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir einen Töpfer und einen Ackerbauer, einmal als Mitglieder einer indischen kommunistischen Dorfgemeinde, das anderemal als zwei Waarenproduzenten. In dem ersteren Falle arbeiten beide in gleicher Weise für die Gemeinde; der eine liefert ihr seine Töpfe, der andere seine Feldfrucht ab; der eine erhält seinen Antheil an Feldfrüchten, der andere an Töpfen. Im zweiten Falle betreibt jeder unabhängig für sich seine Privatarbeit, aber Jeder arbeitet (vielleicht in demselben Maße, wie früher) nicht nur für sich, sondern auch für den Anderen. Hierauf tauschen sie ihre Produkte aus, und möglicherweise erhält der Eine eben so viel Feldfrüchte, der Andere eben so viel Töpfe, als er früher erhalten. Es scheint sich wesentlich nichts geändert zu haben, und doch sind beide Prozesse von einander grundverschieden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us take a potter and a tiller of the soil, on the one hand as members of an Indian communist village community, on the other hand as two commodity producers. In the former case, both work in the same manner for the community; the one delivers to it his pots, the other his field crops; the one receives his share of field crops, the other his share of pots. In the second case, each carries on his private labour independently for himself, but each works (perhaps to the same degree as before) not only for himself, but also for the other. Upon this they exchange their products, and it is possible that the one receives just as much in field crops, and the other just as much in pots, as he received before. It seems that essentially nothing has changed, and yet the two processes are fundamentally different from one another.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In dem ersteren Falle sieht Jeder sofort, daß es die Gesellschaft ist, welche die verschiedenen Arbeiten in Zusammenhang bringt, welche den Einen für den Anderen arbeiten läßt und Jedem seinen Antheil an dem Arbeitsprodukt des Anderen direkt zuweist. Im zweiten Falle arbeitet Jeder anscheinend für sich, und die Art und Weise, wie Jeder zu dem Produkt des Anderen gelangt, scheint nicht dem gesellschaftlichen Charakter ihrer Arbeit geschuldet, <em>sondern den Eigenthümlichkeiten des Produkts selbst.</em> Es scheint jetzt, daß nicht der Töpfer und der Feldarbeiter für einander arbeiten, daß also die Töpferarbeit und die Feldarbeit für die Gesellschaft nothwendige Arbeiten sind, sondern daß den Töpfen und den Feldfrüchten mystische Eigenschaften inne wohnen, die ihren Austausch in gewissen Verhältnissen bewirken. Die Verhältnisse der Personen unter einander, wie sie der gesellschaftliche Charakter der Arbeit bedingt, erhalten unter der Herrschaft der <em>Waarenproduktion</em> den Anschein von Verhältnissen von <em>Dingen,</em> nämlich von Produkten, unter einander. So lange die Produktion direkt vergesellschaftet war, unterlag sie der Bestimmung und Leitung der Gesellschaft und lagen die Verhältnisse der Produzenten zu einander klar zu Tage. Sobald aber die Arbeiten zu Privatarbeiten wurden, die unabhängig von einander betrieben wurden, sobald die Produktion damit eine planlose wurde, erschienen die Verhältnisse der Produzenten zu einander als Verhältnisse der Produkte. Fortan lag die Bestimmung der Verhältnisse der Produzenten zu einander nicht mehr bei diesen selbst; diese Verhältnisse entwickelten sich unabhängig vom Willen der Menschen, die gesellschaftlichen Mächte wuchsen ihnen über den Kopf, sie erschienen der naiven Anschauung vergangener Jahrhunderte als <em>göttliche Mächte,</em> sie erscheinen späteren „aufgeklärteren“ Jahrhunderten als <em>Mächte der Natur.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In the former case everyone sees at once that it is society which brings the various kinds of labour into connection, which makes the one work for the other and directly assigns to each his share in the labour product of the other. In the second case each apparently works for himself, and the manner in which each obtains the product of the other seems not to be owed to the social character of their labour, <em>but rather to the peculiarities of the product itself.</em> It now seems as though it were not the potter and the field worker who work for one another—so that potter's labour and field labour are labours necessary for society—but rather that mystical properties dwell within the pots and the field crops, properties which bring about their exchange in certain proportions. The relations of persons to one another, as conditioned by the social character of labour, take on, under the dominion of <em>commodity production</em>, the appearance of relations of <em>things</em>—namely of products—to one another. So long as production was directly socialised, it was subject to the determination and direction of society, and the relations of the producers to one another lay clearly revealed. But as soon as the labours became private labours, carried on independently of one another, as soon as production thereby became planless, the relations of the producers to one another appeared as relations of the products. Henceforth the determination of the relations of the producers to one another no longer rested with them themselves; these relations developed independently of the will of men, the social powers grew over their heads, they appeared to the naive view of past centuries as <em>divine powers</em>, they appear to later, "more enlightened" centuries as <em>powers of nature.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Den Naturalformen der Waaren werden jetzt Eigenschaften zugeschrieben, die mystisch erscheinen, so lange sie nicht aus den Verhältnissen der Produzenten zu einander erklärt werden. Wie der Fetischanbeter seinem Fetisch Eigenschaften andichtet, die nicht in seiner natürlichen Beschaffenheit begründet sind, so erscheint dem bürgerlichen Oekonomen die Waare als ein sinnliches Ding, das mit übersinnlichen Eigenschaften begabt. Marx nennt dies „den Fetischismus, der den Arbeitsprodukten anklebt, sobald sie als Waaren produzirt werden, und daher von der Waarenproduktion unzertrennlich ist.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>To the natural forms of commodities there are now ascribed properties that appear mystical so long as they are not explained out of the relations of the producers to one another. Just as the fetish-worshipper fancies his fetish to possess properties that are not grounded in its natural constitution, so the commodity appears to the bourgeois economist as a sensuous thing endowed with supersensuous properties. Marx calls this "the fetishism which attaches itself to the products of labour as soon as they are produced as commodities, and which is therefore inseparable from commodity production."</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Diesen Fetischcharakter der Waare – und, wie wir später sehen werden, auch des Kapitals – hat Marx zuerst erkannt. Der Fetischismus ist es, der die Erkeuntniß der Eigenthümlichteiten der Waare erschwert, ja unmöglich macht, so lange er nicht überwunden ist; es ist unmöglich, zum vollen Verständniß des Waarenwerthes zu gelangen, ohne sich des Fetischcharakters der Waare bewußt zu werden. Das Kapitel über <em>den Fetischcharakter der Waare und sein Geheimniß</em> erscheint uns daher als eines der wichtigsten des <strong>Kapital</strong>, dem jeder Leser dieses Buches besondere Aufmerksamkeit schenken sollte. Und doch wird gerade dieses Kapitel von den Gegnern, ja vielfach selbst von Anhängern der Marx’schen Lehren fast gar nicht beachtet.<br/> <a id="ab1-kap1-t2" name="ab1-kap1-t2"> </a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This fetish-character of the commodity—and, as we shall see later, of capital also—was first recognised by Marx. It is the fetishism which makes the recognition of the peculiarities of the commodity difficult, indeed impossible, so long as it is not overcome; it is impossible to attain to a full understanding of the value of the commodity without becoming conscious of the fetish-character of the commodity. The chapter on <em>the fetish-character of the commodity and its secret</em> therefore appears to us to be one of the most important of <strong>Capital</strong>, one to which every reader of this book should devote particular attention. And yet it is precisely this chapter that is almost entirely disregarded by the opponents, indeed in many cases even by the adherents, of Marx's doctrines.<br/> <a id="ab1-kap1-t2" name="ab1-kap1-t2"> </a></p>
+```
+
+:::
+
+:::
+
+##### 2. Value ⚑
+
+<p class="de-subtitle">2. Der Werth</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Sind wir uns über den Fetischcharakter der Waare klar geworden, dann bietet ihre Untersuchung nur noch verhältnißmäßig geringe Schwierigkeiten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Once we have become clear about the fetish character of the commodity, its investigation presents only comparatively slight difficulties.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wie wir gesehen, hat die Waare den Zweck, ausgetauscht zu werden. Dies bedingt aber, daß sie ein menschliches Bedürfniß befriedigt, sei es nun ein wirkliches oder blos eingebildetes. Niemand wird ein anderes Produkt gegen sein Produkt eintauschen, wenn jenes für ihn nutzlos ist. Die Waare muß also ein nützliches Ding sein, sie muß <em>Gebrauchswerth</em> besitzen. Der Gebrauchswerth wird bestimmt durch die <em>physischen</em> Eigenschaften des Waarenkörpers. Gebrauchswerthe bilden den stofflichen Inhalt des Reichthums, welches immer seine gesellschaftliche Form sein mag. Der Gebrauchswerth ist also keine der Waare allein eigenthümliche Eigenschaft. Es giebt Gebrauchswerthe, die keine Waaren sind, z. B., wie wir oben gesehen, die Produkte eines kommunistischen Gemeinwesens; ja, es giebt Gebrauchswerthe, die nicht einmal Arbeitsprodukte sind, z. B. Früchte im Urwald, Wasser im Fluß. Dagegen giebt es keine Waare, die nicht Gebrauchswerth besäße.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>As we have seen, the commodity has the purpose of being exchanged. But this presupposes that it satisfies a human need, whether a real one or merely an imagined one. No one will exchange another product for his own product if that product is useless to him. The commodity must therefore be a useful thing; it must possess <em>use-value</em>. Use-value is determined by the <em>physical</em> properties of the commodity-body. Use-values constitute the material content of wealth, whatever its social form may be. Use-value is thus not a property peculiar to the commodity alone. There are use-values that are not commodities, for example, as we saw above, the products of a communistic commonwealth; indeed, there are use-values that are not even products of labour, for example fruit in the primeval forest, water in the river. On the other hand, there is no commodity that does not possess use-value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sobald Gebrauchswerthe Waaren werden, d. h. sich gegenseitig austauschen, bemerken wir, daß dies stets in einem bestimmten Zahlenverhältniß geschieht. Das Verhältniß, in welchem sich eine Waare mit einer anderen austauscht, nennt man ihren <em>Tauschwerth.</em> Dies Verhältniß mag nach Zeit und Ort wechseln; für einen bestimmten Ort und eine bestimmte Zeit ist es jedoch eine bestimmte Größe. Wenn wir 20 Ellen Leinwand gegen 1 Rock austauschen, und gleichzeitig 20 Ellen Leinwand gegen 40 Pfund Kaffee, so können wir sicher sein, daß gleichzeitig 1 Rock sich gegen 40 Pfund Kaffee austauschen würde, wenn es zum Austausch käme. Der Tauschwerth des Rockes hat ein ganz anderes Gesicht, wenn ich ihn mit Leinwand, als wenn ich ihn mit Kaffee austausche. Aber wie verschieden der Tauschwerth einer Waare auch aussehen mag, es liegt ihm zu einer bestimmten Zeit und an einem bestimmten Ort stets der gleiche Gehalt zu Grunde. Zur Erläuterung dieser gesellschaftlichen Erscheinung diene eine ähnliche aus der Körperwelt. Wenn ich sage, ein Körper wiege 16 Kilogramm oder 32 Pfund oder ein russisches Pud, so weiß ich, daß allen diesen verschiedenen Ausdrücken ein bestimmter Gehalt zu Grunde liegt, eine bestimmte <em>Schwere</em> des Körpers. So liegt auch den verschiedenen Tauschwerthausdrücken einer Waare ein bestimmter Gehalt zu Grunde, und diesen nennen wir ihren <em>Werth.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>As soon as use-values become commodities, that is, are exchanged for one another, we notice that this always takes place in a definite numerical proportion. The proportion in which one commodity is exchanged for another is called its <em>exchange-value.</em> This proportion may vary according to time and place; for a given place and a given time, however, it is a definite magnitude. If we exchange 20 ells of linen for 1 coat, and at the same time 20 ells of linen for 40 pounds of coffee, then we can be sure that at the same time 1 coat would be exchanged for 40 pounds of coffee, if it came to an exchange. The exchange-value of the coat has a quite different appearance when I exchange it for linen than when I exchange it for coffee. But however different the exchange-value of a commodity may appear, at a definite time and in a definite place there always underlies it the same content. To illustrate this social phenomenon, let a similar one from the physical world serve. When I say a body weighs 16 kilograms or 32 pounds or one Russian pood, I know that a definite content underlies all these different expressions, a definite <em>weight</em> of the body. Thus too a definite content underlies the various exchange-value expressions of a commodity, and this we call its <em>value.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Damit sind wir bei der wichtigsten grundlegenden Kategorie der politischen Oekonomie angelangt, bei derjenigen, ohne die das Getriebe der herrschenden Produktionsweise nicht richtig verstanden werden kann.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>With this we have arrived at the most important fundamental category of political economy, at the one without which the workings of the prevailing mode of production cannot be correctly understood.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p><em>Was bildet den Werth der Waaren?</em> das ist die Frage, die zu beantworten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p><em>What constitutes the value of commodities?</em> that is the question to be answered.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir zwei Waaren, z. B. Weizen und Eisen. Welches auch immer ihr Austauschverhältniß, es ist stets darstellbar in einer mathematischen Gleichung, z. B. 1 Hektoliter Weizen = 2 Zentner Eisen. Aber es ist ein bekannter Satz, den man schon in der Volksschule lernt, daß mathematische Operationen nur mit gleichartigen Größen ausgeführt werden können; ich kann z. B. von 10 Aepfeln 2 Aepfel, nie aber 2 Nüsse abziehen. Es muß demnach in den Waaren Weizen und Eisen etwas Gemeinsames sein, welches ihre Vergleichung ermöglicht: das ist eben ihr Werth. Ist dieses Gemeinsame mm eine natürliche Eigenschaft der Waaren? Als Gebrauchswerthe werden sie nur ausgetauscht, weil sie <em>verschiedene,</em> nicht <em>gemeinsame</em> natürliche Eigenschaften haben. Diese Eigenschaften bilden den <em>Beweggrund</em> des Austausches, können aber nicht das <em>Verhältniß</em> bestimmen, in dem er stattfindet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us take two commodities, for example wheat and iron. Whatever their exchange-relation may be, it is always representable in a mathematical equation, for example 1 hectolitre of wheat = 2 hundredweight of iron. But it is a well-known proposition, which one learns already in elementary school, that mathematical operations can be carried out only with quantities of the same kind; I can, for example, subtract 2 apples from 10 apples, but never 2 nuts. There must therefore be something common in the commodities wheat and iron which makes their comparison possible: that is precisely their value. Now is this common element a natural property of the commodities? As use-values they are exchanged only because they have <em>different,</em> not <em>common,</em> natural properties. These properties constitute the <em>motive</em> of the exchange, but they cannot determine the <em>proportion</em> in which it takes place.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sieht man vom Gebrauchswerth der Waarenkörper ab, dann bleibt ihnen nur noch eine Eigenschaft, die von <em>Arbeitsprodukten.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If one disregards the use-value of the commodity-bodies, then there remains to them only one property, that of being <em>products of labour.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sieht man aber vom Gebrauchswerth der Produkte ab, dann sieht man auch ab von den verschiedenen bestimmten Formen der Arbeit, welche sie erzeugt hat; dann sind sie nicht mehr Produkte von Tischlerarbeit oder Spinnarbeit &amp;c., sondern nur Produkte <em>menschlicher Arbeit überhaupt.</em> Und als solche sind sie Werthe.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But if one disregards the use-value of the products, then one also disregards the various definite forms of labour which produced them; then they are no longer products of joiner's labour or spinning labour &amp;c., but only products of <em>human labour in general.</em> And as such they are values.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Eine Waare hat also nur einen Werth, weil menschliche Arbeit überhaupt in ihr vergegenständlicht ist. Wie nun die Größe des Werthes messen? Durch die Menge des in ihr enthaltenen Werthbildners, der Arbeit. Die Menge der Arbeit hat wieder ihren Maßstab in der Zeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>A commodity thus has a value only because human labour in general is objectified in it. Now how is the magnitude of the value to be measured? By the quantity of the value-forming substance, labour, contained in it. The quantity of labour again has its measure in time.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Es könnte scheinen, daß, wenn die zur Verfertigung einer Waare verausgabte Zeit deren Werth bestimmt, je fauler und ungeschickter ein Mann, desto werthvoller seine Waare. Es handelt sich hier jedoch nicht um <em>individuelle,</em> sondern um <em>gesellschaftliche</em> Arbeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>It might seem that, if the time expended on the making of a commodity determines its value, then the lazier and more unskilful a man is, the more valuable his commodity. Here, however, it is not a question of <em>individual,</em> but of <em>social</em> labour.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Erinnern wir uns, daß die Waarenproduktion ein System von Arbeiten darstellt, die, wenn auch unabhängig von einander, so doch in einem gesellschaftlichen Zusammenhang betrieben werden. „Die gesammte Arbeitskraft der Gesellschaft, die sich in den Werthen der Waarenwelt darstellt, <em>gilt hier als eine und dieselbe menschliche Arbeitskraft,</em> obgleich sie aus zahllosen individuellen Arbeitskräften besteht. Jede dieser individuellen Arbeitskräfte ist dieselbe menschliche Arbeitskraft, wie die andere, soweit sie den Charakter einer <em>gesellschaftlichen Durchschnittsarbeitskraft besitzt</em> und als solche gesellschaftliche Durchschnittsarbeitskraft wirkt, also in der Produktion einer Waare auch nur die im <em>Durchschnitt</em> nothwendige oder <em>gesellschaftlich</em> nothwendige Arbeitszeit braucht. Gesellschaftlich nothwendige Arbeitszeit ist Arbeitszeit, erheischt, um irgend einen Gebrauchswerth mit den vorhandenen gesellschaftlich-normalen Produktionsbedingungen und dem gesellschaftlichen Durchschnittsgrad von Geschick und Intensivität der Arbeit darzustellen.“ Wechselt die Produktivkraft der Arbeit, so wechselt auch die gesellschaftlich nothwendige Arbeitszeit, so wechselt der Werth.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us recall that commodity production represents a system of labours which, though carried on independently of one another, are nevertheless carried on within a social connection. "The total labour-power of society, which is represented in the values of the world of commodities, <em>counts here as one and the same human labour-power,</em> although it consists of countless individual labour-powers. Each of these individual labour-powers is the same human labour-power as any other, in so far as it possesses the character of a <em>social average labour-power</em> and acts as such social average labour-power, that is, requires in the production of a commodity only the labour-time necessary on the <em>average,</em> or <em>socially</em> necessary. Socially necessary labour-time is labour-time required to produce any use-value with the given socially normal conditions of production and the social average degree of skill and intensity of labour." If the productive power of labour changes, then the socially necessary labour-time also changes, and thus value changes.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Zeit, die nothwendig ist, ein bestimmtes Produkt herzustellen, muß natürlich für den Menschen immer, unter jeder Produktionsweise von Interesse sein; ebenso muß sie immer, auch bei kommunistischen Produktionsweisen von Einfluß sein auf das Maß des Verhältnisses, in dem die verschiedenen Arten von Arbeit zusammenwirken.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The time that is necessary to produce a definite product must of course always, under every mode of production, be of interest to man; likewise it must always, even in communistic modes of production, have an influence on the measure of the proportion in which the various kinds of labour work together.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir wieder das Beispiel einer indischen kommunistischen Dorfgemeinde. Sie beschäftige zwei Schmiede zur Herstellung ihrer Ackerbaugeräthe. Eine Erfindung steigere die Produktivität der Arbeit so, daß nur noch ein Schmied nöthig, um in einer gegebenen Zeit die erforderlichen Feldgeräthe herzustellen. Jetzt wird man nicht mehr zwei Schmiede mit dieser Arbeit betrauen, sondern nur einen; den anderen vielleicht zur Anfertigung von Waffen oder Zierrathen verwenden. Die Produktivität der Feldarbeit dagegen bleibe die gleiche. Es muß ebensoviel Arbeitszeit, wie bisher, aufgewendet werden, um den Bedarf der Gemeinde an Feldfrüchten zu befriedigen, wie bisher.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us take once again the example of an Indian communistic village community. Let it employ two smiths for the production of its agricultural implements. Let an invention raise the productivity of labour so much that only one smith is now needed to produce, in a given time, the required field implements. Now one will no longer entrust two smiths with this work, but only one; the other one will perhaps be employed in the making of weapons or ornaments. The productivity of the field labour, on the other hand, remains the same. Just as much labour-time as before must be expended in order to satisfy the community's need for field produce as before.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Jedes Mitglied der Gemeinde wird unter diesen Umständen denselben Antheil an Feldfrüchten erhalten, wie bisher; aber ein Unterschied waltet jetzt ob: die Produktivität der Schmiedearbeit hat sich verdoppelt; für die Verfertigung der Ackerbaugeräthschaften entfällt jetzt nur noch ein Antheil, nicht zwei, an Feldfrüchten. Der Wechsel in der Beziehung der verschiedenen Arbeiten ist hier ein sehr einfacher, durchsichtiger. Er wird mystisch, sobald nicht Schmiedearbeit und Feldarbeit direkt zusammenwirken, sondern erst in ihren Produkten in Beziehung zu einander gebracht werden. Der Wechsel in der Produktivität der Schmiedearbeit erscheint dann als Wechsel im Austauschverhältniß des Produkts der Schmiedearbeit mit anderen Produkten, als Wechsel ihres Werthes.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Under these circumstances every member of the community will receive the same share of field produce as before; but a difference now prevails: the productivity of the smith's labour has doubled; for the making of the agricultural implements only one share, not two, of field produce now falls due. The change in the relation of the various labours is here a very simple, transparent one. It becomes mystical as soon as smith's labour and field labour do not work together directly, but are brought into relation with one another only in their products. The change in the productivity of the smith's labour then appears as a change in the exchange-relation of the product of the smith's labour with other products, as a change in their value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Bereits Ricardo hatte erkannt, daß die Größe des Werthes einer Waare durch die auf ihre Herstellung verwendete Menge Arbeit bestimmt wird. Aber er durchschaute nicht den <em>gesellschaftlichen</em> Charakter der Arbeit, der in der Werthform der Waare versteckt ist, d. h. den Fetischismus der Waare. Ebensowenig schied er ausdrücklich und mit klarem Bewußtsein die Waarenwerth bildende Seite der Arbeit von ihrer Gebrauchswerth bildenden Seite. Den Fetischcharakter der Waare haben wir bereits dargelegt. Folgen wir jetzt Marx bei seiner Untersuchung des zwieschlächtigen Charakters der in den Waaren enthaltenen Arbeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Ricardo had already recognised that the magnitude of the value of a commodity is determined by the quantity of labour expended on its production. But he did not see through the <em>social</em> character of the labour that is hidden in the value-form of the commodity, that is, the fetishism of the commodity. Just as little did he expressly and with clear consciousness distinguish the side of labour that forms commodity value from the side that forms use value. We have already set forth the fetish character of the commodity. Let us now follow Marx in his investigation of the twofold character of the labour contained in commodities.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Waare erschien uns als Gebrauchswerth und Werth. Ihr Stoff wird von der Natur geliefert. Ihr Werth wird durch Arbeit gebildet; aber ebenso ihr Gebrauchswerth. In welcher Weise bildet nun die Arbeit Werth, in welcher Gebrauchswerth?</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The commodity appeared to us as use value and value. Its material is supplied by nature. Its value is formed by labour; but so too is its use value. In what manner, then, does labour form value, and in what manner use value?</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Auf der einen Seite erscheint uns die Arbeit als produktive Ausgabe menschlicher Arbeitskraft überhaupt; auf der anderen Seite als bestimmte, menschliche Thätigkeit zur Erreichung eines besonderen Zweckes. Die erstere Seite der Arbeit bildet das Gemeinsame jeder produktiven Thätigkeit des Menschen. Die zweite Seite ist bei den verschiedenen produktiven Thätigkeiten verschieden. Nehmen wir Feldarbeit und Schmiedearbeit, so ist es beiden gemein, daß sie Verausgabungen menschlicher Arbeitskraft überhaupt sind. Aber jede von ihnen ist verschieden in ihrem Zweck, ihrer Operationsweise, ihrem Gegenstand, ihren Mitteln, ihrem Ergebniß.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>On the one side, labour appears to us as the productive expenditure of human labour-power in general; on the other side, as a definite human activity for the attainment of a particular purpose. The former side of labour constitutes what is common to every productive activity of man. The second side is different in the various productive activities. If we take field labour and smith's labour, both have in common that they are expenditures of human labour-power in general. But each of them differs in its purpose, its mode of operation, its object, its means, its result.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die <em>bestimmte,</em> zweckgemäße menschliche Thätigkeit bildet den <em>Gebrauchswerth.</em> Ihre Verschiedenheit bildet die Grundlage der Waarenproduktion. Waaren werden nur ausgetauscht, wenn sie verschieden sind; Niemand wird Weizen gegen Weizen oder Semsen gegen Sensen austauschen; wohl aber Weizen gegen Sensen. Gebrauchswerthe können sich als Waaren nur gegenübertreten, wenn qualitativ (den Eigenschaften nach) <em>verschiedene</em> nützliche Arbeiten in ihnen stecken.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The <em>definite,</em> purposive human activity constitutes the <em>use value.</em> Its diversity forms the basis of commodity production. Commodities are exchanged only if they are different; no one will exchange wheat for wheat or scythes for scythes; but wheat for scythes, indeed. Use values can confront one another as commodities only if there are qualitatively (according to their properties) <em>different</em> useful labours contained in them.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Als Werthe sind jedoch die Waaren nicht qualitativ, sondern <em>quantitativ</em> (der Zahl nach) verschieden. Sie werden ausgetauscht, weil sie verschieden sind als Gebrauchswerthe; sie werden beim Tausch verglichen und in ein gewisses Verhältniß miteinander gesetzt, weil sie gleich sind als Werthe. Nicht die Arbeit als bestimmte, zweckgemäße Thätigkeit in ihrer qualitativen Verschiedenheit kann den Werth bilden, sondern nur die Arbeit in ihrem in allen Arbeitszweigen gleichen Charakter als Verausgabung menschlicher Arbeitskraft überhaupt. Als solche Verausgabungen von Arbeitskraft sind die verschiedenen Arbeiten, wie die Werthe, nicht qualitativ, sondern nur quantitativ verschieden. Das heißt, in Bezug auf die Werthbildung wird jede Arbeit als <em>einfache Durchschnittsarbeit</em> betrachtet, als Verausgabung einfacher Arbeitskraft, wie sie im Durchschnitt jeder Mensch in seinem Organismus besitzt. Komplizirte Arbeit gilt in dieser Beziehung nur als vervielfachte einfache Arbeit. Ein kleines Quantum komplizirter Arbeit wird einem größeren Quantum einfacher Arbeit gleichgesetzt. Entsprechend dem Charakter der Waarenproduktion ist der Vorgang eiu gesellschaftlicher, aber gleichzeitig unbewußter, der die Verhältnisse der verschiedenen Arbeitsarten, jede auf einfache Arbeit zurückgeführt, zu einander feststellt. Es scheinen jedoch dem im Fetischismus der Waarenwelt Befangenen nicht <em>gesellschaftliche,</em> sondern <em>natürliche</em> Ursachen zu sein, welche die verschiedenen Arten der komplizirten Arbeit als vielfache der einfachen Arbeit erscheinen lassen. Eine Reihe kleinbürgerlicher Sozialisten, die den Werth „konstituiren,“ d. h. ein für allemal festsetzen wollten, um die Waarenproduktion von ihren „Schlacken zu reinigen“ und zu verewigen, versuchten es, diese vermeintlich natürlichen Ursachen festzustellen und bei jeder Arbeit zu bestimmen, in welchem Maße sie Werth schaffe. (Vgl. Rodbertus’ Normalwerkarbeitstag.) In Wirklichkeit sind diese Ursachen gesellschaftliche, die sich ununterbrochen ändern.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>As values, however, commodities differ not qualitatively but <em>quantitatively</em> (according to number). They are exchanged because they are different as use values; they are compared in exchange and set in a certain relation to one another because they are equal as values. It is not labour as a definite, purposive activity in its qualitative diversity that can form value, but only labour in its character, equal in all branches of labour, as expenditure of human labour-power in general. As such expenditures of labour-power, the various labours, like the values, differ not qualitatively but only quantitatively. That is to say, with regard to the formation of value, every labour is regarded as <em>simple average labour,</em> as expenditure of simple labour-power such as every man possesses on average in his organism. Complicated labour counts in this respect only as multiplied simple labour. A small quantity of complicated labour is set equal to a larger quantity of simple labour. In accordance with the character of commodity production, the process is a social one, but at the same time an unconscious one, which fixes the relations of the various kinds of labour, each reduced to simple labour, to one another. To the person caught up in the fetishism of the commodity world, however, it appears that not <em>social,</em> but <em>natural</em> causes are what make the various kinds of complicated labour appear as multiples of simple labour. A number of petty-bourgeois socialists, who wished to "constitute" value, that is, to fix it once and for all, in order to "cleanse" commodity production of its "dross" and to perpetuate it, attempted to establish these supposedly natural causes and to determine for each labour to what degree it creates value. (Cf. Rodbertus's normal-work working day.) In reality these causes are social ones, which change continuously.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Es giebt wenige Gebiete, auf denen so viele irrthümliche Ansichten zu Tage traten, wie auf dem des Werthes. Einige hat Marx selbst richtig gestellt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>There are few fields in which so many erroneous views have come to light as in that of value. Marx himself set some of them right.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Namentlich ein Irrthum wird von Anhängern wie Gegnern der Marx’schen Theorien sehr gerne begangen; die Verwechslung von <em>Werth</em> und <em>Reichthum.</em> Man legt Marx sehr häufig den Ausspruch in den Mund: „Die Arbeit ist die Quelle alles Reichthums.“ Wer den bisherigen Ausführungen gefolgt ist, wird leicht einsehen, daß dieser Ausspruch in geradem Widerspruch zu den Grundlagen der Marx’schen Auschauungen steht und die Befangenheit im Fetischismus der Waarenwelt voraussetzt. Der <em>Werth</em> ist eine historische Kategorie, nur für die Periode der Waarenproduktion geltend; er ist ein gesellschaftliches Verhältniß. Der <em>Reichthum</em> ist dagegen etwas Stoffliches, setzt sich zusammen aus Gebrauchswerthen. Reichthum wird in allen Produktionsweisen produzirt; es giebt einen Reichthum, der nur von der Natur geliefert ist, in dem gar keine Arbeit enthalten ist; es giebt keinen Reichthum, welcher durch die Wirksamkeit der menschlichen Arbeit allein entstanden wäre. „Arbeit ist nicht die einzige Quelle der von ihr produzirten Gebrauchswerthe,“ sagt Marx, „des stofflichen Reichthums. Die Arbeit ist sein Vater, wie William Petty sagt, und die Erde seine Mutter.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>One error in particular is very readily committed by adherents as well as opponents of the Marxian theories: the confusion of <em>value</em> and <em>wealth.</em> Marx is very frequently credited with the statement: "Labour is the source of all wealth." Whoever has followed the foregoing exposition will readily see that this statement stands in direct contradiction to the foundations of the Marxian conceptions and presupposes entanglement in the fetishism of the commodity world. <em>Value</em> is a historical category, valid only for the period of commodity production; it is a social relation. <em>Wealth,</em> on the other hand, is something material, composed of use values. Wealth is produced in all modes of production; there is a wealth that is supplied only by nature, in which no labour whatever is contained; there is no wealth that would have arisen through the working of human labour alone. "Labour is not the only source of the use values it produces," says Marx, "of material wealth. Labour is its father, as William Petty says, and the earth its mother."</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Mit dem Wachsthum der Produktivität der Arbeit wächst unter sonst gleichen Umständen der stoffliche Reichthum eines Landes; er nimmt mit ihr ab. Die Summe der vorhandenen Werthe kann gleichzeitig dieselbe bleiben, wenn die Menge der aufgewendeten Arbeit dieselbe ist. Eine günstige Ernte vermehrt den Reichthum eines Landes; die Summe der Waarenwerthe, welche diese Ernte repräsentirt, kann dieselbe sein, wie im Vorjahre, wenn die Menge der aufgewendeten gesellschaftlich nothwendigen Arbeit dieselbe geblieben.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>With the growth of the productivity of labour, other circumstances remaining equal, the material wealth of a country grows; it diminishes with it. The sum of the values present may at the same time remain the same, if the quantity of labour expended is the same. A favourable harvest increases the wealth of a country; the sum of the commodity values which this harvest represents may be the same as in the previous year, if the quantity of socially necessary labour expended has remained the same.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wenn Marx nicht gesagt hat, daß die Arbeit die Quelle alles Reichthums; wenn dieser Satz auf einer Vermengung von Gebrauchswerth und Waarenwerth beruht, dann werden alle Konsequenzen hinfällig, die man mit Bezug auf Marx an diesen Satz geknüpft. Man sieht jetzt aber auch, wie gänzlich unbegründet es ist, wenn manche Gegner von Marx ihm entgegenhalten, daß er die Rolle der Natur bei der Produktion übersehen habe. Wohl aber haben diese Gegner etwas übersehen, nämlich den Unterschied zwischen dem Waarenkörper und dem durch ihn repräsentirten gesellschaftlichen Verhältniß. „Wie sehr ein Theil der Oekonomen von dem der Waarenwelt anklebenden Fetischismus oder dem gegenständlichen Schein der gesellschaftlichen Arbeitsbestimmungen getäuscht wird, beweist u.A. der langweilig abgeschmackte Streit über die Rolle der Natur in der Bildung des Tauschwerthes. Da Tauschwerth eine bestimmte gesellschaftliche Manier ist, die auf ein Ding verwandte Arbeit auszudrücken, kann er nicht mehr Naturstoff enthalten, als etwa der Wechselkurs.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If Marx did not say that labour is the source of all wealth; if this proposition rests on a confusion of use value and commodity value, then all the conclusions that have been attached to this proposition with reference to Marx become void. But one now also sees how utterly unfounded it is when some opponents of Marx object to him that he overlooked the role of nature in production. These opponents, however, have indeed overlooked something, namely the difference between the commodity body and the social relation represented by it. "How greatly a part of the economists is deceived by the fetishism that clings to the commodity world, or by the objective semblance of the social determinations of labour, is proved, among other things, by the tediously insipid dispute over the role of nature in the formation of exchange value. Since exchange value is a definite social manner of expressing the labour bestowed on a thing, it can contain no more natural material than does, say, the rate of exchange."</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Man sieht, Marx hat die Rolle der Natur bei der Produktion von Gebrauchswerthen nicht „<em>übersehen.</em>“ Wenn er sie aus der Werthbestimmung ausschied, so beruhte das nicht auf Vergeßlichkeit, sondern geschah auf Grund einer Einsicht in den gesellschaftlichen Charakter der Waarenproduktion, die denjenigen Oekonomen noch immer abgeht, welche die Gesetze der Gesellschaft aus einem Zustand der Gesellschaftslosigkeit, dem isolirten Menschen, ableiten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>One sees that Marx did not "<em>overlook</em>" the role of nature in the production of use values. If he excluded it from the determination of value, this rested not on forgetfulness, but was done on the basis of an insight into the social character of commodity production, an insight still lacking in those economists who derive the laws of society from a condition of societylessness, from isolated man.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ein weiterer Irrthum, der in Bezug auf die Marx’sche Werththeorie ziemlich verbreitet ist, besteht in der Verwechslung der werthbildenden Kraft der <em>Arbeit</em> mit dem Werth der <em>Arbeitskraft.</em> Man muß diese beiden streng auseinanderhalten. Die Arbeit als die Quelle des Werthes, kann ebensowenig einen Werth haben, als die Schwere ein Gewicht, die Wärme eine Temperatur. Wir haben bisher nur von dem Werth gehandelt, den einfache oder komplizirte Arbeit <em>bildet,</em> nicht von dem Werth, den die Arbeitskraft <em>besitzt,</em> und der im Lohn des Arbeiters – des Trägers der Arbeitskraft – zum Ausdruck kommt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>A further error, which is fairly widespread with regard to Marx's theory of value, consists in the confusion of the value-creating power of <em>labour</em> with the value of <em>labour-power.</em> One must keep these two strictly apart. Labour, as the source of value, can as little have a value as gravity can have a weight, or heat a temperature. So far we have dealt only with the value which simple or complicated labour <em>creates,</em> not with the value which labour-power <em>possesses,</em> and which finds expression in the wage of the worker — the bearer of labour-power.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir setzen bisher nur einfache Waarenproduktion und einfachen Waarentausch voraus. Die Arbeitskraft als Waare existirt bisher für uns noch nicht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>So far we have presupposed only simple commodity production and simple commodity exchange. Labour-power as a commodity does not yet exist for us up to now.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Von der menschlichen Arbeitskraft und ihrem Werth werden wir später noch ausführlicher handeln. Hier genüge der Fingerzeig, um vor einem Irrthum zu bewahren.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We shall treat human labour-power and its value more fully later. Here a mere hint may suffice to guard against an error.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die meisten Einwendungen gegen die Marx’sche Werththeorie beruhen auf solchen Irrthümern, soweit sie nicht Behauptungen widerlegen, die Marx nie aufgestellt, oder gar nur bloße Verdächtigungen sind, wie der beliebte Vorwurf des Marx’schen Dogmatismus.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Most of the objections to Marx's theory of value rest upon such errors, in so far as they do not refute assertions that Marx never made, or are indeed mere insinuations, such as the favourite reproach of Marxian dogmatism.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Um sich vor solchen irrthümlichen Auffassungen zu bewahren, muß man sich stets den Charakter eines Gesetzes, wie das Werthgesetz eines ist, vor Augen halten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In order to guard oneself against such erroneous conceptions, one must always keep in view the character of a law such as the law of value is.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ein jedes naturwissenschaftliche oder gesellschaftliche Gesetz ist ein Versuch, Vorgänge in der Natur oder der Gesellschaft zu erklären. Aber kaum einer dieser Vorgänge wird durch eine einzige Ursache bedingt. Die verschiedensten und verwickeltsten Ursachen liegen den verschiedenen Vorgängen zu Grunde und diese Vorgänge selbst spielen sich nicht unabhängig von einander ab, sondern durchkreuzen sich in den verschiedensten Richtungen. Der Erforscher der Zusammenhänge in der Natur oder der Gesellschaft hat daher eine doppelte Aufgabe. Er muß erstens die verschiedenen Vorgänge von einander sondern, sie isoliren; er muß zweitens die Ursachen, welche diesen Vorgängen zu Grunde liegen, von einander sondern, die wesentlichen von den unwesentlichen, die regelmäßigen von den zufälligen. Beide Arten der Forschung sind nur möglich durch die Abstraktion. Der Naturforscher wird hierbei unterstützt durch eine Reihe unendlich vervollkommneter Instrumente und Methoden der Beobachtung und des Experiments. Der Erforscher der Gesellschaftsgesetze muß auf die letzteren ganz verzichten, und in Bezug auf die ersteren mit sehr unvollkommenen Hilfsmitteln vorlieb nehmen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Every natural-scientific or social law is an attempt to explain processes in nature or in society. But hardly one of these processes is conditioned by a single cause. The most diverse and intricate causes underlie the various processes, and these processes themselves do not run their course independently of one another, but cross each other in the most various directions. The investigator of the connections in nature or in society therefore has a double task. First, he must separate the various processes from one another, isolate them; secondly, he must separate the causes underlying these processes from one another, the essential from the inessential, the regular from the accidental. Both kinds of research are only possible through abstraction. The natural scientist is here assisted by a series of infinitely perfected instruments and methods of observation and experiment. The investigator of social laws must dispense with the latter altogether, and with regard to the former must content himself with very imperfect aids.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Durch die Abstraktion gelangt der Forscher zur Erkenntniß eines Gesetzes, das den Erscheinungen, die er erklären will, zu Grunde liegt. Ohne dessen Kenntniß können die betreffenden Erscheinungen nicht erklärt werden; aber keineswegs genügt dies eine Gesetz allein, um diese Erscheinungen völlig zu erklären. Eine Ursache kann durch eine andere geschwächt, ja in ihrer Wirkung völlig aufgehoben werden; es wäre jedoch falsch, aus einem solchen Fall schließen zu wollen, daß die Ursache überhaupt nicht bestehe. Die Gesetze des Falles gelten z. B. nur im luftleeren Raum: hier fallen ein Stück Blei und eine Feder gleich schnell zu Boden. Im mit Luft erfüllten Raum ist das Ergebniß ein anderes, wegen des Widerstandes der Luft. Trotzdem ist das Fallgesetz richtig.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Through abstraction the investigator arrives at the recognition of a law which underlies the phenomena he wishes to explain. Without knowledge of it the phenomena in question cannot be explained; but this one law alone is by no means sufficient to explain these phenomena completely. One cause may be weakened by another, indeed may be entirely cancelled in its effect; it would, however, be false to conclude from such a case that the cause does not exist at all. The laws of falling bodies, for example, hold only in a vacuum: here a piece of lead and a feather fall to the ground equally fast. In a space filled with air the result is different, on account of the resistance of the air. Nevertheless the law of falling bodies is correct.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So ist es auch mit dem Werth. Sobald die Waarenproduktion zur herrschenden Form der Produktion geworden, mußte den bei dieser Produktionsweise Betheiligten die Gesetzmäßigkeit der Waarenpreise auffallen und dahin führen, daß man die Ursachen zu erforschen suchte, welche ihr zu Grunde lagen. Die Untersuchung der Waarenpreise führte zur Bestimmung der Werthgröße. Aber ebensowenig, als die Schwerkraft die einzig bestimmende Ursache der Erscheinungen des Falles ist, ebensowenig ist der Werth einer Waare die einzige Ursache ihres Preises. Marx weist selbst darauf hin, daß es Waaren giebt, deren Preis nicht nur zeitweilig, sondern stets unter ihrem Werth stehen kann. So sind z. B. Gold und Diamanten wahrscheinlich noch niemals zu ihrem vollen Werthe bezahlt worden. Auch die Waare Arbeitskraft kann unter gewissen Umständen dauernd unter ihrem Werth bezahlt werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>So it is also with value. As soon as commodity production had become the dominant form of production, the regularity of commodity prices was bound to strike those engaged in this mode of production and to lead them to seek to investigate the causes underlying it. The investigation of commodity prices led to the determination of the magnitude of value. But just as little as gravity is the sole determining cause of the phenomena of falling bodies, just as little is the value of a commodity the sole cause of its price. Marx himself points out that there are commodities whose price can stand below their value not only temporarily, but permanently. Thus, for example, gold and diamonds have probably never yet been paid for at their full value. The commodity labour-power too can, under certain circumstances, be paid for permanently below its value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ja, Marx hat sogar nachgewiesen, daß in der kapitalistischen Produktionsweise, unter dem Einfluß des Profits, das Werthgesetz so beeinflußt wird, daß die Preise der meisten Waaren dauernd über oder unter ihrem Werth nicht blos stehen <em>können,</em> sondern stehen <em>müssen.</em> Trotzdem bleibt auch da das Werthgesetz in Kraft, ja, diese Abweichungeu der Preise vom Werth können selbst wieder nur mit Hilfe des Werthgesetzes erklärt werden. Wir können hier darauf blos hinweisen, nicht es näher auseinandersetzen. Dazu gehört die Kenntniß der Gesetze des Kapitals und des Profits. Wir kommen später noch einmal darauf zurück.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Indeed, Marx has even demonstrated that in the capitalist mode of production, under the influence of profit, the law of value is so affected that the prices of most commodities not merely <em>can,</em> but <em>must</em> stand permanently above or below their value. Nevertheless the law of value remains in force even there; indeed, these deviations of prices from value can themselves in turn only be explained with the help of the law of value. We can here merely point to this, not set it out in more detail. That requires a knowledge of the laws of capital and of profit. We shall return to it once more later.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ein großer Theil der Einwendungen gegen die Marx’sche Werththeorie beruht auf der Verwechslung von Preis und Werth. Beide müssen streng auseinander gehalten werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>A large part of the objections to Marx's theory of value rests upon the confusion of price and value. The two must be kept strictly apart.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Vor Allem aber darf man, wie schon ausgeführt, sich nicht vom Fetischcharakter der Waare blenden lassen; nicht die gesellschaftlichen Verhältnisse, die im Waarenkörper zum Ausdruck gelangen, für dessen natürliche Eigenschaften halten. Wenn man nie aus den Augen verliert, daß die Waarenproduktion eine Art gesellschaftlicher Produktton ist, bei der von den einzelnen Wirthschaftsbetrieben füreinander, wenn auch nicht miteinander produzirt wird, und daß der Werth der Waaren nicht ein Verhältniß von Dingen, sondern ein unter dinglicher Hülle verstecktes Verhältuiß von Menschen zu einander darstellt, dann wird man auch wissen, wie man den Marx’schen Satz aufzufassen hat, der die Grundlage der Untersuchungen des <strong>Kapital</strong> bildet: <em>„Es ist nur das Quantum gesellschaftlich nothwendiger Arbeit oder die zur Herstellung eines Gebrauchswerthes gesellschaftlich nothwendige Arbeitszeit, welche seine Werthgröße bestimmt.“</em><br/> <a id="ab1-kap1-t3" name="ab1-kap1-t3"> </a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Above all, however, one must not, as has already been set out, allow oneself to be blinded by the fetish character of the commodity; one must not take the social relations which come to expression in the body of the commodity for its natural properties. If one never loses sight of the fact that commodity production is a kind of social production, in which the individual economic enterprises produce for one another, even if not with one another, and that the value of commodities represents not a relation of things but a relation of human beings to one another concealed under a material husk, then one will also know how to grasp the Marxian proposition which forms the foundation of the investigations of <strong>Capital</strong>: <em>"It is only the quantity of socially necessary labour, or the labour-time socially necessary for the production of a use-value, which determines its magnitude of value."</em><br/> <a id="ab1-kap1-t3" name="ab1-kap1-t3"> </a></p>
+```
+
+:::
+
+:::
+
+##### 3. The Exchange Value
+
+<p class="de-subtitle">3. Der Tauschwerth</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Die Größe des Werthes einer Waare wird bestimmt durch die zu ihrer Herstellung gesellschaftlich nothwendige Arbeitszeit. Aber die Werthgröße wird nicht dementsprechend ausgedrückt. Man sagt nicht: „Dieser Rock ist vierzig Arbeitsstunden werth,“ sondern sagt etwa: „Er ist so viel werth, wie 20 Ellen Leinwand oder 10 Gramm Gold.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">The magnitude of the value of a commodity is determined by the socially necessary labour time required for its production. But the magnitude of value is not expressed accordingly. One does not say: “This coat is worth forty hours of labour,” but rather says something like: “It is worth as much as 20 yards of linen or 10 grams of gold.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Rock ist eben, für sich allein betrachtet, noch keine Waare; er wird erst eine solche, wenn ich ihn austauschen will. Es tritt demnach auch der Werth einer Waare nicht zu Tage, wenn ich ihn nicht mit dem einer anderen vergleiche, mit der ich jene auszutauschen gedenke. Die Werthgröße einer Waare wird wohl <em>bestimmt</em> durch die Menge der zu ihrer Herstellung gesellschaftlich nochwendigen Arbeit; aber sie wird <em>ausgedrückt</em> durch ihr Verhältniß zu der oder den Werthgrößen einer oder mehrerer anderen Waaren, durch ihr <em>Austauschverhältniß.</em> Die bürgerliche Oekonomie nimmt jedoch vielfach an, daß es das Austauschverhältniß einer Waare sei, welches ihre Werthgröße bestimme.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The coat, considered by itself alone, is not yet a commodity; it only becomes one when I want to exchange it. Consequently, the value of a commodity also does not come to light unless I compare it with that of another with which I intend to exchange it. The magnitude of value of a commodity is indeed <em>determined</em> by the quantity of the socially necessary labour required for its production; but it is <em>expressed</em> by its relation to the magnitude or magnitudes of value of one or more other commodities, by its <em>exchange relation.</em> Bourgeois economics, however, frequently assumes that it is the exchange relation of a commodity which determines its magnitude of value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ein Beispiel wird den Widersinn dieser Auschauung klar machen. Nehmen wir einen Zuckerhut. Sein Gewicht ist von vorneherein gegeben, aber ich kann es nur ausdrücken durch Vergleichung mit dem Gewicht eines anderen Körpers, z. B. Eisen. Ich lege den Zuckerhut in die eine Wagschale einer Wage und in die andere eine entsprechende Anzahl von Stücken Eisen, jedes von einem bestimmten Gewicht, das wir z. B. ein Pfund nennen. Die Anzahl der Eisenstücke lehrt uns das Gewicht des Zuckers kennen; aber es wäre abgeschmackt, annehmen zu wollen, der Zucker sei z. B. deshalb zehn Pfund schwer, weil ich zehn Pfundgewichte in die andere Wagschale legte. Ich mußte vielmehr zehn solcher Gewichte in die Wagschale legen, weil der Zucker zehn Pfund schwer ist. Hier liegt der Sachverhalt klar zu Tage. Aber es verhält sich ebenso mit der <em>Werthgröße</em> und der <em>Werthform.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>An example will make clear the absurdity of this view. Let us take a sugarloaf. Its weight is given from the outset, but I can only express it by comparison with the weight of another body, e.g. iron. I place the sugarloaf in the one pan of a balance and in the other a corresponding number of pieces of iron, each of a definite weight, which we call, for example, a pound. The number of iron pieces teaches us the weight of the sugar; but it would be preposterous to want to assume that the sugar weighs ten pounds, for example, because I placed ten pound-weights in the other pan. Rather, I had to place ten such weights in the pan because the sugar weighs ten pounds. Here the state of affairs lies clearly to light. But it is the same with the <em>magnitude of value</em> and the <em>form of value.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Ausdruck für das Gewicht eines Körpers bietet manche Aehnlichkeit mit dem Werthausdruck einer Waare, d. h. der Form, in der wir ihre Werthgröße ausdrücken. Ein Hut Zucker ist zehn Pfund schwer, heißt eigentlich streng genommen, wenn wir unser Beispiel weiter führen, daß ein Hut Zucker ebenso schwer ist, wie die zehn bestimmten Stücke Eisen; ähnlich können wir von einem Rock sagen, er sei ebensoviel werth, als z. B. 20 Ellen Leinwand.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The expression for the weight of a body offers a certain similarity to the value-expression of a commodity, i.e. to the form in which we express its magnitude of value. That a loaf of sugar weighs ten pounds means, strictly speaking, if we continue our example, that a loaf of sugar is just as heavy as the ten specific pieces of iron; similarly we can say of a coat that it is worth just as much as, for example, 20 yards of linen.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir könnten Eisen und Zucker nicht als <em>Körper</em> in ein gewisses Verhältniß zu einander setzen, wenn ihnen nicht eine <em>natürliche</em> Eigenschaft gemeinsam wäre: die <em>Schwere;</em> ebenso könnten wir Rock und Leinwand nicht als <em>Waaren</em> in ein Verhältniß zu einander bringen, wenn sie nicht eine gemeinsame <em>gesellschaftliche</em> Eigenschaft besäßen: die, Produkte allgemein menschlicher Arbeit zu sein, <em>Werthe.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We could not place iron and sugar into a certain relation to one another as <em>bodies</em> if they did not have a <em>natural</em> property in common: <em>weight;</em> likewise we could not bring coat and linen into a relation to one another as <em>commodities</em> if they did not possess a common <em>social</em> property: that of being products of human labour in general, <em>values.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Eisen und Zucker spielen in der ersten Gleichung zwei verschiedene Rollen: ein Hut Zucker ist so schwer wie zehn Pfund Eisen. Der Zucker tritt hier als Zucker auf, das Eisen aber nicht als Eisen, sondern als Verkörperung der Schwere, als ihre Erscheinungsform. Wir sehen in dieser Gleichung nicht von den besonderen körperlichen Eigenschaften des Zuckers ab, wohl aber von denen des Eisens.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Iron and sugar play two different roles in the first equation: a loaf of sugar is as heavy as ten pounds of iron. Here the sugar appears as sugar, but the iron not as iron, rather as the embodiment of weight, as its form of appearance. In this equation we do not abstract from the particular bodily properties of the sugar, but we do so from those of the iron.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Eine ähnliche Erscheinung bietet uns die Gleichung: ein Rock = 20 Ellen Leinwand.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>A similar phenomenon is offered to us by the equation: one coat = 20 yards of linen.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Beide, Rock wie Leinwand, sind Waaren, also Gebrauchswerthe und Werthe. Aber in der <em>Werthform,</em> im <em>Tauschverhältniß</em> tritt hier nur der Rock als Gebrauchswerth auf, die Leinwand dagegen nur als Erscheinungsform von Werth.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Both, coat as well as linen, are commodities, thus use values and values. But in the <em>form of value,</em> in the <em>exchange relation,</em> here only the coat appears as use value, whereas the linen appears only as form of appearance of value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ich kann das Gewicht des Zuckers nicht blos mit Eisengewichten abwiegen, sondern auch mit Messing- oder Bleigewichten &amp;c. So kann ich den Werth des Rockes nicht nur in Leinwand ausdrücken, sondern auch in jeder anderen Waare. In der Gleichung: ein Rock = 20 Ellen Leinwand, sehe ich daher von der besonderen <em>Naturalform</em> der Leinwand ganz ab, sie gilt, in diesem Verhältniß, wie schon gesagt, nur als <em>Werth,</em> als Verkörperung allgemein menschlicher Arbeit. Die Leinwand wird Erscheinungsform des <em>Werthes</em> des Rockes im Gegensatz zum <em>Körper</em> des Rockes. Der dem Rock, wie jeder anderen Waare innewohnende Gegensatz von Gebrauchswerth und Waarenwerth spiegelt sich im Werthausdruck wieder, innerhalb dessen seine Körperform als Rock nur als Gestalt von <em>Gebrauchswerth,</em> die Körperform der Waare Leinwand nur als Gestalt von <em>Waarenwerth,</em> als <em>Werthform,</em> gilt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>I can weigh the weight of the sugar not merely with iron weights, but also with brass or lead weights &amp;c. Thus I can express the value of the coat not only in linen, but also in every other commodity. In the equation: one coat = 20 yards of linen, I therefore abstract entirely from the particular <em>natural form</em> of the linen; in this relation, as already said, it counts only as <em>value,</em> as embodiment of human labour in general. The linen becomes the form of appearance of the <em>value</em> of the coat, in contrast to the <em>body</em> of the coat. The contrast between use value and commodity value inherent in the coat, as in every other commodity, is mirrored in the value-expression, within which its bodily form as coat counts only as the shape of <em>use value,</em> the bodily form of the commodity linen only as the shape of <em>commodity value,</em> as <em>form of value.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber dennoch ist der Gebrauchswerth der Waare, in der der Werth der anderen Waare ausgedrückt wird, – Marx nennt sie das <em>Aequivalent</em> <a href="#ab1-kap1-n5" id="ab1-kap1-f5" name="ab1-kap1-f5">[5]</a> – nicht gleichgiltig. Beide Waaren müssen verschieden sein. Die Gleichung ein Rock = ein Rock ist sinnlos.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But nevertheless the use value of the commodity in which the value of the other commodity is expressed – Marx calls it the <em>equivalent</em> <a href="#ab1-kap1-n5" id="ab1-kap1-f5" name="ab1-kap1-f5">[5]</a> – is not a matter of indifference. Both commodities must be different. The equation one coat = one coat is meaningless.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ich kann den Werth des Rockes nicht nur in Leinwand ausdrücken, sondern in jeder anderen von ihm verschiedenen Waare. Aber ich kann auch die Gleichung umdrehen, und den Werth der Leinwand, sowie auch den jeder anderen Waare, in Röcken ausdrücken. Ich kann die Gleichung aufstellen:</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>I can express the value of the coat not only in linen, but in every other commodity different from it. But I can also reverse the equation, and express the value of the linen, as well as that of every other commodity, in coats. I can set up the equation:</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">1 Rock =</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">20 Ellen Leinwand<br/> 10 Pfund Thee<br/> 40 Pfund Kaffee<br/> 5 Zentner Eisen<br/> 2 Scheffel Weizen<br/> u. s. w.</p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">1 coat =</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">20 yards of linen<br/> 10 pounds of tea<br/> 40 pounds of coffee<br/> 5 hundredweight of iron<br/> 2 bushels of wheat<br/> etc.</p> </td> </tr> </table>
+</div>
+```
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Ich kann sie aber auch umdrehen und sagen:</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">But I can also reverse it and say:</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">20 Ellen Leinwand<br/> 10 Pfund Thee<br/> 40 Pfund Kaffee<br/> 5 Zentner Eisen<br/> 2 Scheffel Weizen<br/> u. s. w.</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">= 1 Rock</p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">20 yards of linen<br/> 10 pounds of tea<br/> 40 pounds of coffee<br/> 5 hundredweight of iron<br/> 2 bushels of wheat<br/> etc.</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">= 1 coat</p> </td> </tr> </table>
+</div>
+```
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Beide Gleichungen scheinen dasselbe zu sagen; sie sagen dasselbe, als blos <em>mathematische</em> Gleichungen betrachtet; als unterschiedene Ausdrucksformen des Werthes haben sie jedoch eine logisch und historisch verschiedene Bedeutung.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Both equations appear to say the same thing; they do say the same thing when considered merely as <em>mathematical</em> equations; but as distinct forms of expressing value they have a logically and historically different meaning.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In den Anfängen der Waarenproduktion wurden nur hie und da gelegentlich und zufällig Produkte ausgetauscht. Diese Periode kann bezeichnet werden durch eine einfache Werthgleichung, in der eine Waare nur mit <em>einer</em> anderen in ein gewisses Verhältniß gesetzt wird, z. B. ein Bronzehammer = 20 Pfund Steinsalz; diese Form nennt Marx die <em>einfache oder einzelne Werthform.</em> Sobald dagegen ein Arbeitsprodukt, z. B. sich, nicht mehr ausnahmsweise, sondern <em>gewohnheitsmäßig</em> mit anderen Arbeitsprodukten ausgetauscht wird, nimmt der Werthausdruck die Form der ersten der zwei eben angeführten Gleichungen an, also z. B.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In the beginnings of commodity production, products were exchanged only here and there, occasionally and by chance. This period can be denoted by a simple value equation, in which one commodity is set only into a certain relation to <em>one</em> other, e.g. one bronze hammer = 20 pounds of rock salt; this form Marx calls the <em>simple or single form of value.</em> As soon, on the other hand, as a product of labour, e.g. iron, is exchanged for other products of labour no longer exceptionally but <em>habitually,</em> the expression of value takes on the form of the first of the two equations just cited, thus e.g.</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">1 Kuh =</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">  2 Mäntel<br/> 1 Schwert<br/> 1 Gürtel<br/> 10 Sandalen<br/> 3 Becher<br/> u. s. w.</p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">1 cow =</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">  2 cloaks<br/> 1 sword<br/> 1 belt<br/> 10 sandals<br/> 3 cups<br/> etc.</p> </td> </tr> </table>
+</div>
+```
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Diese Werthform, für die wir noch bei Homer Beispiele finden, nennt Marx die <em>totale oder entfaltete Werthform.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">This form of value, examples of which we still find in Homer, Marx calls the <em>total or expanded form of value.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber die Waarenproduktion entwickelt sich noch weiter. Es wächst die Zahl der Arbeitsprodukte, die zum Austausch, also als Waaren hergestellt werden, und der gewohnheitsmäßige Tausch erstreckt sich auf eine immer größere Anzahl der verschiedensten Waaren. Nicht nur Vieh, auch Schwerter, Gürtel, Becher &amp;c. werden jetzt gewohnheitsmäßig ausgetauscht. Der gangbarste dieser Artikel, z. B. Vieh, wird derjenige, in dem die Werthe der Waaren am häufigsten ausgedrückt werden, bis er die einzige ist. Damit ist der Punkt erreicht, in welchem die zweite der oben angeführten Formeln in Wirksamkeit tritt, die <em>allgemeine Werthform.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But commodity production develops still further. The number of products of labour that are made for exchange, and thus as commodities, grows, and the habitual exchange extends to an ever greater number of the most diverse commodities. Not only cattle, but also swords, belts, cups, etc., are now habitually exchanged. The most current of these articles, e.g. cattle, becomes the one in which the values of commodities are most frequently expressed, until it becomes the only one. With this the point is reached at which the second of the formulae cited above comes into operation, the <em>general form of value.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Betrachten wir die Aequivalentform in dieser Gleichung jetzt näher. Wie wir schon oben gesehen, erscheint die Aequivalentform als die Verkörperung menschlicher Arbeit überhaupt. Aber es war in den früheren Ausdrucksformen nur zufällig und vorübergehend, daß eine Waare so erschien. In der Gleichung 1 Rock = 20 Ellen Leinwand, gilt die Leinwand allerdings nur als Erscheinungsform von Werth. Aber wenn 20 Ellen Leinwand mit 1 Scheffel Weizen oder wieder mit einem Rock gleichgesetzt werden, so ist es jetzt Weizen oder ein Rock, der als Verkörperung allgemein menschlicher Arbeit auftritt, indeß die Leinwand wieder als Gebrauchswerth figurirt. Anders bei der allgemeinen Werthform. Jetzt dient <em>eine einzige</em> Waare als Aequivalent; diese ist allgemeines Aequivalent. Sie, wie alle anderen Waaren, ist nach wie vor Gebrauchswerth und Waarenwerth. Aber alle anderen Waaren treten ihr jetzt anscheinend nur als Gebrauchswerthe gegenüber, sie selbst gilt als die <em>allgemeine und einzige</em> Erscheinungsform des Werthes, als die allgemeine <em>gesellschaftliche</em> Verkörperung menschlicher Arbeit überhaupt. Sie selbst ist jetzt die Waare, die mit allen anderen Waaren <em>unmittelbar</em> austauschbar ist, und die deshalb auch Jeder nimmt. Auf der anderen Seite verlieren dadurch alle anderen Waaren die Fähigkeit und Möglichkeit, sich unmittelbar gegeneinander auszutauschen. Jeder Tausch zweier Waaren kann nur noch durch Vermittlung des <em>allgemeinen Aequivalents</em> vor sich gehen, in dem sich alle anderen Waarenwerthe spiegeln.<br/> <a id="ab1-kap1-t4" name="ab1-kap1-t4"> </a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us now examine the equivalent form in this equation more closely. As we have already seen above, the equivalent form appears as the embodiment of human labour in general. But in the earlier forms of expression it was only accidental and transitory that one commodity so appeared. In the equation 1 coat = 20 ells of linen, the linen indeed counts only as the form of appearance of value. But when 20 ells of linen are set equal to 1 bushel of wheat, or again to a coat, then it is now wheat or a coat that appears as the embodiment of general human labour, while the linen once more figures as use-value. It is otherwise with the general form of value. Now <em>a single</em> commodity serves as equivalent; this is the general equivalent. It, like all other commodities, remains as before use-value and commodity-value. But all other commodities now confront it apparently only as use-values, while it itself counts as the <em>general and sole</em> form of appearance of value, as the general <em>social</em> embodiment of human labour in general. It itself is now the commodity that is <em>directly</em> exchangeable with all other commodities, and which therefore everyone also takes. On the other hand, all other commodities thereby lose the capacity and possibility of exchanging themselves directly with one another. Every exchange of two commodities can henceforth take place only through the mediation of the <em>general equivalent,</em> in which all other commodity-values are mirrored.<br/> <a id="ab1-kap1-t4" name="ab1-kap1-t4"> </a></p>
+```
+
+:::
+
+:::
+
+##### 4. The Exchange of Commodities
+
+<p class="de-subtitle">4. Der Waarenaustausch</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Soll ein Waarenaustausch vor sich gehen können, so müssen zwei Bedingungen eintreten: 1. Die auszutauschenden Produkte müssen <em>Gebrauchswerthe</em> sein für solche, die sie <em>nicht besitzen, Nichtgebrauchswerthe</em> für ihre <em>Besitzer.</em> 2. Die Austauschenden müssen sich gegenseitig als <em>Privateigenthümer</em> der auszutauschenden Waaren anerkennen. Das <em>Rechtsverhältniß</em> des Privateigenthums ist nur der Spiegel der <em>Willensverhältnisse</em> der austauschenden Personen, die durch die <em>ökonomischen Verhältnisse</em> bedingt werden. Die Menschen fingen nicht an, Waaren auszutauschen, weil sie sich gegeuseitig als Privateigenthümer der veräußerlichen Dinge ansahen, sondern sie begannen sich gegenseitig als Privateigenthümer anzuerkennen, als sie in den Fall kamen, Waaren miteinander auszutauschen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">For an exchange of commodities to be able to take place, two conditions must be met: 1. The products to be exchanged must be <em>use-values</em> for those who do <em>not possess them, non-use-values</em> for their <em>possessors.</em> 2. Those exchanging must mutually recognise one another as <em>private owners</em> of the commodities to be exchanged. The <em>legal relation</em> of private property is only the mirror of the <em>relations of will</em> of the exchanging persons, which are conditioned by the <em>economic relations.</em> Men did not begin to exchange commodities because they regarded one another as private owners of the alienable things; rather, they began to recognise one another as private owners when they came into the position of exchanging commodities with one another.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die ursprünglichste Form, in der ein Arbeitsprodukt Nichtgebrauchswerth für seinen Besitzer wird, also die erste Form der Waare, ist die des <em>Ueberschusses</em> der Arbeitsprodukte über die Bedürfnisse ihres Besitzers. Diese Produkte werden noch nicht von vorneherein für den Tausch, sondern für den Selbstgebrauch produzirt. Sie werden erst Waaren durch den Tausch.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The most original form in which a product of labour becomes a non-use-value for its possessor, that is, the first form of the commodity, is that of the <em>surplus</em> of the products of labour over the needs of their possessor. These products are not yet produced from the outset for exchange, but for the possessor's own use. They only become commodities through exchange.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Was den zweiten Punkt anbelangt, die gegenseitige Anerkennung der Besitzer der veräußerlichen Dinge als ihrer Privateigenthümer, so ist diese nur möglich dort, wo sich von einander unabhängige Personen gegenübertreten. „Solch’ ein Verhältniß wechselseitiger Fremdheit existirt jedoch nicht für die Glieder eines naturwüchsigen Gemeinwesens, habe es nun die Form einer patriarchalischen Familie, einer altindischen Gemeinde, eines Inkastaates u. s. w. Der Waarenaustausch beginnt, wo die Gemeinwesen enden, an den Punkten ihrer Berührung mit fremden Gemeinwesen oder Gliedern fremder Gemeinwesen. Sobald Dinge aber einmal im auswärtigen, werden sie auch (mit der Zeit) rückschlagend im inneren Gemeinleben zu Waaren.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>As for the second point, the mutual recognition of the possessors of the alienable things as their private owners, this is possible only where persons independent of one another confront each other. "Such a relation of mutual strangeness, however, does not exist for the members of a naturally grown community, whether it takes the form of a patriarchal family, an ancient Indian community, an Inca state, and so forth. The exchange of commodities begins where the communities end, at the points of their contact with foreign communities or with members of foreign communities. But as soon as things have once become commodities in external commerce, they also (in the course of time) become commodities, by repercussion, within the internal life of the community."</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Iu den Anfängen des Tausches zeigen sich Werthgröße und Werthform noch sehr wenig entwickelt. Das Verhältniß der Größen oder Mengen, in dem sich die Produkte austauschen, ist zunächst noch ein zufälliges und ungemein schwankendes. Aber der Produktenaustausch wird immer mehr ein regelmäßiger gesellschaftlicher Vorgang. Man beginnt nicht blos den Ueberschuß von Gebrauchswerthen über das eigene Bedürfniß hinaus zu vertauschen, sondern Gebrauchswerthe eigens <em>zum Zweck des Austausches</em> zu produziren. Damit wird das Verhältniß, in dem sie sich austauschen, immer mehr abhängig von ihren Produktionsbedingungen. Die <em>Werthgröße</em> einer Waare beginnt eine Größe zu werden, die bestimmt ist von der zu ihrer Herstellung nothwendigen Arbeitszeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In the beginnings of exchange, the magnitude of value and the form of value are still very little developed. The ratio of the magnitudes or quantities in which the products are exchanged is at first still an accidental and extremely fluctuating one. But the exchange of products becomes more and more a regular social process. One begins not merely to exchange the surplus of use-values beyond one's own need, but to produce use-values specifically <em>for the purpose of exchange.</em> Thereby the ratio in which they are exchanged becomes more and more dependent upon their conditions of production. The <em>magnitude of value</em> of a commodity begins to become a magnitude determined by the labour-time necessary for its manufacture.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sobald man aber Arbeitsprodukte eigens zum Zweck des Austausches herstellt, muß auch der in der Waarennatur schlummernde Gegensatz von Gebrauchswerth und Werth deutlich zmn Vorschein kommen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But as soon as products of labour are made specifically for the purpose of exchange, the antithesis of use-value and value that slumbers in the nature of the commodity must also come clearly to light.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dieser jeder Waare innewohnende Gegensatz findet, wie wir wissen, seinen Ausdruck in der Werthform. Im Ausdruck 20 Ellen Leinwand = 1 Rock, sagt uns die Leinwand selbst, daß sie Gebrauchswerth (Leinwand) und Werth (Rockgleiches) ist. Aber in der einfachen Werthform ist es noch schwierig, diesen Gegensatz festzuhalten, da die Waare, welche hier als Aequivalent, als Verkörperung menschlicher Arbeit überhaupt dient, diese Rolle nur vorübergehend einnimmt. In der entfalteten Werthform tritt der Gegensatz schon deutlicher zu Tage, da jetzt mehrere Waaren als Aequivalent dienen und dienen können, weil ihnen eines gemeinsam: die Eigenschaft von Arbeitsprodukten oder Werthen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This antithesis inherent in every commodity finds, as we know, its expression in the form of value. In the expression 20 yards of linen = 1 coat, the linen itself tells us that it is use-value (linen) and value (equivalent to a coat). But in the simple form of value it is still difficult to hold fast to this antithesis, since the commodity which here serves as equivalent, as the embodiment of human labour in general, takes on this role only transiently. In the expanded form of value the antithesis comes to light more clearly, since now several commodities serve and can serve as equivalent, because they have one thing in common: the property of being products of labour, or values.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber je mehr der Waarenaustausch sich entwickelt, je mehr Arbeitsprodukte zu Waaren werden, desto nothwendiger wird ein <em>allgemeines</em> Aequivalent. In den Anfängen des Tausches tauscht jeder das, was er nicht braucht, unmittelbar gegen das aus, was er braucht. Das wird immer schwieriger, je mehr die Waarenproduktion die allgemeine Form gesellschaftlicher Produktion wird. Nehmen wir z. B. an, die Waarenproduktion sei bereits so weit entwickelt, daß die Schneiderei, Bäckerei, Fleischerei, Schreinerei selbstständige Gewerbe bilden. Der Schneider veräußert einen Rock an den Schreiner. Für den Schneider ist der Rock Nichtgebrauchswerth, für den Schreiner Gebrauchswerth. Aber der Schneider bedarf der Schreinerarbeit nicht. Er besitzt schon genügend Möbel. Die Stühle und Tische sind Nichtgebrauchswerthe für den Schreiner, aber auch für den Schneider. Andererseits braucht der Schneider Brot vom Bäcker, Fleisch vom Fleischer, denn die Zeiten sind vorbei, wo er zu Hause backte und Schweine mästete. Das Fleisch und Brot, die der Schneider bedarf, sind für Fleischer und Bäcker Nichtgebrauchswerthe, aber Bäcker und Fleischer brauchen im Augenblick keinen Rock; der Schneider steht also vor der Gefahr zu verhungern, trotzdem er einen Abnehmer für seinen Rock gefunden hat. Was er braucht, ist eine Waare, die als allgemeines Aequivalent dient, die, als unmittelbare Verkörperung des <em>Werthes,</em> von vornherein Gebrauchswerth für Jedermann hat.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But the more the exchange of commodities develops, the more products of labour become commodities, the more necessary becomes a <em>general</em> equivalent. In the beginnings of exchange each person exchanges what he does not need directly for what he does need. This becomes ever more difficult the more commodity production becomes the general form of social production. Let us assume, for example, that commodity production has already developed so far that tailoring, baking, butchery, and joinery form independent trades. The tailor sells a coat to the joiner. For the tailor the coat is a non-use-value, for the joiner a use-value. But the tailor has no need of the joiner's work. He already possesses enough furniture. The chairs and tables are non-use-values for the joiner, but also for the tailor. On the other hand, the tailor needs bread from the baker, meat from the butcher, for the times are past when he baked at home and fattened pigs. The meat and bread that the tailor needs are non-use-values for the butcher and baker, but the baker and butcher have at the moment no need of a coat; the tailor thus faces the danger of starving, even though he has found a buyer for his coat. What he needs is a commodity that serves as a general equivalent, that, as the immediate embodiment of <em>value,</em> has from the outset use-value for everyone.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dieselbe Entwicklung, welche dieses Aequivalent nothwendig macht, führt dessen Entstehung auch mit sich. Sobald verschiedene Waarenbesitzer verschiedene Artikel mit einander austauschten, mußte der Fall eintreten, daß mehrere der letzteren mit einer gemeinsamen Waarenart als Werthe verglichen wurden, daß sich also für sie ein gemeinsames Aequivalent fand. Anfangs diente eine Waare nur vorübergehend und zufällig als solches. Sobald es aber von Vortheil war, daß eine besondere Waare die allgemeine Aequivalentform annahm, mußte sich die Verbindung der Aequivalentform mit dieser Waare immer mehr befestigen. An welcher Waarenart die allgemeine Aequivalentform kleben blieb, das wurde durch die verschiedensten Umstände bestimmt. Schließlich sind es aber die <em>edlen Metalle</em> gewesen, die das Monopol errangen, als allgemeine Aequivalentform zu dienen, die <em>Geld</em> wurden. Zum Theil mag dies dadurch bewirkt worden sein, daß Schmuck und Schmuckmaterial von Anfang an wichtige Tauschartikel waren; hauptsächlich aber war dafür der Umstand entscheidend, daß die natürlichen Eigenschaften von Gold und Silber den gesellschaftlichen Funktionen (Verrichtungen) entsprechen, welche ein allgemeines Aequivalent zu versehen hat. Es sei hier nur auf die beiden Thatsachen hingewiesen, daß die edlen Metalle stets von gleicher Qualität sind und sich weder in der Luft noch im Wasser verändern, also praktisch unveränderlich sind, und daß sie nach Willkür getheilt und zusammengesetzt werden können. Sie einen sich daher sehr gut zur Verkörperung unterschiedsloser, allgemein menschlicher Arbeit, zur Darstellung von Werthgrößen, deren Unterschiede nur solche der Zahl (quantitative), nicht der Eigenschaften (qualitative) sind.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The same development that makes this equivalent necessary also brings about its emergence. As soon as different commodity owners exchanged different articles with one another, the case was bound to arise that several of the latter were compared as values with a common kind of commodity, so that a common equivalent was found for them. At first a commodity served as such only transiently and accidentally. But as soon as it was of advantage that a particular commodity should assume the general equivalent form, the connection of the equivalent form with this commodity was bound to become ever more firmly established. To which kind of commodity the general equivalent form remained attached was determined by the most varied circumstances. In the end, however, it was the <em>precious metals</em> that won the monopoly of serving as the general equivalent form, that became <em>money.</em> This may in part have been brought about by the fact that ornaments and ornamental material were from the beginning important articles of exchange; but the decisive circumstance was chiefly that the natural properties of gold and silver correspond to the social functions (performances) which a general equivalent has to fulfil. Let it here be pointed out only to the two facts that the precious metals are always of the same quality and do not alter either in air or in water, and are thus practically unalterable, and that they can be divided and combined at will. They therefore lend themselves very well to the embodiment of undifferentiated human labour in general, to the representation of magnitudes of value whose differences are only those of number (quantitative), not of properties (qualitative).</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Gold und Silber konnten das Monopol, als allgemeines Aequivalent zu dienen, nur erringen, weil sie den anderen Waaren als Waaren gegenübertraten. Sie konnten nur Geld werden, weil sie <em>Waare</em> waren. Das Geld ist weder die Erfindung eines oder mehrerer Menschen, noch ist es ein bloßes Werthzeichen. Der Werth des Geldes und seine bestimmten gesellschaftlichen Funktionen sind nicht etwas willkürlich Gemachtes. Die edlen Metalle wurden zur Geldwaare durch die Rolle, die sie als Waaren im Austauschprozeß spielten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Gold and silver could win the monopoly of serving as general equivalent only because they confronted the other commodities as commodities. They could become money only because they were <em>commodities.</em> Money is neither the invention of one or more men, nor is it a mere token of value. The value of money and its determinate social functions are not something arbitrarily made. The precious metals became the money-commodity through the role that they played as commodities in the process of exchange.</p>
+```
+
+:::
+
+:::
+
+## Notes / Anmerkungen
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f1" id="ab1-kap1-n1" name="ab1-kap1-n1">1.</a> Diese sind neuerdings auch in Broschürenform erschienen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f1" id="ab1-kap1-n1" name="ab1-kap1-n1">1.</a> These have recently also appeared in pamphlet form.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f2" id="ab1-kap1-n2" name="ab1-kap1-n2">2.</a> Richtiger hieße es wohl: sie sind in ihren Ansichten <em>wieder</em> kommunistisch geworden. Ursprünglich war die Haushaltung der Indianer eine kommunistische, also auch die Vertheilung des Ertrages der Jagd kommunistisch.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f2" id="ab1-kap1-n2" name="ab1-kap1-n2">2.</a> It would be more correct to say: they have <em>again</em> become communist in their views. Originally the household economy of the Indians was a communist one, and thus the distribution of the yield of the hunt was likewise communist.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f3" id="ab1-kap1-n3" name="ab1-kap1-n3">3.</a> „Die Form der Arbeit Vieler, die in demselben Produktionsprozeß oder in verschiedenen, aber zusammenhängenden Produktionsprozessen, planmäßig neben und mit einander arbeiten, heißt Kooperation“ (S. 823). Zehn Seiten später sagt Marx in einer Anmerkung: „Linguet in seiner <strong>Théorie des Lois civiles</strong> hat vielleicht nicht unrecht, wenn er die Jagd für die erste Form der Kooperation erklärt.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f3" id="ab1-kap1-n3" name="ab1-kap1-n3">3.</a> “The form of the labour of many who work in a planned manner alongside and with one another in the same production process, or in different but connected production processes, is called cooperation” (p. 823). Ten pages later Marx says in a note: “Linguet, in his <strong>Théorie des Lois civiles</strong>, is perhaps not wrong when he declares hunting to be the first form of cooperation.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f4" id="ab1-kap1-n4" name="ab1-kap1-n4">4.</a> Eine Reihe von Thatsachen beweist, daß die erste Entwicklung der Waarenproduktion thatsächlich in ähnlicher Weise vor sich gegangen, wie wir sie in den folgenden Zeilen schildern. Natürlich ist sie nicht so einfach erfolgt, wie hier angegeben, aber unsere Darstellung hat nicht den Zweck, die Geschichte der Waarenproduktion, sondern nur ihre besonderen <em>Eigenthümlichkeiten</em> zu zeigen, die am leichtesten erkannt werden durch Vergleichung mit anderen Produktionsweisen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f4" id="ab1-kap1-n4" name="ab1-kap1-n4">4.</a> A series of facts proves that the first development of commodity production actually took place in a manner similar to that which we describe in the following lines. Of course it did not proceed so simply as indicated here, but our account does not have the purpose of showing the history of commodity production, but only its particular <em>peculiarities</em>, which are most easily recognised through comparison with other modes of production.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f5" id="ab1-kap1-n5" name="ab1-kap1-n5">5.</a> <em>Aequus</em> (lateinisch) = gleich, <em>valere</em> = gelten, werth sein.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f5" id="ab1-kap1-n5" name="ab1-kap1-n5">5.</a> <em>Aequus</em> (Latin) = equal, <em>valere</em> = to be worth, to have value.</p>
+```
+
+:::
+
+:::
+

@@ -1,0 +1,540 @@
+---
+title: "Preface to the First Edition"
+subtitle: "Vorwort zur ersten Auflage"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quotec">Wer wird nicht einen Klopstock loben?<br/> Doch wird ihn jeder lesen? – Nein.<br/> Wir wollen weniger erhoben,<br/> und fleißiger gelesen sein.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quotec">Who will not praise a Klopstock?<br/> Yet will everyone read him? – No.<br/> We wish to be less exalted,<br/> and more diligently read.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Auf keinen der modernen Schriftsteller dürften diese Zeilen Lessing’s mit mehr Fug und Recht anzuwenden sein, als auf Marx. Schreiber Dieses ist durch seinen Beruf gezwungen, die neuere deutsche ökonomische Literatur zu verfolgen, und er hat gefunden, daß kein Name in ihr so häufig erwähnt wird, als der von Marx, dessen Lehren der Angelpunkt sind, um den sich die meisten ökonomischen Diskussionen der Neuzeit bewegen.Diese Thatsache erfüllt den Verfasser vorliegender Schrift jedoch keineswegs mit der Genugthuung, die man bei einem Angehörigen der Marx’schen „Schule“ erwarten sollte, wenn man von einer solchen sprechen darf, denn er hatte leider nur zu oft Gelegenheit, zu konstatiren, daß Diejenigen, die über Marx schrieben, seine Werke entweder gar nicht oder nur sehr flüchtig gelesen hatten. Rechnet man dazu, daß die meisten der Literaten und Gelehrten, die sich mit Marx beschäftigten, dies nicht zum Zweck objektiver, wissenschaftlicher Erkenntniß, sondern zur Erörterung bestimmter Augenblicks-Interessen thaten, dann wird man nicht überrascht sein, zu sehen, daß im Allgemeinen die ungereimtesten Ansichten in Betreff der Marx’schen Lehren im Umlauf sind.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">To none of the modern writers could these lines of Lessing be applied with more fitness and justice than to Marx. The writer of these lines is compelled by his profession to follow the more recent German economic literature, and he has found that no name is mentioned in it so frequently as that of Marx, whose doctrines are the pivot around which most of the economic discussions of modern times revolve. This fact, however, by no means fills the author of the present work with the satisfaction one might expect from an adherent of the Marxian “school,” if one may speak of such a thing, for he has unfortunately had only too often occasion to observe that those who wrote about Marx had either not read his works at all or only very cursorily. If one adds to this that most of the literary men and scholars who occupied themselves with Marx did so not for the purpose of objective, scientific understanding, but for the discussion of certain momentary interests, then one will not be surprised to see that in general the most absurd views concerning the Marxian doctrines are in circulation.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Es konnte nicht die Aufgabe von Marx sein, sich im Einzelnen mit der Widerlegung dieser irrthümlichen Auffassungen zu befassen. Seine einzelnen Lehren sind Theile eines festgefügten Systems und können nur verstanden werden in ihrem Zusammenhange; wer diesen nicht erkannt hat, wird bei der Auffassung der einzelnen Sätze stets an der Oberfläche haften bleiben. Irrthümliche Anschauungen konnten daher nicht mit einigen Worten beseitigt werden, sondern nur durch den Hinweis auf die Nothwendigkeit eines eingehenden Studiums der Marx’schen Schriften, oder durch eine umfassende Darlegung des Marx und Engels eigenthümlichen wissenschaftlichen Standpunkts. Eine solche besitzen wir in der That in der klassischen Polemik von Engels gegen Dühring, einem Buch, welches das Verständniß der Marx’schen Lehren mehr gefördert hat, als alle kurzen apodiktischen Aussprache von Marx darüber, wie er in Bezug auf diesen oder jenen Punkt verstanden sein wolle, vermocht hätten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>It could not be Marx’s task to concern himself in detail with the refutation of these erroneous conceptions. His individual doctrines are parts of a firmly constructed system and can only be understood in their interconnection; whoever has not recognised this will, in his conception of the individual propositions, always remain stuck at the surface. Erroneous views could therefore not be removed with a few words, but only by pointing to the necessity of a thorough study of the Marxian writings, or by a comprehensive exposition of the scientific standpoint peculiar to Marx and Engels. Such an exposition we in fact possess in the classic polemic of Engels against Dühring, a book which has done more to advance the understanding of the Marxian doctrines than all the brief apodictic pronouncements of Marx as to how he wished to be understood with respect to this or that point could have done.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In der deutschen Literatur fehlt jedoch noch eine Schrift, welche die ökonomischen Lehren von Marx kurz zusammenfaßt, allgemein verständlich darstellt und erläutert. Ansätze zu einer solchen Arbeit sind von verschiedenen Seiten gemacht worden, aber sie sind Fragmente geblieben.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In German literature, however, there is still lacking a work which briefly summarises, presents in a generally comprehensible manner, and explains the economic doctrines of Marx. Beginnings of such a work have been made from various quarters, but they have remained fragments.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Vorliegende Schrift macht den Versuch, die bestehende Lücke auszufüllen, oder wenigstens einen Beitrag zu ihrer Ausfüllung zu liefern.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The present work makes the attempt to fill the existing gap, or at least to furnish a contribution to its filling.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sie lehnt sich naturgemäß an das Hauptwerk von Marx, das <strong>Kapital</strong> an und folgt ihm in der Anordnung des Stoffes. Die anderen ökonomischen Schriften von Marx konnten nur hie und da herangezogen werden, zur Aufklärung schwieriger Stellen oder zu weiterer Ausführung des im <strong>Kapital</strong> Gegebenen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>It naturally leans upon the principal work of Marx, <strong>Capital</strong>, and follows it in the arrangement of the material. The other economic writings of Marx could only be drawn upon here and there, for the elucidation of difficult passages or for the further development of what is given in <strong>Capital</strong>.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Zweck der Darstellung geht in erster Linie dahin, solche, welche entweder nicht Zeit oder Mittel zum Studium des <strong>Kapital</strong> haben, mit dessen Gedankengang bekannt zu machen; der Verfasser hofft aber, daß seine Darstellung auch Manchen, die das <strong>Kapital</strong> besitzen, dessen Studium erleichtern, und daß sie endlich Viele veranlassen wird, das Originalwerk zu lesen, von dem sie sich entweder eine falsche Vorstellung gemacht, oder von dessen Studium sie die Schwierigkeiten des ersten Abschnittes abschreckten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The purpose of the exposition is in the first place to acquaint those who have either not the time or the means for the study of <strong>Capital</strong> with its train of thought; but the author hopes that his exposition will also facilitate the study of <strong>Capital</strong> for many who possess it, and that it will finally induce many to read the original work, of which they have either formed a false conception, or from the study of which the difficulties of the first section have deterred them.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nichts falscher, als die Ansicht von der trockenen und schwerverständlichen Schreibweise des <strong>Kapital</strong>. Der Verfasser kennt kein ökonomisches Werk, welches sich an Klarheit und Lebendigkeit der Darstellung, an mitunter wahrhaft klassischer Schönheit des Stils mit dem <strong>Kapital</strong> messen könnte.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Nothing is more false than the view of the dry and hard-to-understand manner of writing of <strong>Capital</strong>. The author knows no economic work which could measure itself against <strong>Capital</strong> in clarity and vividness of presentation, in the at times truly classical beauty of style.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Und doch ist es so schwer verständlich!</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>And yet it is so hard to understand!</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>An gewissen Stellen allerdings. Aber das ist nicht Schuld der Darstellung.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In certain passages, to be sure. But that is not the fault of the presentation.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Man glaubt gewöhnlich, daß die Nationalökonomie ein Wissensgebiet sei, das Jeder mir nichts, dir nichts, ohne die geringsten Vorkenntnisse verstehen könne. Sie ist aber eine Wissenschaft, und zwar eine der schwierigsten, denn es giebt kaum ein anderes Gebilde, das so komplizirt ist, wie die Gesellschaft. Allerdings, zum Verständniß jener Sammlung von Gemeinplätzen, die Marx Vulgärökonomie nennt, ist nicht mehr Wissen nothwendig, als jeder Mensch bei den geschäftlichen Vorgängen des täglichen Lebens von selbst erwirbt. Das Verständniß des <strong>Kapital</strong> von Marx, welches in der Form einer Kritik der politischen Oekonomie ein neues historisches und ökonomisches System begründet, setzt dagegen nicht nur ein gewisses historisches Wissen, sondern auch die Erkenntniß der Thatsachen voraus, welche die Entwicklung der Großindustrie bietet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>It is commonly believed that political economy is a field of knowledge that everyone can understand offhand, without the slightest preliminary knowledge. But it is a science, and indeed one of the most difficult, for there is scarcely any other structure that is so complicated as society. Certainly, for the understanding of that collection of commonplaces which Marx calls vulgar economics, no more knowledge is necessary than every person acquires of himself in the business transactions of daily life. The understanding of Marx’s <strong>Capital</strong>, however, which in the form of a critique of political economy founds a new historical and economic system, presupposes not only a certain historical knowledge, but also the knowledge of the facts which the development of large-scale industry offers.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wer nicht die Thatsachen mindestens theilweise kennt, aus denen Marx seine ökonomischen Gesetze abgeleitet, dem wird der Sinn dieser Gesetze allerdings dunkel bleiben, der mag über Mystizismus und Hegelianismus klagen. Die klarste Darstellung wird ihm nichts nützen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Whoever does not know, at least in part, the facts from which Marx derived his economic laws, will indeed find the meaning of these laws remaining obscure to him; he may complain of mysticism and Hegelianism. The clearest presentation will be of no use to him.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dies ist unseres Erachtens eine gefährliche Klippe für jeden Versuch, das <strong>Kapital</strong> zu popularisiren. Marx hat so populär geschrieben, als nur möglich. Wo er schwerverständlich war, lag die Schuld nicht an der Sprache, sondern am Gegenstand und am Leser. Uebersetzte man diese so schwerverständlich klingende Sprache ohne weiteres in eine leichtverständlich klingende, so konnte dies nur auf Kosten der Genauigkeit geschehen; die Popularisirung mußte zur Verflachung werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This is, in our estimation, a dangerous reef for every attempt to popularise <strong>Capital</strong>. Marx wrote as popularly as was at all possible. Where he was hard to understand, the fault lay not in the language, but in the subject and in the reader. If one translated this language, which sounds so hard to understand, straightaway into one that sounds easy to understand, this could only be done at the expense of accuracy; the popularisation would necessarily become a flattening.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Mit dieser Erkenntniß war für den Verfasser die Aufgabe gegeben. Sie lag nicht in einer bloßen Aenderung der Sprache. Marx hat, wie schon erwähnt, so populär und dabei so kurz und präzis geschrieben, daß ein Abweichen von seinen Worten oft sogar nur auf Kosten der Richtigkeit möglich gewesen wäre. Der Verfasser hat daher eine Reihe von Stellen aus den Marxschen Schriften wörtlich wiedergegeben. Sie sind durch Anführungszeichen kenntlich gemacht und stammen, wenn nicht eine andere Stelle angegeben, aus dem <strong>Kapital</strong>.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>With this recognition the task was set for the author. It did not lie in a mere alteration of the language. Marx has, as already mentioned, written so popularly and at the same time so briefly and precisely that a departure from his words would often have been possible only at the expense of correctness. The author has therefore reproduced a number of passages from the Marxian writings word for word. They are marked by quotation marks and, unless another source is indicated, are taken from <strong>Capital</strong>.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Aufgabe lag einestheils darin, den Leser auf die Thatsachen aufmerksam zu machen, die den theoretischen Ausführungen zu Grunde liegen. Dies war namentlich nothwendig im ersten Abschnitt. Marx hat auf diese Thatsachen meist selbst hingewiesen, aber oft nur mit Andeutungen, die in der Regel übersehen wurden. An anderen Stellen mußte sich der Verfasser erlauben, auf die Thatsachen auf eigene Verantwortung aufmerksam zu machen. Dies gilt namentlich im ersten Paragraphen des ersten Kapitels. Es konnte sich in vorliegender Arbeit nur um Hinweise handeln. Eine ausführliche Darstellung der dem <strong>Kapital</strong> zu Grunde liegenden Thatsachen würde nicht nur den zugemessenen Raum, sondern auch die Kräfte des Verfassers weit übersteigen; eine solche hieße nichts geringeres, als eine Entwicklungsgeschichte der Menschheit von der Urzeit an verfassen. Das <strong>Kapital</strong> ist ein wesentlich historisches Werk.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The task consisted, on the one hand, in drawing the reader's attention to the facts which underlie the theoretical expositions. This was especially necessary in the first section. Marx himself for the most part pointed to these facts, but often only with hints that were as a rule overlooked. In other places the author had to permit himself to draw attention to the facts on his own responsibility. This applies particularly in the first paragraph of the first chapter. In the present work only indications were possible. A detailed presentation of the facts underlying <strong>Capital</strong> would far exceed not only the space allotted but also the powers of the author; such a presentation would mean nothing less than composing a history of the development of humanity from primeval times onward. <strong>Capital</strong> is an essentially historical work.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In den Abschnitten, die von der modernen Industrie handeln, tritt dieser Charakter für Jedermann deutlich hervor. Sie enthalten nicht nur theoretische Ausführungen, sondern auch ausgedehnte historische Exkurse über Gegenstände, die bis dahin nur unvollständig oder gar nicht behandelt worden waren. In diesen Abschnitten sind die den theoretischen Ausführungen zu Grunde liegenden Thatsachen in solcher Fülle gegeben, daß deren Verständniß für jeden Denkenden ohne weitere Vorkenntnisse möglich war. Hier war die Aufgabe eine andere. Die Rücksichten auf den Raum erlaubten nur, das Wichtigste wiederzugeben. Es handelte sich nun darum, trotzdem den historischen Charakter der theoretischen Ausführungen zu wahren, die, wenn mit Weglassung der Mittelglieder gegeben, mitunter einen anderen Charakter erhielten und eine Behauptung als unbedingt erscheinen ließen, die nur unter gewissen historischen Voraussetzungen giltig ist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In the sections dealing with modern industry this character emerges clearly for everyone. They contain not only theoretical expositions but also extensive historical excursuses on subjects which until then had been treated only incompletely or not at all. In these sections the facts underlying the theoretical expositions are given in such abundance that their understanding was possible for any thinking person without further prior knowledge. Here the task was a different one. Considerations of space allowed only the most important matters to be reproduced. The point now was nonetheless to preserve the historical character of the theoretical expositions, which, when given with the omission of the intermediate links, sometimes acquired a different character and made a claim appear absolute that is valid only under certain historical presuppositions.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Vorliegende Arbeit soll nicht nur eine Darstellung der Marx’schen Lehren, sondern auch ein Leitfaden zu dem Studium der Marx’schen Werke im Original sein. Der Verfasser hielt sich daher für berechtigt, Stellen, die bisher seines Erachtens zu wenig beachtet worden, oder bei denen leicht Mißverständnisse eintraten, eingehender zu behandeln, als ihrer Bedeutung für die theoretische Entwicklung entspricht; er glaubte dagegen bei anderen Stellen kürzer verweilen zu dürfen, wenn sie bereits allgemein bekannt und anerkannt sind und ein Mißverständniß nicht befürchtet zu werden braucht. Um den praktischen Werth des Büchleins zu erhöhen, wurde die Darstellung der thatsächlichen Verhältnisse z. B. bei der Fabrikgesetzgebung, mehrfach über den von Marx behandelten Zeitpunkt hinaus bis zur neuesten Zeit fortgeführt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The present work is intended to be not only a presentation of Marx's doctrines but also a guide to the study of Marx's works in the original. The author therefore considered himself justified in treating passages that in his view had hitherto received too little attention, or in which misunderstandings easily arose, more thoroughly than corresponds to their significance for the theoretical development; on the other hand he believed he might dwell more briefly on other passages if they were already generally known and recognised and no misunderstanding need be feared. In order to enhance the practical value of the little book, the presentation of the actual conditions, for example in the case of factory legislation, was in several instances carried forward beyond the point in time treated by Marx up to the most recent period.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Marx eigenthümlichen Benennungen der einzelnen Kategorien sind beibehalten, Fremdworte jedoch so wenig als möglich gebraucht worden. Völlig ließen sie sich freilich nicht vermeiden. Das deutsche Volk hat seine Kultur und Wissenschaft nicht aus sich allein entwickelt, es hat viele Begriffe, ja ganze Wissenszweige und damit auch eine Reihe von Benennungen von anderen Nationen übernommen. So kommt es, daß wir eine Menge von Fremdworten gebrauchen, die entweder nur auf Kosten der Schärfe und Gedrungenheit des Ausdrucks oder gar nicht ersetzbar sind. Die Uebersetzung in Klammern dem Fremdwort beizufügen, ist eine Praxis, für die der Verfasser sich nicht erwärmen kann. Giebt es ein ganz entsprechendes deutsches Wort für das fremde, dann gebrauche man jenes von vorneherein. Giebt es ein solches nicht, dann kann auch die Uebersetzung nicht viel nützen. Es ist in solchen Fällen Aufgabe der Darstellung, das Fremdwort in einem solchen Zusammenhange zu bringen, daß es einem denkenden Leser nicht schwer fällt, seinen Sinn zu entnehmen. Nur wo seltenere Fremdworte im Text zum erstenmale gebraucht werden, hat der Verfasser die wirkliche Uebersetzung oder das nächstkommende deutsche Wort in Klammern beigefügt, um das Verständniß des fremden Wortes zu erleichtern, ohne daß er glaubt, mit dem deutschen Wort den Begriff des fremden völlig zu umfassen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The designations peculiar to Marx for the individual categories have been retained, but foreign words have been used as little as possible. Entirely avoiding them was of course impossible. The German people has not developed its culture and science out of itself alone; it has taken over many concepts, indeed whole branches of knowledge and with them a number of designations, from other nations. Thus it comes about that we use a multitude of foreign words which are either replaceable only at the cost of the sharpness and terseness of the expression or not replaceable at all. Adding the translation in parentheses to the foreign word is a practice for which the author cannot warm himself. If there is a fully corresponding German word for the foreign one, then let one use the former from the outset. If there is no such word, then the translation cannot be of much use either. In such cases it is the task of the presentation to place the foreign word in such a context that it is not difficult for a thinking reader to grasp its sense. Only where rarer foreign words are used in the text for the first time has the author added in parentheses the actual translation or the nearest German word, in order to facilitate the understanding of the foreign word, without believing that the German word fully encompasses the concept of the foreign one.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>An Vorarbeiten konnte der Verfasser nur wenig benutzen. Hervorzuheben ist jedoch der französische Kapitalauszug von Deville <a href="#vorwort1-n1" id="vorwort1-f1" name="vorwort1-f1">[1]</a>, der dem Verfasser sehr zu statten kam. An dieser Stelle fühlt er sich auch verpflichtet, seinen Dank abzustatten für die liebenswürdige Bereitwilligkeit, mit der Deville zu Gunsten der vorliegenden Arbeit auf die Herausgabe einer deutschen Uebersetzung seiner Schrift verzichtete.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Of preparatory works the author was able to make use of only few. Worthy of mention, however, is the French epitome of Capital by Deville <a href="#vorwort1-n1" id="vorwort1-f1" name="vorwort1-f1">[1]</a>, which stood the author in very good stead. At this point he also feels obliged to render his thanks for the kind readiness with which Deville, in favour of the present work, renounced the publication of a German translation of his own writing.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Besondere Förderung erfuhr vorliegende Arbeit durch die freundschaftliche Theilnahme und Mitarbeiterschaft Eduard Bernstein’s, der sich nicht auf Anregungen und Hinweise, sowie eine kritische Durchsicht des Manuskripts beschränkte, sondern verschiedene Kapitel selbständig bearbeitete. So rührt z. B. das große und wichtige Kapitel über die Großindustrie (im 2. Abschnitt) fast völlig von ihm her.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The present work received special furtherance through the friendly participation and collaboration of Eduard Bernstein, who did not confine himself to suggestions and hints, as well as a critical review of the manuscript, but independently worked out various chapters. Thus, for example, the large and important chapter on large-scale industry (in the second section) derives almost entirely from him.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Diese Förderung und Unterstützung erkennt der Verfasser um so dankbarer an, je mehr er sich der Schwierigkeit seiner Aufgabe bewußt ist. Für die volksthümlichen Darstellungen großer origineller Geisteswerke gilt dasselbe, was Lessing den Prinzen Conti von der Malerei sagen läßt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This furtherance and support the author acknowledges all the more gratefully the more he is conscious of the difficulty of his task. For the popular presentations of great original works of the mind the same holds true which Lessing has Prince Conti say of painting.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„Ha! Daß wir nicht unmittelbar mit den Augen malen können! Auf dem langen Wege aus dem Auge durch den Arm in den Pinsel, wie viel geht da verloren!“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">"Ha! That we cannot paint directly with the eyes! On the long way out of the eye through the arm into the brush, how much is lost there!"</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wenn zwei Maler genau den gleichen Gegenstand malen, so wird er auf jedem der beiden Bilder anders aussehen. Was der eine sieht, wird der andere übersehen; was dein einen bedeutsam erscheint, wird der andere nebensächlich behandeln: und was sie verschiedenartig gesehen, wird wieder verschiedenartig wiedergegeben. Das getreue Erfasseu des Origiuals ist schwer; es getreu wiederzugeben, ist noch schwerer.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">If two painters paint exactly the same object, it will look different in each of the two pictures. What the one sees, the other will overlook; what seems significant to the one, the other will treat as incidental: and what they have seen in different ways will again be rendered in different ways. The faithful grasping of the original is difficult; to render it faithfully is still more difficult.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Was der Verfasser hier giebt, ist nicht eine Photographie des <strong>Kapital</strong>, die das Original in verkleinertem Maßstab, Linie um Linie völlig getreu, aber farblos wiedergiebt, sondern ein Bild mit subjektivem Kolorit und subjektiver Zeichnung.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>What the author gives here is not a photograph of <strong>Capital</strong>, which reproduces the original on a reduced scale, line by line completely faithfully but colourlessly, but rather a picture with a subjective colouring and a subjective drawing.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ist auch, um Schwerfälligkeiten zu vermeiden, die Darstellung oft eine apodiktische, so bitten wir den Leser, doch stets im Auge zu behalten, daß es nicht Marx, sondern der Verfasser ist, der zu ihm spricht, der ihm über die ökonomischen Lehren von Marx berichtet. Man mag dies für eine bescheidene Aufgabe halten. Der Schreiber dieser Zeilen wird sich jedoch hochbefriedigt fühlen, wenn sie ihm gelungen, wenn er sein Scherflein beigetragen zur Verbreitung der Wahrheiten, die ein rastloser Forscher, ein gründlicher Gelehrter, ein großer Denker als Frucht der Arbeit seines ganzen Lebens zu Tage gefördert.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Even if, in order to avoid ponderousness, the presentation is often an apodictic one, we ask the reader nevertheless always to bear in mind that it is not Marx but the author who is speaking to him, who is reporting to him on the economic doctrines of Marx. One may regard this as a modest task. The writer of these lines will, however, feel highly satisfied if it has succeeded for him, if he has contributed his mite to the dissemination of the truths which a tireless researcher, a thorough scholar, a great thinker brought to light as the fruit of the labour of his whole life.</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">London, im Oktober 1886<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">London, October 1886<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+</div>
+```
+
+:::
+
+## Notes / Anmerkungen
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#vorwort1-f1" id="vorwort1-n1" name="vorwort1-n1">1.</a> Gabriel Deville, <strong>Le Capital par Carl Marx, résumé et accompagné d’un Aperçu sur le Socialisme scientifique</strong>, Paris, Henry Oriol, 824 S. Frs. 8.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#vorwort1-f1" id="vorwort1-n1" name="vorwort1-n1">1.</a> Gabriel Deville, <strong>Le Capital par Carl Marx, résumé et accompagné d'un Aperçu sur le Socialisme scientifique</strong>, Paris, Henry Oriol, 824 pp. Frs. 8.</p>
+```
+
+:::
+
+:::
+

@@ -120,6 +120,118 @@ website:
                   href: erfurter-programm/chapters/ch5.qmd#the-internationality-of-social-democracy
                 - text: "14. Social Democracy and the People"
                   href: erfurter-programm/chapters/ch5.qmd#social-democracy-and-the-people
+    - id: oekonomische-lehren
+      title: "The Economic Doctrines of Karl Marx"
+      style: docked
+      contents:
+        - oekonomische-lehren/index.qmd
+        - section: "Text"
+          contents:
+            - oekonomische-lehren/chapters/vorwort1.qmd
+            - oekonomische-lehren/chapters/vorwort4.qmd
+            - oekonomische-lehren/chapters/vorwort8.qmd
+            - section: "Part I. Commodity, Money, Capital"
+              contents:
+                - section: "Chapter 1. The Commodity"
+                  href: oekonomische-lehren/chapters/ab1-kap1.qmd
+                  contents:
+                    - text: "1. The Character of Commodity Production"
+                      href: oekonomische-lehren/chapters/ab1-kap1.qmd#the-character-of-commodity-production
+                    - text: "2. Value"
+                      href: oekonomische-lehren/chapters/ab1-kap1.qmd#value
+                    - text: "3. The Exchange Value"
+                      href: oekonomische-lehren/chapters/ab1-kap1.qmd#the-exchange-value
+                    - text: "4. The Exchange of Commodities"
+                      href: oekonomische-lehren/chapters/ab1-kap1.qmd#the-exchange-of-commodities
+                - section: "Chapter 2. Money"
+                  href: oekonomische-lehren/chapters/ab1-kap2.qmd
+                  contents:
+                    - text: "1. The Price"
+                      href: oekonomische-lehren/chapters/ab1-kap2.qmd#the-price
+                    - text: "2. Sale and Purchase"
+                      href: oekonomische-lehren/chapters/ab1-kap2.qmd#sale-and-purchase
+                    - text: "3. The Circulation of Money"
+                      href: oekonomische-lehren/chapters/ab1-kap2.qmd#the-circulation-of-money
+                    - text: "4. Coin. Paper Money"
+                      href: oekonomische-lehren/chapters/ab1-kap2.qmd#coin.-paper-money
+                    - text: "5. Further Functions of Money"
+                      href: oekonomische-lehren/chapters/ab1-kap2.qmd#further-functions-of-money
+                - section: "Chapter 3. The Transformation of Money into Capital"
+                  href: oekonomische-lehren/chapters/ab1-kap3.qmd
+                  contents:
+                    - text: "1. What is Capital?"
+                      href: oekonomische-lehren/chapters/ab1-kap3.qmd#what-is-capital
+                    - text: "2. The Source of Surplus Value"
+                      href: oekonomische-lehren/chapters/ab1-kap3.qmd#the-source-of-surplus-value
+                    - text: "3. Labour-power as a Commodity"
+                      href: oekonomische-lehren/chapters/ab1-kap3.qmd#labour-power-as-a-commodity
+            - section: "Part II. Surplus Value"
+              contents:
+                - oekonomische-lehren/chapters/ab2-kap01.qmd
+                - oekonomische-lehren/chapters/ab2-kap02.qmd
+                - oekonomische-lehren/chapters/ab2-kap03.qmd
+                - oekonomische-lehren/chapters/ab2-kap04.qmd
+                - oekonomische-lehren/chapters/ab2-kap05.qmd
+                - oekonomische-lehren/chapters/ab2-kap06.qmd
+                - oekonomische-lehren/chapters/ab2-kap07.qmd
+                - oekonomische-lehren/chapters/ab2-kap08.qmd
+                - section: "Chapter 9. Division of Labour and Manufacture"
+                  href: oekonomische-lehren/chapters/ab2-kap09.qmd
+                  contents:
+                    - text: "1. The Twofold Origin of Manufacture"
+                      href: oekonomische-lehren/chapters/ab2-kap09.qmd#the-twofold-origin-of-manufacture.-its-elements-the-detail-worker-and-his-tool
+                    - text: "2. The Two Basic Forms in Manufacture"
+                      href: oekonomische-lehren/chapters/ab2-kap09.qmd#the-two-basic-forms-in-manufacture
+                - section: "Chapter 10. Machinery and Large-Scale Industry"
+                  href: oekonomische-lehren/chapters/ab2-kap10.qmd
+                  contents:
+                    - text: "1. The Development of Machinery"
+                      href: oekonomische-lehren/chapters/ab2-kap10.qmd#the-development-of-machinery
+                    - text: "2. The Transfer of Value from the Machinery to the Product"
+                      href: oekonomische-lehren/chapters/ab2-kap10.qmd#the-transfer-of-value-from-the-machinery-to-the-product
+                    - text: "3. The Immediate Effects of Machine-based Operation on the Workers"
+                      href: oekonomische-lehren/chapters/ab2-kap10.qmd#the-immediate-effects-of-machine-based-operation-on-the-workers
+                    - text: "4. The Machine as the Worker’s “Educator”"
+                      href: oekonomische-lehren/chapters/ab2-kap10.qmd#the-machine-as-the-workers-educator
+                    - text: "5. The Machine and the Labour Market"
+                      href: oekonomische-lehren/chapters/ab2-kap10.qmd#the-machine-and-the-labour-market
+                    - text: "6. The Machine as a Revolutionary Agent"
+                      href: oekonomische-lehren/chapters/ab2-kap10.qmd#the-machine-as-a-revolutionary-agent
+            - section: "Part III. Wages and the Income of Capital"
+              contents:
+                - section: "Chapter 1. The Wage of Labour"
+                  href: oekonomische-lehren/chapters/ab3-kap1.qmd
+                  contents:
+                    - text: "1. Changes in the Magnitude of the Price of Labour-Power and Surplus Value"
+                      href: oekonomische-lehren/chapters/ab3-kap1.qmd#changes-in-the-magnitude-of-the-price-of-labour-power-and-surplus-value
+                    - text: "2. The Transformation of the Price of Labour-Power into Wages"
+                      href: oekonomische-lehren/chapters/ab3-kap1.qmd#the-transformation-of-the-price-of-labour-power-into-wages
+                    - text: "3. Time-Wages"
+                      href: oekonomische-lehren/chapters/ab3-kap1.qmd#time-wages
+                    - text: "4. Piece Wages"
+                      href: oekonomische-lehren/chapters/ab3-kap1.qmd#piece-wages
+                    - text: "5. National Differences in Wages"
+                      href: oekonomische-lehren/chapters/ab3-kap1.qmd#national-differences-in-wages
+                - oekonomische-lehren/chapters/ab3-kap2.qmd
+                - oekonomische-lehren/chapters/ab3-kap3.qmd
+                - section: "Chapter 4. The Transformation of Surplus Value into Capital"
+                  href: oekonomische-lehren/chapters/ab3-kap4.qmd
+                  contents:
+                    - text: "1. How Surplus Value Becomes Capital"
+                      href: oekonomische-lehren/chapters/ab3-kap4.qmd#how-surplus-value-becomes-capital
+                    - text: "2. The Abstinence of the Capitalist"
+                      href: oekonomische-lehren/chapters/ab3-kap4.qmd#the-abstinence-of-the-capitalist
+                    - text: "3. The Abstinence of the Worker"
+                      href: oekonomische-lehren/chapters/ab3-kap4.qmd#the-abstinence-of-the-worker-and-other-circumstances-that-influence-the-beginning-of-accumulation
+                - section: "Chapter 5. Over-Population"
+                  href: oekonomische-lehren/chapters/ab3-kap5.qmd
+                  contents:
+                    - text: "1. The “Iron Law of Wages”"
+                      href: oekonomische-lehren/chapters/ab3-kap5.qmd#the-iron-law-of-wages
+                    - text: "2. The Industrial Reserve Army"
+                      href: oekonomische-lehren/chapters/ab3-kap5.qmd#the-industrial-reserve-army
+                - oekonomische-lehren/chapters/ab3-kap6.qmd
+                - oekonomische-lehren/chapters/ab3-kap7.qmd
 
 format:
   html:

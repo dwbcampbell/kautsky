@@ -1,0 +1,138 @@
+---
+title: "Preface to the Fourth Edition"
+subtitle: "Vorwort zur vierten Auflage"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Seit dem Erscheinen der ersten Auflage dieser Schrift haben sich einige der thatsächlichen Verhältnisse sehr geändert, auf die zur Illustrirung der theoretischen Ausführungen Bezug genommen wurde. Wir ergriffen daher gern die Gelegenheit, die uns vorliegende Neuauflage bot, Veraltetes auszuscheiden und die neueste Entwicklung zu berücksichtigen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Since the appearance of the first edition of this work, some of the actual conditions to which reference was made in order to illustrate the theoretical arguments have changed considerably. We therefore gladly seized the opportunity offered to us by the new edition now before us to eliminate what had become outdated and to take account of the most recent development.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Auch stilistisch wurde die Schrift revidirt und verschiedene Stellen, die uns bei dieser Prüfung etwas schwer verständlich erschienen, wurden klarer gefaßt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The work has also been revised stylistically, and various passages that seemed to us somewhat difficult to understand upon this examination have been formulated more clearly.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Außer diesen Aeußerlichkeiten haben wir nichts zu ändern gefunden. Das Buch ist im Wesentlichen dasselbe geblieben.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Apart from these external matters, we have found nothing to change. The book has remained essentially the same.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sein Hauptzweck ging ursprünglich blos dahin, dem deutschsprechenden Theil des Proletariats das Studium der Marxschen Lehren zu erleichtern. Wir haben jedoch mit Freuden gesehen, daß es auch ein Mittel geworden ist, nichtdeutschen Nationen, die aus dem einen oder andern Grunde einer Uebersetzung des Marx’schen <strong>Kapital</strong> noch nicht theilhaftig geworden sind, dessen Inhalt wenigstens einigermaßen zugänglich zu machen. Vorliegende Schrift ist übersetzt worden ins <em>Schwedische, Tschechische</em> und <em>Polnische.</em> Weitere Uebersetzungen werden vorbereitet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Its main purpose was originally merely to make the study of the Marxian doctrines easier for the German-speaking part of the proletariat. We have, however, seen with joy that it has also become a means of making its content at least to some extent accessible to non-German nations which, for one reason or another, have not yet come to possess a translation of Marx's <strong>Capital</strong>. The present work has been translated into <em>Swedish, Czech</em> and <em>Polish.</em> Further translations are in preparation.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Diese Uebersetzungen sind eines der vielen Symptome des Interesses, das gegenwärtig die Proletarier aller Länder den Marx’schen Lehren entgegenbringen, der Bedeutung, welche die Ideen des Stifters der „Internationale“ für das internationale kämpfende Proletariat gewonnen haben.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>These translations are one of the many symptoms of the interest which the proletarians of all countries at present bring to the Marxian doctrines, of the significance which the ideas of the founder of the "International" have gained for the international militant proletariat.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Eine neue internationale Arbeiterassoziation ist im Erstehen, weit mächtiger und gewaltiger, als die frühere gewesen. Keine Organisation vereinigt sie. Das materielle Band, das sie zusammenhält, ist das gemeinsame Interesse der Proletarier in den verschiedenen Ländern der kapitalistischen Produktion; das geistige Band, das sie einigt, ist – das kann man wohl ohne Uebertreibung sagen – der Ideengehalt des <strong>Kapital</strong>. Möge vorliegende Schrift auch ihren kleinen Theil beitragen zur Vereinigung der Proletarier aller Länder durch dieses geistige Band.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>A new international workers' association is arising, far more powerful and mighty than the earlier one was. No organisation unites it. The material bond that holds it together is the common interest of the proletarians in the various countries of capitalist production; the intellectual bond that unites it is—this can surely be said without exaggeration—the content of ideas of <strong>Capital</strong>. May the present work also contribute its small part to the union of the proletarians of all countries through this intellectual bond.</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">Stuttgart, im Oktober 1892<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">Stuttgart, October 1892<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+</div>
+```
+
+:::
+

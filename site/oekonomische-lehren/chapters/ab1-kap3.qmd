@@ -1,0 +1,897 @@
+---
+title: "Chapter 3. The Transformation of Money into Capital"
+subtitle: "3. Kapitel. Die Verwandlung von Geld in Kapital"
+---
+
+##### 1. What is Capital?
+
+<p class="de-subtitle">1. Was ist Kapital?</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir haben im zweiten Kapitel die Entwicklung der Waarenzirkulation aus dem Produktenaustausch verfolgt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">In the second chapter we traced the development of the circulation of commodities out of the exchange of products.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Gehen wir jetzt einen Schritt weiter. Unter der einfachen Waarenzirkulation verkauft der Waarenbesitzer seine Waaren, um andere zu kaufen. Aber mit der Zeit entwickelt sich aus dieser Form der Zirkulation der Waaren eine neue Bewegungsform: kaufen, um zu verkaufen. Die Formel der einfachen Waarenzirkulation lautet, wie wir wissen, Waare—Geld—Waare; die Formel der neuen Zirkulationsform lautet Geld—Waare—Geld.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us now take a step further. In simple commodity circulation the commodity owner sells his commodities in order to buy others. But in time there develops out of this form of the circulation of commodities a new form of movement: buying in order to sell. The formula of simple commodity circulation runs, as we know, Commodity—Money—Commodity; the formula of the new form of circulation runs Money—Commodity—Money.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Vergleichen wir beide Formeln miteinander.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us compare the two formulae with one another.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Bewegung Waare—Geld—Waare hat zum Ziel den <em>Konsum.</em> Ich verkaufe eine Waare, die Nichtgebrauchswerth für mich, um andere erlangen zu können, die für mich Gebrauchswerthe darstellen. Der Kreislauf Waare—Geld—Waare ist ein in sich abgeschlossener. Das im Verkauf gelöste Geld wird in eine Waare verwandelt, die konsumirt wird, die aus der Zirkulation fällt. Das Geld selbst ist ein für alle Mal ausgegeben, es entfernt sich in seinem Lauf von seinem früheren Besitzer. Die Waare, mit der der Kreislauf endete, ist unter den für die einfache Waarenzirkulation normalen Umständen, und nur um solche kann es sich hier handeln, an Werth gleich derjenigen, mit welcher der Kreislauf begann.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The movement Commodity—Money—Commodity has as its goal <em>consumption.</em> I sell a commodity which is a non-use-value for me, in order to be able to obtain others which represent use-values for me. The circuit Commodity—Money—Commodity is one that is complete in itself. The money realised in the sale is transformed into a commodity which is consumed, which drops out of circulation. The money itself is spent once and for all, in its course it moves away from its former owner. The commodity with which the circuit ends is, under the circumstances normal for simple commodity circulation—and here it can only be a question of such circumstances—equal in value to the one with which the circuit began.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Anders der Kreislauf Geld—Waare—Geld. Dieser hat nicht den Konsum zum Zweck; was am Schluß des Kreislaufs steht, ist nicht Waare, sondern Geld. Das Geld, das in dessen Beginn in die Zirkulation geworfen worden, ist nicht ausgegeben, sondern blos <em>vorgeschossen.</em> Es kehrt wieder zu seinem ursprünglichen Besitzer zurück. Der Kreislauf selbst ist kein in sich abgeschlossener, er treibt über sich selbst hinaus; das Geld, das vorgeschossen worden, kehrt zurück, um wieder von Neuem in die Zirkulation geworfen zu werden und wieder zurückzukehren, damit sich das Spiel endlos wiederhole. Die Bewegung des Geldes, die durch den Kreislauf Geld—Waare—Geld erzeugt wird, ist eine maßlose.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Different is the circuit Money—Commodity—Money. This does not have consumption as its purpose; what stands at the close of the circuit is not commodity, but money. The money that was thrown into circulation at its beginning is not spent, but merely <em>advanced.</em> It returns again to its original owner. The circuit itself is not one complete in itself, it drives beyond itself; the money that has been advanced returns in order to be thrown anew into circulation and to return again, so that the game repeats itself endlessly. The movement of money produced by the circuit Money—Commodity—Money is a boundless one.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Welches ist aber die Triebkraft dieser Bewegung? Der Beweggrund des Kreislaufs Waare—Geld—Waare ist klar; erscheint dagegen der Kreislauf Geld—Waare—Geld nicht sinnlos? Wenn ich eine Bibel verkaufe, um mir für den Erlös Brot zu kaufen, so ist die Waare am Ende des Kreislaufs eine <em>andere,</em> als die am Anfang, wenn auch ihr Werth derselbe. Die eine stillt meinen geistigen Hunger, nützt mir aber sehr wenig, wenn dieser gestillt ist, wenn ich z. B. die Bibel auswendig kenne, aber keine Mittel besitze, meinen leiblichen Hunger zu stillen. Wenn ich aber für 100 Mark Kartoffeln kaufe, um sie wieder für 100 Mark zu verkaufen, so bin ich am Ende so weit, wie am Anfang; der ganze Vorgang hat weder Zweck noch Vortheil. Ein solcher läge nur darin, wenn die Geldsumme am Ende der Transaktion eine andere wäre, als die am Anfang. Eine Geldsumme unterscheidet sich aber von der anderen nur durch ihre <em>Größe.</em> Der Kreislauf Geld—Waare—Geld hat also nur dann einen Zweck, wenn die Geldsumme, mit der er endet, eine größere ist, als die, mit der er beginnt. Und diese Vermehrung der Geldsummen ist denn auch in der That das treibende Motiv des Kreislaufs. Wer kauft, um zu verkaufen, kauft, um theurer zu verkaufen. Der Kreislauf Geld—Waare—Geld verläuft nur normal, wenn die Geldsumme am Ende eine größere ist, wie zu dessen Beginn. Der Kreislauf Waare—Geld—Waare geht hingegen, wie wir wissen, nur dann normal vor sich, wenn der Werth der Waare, mit der er schließt, der gleiche, wie der der Waare, mit der er beginnt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But what is the driving force of this movement? The motive of the circuit Commodity—Money—Commodity is clear; does not, by contrast, the circuit Money—Commodity—Money appear senseless? If I sell a Bible in order to buy bread for myself with the proceeds, then the commodity at the end of the circuit is a <em>different</em> one from that at the beginning, even if its value is the same. The one stills my spiritual hunger, but is of very little use to me once this is stilled—if, for example, I know the Bible by heart but possess no means of stilling my bodily hunger. But if I buy potatoes for 100 marks in order to sell them again for 100 marks, then at the end I am exactly where I was at the beginning; the whole process has neither purpose nor advantage. Such an advantage would lie only in the money sum at the end of the transaction being a different one from that at the beginning. But one money sum differs from another only by its <em>magnitude.</em> The circuit Money—Commodity—Money therefore has a purpose only when the money sum with which it ends is a greater one than that with which it begins. And this increase of the money sums is indeed in fact the driving motive of the circuit. He who buys in order to sell buys in order to sell dearer. The circuit Money—Commodity—Money proceeds normally only when the money sum at the end is a greater one than at its beginning. The circuit Commodity—Money—Commodity, on the other hand, as we know, proceeds normally only when the value of the commodity with which it closes is the same as that of the commodity with which it begins.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Jeder Kauf ist ein Verkauf und umgekehrt. Der Kreislauf Geld—Waare—Geld scheint daher auf dasselbe hinauszulaufen, wie der Kreislauf Waare—Geld—Waare. Wir sehen aber jetzt schon, daß beide Kreisläufe von einander <em>wesentlich</em> verschieden sind.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Every purchase is a sale and vice versa. The circuit Money—Commodity—Money therefore seems to amount to the same thing as the circuit Commodity—Money—Commodity. But we already see now that the two circuits are <em>essentially</em> different from one another.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wenn ich, um bei unserem Beispiel zu bleiben, Kartoffelm um 100 Mark kaufe, um sie wieder zu verkaufen, so thue ich das mit der Absicht, sie theurer zu verkaufen, vielleicht um 110 Mark, d. h. 100 + 10 Mark, also, allgemein gesprochen, um eine Summe, gleich der ursprünglichen, vermehrt um einen Zusatz. Bezeichnen wir die Waare mit <em>W</em>, die ursprüngliche Geldsumme mit <em>G</em>, die zusätzliche Geldsumme mit <em>g</em>, so können wir die vollständige Formel in folgender Weise darstellen:</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If, to stay with our example, I buy potatoes for 100 marks in order to sell them again, then I do so with the intention of selling them dearer, perhaps for 110 marks, that is, 100 + 10 marks, hence, generally speaking, for a sum equal to the original one, increased by an addition. If we designate the commodity by <em>W</em>, the original money sum by <em>G</em>, the additional money sum by <em>g</em>, then we can represent the complete formula in the following way:</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="c"><em>G—W—(G + g)</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="c"><em>G—W—(G + g)</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Dieses <em>g</em>, den zusätzlichen Werth, der über den ursprünglich vorgeschossenen Werth am Ende dieses Kreislaufs zu Tage tritt, nennt Marx den <em>Mehrwerth.</em> Dieser ist mit seinen <em>Erscheinungsformen,</em> Profit, Zins u. s. w., ebensowenig zu verwechseln, als der Werth mit dem Preis. Es handelt sich bisher in unserer Darstellung noch vielfach nur um die <em>Grundlagen,</em> nicht um die <em>Erscheinungsformen</em> der ökonomischen Kategorien. Dies, um Mißverständnisse zu vermeiden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">This <em>g</em>, the additional value which appears over and above the value originally advanced at the end of this circuit, Marx calls <em>surplus value.</em> This is no more to be confused with its <em>forms of appearance</em>—profit, interest, and so on—than value is to be confused with price. In our exposition it is still, in many cases, a question so far only of the <em>foundations</em>, not of the <em>forms of appearance</em>, of the economic categories. This, in order to avoid misunderstandings.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Mehrwerth bildet die bestimmende Eigenthümlichkeit des Kreislaufs <em>G—W—(G + g).</em> Der Werth, der sich in dieser Form des Kreislaufs bewegt, erhält durch den Mehrwerth selbst einen neuen Charakter, er wird – <em>Kapital.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Surplus value constitutes the determining peculiarity of the circuit <em>G—W—(G + g).</em> The value that moves in this form of the circuit obtains through surplus value itself a new character, it becomes – <em>capital.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nur in dieser <em>Bewegung</em> kann das Kapital begriffen werden. Es ist <em>Mehrwerth heckender Werth.</em> Wer von dieser Bewegung absieht, und das Kapital als ruhendes Ding erfassen will, wird stets auf Widersprüche stoßen. Daher die Konfusion in den herkömmlichen Lehrbüchern über den Begriff des Kapitals, über die Frage, welche <em>Dinge</em> als Kapital aufzufassen sind. Der eine definirt es als Werkzeug – da kommen wir zum Kapitalisten der Steinzeit, ja, der Affe, der mit einem Stein Nüsse aufschlägt, ist auch schon Kapitalist; ebenso wird der Stock des Vagabunden, mit dem dieser Früchte vom Baum schlägt, zum Kapital, der Vagabund selbst zum Kapitalisten. Andere definiren das Kapital als aufgespeicherte Arbeit, wodurch Hamstern und Ameisen die Ehre zu Theil wird, als Kollegen von Rothschild, Bleichröder und Krupp zu figuriren. Einige Oekonomen gar haben Alles, was die Arbeit fördert und produktiver macht, zum Kapital gerechnet, den Staat, das Wissen des Menschen, seine Seele.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Only in this <em>movement</em> can capital be grasped. It is <em>value that breeds surplus value.</em> Whoever disregards this movement and wishes to grasp capital as a thing at rest will always run into contradictions. Hence the confusion in the customary textbooks concerning the concept of capital, concerning the question which <em>things</em> are to be conceived as capital. One defines it as a tool—then we arrive at the capitalist of the Stone Age; indeed, the ape that cracks nuts with a stone is already a capitalist too; likewise the stick of the vagabond, with which he knocks fruit from the tree, becomes capital, and the vagabond himself a capitalist. Others define capital as accumulated labour, whereby hamsters and ants are granted the honour of figuring as colleagues of Rothschild, Bleichröder and Krupp. Some economists have even reckoned everything that furthers labour and makes it more productive as capital—the state, the knowledge of man, his soul.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Es ist klar, daß solche allgemeine Definitionen nur zu Gemeinplätzen führen, die in Kinderfibeln ganz erbaulich zu lesen sind, jedoch unsere Erkenntniß der menschlichen Gesellschaftsformen, ihrer Gesetze und Triebfedern, nicht im mindesten fördern. Erst Marx hat den Gemeinplatz aus der politischen Oekonomie völlig verbannt, der vor ihm in manchen ihrer Gebiete fast unumschränkt herrschte. Besonders gilt dies für das Gebiet der Darlegung der Eigenthümlichkeiten des Kapitals.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>It is clear that such general definitions lead only to commonplaces which may be read quite edifyingly in children's primers, but which do not in the least further our knowledge of the forms of human society, of their laws and mainsprings. It was Marx who first completely banished from political economy the commonplace which before him held almost unlimited sway in some of its domains. This applies especially to the domain of the exposition of the peculiarities of capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir haben gesehen, daß Kapital Mehrwerth heckender Werth ist, seine allgemeine Formel die: G—W—(G +g). Aus dieser geht schon hervor, was die Thatsachen bestätigen, daß die <em>Geldform</em> diejenige Form ist, in der jedes neue Kapital seine Bewegung beginnt. Man sieht aber auch aus ihr, daß diese Bewegung die Verwandlung des Kapitals aus der Geldform in die verschiedenartigen Formen der Waarenwelt nothwendigerweise bedingt, und ebenso wieder die Rückverwandlung aus diesen Formen in Geld.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We have seen that capital is value that breeds surplus value, its general formula being: G—W—(G +g). From this it already follows, as the facts confirm, that the <em>money form</em> is the form in which every new capital begins its movement. But one also sees from it that this movement necessarily conditions the transformation of capital from the money form into the various forms of the world of commodities, and likewise, again, its re-transformation from these forms into money.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir sehen ferner aus dieser Formel, daß nicht jedes Geld, nicht jede Waare Kapital sind, daß sie es nur werden, wenn sie eine bestimmte <em>Bewegung</em> durchmachen. Diese Bewegung hat aber ihrerseits wieder besondere historische Voraussetzungen, die wir noch kennen lernen werden. Das Geld, das ich ausgebe, um einen Konsumtionsgegenstand, etwa ein Brot oder einen Rock für mich zu kaufen, fungirt ebensowenig als Kapital, wie die Waare, die ich selbst produzirt habe und verkaufe, in dieser Transaktion als Kapital fungirt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We see further from this formula that not every sum of money, not every commodity, is capital, that they become capital only when they undergo a particular <em>movement</em>. This movement, however, has for its part again particular historical preconditions, which we shall come to know. The money that I spend in order to buy myself an object of consumption, say a loaf of bread or a coat, functions just as little as capital as does the commodity which I have myself produced and sell, in this transaction, function as capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Produktionsmittel, aufgehäufte Arbeit &amp;c. bilden allerdings den Stoff des Kapitals, aber nur unter gewissen Umständen. Indem man von diesen absieht, sieht man von den Eigenthümlichkeiten der modernen Produktionsweise ab und verbreitet ein Dunkel über sie, in dem sich sehr gut munkeln läßt, weshalb auch alle die gelehrten und ungelehrten Vertreter des Kapitalismus weder von der Marx’schen Kapitaltheorie, noch von der Werththeorie, auf der sie beruht, etwas wissen wollen.<br/> <a id="ab1-kap3-t2" name="ab1-kap3-t2"> </a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Means of production, accumulated labour, etc., do indeed constitute the material of capital, but only under certain circumstances. In disregarding these circumstances, one disregards the peculiarities of the modern mode of production and spreads a darkness over them in which one can very well engage in mystification, which is also why all the learned and unlearned representatives of capitalism will have nothing to do either with the Marxian theory of capital or with the theory of value on which it rests.<br/> <a id="ab1-kap3-t2" name="ab1-kap3-t2"> </a></p>
+```
+
+:::
+
+:::
+
+##### 2. The Source of Surplus Value
+
+<p class="de-subtitle">2. Die Quelle des Mehrwerthes</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir kennen jetzt die allgemeine Formel des Kapitals: G—W—(G +g). Wir wissen aber noch nicht, woher g, der Mehrwerth, stammt. Die gegebene Formel scheint anzudeuten, daß die Akte des Kaufens oder Verkaufens den Mehrwerth erzeugen, daß dieser also aus der Waarenzirkulation entspringt. Diese Ansicht ist die landläufige, sie beruht aber meist auf einer Verwechslung von <em>Waarenwerth</em> mit <em>Gebrauchswerth.</em> Dies gilt insbesondere von der Behauptung, daß bei einem Tausch beide Theile gewinnen, weil jeder hergiebt, was er nicht braucht, und erlangt, was er braucht. Man drückt das so aus: „Ich gebe etwas weg, was wenig Werth für mich besitzt und empfange dafür etwas, was mehr Werth für mich besitzt.“ Diese Darlegung der Entstehung des Mehrwerthes ist nur dort möglich, wo der Begriff Werth noch ganz nebelhaft ist. Um sich mit dieser Darlegung zufrieden zu stellen, muß man einerseits vergessen, daß der Austausch von Waaren wohl auf der <em>Ungleichheit ihrer Gebrauchswerthe,</em> aber gleichzeitig auch auf der <em>Gleichheit ihrer Waarenwerthe</em> beruht. Auf der anderen Seite muß man aber so gutmüthig sein, wie die meisten Leser der Vulgärökonomen, Alles unbesehen für baare Münze zu nehmen, was diese erzählen, und wirklich zu glauben, daß die geschäftlichen Operationen z. B. eines modernen Kaufmanns mit dem urwüchsigen Tausch zwischen Wilden auf einer Stufe ständen. Wir wissen aber, daß der Mehrwerth nicht auf der Stufe des <em>Tausches,</em> sondern der <em>Waarenzirkulation</em> entsteht, die durch <em>Geld</em> vermittelt wird, und daß der Mehrwerth in mehr Geld zu Tage tritt. Von einem „Gewinn“ durch Erlangung von etwas, das Gebrauchswerth für mich hat, gegen Hingabe von etwas, das keinen Gebrauchswerth für mich hat, kann also bei einer Transaktion nicht die Rede sein, die durch die Formel: <em>G—W—(G + g)</em> ausgedrückt wird.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">We now know the general formula of capital: M—C—(M + m). But we do not yet know whence m, the surplus value, originates. The formula given seems to suggest that the acts of buying or selling generate surplus value, that it therefore springs from the circulation of commodities. This view is the current one, but it usually rests upon a confusion of <em>commodity value</em> with <em>use value.</em> This applies in particular to the assertion that in an exchange both parties gain, because each gives away what he does not need and obtains what he does need. This is expressed as follows: “I give away something that possesses little value for me and receive in return something that possesses more value for me.” This account of the origin of surplus value is possible only where the concept of value is still quite nebulous. To content oneself with this account, one must on the one hand forget that the exchange of commodities rests indeed upon the <em>inequality of their use values,</em> but at the same time also upon the <em>equality of their commodity values.</em> On the other hand, one must be as good-natured as most readers of the vulgar economists, taking everything they relate at face value without examination, and really believing that the business operations of, say, a modern merchant stand on the same level as the primitive exchange between savages. But we know that surplus value arises not at the stage of <em>exchange,</em> but of the <em>circulation of commodities,</em> which is mediated by <em>money,</em> and that surplus value comes to light in more money. Of a “gain” through obtaining something that has use value for me in return for giving away something that has no use value for me, there can therefore be no question in a transaction expressed by the formula: <em>M—C—(M + m).</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir begegnen hier einem Manöver der Vulgärökonomie, das diese gern anwendet, wo es sich darum handelt, die Erkenntniß der modernen ökonomischen Verhältnisse zu erschweren, was ihre Hauptaufgabe: sie setzt die modernen Erscheinungen denen längst vergangener Zeiten gleich.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Here we encounter a manoeuvre of vulgar economy which it gladly employs wherever the point is to make the understanding of modern economic conditions more difficult, which is its principal task: it equates modern phenomena with those of long-past ages.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir haben hier nicht mit dem Tausch, sondern der Waarenzirkulation zu thun. Diese kann ebensowenig wie jener, unter normalen Umständen, einen Mehrwerth bilden, wenn stets gleiche Waarenwerthe für gleiche Waarenwerthe gegeben werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Here we have to deal not with exchange, but with the circulation of commodities. Under normal circumstances this can, just as little as the former, form any surplus value, if equal commodity values are always given for equal commodity values.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir aber an, die Gesetze der Waarenzirkulation würden verletzt; es würde z. B. den Waarenbesitzern das Privilegium verliehen, ihre Waaren mit einem Preisaufschlag von 10 Prozent ihres ursprünglichen Werthes zu verkaufen. Der Schneider verkauft den Rock statt um 30 um 33 Mark. Aber, o Jammer! Das Fäßchen Wein, das er früher um 30 Mark kaufte, muß er jetzt auch mit 33 Mark bezahlen. Er hat also nichts gewonnen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But let us assume that the laws of the circulation of commodities were violated; that, for example, the commodity owners were granted the privilege of selling their commodities with a price surcharge of 10 per cent of their original value. The tailor sells the coat for 33 marks instead of 30. But, alas! The little cask of wine which he formerly bought for 30 marks he must now also pay for at 33 marks. He has therefore gained nothing.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir können noch den Versuch machen, die Entstehung des Mehrwerthes dadurch zu erklären, daß nicht alle, sondern nur einige Waarenbesitzer es verstehen, die Waaren unter ihrem Werth zu kaufen, über ihrem Werth zu verkaufen. Ein Kaufmann kaufe vom Landmann 40 Zentner Kartoffeln, die 100 Mark werth sind, um 90 Mark, und verkaufe sie um 110 Mark an den Schneider. Am Ende des Vorganges befindet sich allerdings in den Händen des Kaufmanns ein größerer Werth, als an dessen Beginn. Aber die Gesammtmasse der vorhandenen Werthe ist dieselbe geblieben. Wir hatten zu Beginn Werthe von 100 Mark (der Landmann) + 90 Mark (der Kaufmann) + 110 Mark (der Schneider) = 300 Mark. Am Schluß 90 Mark (der Landmann) + 110 Mark (der Kaufmann) + 100 Mark (der Schneider) = 300 Mark.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We may still make the attempt to explain the origin of surplus value by the fact that not all, but only some commodity owners understand how to buy commodities below their value and to sell them above their value. Suppose a merchant buys from the peasant 40 hundredweight of potatoes, which are worth 100 marks, for 90 marks, and sells them for 110 marks to the tailor. At the end of the process there is indeed a greater value in the hands of the merchant than at its beginning. But the total mass of the existing values has remained the same. At the beginning we had values of 100 marks (the peasant) + 90 marks (the merchant) + 110 marks (the tailor) = 300 marks. At the end 90 marks (the peasant) + 110 marks (the merchant) + 100 marks (the tailor) = 300 marks.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der größere Werth in den Händen des Kaufmanns ist also nicht aus einer Werthvermehrung entstanden, sondern aus einer Verminderung der Werthe in den Händen Anderer. Will ich diesen größeren Werth Mehrwerth nennen, so kann ich ebenso gut den Werth, den ein Dieb einem Anderen direkt aus der Tasche stiehlt, Mehrwerth nennen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The greater value in the hands of the merchant has thus arisen not from an increase of value, but from a diminution of the values in the hands of others. If I wish to call this greater value surplus value, then I might just as well call the value that a thief steals directly out of another's pocket surplus value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der historische Beginn der Aneignung von Mehrwerth geschah allerdings in dieser Weise, in der Aneignung fremder Werthe, entweder durch Vermittlung der Waarenzirkulation durch das <em>Kaufmannskapital,</em> oder ganz unverhüllt ohne diese Vermittlung, durch das <em>Wucherkapital.</em> Aber diese beiden Kapitalarten waren nur möglich durch <em>Verletzung</em> der Gesetze der Waarenzirkulation, durch offenbare und grobe Verletzung ihres Grundgesetzes, daß Werthe nur gegen gleiche Werthe ausgetauscht werden. Das Kapital stand daher, so lange es nur Kaufmanns- und Wucherkapital war, im <em>Gegensatz</em> zu der ökonomischen Organisation seiner Zeit und damit auch im Gegensatz zu deren <em>moralischen</em> Anschauungen. Im Alterthum ebenso wie im Mittelalter standen Handel und namentlich Wucher in schlechtem Geruch; sie wurden in gleicher Weise gebrandmarkt von antiken heidnischen Philosophen wie von Kirchenvätern; von Päpsten wie von Reformatoren.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The historical beginning of the appropriation of surplus value did indeed occur in this manner, in the appropriation of the values of others, either through the mediation of the circulation of commodities by <em>merchant capital,</em> or quite openly without this mediation, by <em>usurer's capital.</em> But these two kinds of capital were possible only through <em>violation</em> of the laws of the circulation of commodities, through open and gross violation of their fundamental law, that values are exchanged only for equal values. Capital therefore stood, so long as it was only merchant and usurer's capital, in <em>opposition</em> to the economic organisation of its time, and thereby also in opposition to its <em>moral</em> conceptions. In antiquity as in the Middle Ages, trade and especially usury were held in ill repute; they were branded in like manner by the ancient pagan philosophers as by the Church Fathers; by popes as by reformers.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wenn wir einen Typus der Säugethiere aufstellen wollen, werden wir nicht das <em>eierlegende</em> Schnabelthier in erste Linie setzen. So dürfen wir auch nicht, wenn wir das Kapital erkennen wollen, welches den ökonomischen Ban der modernen Gesellschaft bestimmt, von dessen sozusagen vorsintfluthlichen Formen, dem Wucher- und Handelskapital, ausgehen. Erst nachdem eine andere, höhere Form des Kapitals sich gebildet, bilden sich auch Mittelglieder, welche die Funktionen des Handelskapitals und zinstragenden Kapitals in Einklang bringen mit den Gesetzen der jetzt herrschenden Form der Waarenproduktion. Erst von da hören sie auf, mit Nothwendigkeit von vornherein den Charakter der simplen Prellerei und des direkten Raubes zu tragen. Handelskapital und Wucherkapital können erst begriffen werden nach der Erkenntniß der modernen Grundform des Kapitals.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If we wish to set up a type of the mammals, we shall not place the <em>egg-laying</em> platypus in the first rank. So too, if we wish to understand the capital that determines the economic structure of modern society, we must not set out from its, so to speak, antediluvian forms, the usurer's and merchant capital. Only after another, higher form of capital had developed did there also form intermediate links which bring the functions of merchant capital and interest-bearing capital into accord with the laws of the now prevailing form of commodity production. Only from that point do they cease to bear of necessity, from the outset, the character of simple swindling and of direct robbery. Merchant capital and usurer's capital can be understood only after the understanding of the modern basic form of capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Es ist demnach begreiflich, warum Marx das Handels- und zinstragende Kapital in den ersten zwei Bänden des <strong>Kapital</strong> nicht behandelt hat; diese gelten der Erforschung der <em>Grundgesetze</em> des Kapitals.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>It is accordingly comprehensible why Marx did not treat merchant and interest-bearing capital in the first two volumes of <strong>Capital</strong>; these are devoted to the investigation of the <em>fundamental laws</em> of capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir haben uns hier also mit den beiden ersterwähnten Kapitalformen nicht weiter zu befassen. Was als Ergebniß der Untersuchung festzuhalten, ist die Thatsache, daß der Mehrwerth nicht aus der Waarenzirkulation entspringen kann. Weder Kauf noch Verkauf schaffen Mehrwerth.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Here, then, we need not concern ourselves further with the two capital forms mentioned first. What is to be retained as the result of the investigation is the fact that surplus value cannot spring from the circulation of commodities. Neither purchase nor sale creates surplus value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber andererseits kann der Mehrwerth auch nicht außerhalb des Bereichs der Zirkulation entstehen. Ein Waarenbesitzer kann durch Arbeit eine Waare umformen und ihr so <em>neuen</em> Werth zusetzen, der durch das Maß der gesellschaftllch nothwendigen Arbeit bestimmt ist, die aufzuwenden war, aber der Werth der <em>ursprünglichen</em> Waare wird dadurch nicht erhöht; diese erhält dadurch keinen Mehrwerth. Wenn ein Seidenweber Seide im Werth von 100 Mark kauft und zu einem Seidenstoff verarbeitet, so wird der Werth dieses Stoffes gleich sein dem Werth der Seide, vermehrt um den Werth, den die Arbeit des Webers geschaffen. Der Werth der Seide als solcher ist durch diese Arbeit nicht erhöht worden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But on the other hand, surplus value can also not arise outside the sphere of circulation. A commodity owner can, through labour, transform a commodity and thus add to it <em>new</em> value, which is determined by the measure of the socially necessary labour that had to be expended; but the value of the <em>original</em> commodity is not thereby increased; it thereby receives no surplus value. If a silk weaver buys silk to the value of 100 marks and works it up into a silk fabric, then the value of this fabric will be equal to the value of the silk, increased by the value that the labour of the weaver has created. The value of the silk as such has not been increased by this labour.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So stehen wir vor einem sonderbaren Räthsel: Der Mehrwerth wird nicht durch die Waarenzirkulation erzeugt. Er wird nicht erzeugt außerhalb ihres Bereichs.<br/> <a id="ab1-kap3-t3" name="ab1-kap3-t3"> </a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Thus we stand before a strange riddle: Surplus value is not produced by the circulation of commodities. It is not produced outside its sphere.<br/> <a id="ab1-kap3-t3" name="ab1-kap3-t3"> </a></p>
+```
+
+:::
+
+:::
+
+##### 3. Labour-power as a Commodity
+
+<p class="de-subtitle">3. Die Arbeitskraft als Waare</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Sehen wir uns die allgemeine Formel des Kapitals näher an. Sie lautet <em>G—W—(G + g).</em> Sie setzt sich aus zwei Akten zusammen: <em>G—W,</em> Kauf der Waare, <em>W—(G + g),</em> Verkauf. Nach den Gesetzen der Waarenzirkulation muß der Werth von <em>G</em> gleich sein <em>W, W</em> aber gleich <em>G + g.</em> Dies ist nur möglich, wenn <em>W</em> sich selbst vergrößert, wenn <em>W</em> eine Waare ist, die während ihres Verbrauchs einen größeren Werth erzeugt, als sie selbst besitzt. Das Räthsel des Mehrwerthes ist gelöst, sobald wir eine Waare finden, deren Gebrauchswerth die eigenthümliche Beschaffenheit besitzt, Quelle von Werth zu sein, deren Verbrauch die Schaffung von Werth ist, so daß die Formel <em>G—W—(G + g)</em> in Bezug auf sie lautet <em>G—W . . . (W +w)—(G + g).</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Let us examine the general formula of capital more closely. It reads <em>M—C—(M + m).</em> It is composed of two acts: <em>M—C,</em> purchase of the commodity, <em>C—(M + m),</em> sale. According to the laws of commodity circulation, the value of <em>M</em> must be equal to <em>C, C</em> however equal to <em>M + m.</em> This is only possible if <em>C</em> enlarges itself, if <em>C</em> is a commodity that, during its consumption, produces a greater value than it itself possesses. The riddle of surplus value is solved as soon as we find a commodity whose use-value has the peculiar property of being a source of value, whose consumption is the creation of value, so that the formula <em>M—C—(M + m)</em> in respect of it reads <em>M—C . . . (C +c)—(M + m).</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir wissen aber, daß Waarenwerthe nur durch Arbeit geschaffen werden. Die obige Formel kann also nur dann sich verwirklichen, wenn die <em>Arbeitskraft</em> eine <em>Waare</em> ist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We know, however, that commodity values are created only by labour. The above formula can therefore be realised only if <em>labour-power</em> is a <em>commodity.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„Unter Arbeitskraft oder Arbeitsvermögen,“ sagt Marx, „verstehen wir den Inbegriff der <em>physischen</em> und <em>geistigen</em> Fähigkeiten, die in der Leiblichkeit, der lebendigen Persönlichkeit eines Menschen existiren und die er in Bewegung setzt, so oft er Gebrauchswerthe irgend einer Art produzirt.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">“By labour-power or capacity for labour,” says Marx, “we understand the aggregate of those <em>physical</em> and <em>mental</em> capabilities existing in the physical form, the living personality, of a human being, which he sets in motion whenever he produces use-values of any kind.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Die Arbeitskraft muß als Waare auf dem Markt erscheinen. Was heißt das? Wir haben oben gesehen, daß der Waarenaustausch das völlig freie Verfügungsrecht der Waarenbesitzer über ihre Waare zur Voraussetzung hat. Der Besitzer der Arbeitskraft, der Arbeiter, muß also ein freier Mann sein, wenn seine Arbeitskraft soll Waare werden können. Seine Arbeitskraft muß Waare bleiben; er darf sie daher nicht für immer, sondern nur für bestimmte Zeitabschnitte verkaufen, sonst wird er zum Sklaven und verwandelt sich aus einem Waarenbesitzer in eine Waare.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Labour-power must appear as a commodity on the market. What does that mean? We have seen above that the exchange of commodities presupposes the completely free right of disposal of the commodity owners over their commodity. The owner of labour-power, the worker, must therefore be a free man if his labour-power is to be able to become a commodity. His labour-power must remain a commodity; he may therefore not sell it forever, but only for definite periods of time, otherwise he becomes a slave and transforms himself from a commodity owner into a commodity.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Noch eine andere Bedingung muß erfüllt sein, soll die Arbeitskraft zur Waare werden. Wir haben gesehen, daß ein Gebrauchswerth, um Waare zu werden, Nichtgebrauchswerth für seinen Besitzer sein muß. So muß auch die Arbeitskraft ein Nichtgebrauchswerth für den Arbeiter sein, wenn sie als Waare auf dem Markt erscheinen soll. Der Gebrauchswerth der Arbeitskraft besteht aber in der Erzeugung anderer Gebrauchswerthe; diese hat zur Voraussetzung die Verfügung über die nöthigen Produktionsmittel. Wo der Arbeiter über die Produktionsmittel verfügt, verkauft er nicht seine <em>Arbeitskraft,</em> sondern wendet sie selbst an und verkauft seine <em>Produkte.</em> Der Arbeiter muß von den Produktionsmitteln getrennt sein, vor Allem von dem wichtigsten derselben, dem Grund und Boden, soll die Arbeitskraft zur Waare werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Yet another condition must be fulfilled if labour-power is to become a commodity. We have seen that a use-value, in order to become a commodity, must be a non-use-value for its owner. Thus labour-power too must be a non-use-value for the worker if it is to appear as a commodity on the market. But the use-value of labour-power consists in the production of other use-values; this presupposes the disposal over the necessary means of production. Where the worker has command over the means of production, he does not sell his <em>labour-power,</em> but applies it himself and sells his <em>products.</em> The worker must be separated from the means of production, above all from the most important of them, the land and soil, if labour-power is to become a commodity.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Arbeiter muß frei sein in jeder Beziehung, frei von jeder persönlichen Abhängigkeit, aber auch los und ledig aller nöthigen Produktionsmittel: das sind die Vorbedingungen, soll der Geldbesitzer sein Geld in Kapital verwandeln können. Diese Vorbedingungen sind weder von Natur gegeben, noch sind sie allen Gesellschaftsformen eigen. Sie sind das Resultat einer langwierigen historischen Entwicklung, und erst verhältnißmäßig spät treten sie in solcher Ausdehnung auf, um bestimmend auf die Formation der Gesellschaft einzuwirken. Mit dem 16. Jahrhundert beginnt die moderne Lebensgeschichte des Kapitals.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The worker must be free in every respect, free from every personal dependence, but also rid and stripped of all the necessary means of production: these are the preconditions if the money owner is to be able to transform his money into capital. These preconditions are neither given by nature nor are they proper to all forms of society. They are the result of a protracted historical development, and only comparatively late do they appear to such an extent as to act determiningly upon the formation of society. With the 16th century begins the modern life-history of capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir kennen jetzt die Waare, welche den Mehrwerth schafft. Wie hoch ist ihr eigener Werth?</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We now know the commodity that creates surplus value. How high is its own value?</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Er <em>wird bestimmt,</em> wie der jeder anderen Waare, <em>durch die zu ihrer Herstellung, also auch Wiederherstellung gesellschaftlich nothwendige Arbeitszeit.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>It <em>is determined,</em> like that of every other commodity, <em>by the labour-time socially necessary for its production, and hence also for its reproduction.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Arbeitskraft setzt die Existenz des Arbeiters voraus. Diese Existenz bedarf ihrerseits wieder zu ihrer Erhaltung einer gewissen Summe von <em>Lebensmitteln.</em> Die zur Herstellung der Arbeitskraft nothwendige Arbeitszeit ist also gleich der Arbeitszeit, die gesellschaftlich nothwendig, um diese gewisse Summe von Lebensmitteln herzustellen. Eine Reihe von Umständen bestimmt die Größe dieser Summe. Je mehr Arbeitskraft der Arbeiter ausgiebt, je länger und angestrengter er arbeitet, desto mehr Lebensmittel bedarf er, um die Kraftausgabe wieder zu ersetzen, um am nächsten Tag ebenso arbeiten zu können, wie am vorhergehenden. Andererseits sind die Bedürfnisse der Arbeiterklassen verschiedener Länder verschieden nach den natürlichen und kulturellen Eigenthümlichkeiten jedes Landes. Ein norwegischer Arbeiter braucht eine größere Summe von Lebensmitteln, als ein indischer; die Nahrung, Kleidung, Wohnung, Feuerung &amp;c., deren der erstere bedarf, um bestehen zu können, erfordern eine größere Arbeitszeit zu ihrer Herstellung, als die Lebensmittel des indischen Arbeiters. Ferner: In einem Lande, wo die Arbeiter z. B. barfüßig herumlaufen, oder nichts lesen, werden ihre Bedürfnisse geringer sein, als dort, wo sie höher entwickelt sind, wo sie z. B. Fußbekleidungen tragen oder Zeitungen und Bücher lesen, selbst wenn keinerlei klimatische und sonstige natürliche Unterschiede vorhanden. „Im <em>Gegensatz zu anderen Waaren“,</em> sagt Marx, „enthält also die Werthbestimmung der Arbeitskraft ein historisches und moralisches Element.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Labour-power presupposes the existence of the worker. This existence in turn requires for its maintenance a certain sum of <em>means of subsistence.</em> The labour-time necessary for the production of labour-power is therefore equal to the labour-time socially necessary to produce this certain sum of means of subsistence. A series of circumstances determines the magnitude of this sum. The more labour-power the worker expends, the longer and more strenuously he works, the more means of subsistence he requires in order to replace the expenditure of energy, so as to be able to work the next day just as he did the day before. On the other hand, the needs of the working classes of different countries differ according to the natural and cultural peculiarities of each country. A Norwegian worker needs a larger sum of means of subsistence than an Indian one; the nourishment, clothing, housing, fuel &c., which the former requires in order to be able to subsist, demand a greater labour-time for their production than the means of subsistence of the Indian worker. Furthermore: in a country where the workers, for example, go about barefoot, or read nothing, their needs will be smaller than where they are more highly developed, where, for example, they wear footwear or read newspapers and books, even if there are no climatic or other natural differences at all. “In <em>contrast to other commodities,”</em> says Marx, “the determination of the value of labour-power thus contains a historical and moral element.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Arbeiter ist ferner, wie Jedermann weiß, sterblich. Das Kapital aber will unsterblich sein. Dazu ist nothwendig, daß die Arbeiterklasse unsterblich sei, daß die Arbeiter sich <em>fortpflanzen.</em> Die Summe der zur Erhaltung der Arbeitskraft nothwendigen Lebensmittel schließt also auch die zur Erhaltung der Kinder (unter Umständen auch der Frauen) nothwendigen Lebensmittel ein.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The worker is furthermore, as everyone knows, mortal. Capital, however, wants to be immortal. For this it is necessary that the working class be immortal, that the workers <em>propagate themselves.</em> The sum of the means of subsistence necessary for the maintenance of labour-power therefore also includes the means of subsistence necessary for the maintenance of the children (under certain circumstances also of the women).</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Endlich sind zu den Produktionskosten der Arbeitskraft auch ihre Bildungskosten zu rechnen, die Kosten, erforderlich zur Erlangung einer gewissen Fertigkeit in einem bestimmten Arbeitszweig. Für die Mehrzahl der Arbeiter sind diese Kosten verschwindend klein.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Finally, to the costs of production of labour-power must also be reckoned its costs of education, the costs required for the acquisition of a certain skill in a particular branch of labour. For the majority of workers these costs are vanishingly small.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Alle diese Bestimmungsgründe bewirken, daß der Werth der Arbeitskraft einer bestimmten Arbeiterklasse in einem bestimmten Land und zu einem bestimmten Zeitpunkt eine bestimmte Größe ist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>All these determining factors have the effect that the value of the labour-power of a particular working class in a particular country and at a particular point of time is a definite magnitude.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir haben bisher nicht vom Preis gehandelt, sondern vom Werth; nicht vom Profit, sondern vom Mehrwerth. So muß man auch hier im Auge behalten, daß wir vom <em>Werth</em> der Arbeitskraft handeln, nicht vom <em>Arbeitslohn.</em> Auf eine Eigenthümlichkeit, die bei der Bezahlung der Arbeitskraft stattfindet, muß jedoch schon hier hingewiesen werden. Nach vulgärökonomischer Ansicht schießt der Kapitalist dem Arbeiter den Lohn vor, weil der Kapitalist den Arbeiter in den meisten Fällen bezahlt, ehe er die Produkte von dessen Arbeit verkauft hat. In Wirklichkeit aber ist es der Arbeiter, der dem Kapitalisten seine Arbeitsleistung kreditirt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Hitherto we have not dealt with price, but with value; not with profit, but with surplus value. So here too one must keep in mind that we are dealing with the <em>value</em> of labour-power, not with <em>wages.</em> A peculiarity that takes place in the payment of labour-power must, however, already be pointed out here. According to the vulgar-economic view, the capitalist advances the wage to the worker, because the capitalist in most cases pays the worker before he has sold the products of the latter's labour. In reality, however, it is the worker who gives the capitalist credit for his labour performance.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir an, ich kaufe Kartoffeln, um aus ihnen Schnaps herzustellen. Ich bezahle die Kartoffeln erst, nachdem ich den Schnaps erzeugt, aber ehe ich den Schnaps verkauft. Wäre es nun nicht lächerlich, wenn ich behaupten würde, ich schösse dem Landmann den Preis seiner Kartoffeln vor, weil ich diese bezahlt, ehe ich den Schnaps verkauft? Nein, der Landmann kreditirt mir vielmehr den Preis seiner Kartoffeln, bis ich aus ihnen Schnaps erzeugt. Wenn ich sage, ich zahle baar, so sage ich damit, daß ich die Waare bezahle, sobald ich sie kaufe. Die Kaufleute würden sich sehr über die ökonomische Weisheit wundern, die behauptete, daß Derjenige, der ihre Waaren erst bezahlt, nachdem er sie verbraucht, nicht nur baar zahle, sondern ihnen sogar das Geld <em>vorschieße.</em> Den Arbeitern aber wagen die Vulgärökonomen dergleichen Unsinn immer noch vorzuschwätzen. Wenn den Arbeitern ihre Waare Arbeitskraft gegen baar abgenommen würde, müßte sie in dem Augenblick bezahlt werden, wo sie in den Besitz des Kapitalisten übergeht, also am <em>Beginn</em> jeder Woche, nicht an ihrem <em>Ende.</em> Bei dem heutigen System der Bezahlung riskiren nicht nur die Arbeiter ihren Lohn, sie sind auch gezwungen, auf Borg zu leben und deswegen alle Verfälschungen und Verschlechterungen der Lebensmittel durch die Zwischenhändler ruhig über sich ergehen zu lassen. Je länger die Periode der Lohnzahlung, desto schlimmer sind die Arbeiter daran. Eine vierzehntägige oder gar monatliche Lohnzahlung ist eine der drückendsten Lasten für den Lohnarbeiter.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us assume I buy potatoes in order to produce liquor from them. I pay for the potatoes only after I have produced the liquor, but before I have sold the liquor. Would it not now be ridiculous if I were to claim that I advance to the farmer the price of his potatoes, because I paid for them before I sold the liquor? No, rather it is the farmer who credits me the price of his potatoes until I have produced liquor from them. When I say I pay cash, I thereby say that I pay for the commodity as soon as I buy it. Merchants would be greatly astonished at the economic wisdom which asserted that he who pays for their commodities only after he has consumed them not only pays cash, but even <em>advances</em> them the money. Yet to the workers the vulgar economists still dare to prattle such nonsense. If the workers' commodity, labour-power, were taken from them for cash, it would have to be paid for at the moment it passes into the possession of the capitalist, that is, at the <em>beginning</em> of each week, not at its <em>end.</em> Under the present system of payment the workers not only risk their wages, they are also compelled to live on credit and therefore to suffer patiently all the adulterations and deteriorations of their means of subsistence by the middlemen. The longer the period of wage payment, the worse off the workers are. A fortnightly or even monthly wage payment is one of the most oppressive burdens for the wage labourer.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wie immer aber auch das System der Lohnzahlung sein möge, stets stehen Arbeiter und Kapitalist einander unter normalen Verhältnissen gegenüber wie zwei Waarenbesitzer, die gleiche Werthe gegenseitig austauschen. Das Kapital bewegt sich jetzt nicht mehr im Widerspruch gegen die Gesetze der Waarenzirkulation, sondern auf Grund dieser Gesetze. Arbeiter und Kapitalist stehen sich als Waarenbesitzer, also als <em>freie</em> und <em>gleiche</em> von einander persönlich unabhängige Personen gegenüber; sie gehören als solche zur selben Klasse, sie sind <em>Brüder.</em> Arbeiter und Kapitalist tauschen <em>gleiche</em> Werthe gegen einander aus: das Reich der Gerechtigkeit, der Freiheit, Gleichheit und Brüderlichkeit scheint also mit der Herrschaft des Lohnsystems angebrochen, das tausendjährige Reich des Glückes und Friedens. Der Jammer der Knechtschaft und der Tyrannei, der Ausbeutung und des Faustrechts liegt hinter uns.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Whatever the system of wage payment may be, however, under normal conditions worker and capitalist always confront one another like two commodity owners who mutually exchange equal values. Capital now no longer moves in contradiction to the laws of commodity circulation, but on the basis of these laws. Worker and capitalist confront one another as commodity owners, that is, as <em>free</em> and <em>equal</em> persons personally independent of one another; as such they belong to the same class, they are <em>brothers.</em> Worker and capitalist exchange <em>equal</em> values with one another: the kingdom of justice, of freedom, equality and fraternity thus seems to have dawned with the rule of the wage system, the thousand-year kingdom of happiness and peace. The misery of bondage and tyranny, of exploitation and the rule of the fist, lies behind us.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So verkünden uns die gelehrten Vertreter der Interessen des Kapitals.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Thus the learned representatives of the interests of capital proclaim to us.</p>
+```
+
+:::
+
+:::
+

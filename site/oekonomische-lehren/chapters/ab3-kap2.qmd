@@ -1,0 +1,165 @@
+---
+title: "Chapter 2. The Income of Capital"
+subtitle: "2. Kapitel. Das Kapitaleinkommen"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir haben gesehen, wie aus Geld Kapital wird und wie der Lohnarbeiter durch seine Arbeit nicht nur den Werth des für die nöthigen Produktionsmittel verausgabten Kapitaltheils erhält, sondern auch neuen Werth schafft, der gleich ist dem Werth seiner Arbeitskraft plus einem Mehrwerth.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">We have seen how money becomes capital and how the wage labourer, through his labour, not only preserves the value of the part of capital expended on the necessary means of production, but also creates new value, which is equal to the value of his labour-power plus a surplus value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Bewegung des Kapitals ist jedoch mit dem Erscheinen des Mehrwerthes nicht abgeschlossen. Sowie die Waare ihren Beruf verfehlt hat, die sich nicht in Geld verwandelt, so auch der Mehrwerth, der ja zunächst ebenfalls in einer bestimmten Waarenmenge, im Mehrprodukt, feststeckt. Nachdem der Mehrwerth in Form von Mehrprodukt produzirt worden, heißt es, seinen Werth in Geld <em>realisiren,</em> die produzirten Waaren an den Mann bringen. Auf dem Weg zur Realisirung begegnen dem Mehrwerth, wie jedem anderen Werth, eine Menge von Abenteuern, theils lustiger, theils trauriger Natur. Heute wird er zu einem übermäßig hohen Preis realisirt, morgen zu einem unverhältnißmäßig niedrigen, oder gar nicht. Einmal wird die Waare, in der er verkörpert, von einem Käufer gesucht, ehe sie noch auf dem Markte erschienen, ein andermal bleibt sie jahrelang als Ladenhüter liegen, und so weiter. Und nach und während diesen Fährlichkeiten drohen ihm noch andere Gefahren. Hier ist es der Kanfmann, der den Verkauf der Waaren besorgt und dafür ein Stück vom Mehrwerth abreißt und als Handelsgewinn einsackt. Dort ist Grundrente an den Grundbesitzer zu zahlen, dann Steuern, dann Zinsen für gepumptes Geld u. s. w., bis der Rest als Profit in den Taschen unseres Kapitalisten verschwindet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The movement of capital is, however, not concluded with the appearance of the surplus value. Just as the commodity that does not transform itself into money has failed in its vocation, so too has the surplus value, which at first likewise remains lodged in a definite quantity of commodities, in the surplus product. After the surplus value has been produced in the form of surplus product, its value must be <em>realised</em> in money, the produced commodities must be brought to the customer. On the road to realisation the surplus value, like every other value, meets with a host of adventures, partly of a cheerful, partly of a sorrowful nature. Today it is realised at an excessively high price, tomorrow at a disproportionately low one, or not at all. On one occasion the commodity in which it is embodied is sought by a buyer before it has even appeared on the market; on another it lies for years as a shelf-warmer, and so on. And after and during these perils still other dangers threaten it. Here it is the merchant who takes care of selling the commodities and for this tears off a piece of the surplus value and pockets it as commercial profit. There ground-rent has to be paid to the landowner, then taxes, then interest for borrowed money, and so forth, until the remainder vanishes as profit into the pockets of our capitalist.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Alle die Abenteuer und Verwandlungen, die der Mehrwerth auf diesem Wege durchmacht, haben uns hier nicht zu beschäftigen. Sie gehören theils in das Gebiet des Zirkulationsprozesses des Kapitals, der von Marx im zweiten Buche seines Werkes behandelt wird, theils werden sie entwickelt bei der Untersuchung des Gesammtprozesses der kapitalistischen Produktionsweise, die er im dritten Buche vornimmt. Das erste Buch des <strong>Kapital</strong> behandelt nur die eine Seite des Gesammtprozesses, den unmittelbaren <em>Produktionsprozeß;</em> nur soweit der Mehrwerth auf diesen einwirkt, haben uns seine weiteren Schicksale, nachdem er einmal produzirt worden, hier zu beschäftigen. Wir nehmen also an, wie stets bisher, wo nicht das Gegentheil ausdrücklich vorausgesetzt worden, der Kapitalist verkaufe seine Waaren auf dem Waarenmarkt zu ihrem vollen Werth; wir nehmen ferner an, der Mehrwerth fließe ganz und unverkürzt dem Kapitalisten wieder zurück. Die gegentheilige Annahme würde blos die Untersuchung kompliziren und erschweren, ohne an ihrem wesentlichen Ergebniß etwas zu ändern.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>All the adventures and transformations which the surplus value undergoes on this road need not occupy us here. They belong partly to the domain of the circulation process of capital, which is dealt with by Marx in the second book of his work, and are partly developed in the investigation of the total process of the capitalist mode of production, which he undertakes in the third book. The first book of <strong>Capital</strong> deals only with the one side of the total process, the immediate <em>production process;</em> only in so far as the surplus value acts upon this do its further fortunes, after it has once been produced, have to occupy us here. We therefore assume, as always hitherto where the contrary has not been expressly presupposed, that the capitalist sells his commodities on the commodity market at their full value; we assume further that the surplus value flows back to the capitalist wholly and undiminished. The contrary assumption would merely complicate and burden the investigation, without altering anything in its essential result.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Mehrwerth kann auf den Produktionsprozeß nur Einfluß nehmen bei der <em>Reproduktion,</em> bei der <em>Wiederholung</em> des Produktionsprozesses.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The surplus value can exert an influence on the production process only in <em>reproduction,</em> in the <em>repetition</em> of the production process.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Jeder gesellschaftliche Produktionsprozeß ist zugleich auch Reproduktionsprozeß, die Produktion muß in jeder Gesellschaftsform entweder ununterbrochen vor sich gehen oder sich in bestimmten Zeitabschnitten wiederholen. Damit ist auch für jede Gesellschaftsform die Nothwendigkeit gegeben, fortwährend nicht nur Konsumtionsmittel, sondern auch Produktionsmittel herzustellen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Every social production process is at the same time also a reproduction process; production must in every form of society either proceed uninterruptedly or repeat itself at definite intervals of time. With this there is given for every form of society the necessity of continually producing not only means of consumption, but also means of production.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wenn die Produktion kapitalistische Form annimmt, dann natürlich auch die Reproduktion. Ist es für jede Gesellschaft nothwendig, ununterbrochen oder in regelmäßig wiederkehrenden Zeitabschnitten Gebrauchswerthe zu produziren, so ist es für das Kapital nothwendig, <em>fortwährend Mehrwerth</em> zu produziren, den Mehrwerth beständig zu <em>reproduziren,</em> wenn es Kapital bleiben soll. Nachdem es einmal Mehrwerth geheckt, muß es verwendet werden, solchen zum zweitenmal zu hecken u. s. w. Das Kapital produzirt also immer wieder von neuem Mehrwerth, es reproduzirt ihn. Dieser erscheint als immer wieder sich erneuernde Frucht des in Bewegung begriffenen Kapitals, als <em>stetiges Einkommen</em> aus dem Kapital, als <em>Revenue.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>When production assumes capitalist form, then of course so does reproduction. If it is necessary for every society to produce use-values uninterruptedly or at regularly recurring intervals of time, so it is necessary for capital to produce <em>surplus value continually,</em> to <em>reproduce</em> the surplus value constantly, if it is to remain capital. After it has once bred surplus value, it must be employed to breed such a second time, and so on. Capital thus produces surplus value ever anew, it reproduces it. This appears as the ever renewing fruit of the capital that is set in motion, as a <em>steady income</em> from capital, as <em>revenue.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Soviel über den Mehrwerth, soweit er der Reproduktion <em>entspringt.</em> Aber der Reproduktionsozeß bietet dem Mehrwerth auch Gelegenheit, wieder in den Produktionsprozeß einzugehen. Nehmen wir an, ein Kapitalist wende ein Kapital von 100.000 Mark an, das ihm jährlich eine Revenue von 20.000 Mark abwirft. Was wird er mit dieser anfangen? Zwei äußerste Fälle sind möglich: entweder konsumirt er den ganzen jährlichen Betrag des Mehrwerths, oder er vermehrt sein Kapital um diesen Betrag. Meistentheils wird weder der eine noch der andere dieser beiden extremen Fälle eintreten, sondern es wird der Mehrwerth zum Theil konsumirt und zum Theil zum früheren Kapital zugeschlagen werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>So much for surplus value in so far as it <em>arises</em> from reproduction. But the reproduction process also offers the surplus value the opportunity of entering once again into the production process. Let us assume that a capitalist employs a capital of 100,000 marks, which yields him annually a revenue of 20,000 marks. What will he do with it? Two extreme cases are possible: either he consumes the whole annual amount of the surplus value, or he increases his capital by this amount. In most cases neither the one nor the other of these two extreme cases will occur, but rather the surplus value will be partly consumed and partly added to the former capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wird der ganze Mehrwerth konsumirt, dann bleibt das Kapital nach wie vor auf gleicher Höhe. Es findet <em>einfache Reproduktion</em> statt. Wird der Mehrwerth ganz oder zum Theil zum Kapital geschlagen, dann findet <em>Akkumulation</em> (Anhäufung) von Kapital statt, und die Reproduktion geht auf <em>erweiterter Stufenleiter</em> vor sich.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If the whole surplus value is consumed, then the capital remains as before at the same level. <em>Simple reproduction</em> takes place. If the surplus value is added, wholly or in part, to the capital, then <em>accumulation</em> (amassing) of capital takes place, and reproduction proceeds on an <em>enlarged scale.</em></p>
+```
+
+:::
+
+:::
+

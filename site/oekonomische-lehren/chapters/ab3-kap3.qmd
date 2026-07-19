@@ -1,0 +1,325 @@
+---
+title: "Chapter 3. Simple Reproduction"
+subtitle: "3. Kapitel. Einfache Reproduktion"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Die einfache Reproduktion ist nur Wiederholung des Produktionsprozesses auf gleicher Stufenleiter. Indeß erhält dieser durch die Wiederholung eine Reihe neuer Merkmale.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Simple reproduction is merely the repetition of the production process on the same scale. Yet through repetition this process acquires a series of new features.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir an, ein Geldbesitzer, der sein Geld irgend wie, vielleicht durch Arbeit, erworben, verwandle dies in Kapital. Er besitze 10.000 Mark, 9.000 lege er in konstantem Kapital aus, 1.000 in variablem, in Arbeitslohn. Mit Anwendung dieses Kapitals erzeuge er eine Produktenmenge im Werth von 11.000 Mark, die er auch zu ihrem vollen Werth verkaufe. Der Mehrwerth von 1.000 Mark wird von ihm konsumirt, die Reproduktion geht auf der alten Stufeuleiter weiter: 9.000 Mark werden in konstantem, 1.000 Mark in variablem Kapital ausgelegt. Wir sehen aber jetzt einen Unterschied gegen früher: die 1.000 Mark, die während des ersten Produktionsprozesses in Arbeitslohu ausgegeben wurden, waren nicht durch die Arbeit der in dem Unternehmen beschäftigten Arbeiter erzeugt worden, sie waren aus einer anderen Quelle geflossen; vielleicht hatte sie der Kapitalist selbst erarbeitet. Woher stammen dagegen die 1.000 Mark, die bei der Wiederholung des Produktionsprozesses in Arbeitslohn verausgabt werden? Sie sind die Realisirung eines von den <em>Arbeitern</em> während des <em>früheren Produktionsprozesses</em> erzeugten Werthes. Die Arbeiter haben nicht nur den Werth des konstanten Kapitals (9.000 Mark) auf das Produkt übertragen, sondern neuen Werth (im Betrag von 2.000 Mark) geschaffen, davon ein Theil (1.000 Mark) gleich dem Werth ihrer Arbeitskraft, ein Theil Mehrwerth.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us assume that a possessor of money, who has acquired his money in some way or other, perhaps through labour, converts it into capital. Let him possess 10,000 marks; he lays out 9,000 in constant capital, 1,000 in variable capital, in wages. With the application of this capital he produces a quantity of products worth 11,000 marks, which he also sells at their full value. The surplus value of 1,000 marks is consumed by him, and reproduction continues on the old scale: 9,000 marks are laid out in constant capital, 1,000 marks in variable capital. But now we see a difference from before: the 1,000 marks that were spent on wages during the first production process had not been produced by the labour of the workers employed in the enterprise; they had flowed from another source; perhaps the capitalist himself had earned them by his own labour. From where, on the other hand, do the 1,000 marks originate that are expended on wages in the repetition of the production process? They are the realisation of a value produced by the <em>workers</em> during the <em>earlier production process</em>. The workers not only transferred the value of the constant capital (9,000 marks) to the product, but also created new value (to the amount of 2,000 marks), of which one part (1,000 marks) is equal to the value of their labour-power, and one part is surplus value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Betrachten wir den kapitalistischen Produktionsprozeß als einmaligen Produktionsprozeß (oder erstmaligen, bei der ersten Anlage eines Kapitals), dann erscheint der Arbeitslohn als <em>Vorschuß</em> aus der Tasche des <em>Kapitalisten.</em> Betrachten wir den kapitalistischen Produktionsprozeß als Reproduktionsprozeß, dann sehen wir den Arbeiter <em>aus dem Produkt seiner eigenen Arbeit bezahlt.</em> In diesem Sinne ist es richtig, daß der Arbeiter im Lohn einen Antheil am Produkt seiner Arbeit erhält. Nur ist es das bereits verkaufte Produkt einer früheren Produktionsperiode, von dem er im Arbeitslohn einen Antheil erhält.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If we regard the capitalist production process as a single production process (or a first one, at the initial investment of a capital), then wages appear as an <em>advance</em> out of the pocket of the <em>capitalist</em>. If we regard the capitalist production process as a reproduction process, then we see the worker <em>paid out of the product of his own labour</em>. In this sense it is correct that the worker receives in his wages a share in the product of his labour. Only it is the already sold product of an earlier period of production of which he receives a share in his wages.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Kehren wir zu unserem Beispiel zurück. Nehmen wir an, jede Produktionsperiode nehme ein halbes Jahr in Anspruch. In jedem Jahr sackt unser Kapitalist 2.000 Mark Mehrwerth ein und konsumirt sie. Nach 5 Jahren hat er 10.000 Mark konsmnirt, einen Werth, gleich dem seines ursprünglichen Kapitals. Er besitzt aber nach wie vor einen Kapitalwerth von 10.000 Mark.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us return to our example. Let us assume that each period of production takes half a year. In each year our capitalist pockets 2,000 marks of surplus value and consumes them. After 5 years he has consumed 10,000 marks, a value equal to that of his original capital. But he still possesses, as before, a capital value of 10,000 marks.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dieser neue Kapitalwerth ist an Größe dem ursprünglichen gleich, aber seine Grundlage ist eine andere. Die ursprünglichen 10.000 Mark stammten nicht aus der Arbeit der in seinem Betrieb beschäftigten Arbeiter, sondern aus einer anderen Quelle. Aber diese 10.000 Mark hat er innerhalb 5 Jahren verzehrt; wenn er daneben noch 10.000 Mark besitzt, so stammen sie aus dem Mehrwerth. So verwandelt sich jedes Kapital, möge es aus welcher Quelle immer entsprungen sein, schon vermöge einfacher Reprodnktion nach einer gewissen Zeit in kapitalisirten Mehrwerth, in den Ertrag überschüssiger fremder Arbeit, in <em>akkumulirtes Kapital.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This new capital value is equal in magnitude to the original one, but its foundation is a different one. The original 10,000 marks did not originate from the labour of the workers employed in his enterprise, but from another source. But he has consumed these 10,000 marks within 5 years; if he nonetheless still possesses 10,000 marks, then they originate from surplus value. Thus every capital, from whatever source it may have sprung, is transformed—already by virtue of simple reproduction, after a certain time—into capitalised surplus value, into the yield of surplus labour of others, into <em>accumulated capital</em>.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Ausgangspunkt des kapitalistischen Produktionsprozesses ist die Scheidung des Arbeiters von den Produktionsmitteln, die Anhäufung besitzloser Arbeiter auf der einen, die Anhäufung von Produktionsmitteln und Lebensmitteln auf der anderen Seite. Im kapitalistischen <em>Reproduktionsprozeß</em> erscheinen diese <em>Ausgangspunkte</em> als <em>Resultate</em> des Produktionsprozesses. Der kapitalistische Reproduktionsprozeß selbst erzeugt immer wieder und erhält damit seine eigenen Bedingungen, das Kapital und die Klasse der Lohnarbeiter.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The point of departure of the capitalist production process is the separation of the worker from the means of production, the accumulation of propertyless workers on the one side, the accumulation of means of production and means of subsistence on the other side. In the capitalist <em>reproduction process</em> these <em>points of departure</em> appear as <em>results</em> of the production process. The capitalist reproduction process itself constantly produces anew, and thereby maintains, its own conditions: capital and the class of wage labourers.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Lebensmittel und Produktionsmittel, welche die Lohnarbeiter erzeugen, gehören nicht ihnen, sondern den Kapitalisten. Die Lohnarbeiter kommen beständig wieder aus dem Produktionsprozeß heraus, wie sie in ihn eintraten, als besitzlose Proletarier; die Kapitalisten dagegen finden sich am Ende jeder Produktionsperiode immer wieder von Neuem im Besitz von Lebensmitteln die Arbeitskräfte kaufen, von Produktionsmitteln, die Produzenten anwenden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The means of subsistence and means of production which the wage labourers produce do not belong to them, but to the capitalists. The wage labourers constantly emerge again from the production process just as they entered it, as propertyless proletarians; the capitalists, on the other hand, find themselves at the end of each period of production once more anew in possession of means of subsistence which buy labour-power, and of means of production which producers apply.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So erzeugt der Arbeiter selbst immer wieder die Vorbedingungen seiner Abhängigkeit und seines Elends.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Thus the worker himself constantly produces anew the preconditions of his own dependence and misery.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Reproduktionsprozeß des Kapitals macht aber auch die Reproduktion der Arbeiterklasse nothwendig.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But the reproduction process of capital also makes the reproduction of the working class necessary.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So lange wir den Produktionprozeß als <em>einmaligen</em> und damit <em>vereinzelten</em> Vorgang untersuchten, hatten wir es nur zu thun mit dem <em>einzelnen</em> Kapitalisten und dem <em>einzelnen</em> Arbeiter. Hier schien die Arbeitskraft und damit der Arbeiter, der von ihr nicht losgelöst werden kann, dem Kapitalisten nur während der Zeit ihres <em>produktiven</em> Konsums zu gehören, während des Arbeitstages. Die andere Zeit über gehörte der Arbeiter sich selbst und seiner Familie. Wenn er aß, trank, schlief, so that er das blos für sich selbst, nicht für den Kapitalisten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>As long as we examined the production process as a <em>single</em> and thereby <em>isolated</em> event, we had to deal only with the <em>individual</em> capitalist and the <em>individual</em> worker. Here the labour-power, and thereby the worker, who cannot be detached from it, seemed to belong to the capitalist only during the time of its <em>productive</em> consumption, during the working day. During the rest of the time the worker belonged to himself and his family. When he ate, drank, slept, he did so merely for himself, not for the capitalist.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sobald wir aber die kapitalistische Produktionsweise in ihrem Fluß und Zusammenhang betrachten, also als Reproduktionsprozeß, so haben wir es von vornherein zu thun nicht mit dem einzelnen Kapitalisten und Arbeiter, sondern mit der <em>Klasse der Kapitalisten</em> und der <em>Klasse der Arbeiter.</em> Der Reproduktionsprozeß des Kapitals erheischt die Verewigung der Arbeiterklasse, das heißt, damit der Produktionsprozeß immer wieder erneuert werden könne, müssen die Arbeiter ihre verausgabte Arbeitskraft immer wieder herstellen und für den steten Nachwuchs frischer Arbeiter sorgen. Das Kapital befindet sich in der angenehmen Lage, die Erfüllung dieser wichtigen Verrichtungen getrost dem Selbsterhaltungs- und Fortpflanzungstrieb der Arbeiter überlassen zu können.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But as soon as we consider the capitalist mode of production in its flow and interconnection, that is, as a reproduction process, then from the outset we have to deal not with the individual capitalist and worker, but with the <em>class of capitalists</em> and the <em>class of workers</em>. The reproduction process of capital demands the perpetuation of the working class; that is, in order that the production process may be constantly renewed, the workers must constantly restore their expended labour-power and provide for the steady supply of fresh workers coming up. Capital finds itself in the pleasant position of being able to leave the fulfilment of these important functions with confidence to the workers' instinct of self-preservation and propagation.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Arbeiter leben anscheinend außerhalb der Arbeitszeit nur für sich; sie leben aber in Wirklichkeit, auch wenn sie „müssig gehen,“ für die Kapitalistenklasse. Wenn sie nach gethaner Arbeit essen, trinken, schlafen u. s. w., so erhalten sie dadurch die Klasse der Lohnarbeiter und damit die kapitalistische Produktionsweise. Wenn der Kapitalist – der <em>Brotherr,</em> wie man ihn in patriarchalischen Zeiten nannte, der <em>Arbeitgeber,</em> wie ihn die deutsche Katheder-Oekonomie getauft hat – wenn der dem Arbeiter seinen Lohn auszahlt, so giebt er ihm damit nur die Mittel, sich, und soweit an ihm, seine Klasse, für die Kapitalistenklasse zu erhalten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Outside of working time the workers apparently live only for themselves; but in reality they live, even when they are “idle,” for the capitalist class. When after their day's work they eat, drink, sleep, and so on, they thereby maintain the class of wage labourers and thus the capitalist mode of production. When the capitalist—the <em>master</em>, as he was called in patriarchal times, the <em>employer</em>, as the German academic economics has christened him—when he pays the worker his wages, he thereby gives him only the means to maintain himself, and, as far as in him lies, his class, for the capitalist class.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dadurch aber, daß die Arbeiter die Lebensmittel konsumiren, die sie für ihren Lohn kaufen, werden sie immer wieder von Neuem gezwungen, ihre Arbeitskraft feilzubieten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But precisely because the workers consume the means of subsistence which they buy with their wages, they are constantly compelled anew to offer their labour-power for sale.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So ist, vom Standpunkt der Reproduktion aus, der Arbeiter nicht nur während seiner Arbeitszeit, sondern auch während seiner „freien“ Zeit im Interesse des Kapitals thätig. Er ißt und trinkt nicht mehr für sich, sondern um der Kapitalistenklasse seine Arbeitskraft zu erhalten. Wie der Arbeiter ißt und trinkt, ist daher dem Kapitalisten gar nicht gleichgiltig. Wenn Jener am Sonntag sich besäuft, so daß er am Montag einen Katzenjammer hat, statt seine Arbeitskraft auszuruhen und zu erneuern, so erscheint ihm das nicht als eine Schädigung der eigenen Interessen des Arbeiters, sondern als ein Verbrechen am Kapital, eine <em>Veruntreuung</em> von Arbeitskraft, die dem Kapital gebührt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Thus, from the standpoint of reproduction, the worker is active in the interest of capital not only during his working time, but also during his “free” time. He no longer eats and drinks for himself, but in order to maintain his labour-power for the capitalist class. How the worker eats and drinks is therefore by no means a matter of indifference to the capitalist. If the worker gets drunk on Sunday, so that on Monday he has a hangover, instead of resting and renewing his labour-power, this appears to the capitalist not as an injury to the worker's own interests, but as a crime against capital, an <em>embezzlement</em> of labour-power that is due to capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nicht mehr die jeweilig <em>gekaufte Arbeitskraft,</em> sondern der <em>ganze Arbeiter,</em> die <em>ganze Arbeiterklasse</em> erscheint vom Standpunkt des Reproduktionsprozesses als <em>Zubehör des Kapitals.</em> Wo der Arbeiter das nicht einsieht, und die Mittel hat, sich dem zu entziehen, z. B. durch Auswanderung, trägt der Kapitalist unter Umständen kein Bedenken, ihm durch gesetzlichen Zwang darzuthun, daß er sich nicht für sich, sondern für das Kapital zu erhalten und fortzupflanzen habe. So war früher z. B. die Auswanderung geschickter Arbeiter in den meisten Staaten durch Zwangsgesetze verboten. Heute ist das nicht nothwendig. Die kapitalistische Produktionsweise ist so stark geworden, daß ihre Gesetze sich in der Regel als <em>ökonomische</em> Zwangsgesetze ohne politische Nachhilfe vollziehen. Der Arbeiter ist heute mit unsichtbaren Fesseln an das Kapital gebunden, und er findet das Kapital überall, wohin er sich wendet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>No longer merely the <em>labour-power purchased</em> in each instance, but the <em>whole worker,</em> the <em>whole working class</em> appears from the standpoint of the reproduction process as an <em>appurtenance of capital.</em> Where the worker does not perceive this, and possesses the means to withdraw himself from it, for example through emigration, the capitalist under certain circumstances has no scruple in demonstrating to him by legal compulsion that he has to maintain and reproduce himself not for himself but for capital. Thus formerly, for example, the emigration of skilled workers was in most states forbidden by coercive laws. Today this is not necessary. The capitalist mode of production has become so strong that its laws as a rule execute themselves as <em>economic</em> coercive laws without political assistance. The worker today is bound to capital by invisible fetters, and he finds capital everywhere he turns.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Unseren „Sozialreformern“ erscheint diese Abhängigkeit von der Kapitalistenklasse im Allgemeinen freilich nicht weitgehend genug. Fesselung des Arbeiters an den einzelnen Kapitalisten durch Einschränkung der Freizügigkeit, Einrichtung raffinirter Systeme von Arbeiterhäusern und ähnliche „Reformen“ bilden ihre Heilmittel zur „Lösung der sozialen Frage.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>To our “social reformers” this dependence upon the capitalist class does not, of course, generally appear to go far enough. The binding of the worker to the individual capitalist through the restriction of freedom of movement, the establishment of refined systems of workers' houses and similar “reforms” constitute their remedies for the “solution of the social question.”</p>
+```
+
+:::
+
+:::
+

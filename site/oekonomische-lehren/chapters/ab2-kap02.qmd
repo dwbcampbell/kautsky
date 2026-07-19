@@ -1,0 +1,325 @@
+---
+title: "Chapter 2. The Role of Capital in the Formation of Value"
+subtitle: "2. Kapitel. Das Verhalten des Kapitals bei der Werthbildung"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir haben im 1. Kapitel des 1. Abschnitts die Unterscheidung kennen gelernt, die Marx zuerst gemacht, des Doppelcharakters der Waaren erzeugenden Arbeit: einerseits als <em>bestimmter Form nützlicher, Gebrauchswerthe erzeugender Arbeit</em> und andererseits als <em>allgemein menschlicher einfacher Durchschnittsarbeit, die Waarenwerthe bildet.</em> Diesem Doppelcharakter entsprechend ist auch der Produktionsprozeß unter der Herrschaft der Waarenproduktion ein zwieschlächtiger, ist er Einheit von <em>Arbeitsprozeß</em> und <em>Werthbildungsprozeß,</em> und als <em>kapitalistischer</em> Produktionsprozeß Einheit von <em>Arbeitsprozeß</em> und <em>Verwerthungsprozeß.</em> Wir haben im letzten Kapitel die beiden Elemente des Arbeitsprozesses kennen gelernt: Produktionsmittel und Arbeitskraft; wir haben aber auch die verschiedenen Rollen kennen gelernt, die diese beiden Elemente als Theile des Kapitals im Verwerthungsprozeß spielen. Wir haben gesehen, daß die Produktionsmittel in ganz anderer Weise an der Bildung des Produktenwerthes Antheil nehmen, als die Arbeitskraft.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">In the 1st chapter of the 1st section we became acquainted with the distinction which Marx first made, that of the twofold character of commodity-producing labour: on the one hand as a <em>definite form of useful labour producing use-values</em>, and on the other hand as <em>general human simple average labour, which forms commodity values.</em> Corresponding to this twofold character, the process of production under the dominion of commodity production is likewise a twofold one; it is a unity of <em>labour process</em> and <em>value-forming process</em>, and as a <em>capitalist</em> process of production a unity of <em>labour process</em> and <em>value-expansion process.</em> In the last chapter we became acquainted with the two elements of the labour process: means of production and labour-power; but we also became acquainted with the different roles which these two elements, as parts of capital, play in the value-expansion process. We have seen that the means of production take part in the formation of the value of the product in a quite different manner than labour-power.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir haben gefunden, daß der Werth der verzehrten Produktionsmittel im Werth des Produkts wieder erscheint. Die Uebertragung dieses Werthes geschieht im Arbeitsprozeß durch die Arbeit. Wie ist das aber möglich? Die Arbeit muß gleichzeitig Doppeltes vorbringen, neuen Werth schaffen und alten Werth übertragen. Es ist dies nur erklärlich durch den Doppelcharakteer der Arbeit, an den wir eben erinnert. In ihrer Eigenschaft als <em>werthbildende</em> allgemein menschliche Arbeit schafft sie neuen Werth; in ihrer Eigenschaft als <em>Gebrauchswerthe erzeugende</em> besondere Form nützlicher Arbeit überträgt sie den Werth der Produktionsmittel auf das Produkt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We have found that the value of the consumed means of production reappears in the value of the product. The transference of this value takes place in the labour process through labour. But how is this possible? Labour must simultaneously accomplish two things: create new value and transfer old value. This is only explicable through the twofold character of labour, of which we have just been reminded. In its character as <em>value-forming</em> general human labour it creates new value; in its character as a <em>particular form of useful labour producing use-values</em> it transfers the value of the means of production to the product.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nur durch die besondere Form der Spinnarbeit kann der Werth von Baumwolle und Spindel auf das Garn übertragen werden; der Spinner dagegen kann denselben Werth, den er als Spinner schafft, auch durch andere Arbeit schaffen, wenn er z. B. Tischler wird; dann macht er aber kein Garn, überträgt nicht Baumwollenwerth auf Garn.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Only through the particular form of spinning labour can the value of cotton and spindle be transferred to the yarn; the spinner, on the other hand, can also create the same value which he creates as a spinner through other labour, if for example he becomes a joiner; but then he makes no yarn, transfers no cotton value to yarn.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der zwieschlächtige Charakter der Arbeit als <em>werthbildender</em> und <em>werthübertragender</em> Arbeit erhellt deutlich, wenn man den Einfluß eines Wechsels der Produktivität der Arbeit auf die Werthbildung und die Werthübertragung betrachtet. Die Größe des Werthes, der in einer Arbeitsstunde erzeugt wird, ändert sich nicht, wenn, unter sonst gleichen Umständen, die Produktivität der Arbeit wächst oder abnimmt. Die Menge der in einem bestimmten Zeitraum produzirten Gebrauchswerthe wächst oder nimmt dagegen ab mit der Produktivität der Arbeit. In demselben Maße also wächst oder vermindert sich die werthübertragende Fähigkeit der Arbeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The twofold character of labour as <em>value-forming</em> and <em>value-transferring</em> labour becomes clearly evident when one considers the influence of a change in the productivity of labour upon the formation of value and the transference of value. The magnitude of value which is produced in one hour of labour does not change if, other circumstances remaining equal, the productivity of labour increases or decreases. The quantity of use-values produced in a definite period of time, on the other hand, increases or decreases with the productivity of labour. To the same degree, therefore, the value-transferring capacity of labour increases or diminishes.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir z. B. an, eine Erfindung verdopple die Produktivität der Spinnarbeit, indeß die Produktivität der Arbeit der Baumwollpflanzer die gleiche bleibe. In 1 Pfund Baumwolle seien 2 Arbeitsstunden enthalten, es koste, wenn wir bei unserer obigen Annahme bleiben, 1 Mark. Früher wurden in einer Stunde 2 Pfund Baumwolle versponnen, jetzt 4 Pfund. <em>Derselbe Neuwerth,</em> der früher den 2 Pfund durch die Arbeit einer Stunde zugesetzt wurde, wird jetzt den 4 Pfund zugesetzt, nach unserer Annahme 50 Pfennige. Aber der <em>doppelte Werth</em> wird jetzt in einer Stunde auf das Garn durch die Spinnarbeit <em>übertragen:</em> früher 2 Mark, jetzt 4 Mark.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us assume, for example, that an invention doubles the productivity of spinning labour, while the productivity of the labour of the cotton planters remains the same. Let 1 pound of cotton contain 2 hours of labour; it costs, if we keep to our above assumption, 1 mark. Formerly 2 pounds of cotton were spun in one hour, now 4 pounds. <em>The same new value</em> which was formerly added to the 2 pounds by the labour of one hour is now added to the 4 pounds, according to our assumption 50 pfennigs. But the <em>double value</em> is now <em>transferred</em> in one hour to the yarn by the spinning labour: formerly 2 marks, now 4 marks.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Man sieht, die Werth <em>erhaltende</em> oder <em>übertragende</em> Kraft der Arbeit beruht auf einer anderen Eigenschaft derselben als ihre Werth <em>bildende</em> Kraft.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>One sees that the value-<em>preserving</em> or -<em>transferring</em> power of labour rests upon a different property of it than its value-<em>forming</em> power.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Da kein Produziren ohne Produktionsmittel möglich, ist jede Waaren produzirende Arbeit nicht nur Werth <em>bildend,</em> sondern auch Werth <em>erhaltend,</em> und zwar nicht nur in dem Sinne, daß sie die Werthe der verbrauchten Produktionsmittel auf das Produkt überträgt, sondern auch in dem Sinne, daß sie den Werth der ersteren vor dem Untergang bewahrt. Alles Irdische ist vergänglich, und so gehen auch die Produktionsmittel früher oder später zu Grunde, selbst wenn sie unbenutzt bleiben. Manche von ihnen, z. B. verschiedene Maschinen, verderben sogar schneller, wenn sie stehen bleiben, als wenn sie in Gang gehalten werden. Mit dem Gebrauchswerth der Produktionsmittel schwindet auch ihr Waarenwerth. Geschieht die Abnutzung normaler Weise im Produktionsprozeß, dann erscheint der Werth, den das Produktionsmittel verloren, im Werth des Produkts wieder. Verschleißt das Produktionsmittel, ohne im Produktionsprozeß verwendet zu werden, dann verschwindet sein Werth auf Nimmerwiedersehen. Der Kapitalist übersieht gewöhnlich diese Seite der Arbeit, sie kommt ihm aber sehr empfindllch zum Bewußtsein, wenn er, etwa in Folge einer Krise, gezwungen ist, den Produktionsprozeß zu unterbrechen. Marx führt das Beispiel eines englischen Baumwollspinners an, der 1862 die jährlichen Stillstandskosten seiner Fabrik in Folge der Baumwollenkrise auf 120.000 Mark veranschlagte, darunter 24.000 Mark für Verschlechterung der Maschinerie.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Since no producing is possible without means of production, every commodity-producing labour is not only value-<em>forming</em> but also value-<em>preserving</em>, and indeed not only in the sense that it transfers the values of the consumed means of production to the product, but also in the sense that it preserves the value of the former from destruction. All earthly things are transitory, and so the means of production too perish sooner or later, even if they remain unused. Many of them, for example various machines, even deteriorate more quickly if they stand still than if they are kept in operation. With the use-value of the means of production their commodity value also vanishes. If the wear and tear takes place in the normal manner in the production process, then the value which the means of production has lost reappears in the value of the product. If the means of production wears out without being employed in the production process, then its value disappears never to return. The capitalist usually overlooks this side of labour, but it comes very keenly to his consciousness when he is compelled, perhaps as a consequence of a crisis, to interrupt the production process. Marx cites the example of an English cotton spinner who in 1862 estimated the annual costs of the standstill of his factory as a result of the cotton crisis at 120,000 marks, among them 24,000 marks for the deterioration of the machinery.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die verschiedenen Produktionsmittel verhalten sich aber verschieden in Bezug auf die Art und Weise der Werthübertragung. Die einen verlieren im Arbeitsprozeß ihre selbständige Gestalt, so Rohmaterial und Hilfsstoffe. Andere bewahren ihre Gestalt im Arbeitsprozeß. Die Baumwolle, die versponnen wird, verliert ihre Gestalt, die Spindel, die spinnt, jedoch nicht. Die ersteren geben in jedem Produktionsprozeß ihren <em>ganzen Werth</em> an das Produkt ab, die letzteren nur <em>Bruchtheile</em> davon. Wenn eine Maschine 1000 Mark werth ist, und sich unter normalen Verhältnissen in 1000 Tagen abnutzt, so giebt sie in jedem Arbeitstag den Werth einer Mark an das in dieser Zeit mit ihrer Hilfe hergestellte Produkt ab.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The various means of production, however, behave differently with respect to the manner of the transference of value. Some lose their independent shape in the labour process, thus raw material and auxiliary substances. Others preserve their shape in the labour process. The cotton which is spun loses its shape, the spindle which spins, however, does not. The former give up their <em>whole value</em> to the product in each production process, the latter only <em>fractional parts</em> of it. If a machine is worth 1000 marks and wears out under normal conditions in 1000 days, then in each working day it gives up the value of one mark to the product manufactured with its help during this time.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Auch hier tritt uns der zwieschlächtige Charakter des Produktionsprozesses entgegen. Wie kann die Maschine <sup><small>1</small></sup>/<small><small>1000</small></small> ihres Werthes an ein bestimmtes Produkt abgeben? Bei dessen Herstellung ist ja nicht <sup><small>1</small></sup>/<small><small>1000</small></small> der Maschine, sondern die ganze Maschine in Thätigkeit. Dieser Einwand ist wirklich erhoben worden. Zu antworten ist, daß die <em>ganze</em> Maschine in den Produktionsprozeß eingeht, soweit er <em>Arbeitsprozeß;</em> dagegen nur ein entsprechender <em>Bruchtheil</em> derselben, soweit er <em>Verwerthungsprozeß.</em> Als <em>Gebrauchswerth</em> geht die <em>ganze</em> Maschine in jeden Produktionsprozeß ein; als <em>Werth</em> nur ein <em>Bruchtheil</em> von ihr.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Here too the twofold character of the production process confronts us. How can the machine give up <sup><small>1</small></sup>/<small><small>1000</small></small> of its value to a definite product? For in its manufacture not <sup><small>1</small></sup>/<small><small>1000</small></small> of the machine, but the whole machine, is in operation. This objection has actually been raised. The answer is that the <em>whole</em> machine enters into the production process insofar as it is a <em>labour process</em>; whereas only a corresponding <em>fractional part</em> of it does insofar as it is a <em>value-expansion process.</em> As <em>use-value</em> the <em>whole</em> machine enters into each production process; as <em>value</em> only a <em>fractional part</em> of it.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Umgekehrt kann der <em>ganze Werth</em> eines Produktionsmittels in das Produkt übergehen, und doch nur ein Theil seines Körpers. Nehmen wir an, daß, um 100 Pfund Garn zu erzeugen, 115 Pfund Baumwolle unter normalen Verhältnissen erforderlich sind, daß die Menge der unverwendbaren Abfälle in diesem Falle 15 Pfund beträgt, so werden nur 100 Pfund Baumwolle in 100 Pfund Garn eingehen, aber in den Werth der 100 Pfund Garn wird der Werth von 115 Pfund Baumwolle übergegangen sein.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Conversely, the <em>whole value</em> of a means of production can pass over into the product, and yet only a part of its body. Let us assume that in order to produce 100 pounds of yarn 115 pounds of cotton are required under normal conditions, that the quantity of unusable waste amounts in this case to 15 pounds; then only 100 pounds of cotton will enter into the 100 pounds of yarn, but into the value of the 100 pounds of yarn the value of 115 pounds of cotton will have passed over.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Produktionsinittel übertragen während des Arbeitsprozesses so viel Werth auf das Produkt, als sie während desselben selbst verlieren. Sie können ihm nie mehr Werth zusetzen, als sie selbst besitzen, wie groß auch ihr Gebrauchswerth sein mag. Es ist also gänzlich haltlos, wenn die Vulgärokonomie den Mehrwerth und seine verwandelten Formen, Zins, Prosit, Grundrente, aus dem <em>Gebrauchswerth</em> der Produktionsmittel ableiten will, aus ihren „Diensten.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The means of production transfer during the labour process as much value to the product as they themselves lose during it. They can never add more value to it than they themselves possess, however great their use-value may be. It is therefore entirely untenable when vulgar economics wishes to derive surplus value and its transformed forms—interest, profit, ground rent—from the <em>use-value</em> of the means of production, from their “services.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Werth der im Produktionsprozeß verbrauchten Produktionsmittel erscheint unverändert wieder im Werth des Produkts.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The value of the means of production consumed in the production process reappears unchanged in the value of the product.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Arbeit erhält aber nicht nur Werth, sie bildet auch Neuwerth. Bis zu einem gewissen Zeitpuukt ersetzt die neuen Werth schaffende Arbeit nur den vom Kapitalisten im Kauf der Arbeitskraft verausgabten Werth. Dauert die Arbeit über diesen Punkt hinaus, so bildet sie überschüssigen Werth, <em>Mehrwerth.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But labour does not only preserve value, it also forms new value. Up to a certain point in time, the labour that creates new value merely replaces the value expended by the capitalist in the purchase of the labour-power. If the labour continues beyond this point, it forms excess value, <em>surplus value.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„Der Theil des Kapitals also,“ sagt Marx, „der sich in <em>Produktionsmittel,</em> d. h. in Rohmaterial, Hilfsstoffe und Arbeitsmittel umsetzt, <em>verändert seine Werthgröße nicht</em> im Produktionsprozeß. Ich nenne ihn daher <em>konstanten</em> (unveränderlichen, ständigen) <em>Kapitaltheil,</em> oder kürzer: <em>konstantes Kapital.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">“That part of capital, then,” says Marx, “which is converted into <em>means of production,</em> that is, into raw material, auxiliary materials and the instruments of labour, <em>does not alter the magnitude of its value</em> in the production process. I therefore call it the <em>constant</em> (unchanging, permanent) <em>part of capital,</em> or, more briefly: <em>constant capital.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quote">„Der in <em>Arbeitskraft</em> umgesetzte Theil des Kapitals <em>verändert</em> dagegen seinen Werth im Produktionsprozeß. Er produzirt sein eigenes Aequivalent und einen Ueberschuß darüber, <em>Mehrwerth,</em> der selbst wechseln, größer oder kleiner sein kann. Aus einer konstanten Größe verwandelt sich dieser Theil des Kapitals fortwährend in eine variable (ihre Größe wechselnde). Ich nenne ihn daher <em>variablen Kapitaltheil,</em> oder kürzer: <em>variables Kapital.</em> Dieselben Kapitalbestandtheile, die sich vom Standpunkte des Arbeitsprozesses als objektive und subjektive Faktoren, als Produktionsmittel und Arbeitskraft unterscheiden, unterscheiden sich vom Standpunkt des Verwerthungsprozesses als konstantes Kapital und variables Kapital.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quote">“The part of capital converted into <em>labour-power,</em> on the other hand, <em>does alter</em> its value in the production process. It produces its own equivalent and a surplus over and above it, <em>surplus value,</em> which may itself vary, may be greater or smaller. From a constant magnitude this part of capital is continually transformed into a variable one (one that changes in magnitude). I therefore call it the <em>variable part of capital,</em> or, more briefly: <em>variable capital.</em> The same components of capital that, from the standpoint of the labour process, are distinguished as objective and subjective factors, as means of production and labour-power, are distinguished, from the standpoint of the valorisation process, as constant capital and variable capital.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Die Werthgröße des konstanten Kapitals ist natürlich nur in Bezug auf den Verwerthungsprozeß als beständige Größe aufzufassen. Durch den <em>Produktionsprozeß,</em> in welchem es angewandt wird, wird die Werthgröße des konstanten Kapitals nicht geändert, wohl aber kann dies durch andere Faktoren bewirkt werden. Auch das Verhältniß zwischen konstantem und variablem Kapital kann wechseln. Wir kommen darauf später noch zurück.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">The magnitude of the value of constant capital is of course to be regarded as a constant magnitude only in relation to the valorisation process. The magnitude of the value of constant capital is not altered by the <em>production process</em> in which it is applied, but this may well be brought about by other factors. The ratio between constant and variable capital may also change. We shall return to this later.</p>
+```
+
+:::
+
+:::
+

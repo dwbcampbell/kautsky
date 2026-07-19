@@ -1,0 +1,588 @@
+---
+title: "Chapter 9. Division of Labour and Manufacture"
+subtitle: "9. Kapitel. Arbeitstheilung und Manufaktur"
+---
+
+##### 1. The Twofold Origin of Manufacture. Its Elements: the Detail Worker and his Tool
+
+<p class="de-subtitle">1. Doppelter Ursprung der Manufaktur. Ihre Elemente: der Theilarbeiter und sein Werkzeug</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Im ersten Abschnitt konnten wir als Grundlage unserer Darstellung neben dem <strong>Kapital</strong> namentlich die <strong>Kritik der politischen Oekonomie</strong> von Marx benutzen, zum Theil auch sein <em>Lohnarbeit und Kapital.</em> Bezüglich der Ausführungen dieses und des nächsten Kapitels, die von der Arbeitstheilung und der Manufaktur, dem Maschinenwesen und der Großindustrie handeln, kommt neben dem <strong>Kapital</strong> die <strong>Misère de la philosophie</strong> von Marx in Betracht <a href="#ab2-kap09-n1" id="ab2-kap09-f1" name="ab2-kap09-f1">[1]</a>, namentlich der § 2 des zweiten Kapitels (S. 110–130), betitelt: <em>Arbeitstheilung und Maschinen.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">In the first section we were able, as the basis of our exposition, to make use, alongside <strong>Capital</strong>, above all of Marx's <strong>Critique of Political Economy</strong>, and in part also of his <em>Wage Labour and Capital.</em> As regards the arguments of this and the next chapter, which deal with the division of labour and manufacture, machinery and large-scale industry, there comes into consideration, alongside <strong>Capital</strong>, Marx's <strong>Misère de la philosophie</strong> <a href="#ab2-kap09-n1" id="ab2-kap09-f1" name="ab2-kap09-f1">[1]</a>, in particular § 2 of the second chapter (pp. 110–130), entitled: <em>Division of Labour and Machines.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Literatur über die Nachtheile der Arbeitstheilung in der kapitalistischen Manufaktur für den Arbeiter ist im <strong>Elend der Philosophie</strong> eingehender behandelt, als im <strong>Kapital</strong>. Der genannte § 2 bildet also nicht nur einen Vorläufer, sondern auch eine Ergänzung der beiden hier in Betracht kommenden Kapitel des <strong>Kapital,</strong> die unseres Erachtens zu dem Großartigsten gehören, was Marx überhaupt geschrieben und die leider bisher von den meisten, die das <strong>Kapital</strong> gelesen <a href="#ab2-kap09-n2" id="ab2-kap09-f2" name="ab2-kap09-f2">[2]</a>, nicht so beachtet wurden, wie sie verdienten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The literature on the disadvantages of the division of labour in capitalist manufacture for the worker is treated more thoroughly in the <strong>Poverty of Philosophy</strong> than in <strong>Capital</strong>. The above-mentioned § 2 thus forms not only a precursor, but also a supplement to the two chapters of <strong>Capital</strong> here under consideration, which in our opinion belong to the most magnificent things that Marx ever wrote and which, unfortunately, have hitherto not been given the attention they deserve by most of those who have read <strong>Capital</strong> <a href="#ab2-kap09-n2" id="ab2-kap09-f2" name="ab2-kap09-f2">[2]</a>.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Zunächst haben wir die Manufaktur zu betrachten, „jene Industrie, die noch nicht die moderne große Industrie mit ihren Maschinen ist, die aber bereits weder die Industrie des Mittelalters noch die Hausindustrie mehr ist.“ <strong>(Elend der Philosophie,</strong> S. 121.) Als charakteristische Form des kapitalistischen Produktionsprozesses herrscht sie im Großen und Ganzen ungefähr von der Mitte des sechzehnten bis gegen Ende des achtzehnten Jahrhunderts. <a href="#ab2-kap09-n3" id="ab2-kap09-f3" name="ab2-kap09-f3">[3]</a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>First of all we have to consider manufacture, "that industry which is not yet modern large-scale industry with its machines, but which is already no longer either the industry of the Middle Ages or the domestic industry." <strong>(Poverty of Philosophy,</strong> p. 121.) As the characteristic form of the capitalist production process it prevails, by and large, roughly from the middle of the sixteenth to towards the end of the eighteenth century. <a href="#ab2-kap09-n3" id="ab2-kap09-f3" name="ab2-kap09-f3">[3]</a></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ihr Ursprung ist ein doppelter. Auf der einen Seite fand das Kapital Produkte vor, die durch die Hände verschiedenartiger Handwerker laufen mußten, ehe sie vollendet waren. So wanderte eine Kutsche aus den Händen des Stellmachers in die des Sattlers, des Tapezierers, des Malers, des Glasers u. s. w. An Stelle der verschiedenartigen selbständigen Handwerker setzte der Kapitalist Lohnarbeiter dieser Arbeitszweige, die in einem gemeinsamen Arbeitshai~ planmäßig zusammen an der Herstellung der Kutsche arbeiteten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Its origin is a twofold one. On the one hand, capital found products before it which had to pass through the hands of various kinds of handicraftsmen before they were completed. Thus a carriage passed from the hands of the wheelwright into those of the saddler, the upholsterer, the painter, the glazier, and so on. In place of the various kinds of independent handicraftsmen the capitalist put wage labourers of these branches of work, who worked together according to plan in a common workshop on the making of the carriage.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Manufaktur entwickelte sich aber auch auf dem entgegengesetzten Wege. Der Kapitalist vereinigte eine Reihe von Arbeitern, die alle das gleiche Produkt erzeugten, z. B. Nadler, in einem Arbeitsraum. Jedem von ihnen fielen alle die Verrichtungen nacheinander zu, die zur Fertigstellung des Produktes nothwendig waren. Sobald eine größere Anzahl von Arbeitern in dieser Weise beschäftigt war, führte dies naturgemäß zu einer <em>Theilung</em> der verschiedenen Verrichtungen unter die verschiedenen Arbeiter. Auf der einen Seite entstand die Manufaktur durch <em>Vereinigung</em> verschiedenartiger selbständiger Handwerke, auf der anderen Seite durch <em>Theilung</em> der verschiedenen Verrichtungen eines Handwerks unter verschiedene Arbeiter.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But manufacture also developed by the opposite path. The capitalist united in one workroom a series of workers who all produced the same product, e.g. needle-makers. To each of them fell, one after another, all the operations that were necessary for the completion of the product. As soon as a larger number of workers was employed in this way, this naturally led to a <em>division</em> of the various operations among the various workers. On the one hand manufacture arose through the <em>union</em> of various kinds of independent handicrafts, on the other hand through the <em>division</em> of the various operations of one handicraft among various workers.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ob aber die jeweilige Verrichtung, die dem Arbeiter in der Manufaktur zufällt, ehedem die selbständige Verrichtung eines besonderen Handwerks war oder aus der Zerlegung der Verrichtungen eines Handwerks erstand, das Handwerk bildete stets ihre Grundlage, nicht nur historisch, sondern auch technisch. Es bleibt unerläßliche Bedingung, daß jede einzelne Operation von <em>Menschenhand</em> vollführt werde. So wie im Handwerk beruht auch in der Manufaktur der Erfolg der Arbeit wesentlich auf der Geschicklichkeit, Sicherheit und Schnelligkeit des einzelnen Arbeiters.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But whether the particular operation that falls to the worker in manufacture was formerly the independent operation of a special handicraft, or arose from the breaking-up of the operations of one handicraft, the handicraft always formed its basis, not only historically, but also technically. It remains an indispensable condition that every single operation be carried out by <em>the human hand.</em> Just as in the handicraft, so too in manufacture the success of the labour rests essentially on the skill, sureness and speed of the individual worker.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber zwischen dem Arbeiter des Handwerks und dem der Manufaktur besteht ein gewaltiger Unterschied. An Stelle der Mannigfaltigkeit der Verrichtungen des Ersteren tritt in der Manufaktur die Einfachheit und Eintönigkeit der Verrichtungen, die der Arbeiter tagaus, tagein, jahraus, jahrein vollbringt. Der Arbeiter ist nicht mehr ein zielbewußter, selbständiger Produzent, sondern nur noch ein unselbständiger Theil eines großen Arbeitsmechanismus, gewissermaßen ein Glied des Gesammtarbeiters.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But between the worker of the handicraft and that of manufacture there exists an enormous difference. In place of the manifoldness of the operations of the former, in manufacture there comes the simplicity and monotony of the operations which the worker carries out day in, day out, year in, year out. The worker is no longer a purposeful, independent producer, but only a dependent part of a great mechanism of labour, in a certain sense a limb of the collective worker.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Virtuosität des Arbeiters auf dem beschränkten Gebiet, in dem er sich bewegt, wird dadurch freilich enorm gesteigert. Er entdeckt eine Reihe von Kunstgriffen, überträgt sie an seine Genossen und lernt andere von diesen. Der Wechsel des Platzes und des Werkzeuges, den die Mannigfaltigkeit der Arbeit mit sich bringt, verursacht Verschwendung von Zeit und Arbeitskraft; diese fällt weg bei dem Theilarbeiter der Manufaktur, der ununterbrochen am selben Platz mit dem gleichen Werkzeug in einem Fluß fortarbeitet. Andererseits liegen im Wechsel der Thätigkeit eine Erholung und ein Reiz, die dem Theilarbeiter mangeln.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The virtuosity of the worker in the restricted field in which he moves is, of course, thereby enormously heightened. He discovers a series of knacks, passes them on to his comrades and learns others from them. The change of place and of tool which the manifoldness of the work brings with it causes a waste of time and of labour-power; this falls away in the case of the detail worker of manufacture, who works on continuously in one flow at the same place with the same tool. On the other hand, in the change of activity there lie a recreation and a stimulus which the detail worker lacks.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Theilung der Arbeit in der Mauufaktur entwickelt nicht nur die Virtuosität des Arbeiters, sie bewirkt auch eine Vervollkommnung seiner <em>Werkzeuge.</em> Ein Werkzeug, das den verschiedensten Verrichtungen dienen soll, kann nicht jeder derselben vollkommen angepaßt sein; ein Werkzeug, das ausschließlich bei einer einzigen Verrichtung angewandt wird, kann dieser entsprechend angepaßt und dadurch viel wirksamer werden, als die früheren Werkzeuge.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The division of labour in manufacture develops not only the virtuosity of the worker, it also brings about a perfecting of his <em>tools.</em> A tool that is to serve the most varied operations cannot be perfectly adapted to each of them; a tool that is used exclusively for a single operation can be adapted to it accordingly and thereby become far more effective than the earlier tools.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Alle diese Umstände bewirken eine bedeutende Steigerung der Produktivkraft der Arbeit in der Manufaktur gegenüber dem Handwerk.<br/> <a id="ab2-kap09-t2" name="ab2-kap09-t2"> </a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>All these circumstances bring about a considerable heightening of the productive power of labour in manufacture as compared with the handicraft.<br/> <a id="ab2-kap09-t2" name="ab2-kap09-t2"> </a></p>
+```
+
+:::
+
+:::
+
+##### 2. The Two Basic Forms in Manufacture
+
+<p class="de-subtitle">2. Die beiden Grundformen in der Manufaktur</p>
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir betrachteten bisher den doppelten Ursprung der Manufaktur und ihre einfachen Elemente, den Theilarbeiter und sein Werkzeug. Wenden wir uns jetzt zu ihrer Gesammtgestalt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Thus far we have considered the twofold origin of manufacture and its simple elements, the detail-worker and his tool. Let us now turn to its total configuration.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Manufaktur besitzt zwei von einander wesentlich verschiedene Grundformen, die aus der Natur des Machwerks, des Produkts entspringen. Entweder wird dieses aus einer Reihe selbständiger Theilprodukte zusammengesetzt, oder es wird gebildet in einer Reihe miteinander zusammenhängender Manipulationen und Verrichtungen, die aber alle an demselben Arbeitsgegenstand nacheinander vorgenommen werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Manufacture possesses two basic forms essentially different from one another, which spring from the nature of the article produced, the product. Either this is put together out of a series of independent partial products, or it is formed in a series of interconnected manipulations and operations, which are, however, all carried out one after another upon the same object of labour.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir können jede dieser beiden Grundformen der Manufaktur mit einem berühmten Beispiel illustriren. Sir William Petty macht die manufakturmäßige Arbeitstheilung anschaulich mit der <em>Uhrenfabrikation,</em> welche zur ersteren Grundform der Manufaktur zu zählen ist. Im handwerksmäßigen Betrieb war die Uhr ursprünglich das Produkt der Arbeit eines Arbeiters, welcher sie von Anfang bis zu Ende selbst fertigte. Sobald die Uhrenfabrikation dem kapitalistischen Betrieb unterworfen war, wurde die Herstellung eines jeden Bestandtheils der Uhr einem besonderen Theilarbeiter zugewiesen, und ebenso deren Zusammensetzung. Da giebt es Uhrfedermacher, Zifferblattmacher, Gehäusemacher, Zeigermacher, Zapfenmacher u. s. w., endlich den Repasseur, der die ganze Uhr zusammenstellt und sie in geregelten Gang setzt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We can illustrate each of these two basic forms of manufacture with a famous example. Sir William Petty makes the manufacturing division of labour vivid with the <em>making of watches,</em> which is to be counted among the former basic form of manufacture. In handicraft operation the watch was originally the product of the labour of a single worker, who made it himself from beginning to end. As soon as watch-making was subjected to capitalist operation, the production of each single component of the watch was assigned to a particular detail-worker, and likewise their assembly. There are watch-spring makers, dial makers, case makers, hand makers, pin makers, and so on, and finally the repasseur, who puts the whole watch together and sets it going regularly.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Ein Beispiel der zweiten Grundform der Manufaktur hat uns Adam Smith gegeben in seiner berühmt gewordenen Darlegung der Stecknadelfabrikation, wie sie zu seiner Zeit bestand.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>An example of the second basic form of manufacture has been given us by Adam Smith in his celebrated exposition of pin-making as it existed in his day.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„Der eine Mensch zieht den Draht,“ sagt er, „der andere streckt ihn, der dritte schneidet ihn in Stücke, der vierte macht die Spitze daran, der fünfte schleift ihn am anderen Ende, auf das der Kopf gesetzt werden soll. Den Nadelkopf zu machen, erfordert selbst zwei bis drei von einander verschiedene Operationen. Den Kopf auf die Nadel zu setzen, ist ein eigenes Geschäft; – die Nadeln weiß zu machen, ein anderes. Es macht sogar einen besonderen Arbeitszweig aus, die Nadeln in die Papiere zu stecken. Und so findet sich die Arbeit, eine Stecknadel zu verfertigen, in achtzehn von einander abgesonderte Verrichtungen vertheilt, die in einigen Fabriken dieser Art von ebensoviel Händen verrichtet werden.“ <strong>(Wealth of nations,</strong> ch. 1)</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">“One man draws out the wire,” he says, “another straightens it, a third cuts it into pieces, a fourth points it, a fifth grinds it at the other end so that the head can be put on. To make the head of the pin itself requires two or three distinct operations. To put the head on the pin is a business of its own; – to whiten the pins is another. It is even a distinct branch of work to stick the pins into the papers. And thus the work of making a pin is divided into eighteen separate operations, which in some factories of this kind are performed by just as many hands.” <strong>(Wealth of nations,</strong> ch. 1)</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Der einzelne Draht durchläuft nacheinander die Hände der verschiedenen Theilarbeiter; aber diese Arbeiter sind auch alle gleichzeitig thätig. In einer Nadelmanufaktur werden gleichzeitig Drähte gezogen, gestreckt, geschnitten, gespitzt u. s. w., kurz, die verschiedenen Operationen, die der Arbeiter des Handwerks <em>nacheinander</em> verrichten mußte, werden in der Manufaktur gleichzeitig <em>nebeneinander</em> verrichtet. Dadurch wird es möglich, in dem gleichen Zeitraum mehr Waare zu liefern. Im Vergleich zum Handwerk wird in der Manufaktur auch Produktivkraft gewonnen, ein Gewinn, der aus ihrem kooperativen Charakter entspringt. Aber der Manufaktur klebt noch eine Beschränktheit an: ob sie zu der ersteren Gattung gehöre, die wir mit der Uhrmacherei illustrirt, oder zur zweiten, für die wir ein Beispiel in der Nadelfabrikation gefunden, stets hat das Machwerk oder dessen Bestandtheile einen <em>Transport</em> aus einer Hand in die andere durchzumachen, was Zeit und Arbeit in Anspruch nimmt. Diese Beschränktheit wird erst überwunden in der großen Industrie.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">The individual wire passes successively through the hands of the various detail-workers; but these workers are also all active simultaneously. In a pin manufacture wires are simultaneously drawn, straightened, cut, pointed, and so on; in short, the various operations which the worker of the handicraft had to perform <em>one after another</em> are performed in manufacture simultaneously, <em>side by side.</em> This makes it possible to deliver more commodity in the same span of time. Compared with handicraft, productive power is also gained in manufacture, a gain that springs from its cooperative character. But manufacture still has a limitation clinging to it: whether it belongs to the former class, which we illustrated with watch-making, or to the second, for which we found an example in pin-making, the article produced or its components always have to undergo a <em>transport</em> from one hand to another, which takes up time and labour. This limitation is first overcome in large-scale industry.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Bei diesem Transport aus einer Hand in die andere liefert ein Arbeiter dem anderen sein <em>Rohmaterial,</em> ein Arbeiter beschäftigt also den anderen. So kann z. B. der Arbeiter, der die Köpfe auf die Nadeln zu setzen hat, dies nicht thun, wenn ihm nicht entsprechend hergerichtete Drahtstücke in genügender Anzahl geliefert werden. Soll also die Gesammtarbeit in ununterbrochenem Fluß fortgehen und nirgends stocken, so muß die nothwendige Arbeitszeit zur Herstellung eines gewissen Produkts in jedem Theilarbeitszweig festgesetzt und die Menge der in jedem derselben beschäftigten Arbeiter in ein entsprechendes Verhältniß zu einander gebracht werden. Wenn z. B. der Drahtschneider durchschnittlich in einer Stunde 1000 Nadeln schneiden kann, während der Arbeiter, der die Köpfe aufzusetzen hat, in der gleichen Zeit nur mit 200 Nadeln fertig wird, so müssen, um zehn Kopfaufsetzer genügend beschäftigen zu können, zwei Drahtschneider thätig sein. Andererseits aber muß der Kapitalist, der einen Drahtschneider beschäftigt, auch fünf Kopfaufsetzer anwenden, wenn er die Arbeitskraft des Ersteren seinen Zwecken völlig entsprechend ausnützen soll. Will er sein Unternehmen erweitern, so ist die Zahl der Arbeiter, die er mehr einstellen muß, wenn er ihre Arbeitskraft möglichst ausnützen will, auch keine beliebige. Um bei unserem Beispiel zu bleiben: wenn er einen Drahtschneider mehr einstellt, wird das nur dann von entsprechendem Vortheil für ihn sein, wenn er fünf, und nicht etwa drei oder vier Kopfaufsetzer mehr anwendet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In this transport from one hand to another, one worker delivers to the other his <em>raw material;</em> one worker therefore keeps the other occupied. Thus, for example, the worker who has to put the heads on the pins cannot do so unless appropriately prepared pieces of wire are delivered to him in sufficient number. If, then, the total labour is to proceed in an uninterrupted flow and stagnate nowhere, the necessary labour-time for the production of a certain product in each branch of detail-labour must be fixed, and the number of workers occupied in each of them must be brought into a corresponding proportion to one another. If, for example, the wire-cutter can on average cut 1,000 pins in an hour, while the worker who has to put the heads on finishes only 200 pins in the same time, then, in order to keep ten head-setters sufficiently occupied, two wire-cutters must be active. On the other hand, however, the capitalist who employs one wire-cutter must also employ five head-setters if he is to make full use of the former's labour-power in accordance with his purposes. If he wishes to expand his enterprise, then the number of workers he must additionally hire, if he wants to make the best possible use of their labour-power, is likewise not arbitrary. To stay with our example: if he hires one more wire-cutter, this will only be of corresponding advantage to him if he employs five, and not, say, three or four more head-setters.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Herstellung einer Waare in der dazu gesellschaftlich nothwendigen Arbeitzeit ist, wie wir wissen, eine Forderung der Waarenproduktion überhaupt; sie wird erzwungen durch die <em>Konkurrenz.</em> Mit der Entwicklung der kapitalistischen Manufaktur wird aber die Herstellung einer bestimmten Produktenmenge innerhalb der gesellschaftlich nothwendigen Arbeitszeit auch zu einer <em>technischen</em> Nothwendigkeit. Wenn der Handwerker schneller oder langsamer arbeitet, als gesellschaftlich nothwendig, so beeinflußt das seinen Verdienst aus seiner Arbeit, aber es macht diese nicht unmöglich. In der kapitalistischen Manufaktur geräth der ganze Arbeitsprozeß ins Stocken, sobald in einem Zweig von Theilarbeiten die Produktion von der Regel abweicht. Wir haben aber oben gesehen, daß die gleichzeitige Verwendung einer größeren Zahl von Arbeitern bei dem gleichen Werk ihre Arbeit zur Durchschnittsarbeit gestaltet. Dieser Vortheil der einfachen Kooperation wird zur nothwendigen Bedingung der Produktion in der Manufaktur.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The production of a commodity in the labour-time socially necessary for it is, as we know, a requirement of commodity production in general; it is enforced by <em>competition.</em> With the development of capitalist manufacture, however, the production of a definite quantity of products within the socially necessary labour-time also becomes a <em>technical</em> necessity. If the handicraftsman works faster or slower than is socially necessary, this affects his earnings from his labour, but it does not make that labour impossible. In capitalist manufacture the whole labour-process comes to a standstill as soon as production in one branch of detail-labours deviates from the rule. But we have seen above that the simultaneous employment of a larger number of workers on the same work shapes their labour into average labour. This advantage of simple cooperation becomes the necessary condition of production in manufacture.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Erst wenn kapitalistisch produzirt wird, produzirt also der <em>einzelne</em> Waarenproduzent (der Kapitalist) in der Regel mit gesellschaftlich nothwendiger Durchschnittsarbeit, und er muß es thun. Erst unter der kapitalistischen Produktionsweise kommt das Gesetz des Waarenwerthes zur vollen Entfaltung.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Only when production is carried on capitalistically does the <em>individual</em> commodity producer (the capitalist) as a rule produce with socially necessary average labour, and he must do so. Only under the capitalist mode of production does the law of the value of commodities come to full unfolding.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Mit der Manufaktur beginnt hie und da auch schon die Anwendung von <em>Maschinen;</em> sie spielen jedoch in dieser Periode stets nur eine Nebenrolle. Die Hauptmaschinerie der Manufaktur bleibt der Gesammtarbeiter, dessen ineinandergreifende Räder die einzelnen Theilarbeiter bilden. Der Arbeiter ist unter dem Manufaktursystem in der That nur Theil einer Maschine, der ebenso regelmäßig und stetig, wie ein solcher zu wirken hat. So wie es bei der Maschine mehr oder weniger komplizirte Theile giebt, so erfordern auch die verschiedenen Theilarbeiten mehr oder weniger ausgebildete Arbeiter, deren Arbeitskraft demnach auch mehr oder weniger Werth besitzt. Als die Nadelerzeugung noch handwerksmäßig betrieben wurde, war die Ausbildung für jeden Nadler die gleiche, und demgemäß auch im Ganzen und Großen der Werth der Arbeitskraft eines Jeden von ihnen derselbe und verhältnißmäßig hoch. Als die Nadelerzeugung dem Manufaktursystem unterworfen wurde, zerfiel sie in Theilarbeiten, die große Uebung erforderten, und andere, die mit Leichtigkeit erlernt werden konnten. Die Arbeitskraft derjenigen, welche lange Zeit damit zubrachten, die nöthige große Uebung zu erlangen, hatte natürlich einen viel höheren Werth, als die derjenigen, welche sich den leichteren Handgriffen zuwendeten. So entsteht eine „Hierarchie der Arbeitskräfte, der eine Stufenleiter der Arbeitslöhne entspricht. “ <a href="#ab2-kap09-n4" id="ab2-kap09-f4" name="ab2-kap09-f4">[4]</a> Auf der untersten Sprosse dieser Leiter stehen diejenigen, welche Hantirungen verrichten, deren jeder Mensch ohne besondere Uebung und Vorbereitung fähig ist. Solche einfache Hantirungen kommen in jedem Produktionsprozeß vor; beim Handwerk bilden sie eine Abwechslung mit komplizirteren Thätigkeiten; in der Manufaktur werden sie die ununterbrochen fortbetriebene Beschäftigung einer besonderen Klasse von Leuten, die sich jetzt als ungelernte Arbeiter von den gelernten Arbeitern unterscheiden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>With the manufacture, here and there the application of <em>machines</em> also already begins; in this period, however, they always play only a subordinate role. The chief machinery of the manufacture remains the collective worker, whose interlocking wheels are formed by the individual partial workers. Under the manufacturing system the worker is in fact only part of a machine, who has to function just as regularly and steadily as such a part. Just as with a machine there are more or less complicated parts, so too the various partial labours require more or less trained workers, whose labour-power accordingly also possesses more or less value. When needle production was still carried on in a handicraft manner, the training was the same for every needle-maker, and accordingly, on the whole, the value of the labour-power of each of them was likewise the same and relatively high. When needle production was subjected to the manufacturing system, it broke down into partial labours which required great practice, and others which could be learned with ease. The labour-power of those who spent a long time acquiring the requisite great practice naturally had a much higher value than that of those who turned to the easier manipulations. Thus there arises a "hierarchy of labour-powers, to which corresponds a graduated scale of wages." <a href="#ab2-kap09-n4" id="ab2-kap09-f4" name="ab2-kap09-f4">[4]</a> On the lowest rung of this ladder stand those who perform manipulations of which every human being is capable without particular practice and preparation. Such simple manipulations occur in every production process; in the handicraft they form a variation with more complicated activities; in the manufacture they become the uninterruptedly continued occupation of a particular class of people, who now, as unskilled workers, are distinguished from the skilled workers.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Fast jeder der Arbeiter der Manufaktur hat eine kürzere Zeit der Ausbildung durchzumachen, als der Handwerker des entsprechenden Industriezweiges. Der letztere hat alle Verrichtungen zu erlernen, die zur Fertigstellung des Produkts seines Gewerbes nothwendig sind, von den ersteren jeder nur eine oder einige wenige solcher Verrichtungen. Bei den ungelernten Arbeitern fallen die Bildungskosten ganz weg.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Almost every one of the workers of the manufacture has to undergo a shorter period of training than the handicraftsman of the corresponding branch of industry. The latter has to learn all the operations that are necessary for the completion of the product of his trade; of the former, each learns only one or a few such operations. In the case of unskilled workers the costs of training fall away entirely.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So sinkt in der Manufaktur der Werth der Arbeitskraft, es sinkt damit die zur Erhaltung des Arbeiters nothwendige Arbeitszeit und es verlängert sich bei gleichbleibendem Arbeitstag die Dauer der Mehrarbeit, es wächst der relative Mehrwerth.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Thus in the manufacture the value of labour-power sinks, and with it sinks the labour-time necessary for the maintenance of the worker, and, the working day remaining the same, the duration of the surplus labour is lengthened, the relative surplus value grows.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Arbeiter aber wird körperlich und geistig verkrüppelt, seine Arbeit verliert für ihn jeden Inhalt, jedes Interesse, er selbst wird ein Zubehör des Kapitals.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The worker, however, is crippled physically and mentally, his labour loses for him all content, all interest, he himself becomes an appendage of capital.</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr valign="top"> <th> <p class="smc">Name der<br/> Verrichtung</p> </th> <td rowspan="8"> <p class="smc">  </p> </td> <th> <p class="smc">Arbeiter</p> </th> <th> <p class="smc">Lohn<br/> per Tag</p> </th> </tr> <tr> <td> <p class="sm1">Drahtzieher</p> </td> <td> <p class="smc">ein Mann</p> </td> <td> <p class="smc">3 Schilling 3 Pence</p> </td> </tr> <tr valign="top"> <td> <p class="sm1">Strecken des Drahtes</p> </td> <td> <p class="smc">eine Frau<br/> ein Mädchen</p> </td> <td> <p class="smc">1 Schilling – Pence<br/> – Schilling 6 Pence</p> </td> </tr> <tr> <td> <p class="sm1">Spitzen</p> </td> <td> <p class="smc">ein Mann</p> </td> <td> <p class="smc">5 Schilling 8 Pence</p> </td> </tr> <tr valign="top"> <td> <p class="sm1">Herstellen der Köpfe</p> </td> <td> <p class="smc">ein Mann<br/> ein Knabe</p> </td> <td> <p class="smc">5 Schilling 4½ Pence<br/> – Schilling 4½ Pence</p> </td> </tr> <tr> <td> <p class="sm1">Aufsetzen der Köpfe</p> </td> <td> <p class="smc">eine Frau</p> </td> <td> <p class="smc">1 Schilling 3 Pence</p> </td> </tr> <tr valign="top"> <td> <p class="sm1">Weißmachen</p> </td> <td> <p class="smc">ein Mann<br/> ein Frau</p> </td> <td> <p class="smc">6 Schilling – Pence<br/> 3 Schilling – Pence</p> </td> </tr> <tr> <td> <p class="sm1">In Papier stecken</p> </td> <td> <p class="smc">eine Frau</p> </td> <td> <p class="smc">1 Schilling 6 Pence</p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr valign="top"> <th> <p class="smc">Name of the<br/> operation</p> </th> <td rowspan="8"> <p class="smc">  </p> </td> <th> <p class="smc">Workers</p> </th> <th> <p class="smc">Wage<br/> per day</p> </th> </tr> <tr> <td> <p class="sm1">Wire-drawer</p> </td> <td> <p class="smc">one man</p> </td> <td> <p class="smc">3 Schilling 3 Pence</p> </td> </tr> <tr valign="top"> <td> <p class="sm1">Straightening of the wire</p> </td> <td> <p class="smc">one woman<br/> one girl</p> </td> <td> <p class="smc">1 Schilling – Pence<br/> – Schilling 6 Pence</p> </td> </tr> <tr> <td> <p class="sm1">Pointing</p> </td> <td> <p class="smc">one man</p> </td> <td> <p class="smc">5 Schilling 8 Pence</p> </td> </tr> <tr valign="top"> <td> <p class="sm1">Making of the heads</p> </td> <td> <p class="smc">one man<br/> one boy</p> </td> <td> <p class="smc">5 Schilling 4½ Pence<br/> – Schilling 4½ Pence</p> </td> </tr> <tr> <td> <p class="sm1">Setting on of the heads</p> </td> <td> <p class="smc">one woman</p> </td> <td> <p class="smc">1 Schilling 3 Pence</p> </td> </tr> <tr valign="top"> <td> <p class="sm1">Whitening</p> </td> <td> <p class="smc">one man<br/> one woman</p> </td> <td> <p class="smc">6 Schilling – Pence<br/> 3 Schilling – Pence</p> </td> </tr> <tr> <td> <p class="sm1">Sticking into paper</p> </td> <td> <p class="smc">one woman</p> </td> <td> <p class="smc">1 Schilling 6 Pence</p> </td> </tr> </table>
+</div>
+```
+
+:::
+
+## Notes / Anmerkungen
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f1" id="ab2-kap09-n1" name="ab2-kap09-n1">1.</a> Eine deutsche Uebersetzung des Buches erschien in Stuttgart bei J. H. W. Dietz unter dem Titel: <strong>Das Elend der Philosophie</strong> (2. Auflage 1892). Die Zitate und Seitenangaben werden hier nach der deutschen Ausgabe (2. Auflage) gegeben.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f1" id="ab2-kap09-n1" name="ab2-kap09-n1">1.</a> A German translation of the book appeared in Stuttgart at J. H. W. Dietz under the title: <strong>Das Elend der Philosophie</strong> (2nd edition 1892). The quotations and page references are given here according to the German edition (2nd edition).</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f2" id="ab2-kap09-n2" name="ab2-kap09-n2">2.</a> Herr Gustav Groß ist einer der Wenigen, welche die Bedeutung dieser Kapitel erfaßt haben. Vgl. <strong>Karl Marx,</strong> von Dr. G. Groß, Leipzig, 1885, S. 82.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f2" id="ab2-kap09-n2" name="ab2-kap09-n2">2.</a> Herr Gustav Groß is one of the few who have grasped the significance of these chapters. Cf. <strong>Karl Marx,</strong> by Dr. G. Groß, Leipzig, 1885, p. 82.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f3" id="ab2-kap09-n3" name="ab2-kap09-n3">3.</a> Das Wort Manufaktur ist aus den lateinischen Worten <em>manus</em> (Hand) und <em>factus</em> (gemacht, verfertigt) gebildet. Einer der wichtigsten Gewerbszweige, dessen sich die Manufaktur bemächtigte, war die Verarbeitung von Faserstoffen, wie Wolle, Baumwolle u.dgl. Daher nennt man vielfach heute noch die Werkstätten der Textilindustrie Manufakturen, wenn sie auch nicht in das Bereich der Manufaktur, sondern der mit Maschinen betriebenen Großindustrie fallen, ja man spricht mitunter von der Manufaktur als der Textilindustrie schlechtweg. Dieser Sprachgebrauch ist unrichtig.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f3" id="ab2-kap09-n3" name="ab2-kap09-n3">3.</a> The word manufacture is formed from the Latin words <em>manus</em> (hand) and <em>factus</em> (made, manufactured). One of the most important branches of trade of which the manufacture took hold was the processing of fibrous materials, such as wool, cotton and the like. Hence one still often today calls the workshops of the textile industry manufactures, even when they fall not within the domain of the manufacture, but of large-scale industry operated with machines; indeed one sometimes speaks of the manufacture as the textile industry outright. This usage is incorrect.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f4" id="ab2-kap09-n4" name="ab2-kap09-n4">4.</a> Folgende Tabelle, die wir Babbage entnommen <strong>(On the economy of machinery and manufacture,</strong> London, 1835, XXIV u. 408 S.), veranschaulicht sehr gut die hierarchische Gliederung der einzelnen Lohnstufen und die technische Nothwendigkeit, die Zahl der Arbeiter in jeder einzelnen Verrichtung einander anzupassen und die durchschnittlich nothwendige Arbeitszeit zur Geltung zu bringen. Die Tabelle giebt die Verhältnisse einer kleinen englischen Stecknadelmanufaktur im Anfang unseres Jahrhunderts wieder (S. 184):</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab2-kap09-f4" id="ab2-kap09-n4" name="ab2-kap09-n4">4.</a> The following table, which we have taken from Babbage <strong>(On the economy of machinery and manufacture,</strong> London, 1835, XXIV and 408 pp.), illustrates very well the hierarchical arrangement of the individual wage grades and the technical necessity of adapting the number of workers in each individual operation to one another and of bringing to bear the average necessary labour-time. The table reproduces the conditions of a small English pin manufacture at the beginning of our century (p. 184):</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note">Die Löhne betrugen also von 4½ P. (36 Pf.) bis 6 Sch. (6 Mark).</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note">The wages thus amounted to from 4½ p. (36 Pf.) up to 6 sh. (6 Marks).</p>
+```
+
+:::
+
+:::
+

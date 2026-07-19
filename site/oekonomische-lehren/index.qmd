@@ -1,0 +1,16 @@
+---
+title: "Karl Marx’ Oekonomische Lehren / The Economic Doctrines of Karl Marx"
+---
+
+Karl Kautsky, *Karl Marx’ Oekonomische Lehren. Gemeinverständlich dargestellt
+und erläutert* (1886) — a complete, unabridged parallel German/English
+edition.
+
+Written to make the economic theory of Marx's *Capital* accessible to a broad
+working-class readership, the book became the most widely read introduction to
+Marxist economics of its era. The German text follows the Marxists Internet
+Archive transcription of the 14th edition (Verlag von J. H. W. Dietz Nachf.,
+Stuttgart 1912). The English translation is new.
+
+Begin with the [Preface to the First Edition](chapters/vorwort1.qmd), or go
+straight to [Chapter 1. The Commodity](chapters/ab1-kap1.qmd).

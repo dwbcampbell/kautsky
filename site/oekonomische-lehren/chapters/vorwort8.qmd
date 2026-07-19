@@ -1,0 +1,178 @@
+---
+title: "Preface to the Eighth Edition"
+subtitle: "Vorwort zur achten Auflage"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Zwei Jahre nach der letzten Auflage dieses Büchleins, die ich vor der jetzigen, achten, durchgesehen, erschien der langersehnte dritte Band des <strong>Kapital</strong>, der uns so viele neue und überraschende Einsichten gewährte. In eine Darstellung der ökonomischen Lehren von Karl Marx gehörte von da an selbstverständlich auch ein Abriß des Hauptinhalts des dritten Bandes. Das ist jedoch keine einfache Sache und erfordert mehr Ruhe und Zeit, als mir seither zu Gebote stand. Gerade nach dem Erscheinen des dritten Bandes nahm die Agrarfrage meine volle Aufmerksamkeit in Anspruch; und kaum hatte ich meine Studien darüber zu einem äußerlichen Abschluß gebracht, da wurde ich durch die von der revisionistischen Richtung entfesselten theoretischen Kämpfe völlig absorbiert. Jetzt scheint es, daß auch diese neueste Krise des Marxismus überwunden sei, nun habe ich aber meine ganze Kraft einer Aufgabe zuzuwenden, die mir schon 1895 zugefallen war und die ich über den beiden anderen ebenerwähnten schon zu lange vernachlässigt habe: die Herausgabe der von Marx hinterlassenen, ca. 1500 bis 1600 Druckseiten umfassenden historisch-kritischen Darstellung der Theorien vom Mehrwerth, die einen Theil des Manuskripts <strong>Zur Kritik der politischen Oekonomie</strong> ausmacht und deren Herausgabe Engels als Ersatz für den vierten Band des <strong>Kapital</strong> plante.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">Two years after the last edition of this little book, which I revised before the present, eighth one, the long-awaited third volume of <strong>Capital</strong> appeared, affording us so many new and surprising insights. From then on, a presentation of the economic doctrines of Karl Marx would of course also have to include an outline of the principal contents of the third volume. This, however, is no simple matter and requires more calm and time than have since been at my disposal. It was precisely after the appearance of the third volume that the agrarian question claimed my full attention; and scarcely had I brought my studies on it to an outward conclusion when I was completely absorbed by the theoretical struggles unleashed by the revisionist tendency. Now it seems that this latest crisis of Marxism, too, has been surmounted, but now I have to devote my whole strength to a task that had already fallen to me in 1895 and which, over the two others just mentioned, I have already neglected for too long: the publication of the historical-critical presentation of the theories of surplus value, comprising some 1,500 to 1,600 printed pages, left behind by Marx, which forms a part of the manuscript <strong>Towards a Critique of Political Economy</strong> and whose publication Engels planned as a substitute for the fourth volume of <strong>Capital</strong>.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Eine ausgedehnte internationale Korrespondenz und die redaktionelle Thätigkeit engen meine zur Herausgabe dieses Riesenwerkes verfügbare Zeit ohnehin ein; es ist klar, daß ich wenigstens jede aufschiebbare Arbeit zurückstelle.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>An extensive international correspondence and my editorial activity in any case restrict the time available to me for the publication of this gigantic work; it is clear that I am at least setting aside every piece of work that can be postponed.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So komme ich auch jetzt noch nicht dazu, die nothwendige Erweiteruug der <strong>ökonomischen Lehren</strong> vorzunehmen. Ich habe mich diesmal damit begnügt, das Ganze durchzusehen, einzelne veraltete Angaben über Arbeiterschutzgesetze, statistische Zahlen und dergleichen durch neuere Daten zu ersetzen und ein Kapitel einzufügen über <em>Mehrwerth und Profit,</em> in dem ich wenigstens die Grundlage des dritten Bandes, das Gesetz der Durchschnittsprofitrate, kurz zur Darstellung bringe.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Thus even now I do not get around to undertaking the necessary expansion of the <strong>Economic Doctrines</strong>. This time I have contented myself with reviewing the whole, with replacing individual outdated statements about labour-protection laws, statistical figures, and the like with more recent data, and with inserting a chapter on <em>Surplus Value and Profit,</em> in which I at least present briefly the foundation of the third volume, the law of the average rate of profit.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Im Uebrigen habe ich bei meiner Durchsicht des Ganzen nichts zu ändern gefunden. Es ist eine weitverbreitete Ansicht, die auch von manchem Marxisten getheilt wird, als sei die von uns Marxisten ehedem vertretene Auffassung des ersten Bandes des <strong>Kapital</strong> durch den dritten Band völlig umgewälzt und als unhaltbar erwiesen worden. Nichts ist irriger als das. Ich habe nach dem Erscheinen des dritten Bandes das vorliegende Buch einer Revision unterzogen, und dabei in theoretischer Beziehung nicht das mindeste zu ändern gefunden. Ich durfte allerdings von vornherein erwarten, daß ich zu diesem Resultat kommen würde, denn Engels hatte das Manuskript der ersten Auflage bereits durchgesehen und es gebilligt zu einer Zeit, wo er schon den Inhalt des dritten Bandes kannte. Hätte er Auffassungen in dem Buche gefunden, die durch den dritten Band als falsch erwiesen wurden, so hätte er mich sicher darauf aufmerksam gemacht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>For the rest, in reviewing the whole I have found nothing to change. It is a widespread view, shared also by many a Marxist, that the conception of the first volume of <strong>Capital</strong> which we Marxists formerly held has been completely overturned by the third volume and proven untenable. Nothing is more mistaken than this. After the appearance of the third volume I subjected the present book to a revision, and in so doing found not the least thing to change in a theoretical respect. I could, to be sure, expect from the outset that I would arrive at this result, for Engels had already reviewed the manuscript of the first edition and approved it at a time when he already knew the contents of the third volume. Had he found in the book conceptions that were proven false by the third volume, he would certainly have drawn my attention to them.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Für das Gebiet, das der erste Band des <strong>Kapital</strong> vornehmlich untersucht, jenes, das den Sozialisten hauptsächlich beschäftigt und das auch in der vorliegenden Schrift fast ausschließlich behandelt wird, für das Verhältniß zwischen der Kapitalistenklasse und der Arbeiterklasse, spielt die Verwandlung des Mehrwerths in den Profit keine Rolle; hier kommt man völlig mit den Gesetzen des Werths und Mehrwerths aus. Dies war auch der Grund, warum Marx im ersten Bande vom Profit völlig absah.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>For the domain that the first volume of <strong>Capital</strong> chiefly investigates, that which mainly occupies the socialists and which is also treated almost exclusively in the present writing, for the relation between the capitalist class and the working class, the transformation of surplus value into profit plays no role; here one manages entirely with the laws of value and surplus value. This was also the reason why Marx in the first volume disregarded profit altogether.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Man darf sich aber nicht etwa einbilden, wie das vielfach geschieht, als hätte Marx, als er den ersten Band des <strong>Kapital</strong> schrieb, nur die Gesetze des Werths und des Mehrwerths gekannt, und seine Profitratentheorie sei später nur eine hinterdrein ersonnene Ausflucht der Verlegenheit gewesen, um seine Werththeorie mit den ihr anscheinend widersprechenden Erscheinungen der Wirklichkeit zu versöhnen. Vielmehr war, als Marx den ersten Baud schrieb, bereits die ganze Theorie, inbegriffen die Gesetze des Profits und der Grundrente, in seinem Kopfe völlig fertig, und wenn er mit ihrer Darstellung nie zu einem formellen Abschluß kam, so lag das an seiner Gewissenhaftigkeit, die ihn immer wieder zu erneutem Studium der neu auftauchenden Thatsachen trieb, und nicht etwa daran, daß er mit sich selbst nicht ins Reine kommen konnte.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>One must not, however, imagine, as is frequently done, that when Marx wrote the first volume of <strong>Capital</strong> he knew only the laws of value and surplus value, and that his theory of the rate of profit was later merely an evasion contrived after the fact out of embarrassment, in order to reconcile his theory of value with the phenomena of reality that apparently contradict it. On the contrary, when Marx wrote the first volume the whole theory, including the laws of profit and of ground rent, was already completely finished in his head, and if he never came to a formal conclusion in its presentation, this was owing to his conscientiousness, which drove him again and again to renewed study of the newly emerging facts, and not, say, to his being unable to reach clarity with himself.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Das wird unzweifelhaft klar für Jedermann werden, sobald die Darstellung der <strong>Theorien vom Mehrwerth</strong> im Drucke fertig vorliegt. In dem Manuskript, das aus den Jahren 1861-63 stammt, sind bereits sämmtliche Theorien des dritten Bandes entwickelt. Würde der dritte Band den ersten aufheben, dann hätte Marx diesen, der 1867 erschien, „überwunden“, ehe er ihn noch geschrieben!</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This will undoubtedly become clear to everyone as soon as the presentation of the <strong>Theories of Surplus Value</strong> lies ready in print. In the manuscript, which dates from the years 1861-63, all the theories of the third volume are already developed. If the third volume were to annul the first, then Marx would have "overcome" the latter, which appeared in 1867, before he had even written it!</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die <strong>Theorien vom Mehrwerth</strong> werden für das Verständniß der Marxschen Theorie vom Mehrwerth nicht minder wichtig sein wie für das Verständniß der in dem Werke selbst untersuchten und kritisirten Theorien. Ich hoffe, es wird mir gelingen, allen Störungen zum Trotz, diesen Abschluß des Marxschen Lebenswerkes bald der Oeffentlichkeit zugänglich zu machen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The <strong>Theories of Surplus Value</strong> will be no less important for understanding Marx's theory of surplus value than for understanding the theories investigated and criticised in the work itself. I hope that I shall succeed, in defiance of all disturbances, in soon making this conclusion of Marx's life's work accessible to the public.</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">Berlin-Friedenau, im Mai 1903<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">Berlin-Friedenau, May 1903<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+</div>
+```
+
+:::
+

@@ -1,0 +1,411 @@
+---
+title: "Chapter 6. The Surplus Value of the Small Master and the Surplus Value of the Capitalist"
+subtitle: "6. Kapitel. Der Mehrwerth des kleinen Meisters und der Mehrwerth des Kapitalisten"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Den Werth der Arbeitskraft und dementsprechend die zur Erhaltung des Arbeiters nothwendige Arbeitszeit als gegeben vorausgesetzt, ist mit der Rate des Mehrwerthes auch schon die <em>Masse</em> des Mehrwerthes bestimmt, die der einzelne Arbeiter liefern. Ist der Werth der Arbeitskraft 3 Mark, die Rate des Mehrwerthes gleich 100 Prozent, so die Masse des Mehrwerthes, welche diese erzeugt, gleich 3 Mark. Wie groß ist aber die Gesammtmasse des Mehrwerthes, die einem Kapitalisten unter bestimmten Umständen zukommt? Nehmen wir an, er beschäftige 300 Arbeiter unter den oben angeführten Bedingungen. Das variable Kapital, das er täglich aufwende, sei gleich 900 Mark, die Rate des Mehrwerthes 100 Prozent. Seine Masse wird dann auch täglich 900 Mark betragen. „Die Masse des produzirten Mehrwerthes ist gleich der Größe des vorgeschossenen variablen Kapitals, multiplizirt mit der Rate des Mehrwerthes.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">If we take the value of labour-power, and correspondingly the labour time necessary for the maintenance of the worker, as given, then with the rate of surplus value the <em>mass</em> of surplus value which the individual worker supplies is also already determined. If the value of labour-power is 3 marks, and the rate of surplus value equal to 100 per cent, then the mass of surplus value which he produces is equal to 3 marks. But how large is the total mass of surplus value that accrues to a capitalist under given circumstances? Let us assume he employs 300 workers under the conditions cited above. Let the variable capital which he expends daily be equal to 900 marks, and the rate of surplus value 100 per cent. Its mass will then likewise amount to 900 marks daily. “The mass of surplus value produced is equal to the magnitude of the variable capital advanced, multiplied by the rate of surplus value.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nimmt der eine dieser Faktoren ab, so kann die Masse des Mehrwerthes auf gleicher Höhe erhalten werden durch Vergrößerung des andern. Umgekehrt erlaubt die Vergrößerung des einen eine entsprechende Verminderung des andern, ohne Aenderung der Masse des Mehrwerthes. Einige Beispiele mögen das klar machen. Ein Kapitalist beschäftige 300 Arbeiter; die nothwendige Arbeitszeit betrage 6 Stunden, der Werth der Arbeitskraft 8 Mark; die tägliche Arbeitszeit 12 Stunden. Die Masse des täglich produzirten Mehrwerthes wird gleich sein 900 Mark. Die Gefügigkeit der Arbeiter erlaube es dem Kapitalisten, die Arbeitszeit auf 15 Stunden zu erhöhen. Die Rate des Mehrwerthes beträgt jetzt unter sonst gleichen Umständen 150 Prozent,</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If one of these factors decreases, the mass of surplus value can be kept at the same level by increasing the other. Conversely, the increase of the one permits a corresponding reduction of the other, without any change in the mass of surplus value. A few examples may make this clear. Let a capitalist employ 300 workers; let the necessary labour time amount to 6 hours, the value of labour-power 8 marks; the daily labour time 12 hours. The mass of surplus value produced daily will be equal to 900 marks. Let the pliability of the workers allow the capitalist to raise the labour time to 15 hours. The rate of surplus value now amounts, other circumstances being equal, to 150 per cent,</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="smc"><u>           9 Stunden Mehrarbeit         </u><br/> 6 Stunden nothwendige Arbeit  .</p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="smc"><u>           9 hours surplus labour         </u><br/> 6 hours necessary labour  .</p> </td> </tr> </table>
+</div>
+```
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Um dieselbe Masse Mehrwerth (900 Mark) zu produziren, wie vorhin, braucht der Kapitalist jetzt nicht mehr 900 Mark variables Kapital vorzuschießen, sondern nur noch 600; statt 300 Arbeiter genügen jetzt 200.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">In order to produce the same mass of surplus value (900 marks) as before, the capitalist now no longer needs to advance 900 marks of variable capital, but only 600; instead of 300 workers, 200 now suffice.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wenn aber die Arbeiter nicht gefügig sind, wenn sie im Gegentheil etwa durch einen besonders glücklichen Strike die Herabsetzung der Arbeitszeit von 12 auf 9 Stunden erzwingen, so wird die Rate des Mehrwerthes nur noch 50 Prozent betragen</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But if the workers are not pliable, if on the contrary they, say through a particularly successful strike, enforce the reduction of the labour time from 12 to 9 hours, then the rate of surplus value will amount to only 50 per cent</p>
+```
+
+:::
+
+:::
+
+::: {.table-block}
+
+```{=html}
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="smc"><u>           3 Stunden Mehrarbeit         </u><br/> 6 Stunden nothwendige Arbeit  .</p> </td> </tr> </table>
+</div>
+<div class="table-scroll">
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="smc"><u>           3 hours surplus labour         </u><br/> 6 hours necessary labour  .</p> </td> </tr> </table>
+</div>
+```
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Um die gleiche Masse Mehrwerth zu produziren wie früher, muß der Kapitalist jetzt 600 Arbeiter anwenden, 1800 Mark variables Kapital vorschießen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">In order to produce the same mass of surplus value as before, the capitalist must now employ 600 workers, advance 1800 marks of variable capital.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Daß ihm der erstere Fall der angenehmere ist, brauchen wir wohl nicht erst zu betonen. Der Kapitalist strebt darnach, die Masse des Mehrwerthes so viel als möglich zu vermehren; aber es paßt ihm besser, dies zu erlangen durch Vergrößerung der Rate des Mehrwerthes, als durch Vergrößerung des variablen Kapitals, durch Vermehruug der Zahl der beschäftigten Arbeiter.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>That the former case is the more agreeable to him we hardly need to emphasise. The capitalist strives to increase the mass of surplus value as much as possible; but it suits him better to attain this by increasing the rate of surplus value than by increasing the variable capital, by increasing the number of workers employed.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Rate des Mehrwerthes kann jedoch nicht willkürlich bestimmt werden; sie ist unter bestimmten Umständen eine mehr oder weniger bestimmte Größe. Die Rate des Mehrwerthes als gegeben vorausgesetzt, erfordert die Produktion einer gewissen Masse von Mehrwerth die Anwendung einer bestimmten Menge von variablem Kapital, das ihn erzeugt, und einer bestimmten Menge von konstantem Kapital, das ihn einsaugt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The rate of surplus value cannot, however, be determined arbitrarily; under given circumstances it is a more or less definite magnitude. If the rate of surplus value is taken as given, the production of a certain mass of surplus value requires the employment of a definite quantity of variable capital, which produces it, and of a definite quantity of constant capital, which absorbs it.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dieser Umstand ist von historischer Bedeutung geworden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This circumstance has become of historical significance.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Schon vor der Entwicklung des Kapitalismus wurden Lohnarbeiter angewendet, die Mehrwerth produzirten. Es war dies namentlich der Fall im zünftigen Handwerk. Aber die Zahl der Arbeiter, die ein mittelalterlicher Handwerksmeister anwendete, war eine kleine, und dementsprechend auch die Masse des Mehrwerthes gering, den der Meister einsteckte. Sie genügte in der Regel nicht, ihm ein angemessenes Einkommen zu gewähren, er mußte selbst mit Hand anlegen; der „kleine“ Meister ist kein Lohnarbeiter und doch auch kein Kapitalist: ein Mittelding zwischen beiden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Even before the development of capitalism, wage labourers were employed who produced surplus value. This was notably the case in the guild handicraft. But the number of workers whom a mediaeval handicraft master employed was small, and correspondingly small too was the mass of surplus value which the master pocketed. As a rule it did not suffice to grant him a suitable income; he had to lend a hand himself; the “small” master is no wage labourer and yet no capitalist either: an intermediate thing between the two.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sollte der Anwender von Lohnarbeitern ein wirklicher Kapitalist werden, dann mußte er so viele Arbeiter beschäftigen, daß die Masse des von ihnen produzirten Mehrwerthes ihm nicht nur einen „standesgemäßen“ Unterhalt sicherte, sondern auch erlaubte, seinen Reichthum beständig zu vermehren, was unter der kapitalistischen Produktionsweise eine Nothwendigkeit für ihn ist, wie wir noch sehen werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>If the employer of wage labourers was to become a real capitalist, then he had to employ so many workers that the mass of surplus value produced by them not only secured him a “station-appropriate” maintenance, but also allowed him to increase his wealth constantly, which under the capitalist mode of production is a necessity for him, as we shall yet see.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nicht jede Geldsumme ermöglicht es ihrem Besitzer, Kapitalist zu werden. Soll ein Geldbesitzer industrieller Kapitalist werden, so muß sein Geldvorrath groß genug sein, um eine ausreichende über das Maß des Handwerksbetriebes hinausgehende Anzahl von Arbeitskräften und Produktionsmitteln kaufen zu können. Der Geldbesitzer muß aber auch frei von allen Hindernissen produziren, welche ihm verbieten, die Zahl seiner Arbeiter auf und über das nothwendige Maß zu erhöhen. Das Zunftwesen des Mittelalters suchte die Verwandlung von Handwerksmeistern in Kapitalisten dadurch zu hindern, daß es die Anzahl der Lohnarbeiter, die ein einzelner Meister beschäftigen durfte, sehr beschränkte.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Not every sum of money enables its possessor to become a capitalist. If a possessor of money is to become an industrial capitalist, his stock of money must be large enough to be able to purchase a sufficient number of labour-powers and means of production going beyond the measure of the handicraft enterprise. But the possessor of money must also produce free of all obstacles which would forbid him to raise the number of his workers up to and beyond the necessary measure. The guild system of the Middle Ages sought to prevent the transformation of handicraft masters into capitalists by very greatly restricting the number of wage labourers whom a single master was allowed to employ.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„Der Kaufmann war es, der der Prinzipal der modernen (kapitalistischen) Werkstatt wurde, und nicht der alte Zunftmeister.“ (<strong>Das Elend der Philosophie</strong>, S. 135)</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">“It was the merchant who became the principal of the modern (capitalist) workshop, and not the old guild master.” (<strong>The Poverty of Philosophy</strong>, p. 135)</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Der Zunftmeister ist Aneigner von Mehrwerth, aber noch nicht vollkommener Kapitalist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">The guild master is an appropriator of surplus value, but not yet a complete capitalist.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der zünftige Geselle ist Erzeuger von Mehrwerth, aber noch nicht vollständiger proletarischer Lohnarbeiter.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The guild journeyman is a producer of surplus value, but not yet a complete proletarian wage labourer.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Zunftmeister arbeitet noch selbst. Der Kapitalist ist nur Kommandant und Ueberwacher der Arbeit Anderer.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The guild master still works himself. The capitalist is merely commander and overseer of the labour of others.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der zünftige Geselle ist noch Anwender der Produktionsmittel; sie sind seinetwegen da, um ihm die Arbeit zu ermöglichen und zu erleichtern. Er ist Gehilfe, Mitarbeiter des Meisters, will und kann in der Regel selbst einmal Meister werden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The guild journeyman is still a user of the means of production; they exist for his sake, in order to make his work possible and to ease it for him. He is the assistant, the fellow-worker of the master, and as a rule he wishes and is able one day to become a master himself.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Lohnarbeiter der kapitalistischen Produktionsweise ist dagegen alleiniger Arbeiter im Produktionsprozeß, Quelle von Mehrwerth, und der Kapitalist ihr Auspumper. Die Produktionsmittel dienen jetzt vor Allem dem Zweck, die Arbeitskraft des Arbeiters in sich einzusaugen: <em>sie sind es jetzt, die den Arbeiter anwenden,</em> der thatsächlich nie Kapitalist werden kann. Die Arbeitsmittel sind nicht mehr dazu da, dem Arbeiter sein Werk zu <em>erleichtern,</em> sie helfen jetzt, ihn daran zu <em>fesseln.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The wage labourer of the capitalist mode of production, by contrast, is the sole worker in the production process, the source of surplus value, and the capitalist is the one who pumps it out of him. The means of production now serve above all the purpose of absorbing the labour-power of the worker into themselves: <em>it is now they that make use of the worker,</em> who in fact can never become a capitalist. The means of labour are no longer there to <em>ease</em> the worker's toil; they now help to <em>fetter</em> him to it.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Blicken wir in eine kapitalistische Fabrik: da sehen wir vielleicht Tausende von Spindeln, Tausende von Zentnern Baumwolle. Sie sind alle gekauft worden, um sich zu verwerthen, d. h. um Mehrwerth einzusaugen. Aber sie verwerthen sich nicht ohne Arbeitszusatz, und so rufen sie nach Arbeit und wieder Arbeit. Die Spinnmaschine ist nicht dazu da, dem Arbeiter die Arbeit zu erleichtern, sondern der Spinner ist da, damit die Spinnmaschine sich verwerthet. Die Spindeln laufen und verlangen nach menschlicher Arbeitskraft: der Arbeiter ist hungrig, aber die Spindel arbeitet fort, und so muß er sein Mittagessen hinabschlucken, während er seine Herrin bedient. Seine Kräfte ermatten, er will schlafen, aber die Spindeln laufen frisch und munter weiter und heischen mehr Arbeit; und weil die Spindel läuft, darf auch der Arbeiter nicht schlafen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us glance into a capitalist factory: there we perhaps see thousands of spindles, thousands of hundredweights of cotton. They have all been bought in order to valorise themselves, that is, in order to absorb surplus value. But they do not valorise themselves without the addition of labour, and so they call for labour and yet more labour. The spinning machine is not there to ease the worker's work; rather, the spinner is there so that the spinning machine may valorise itself. The spindles run and demand human labour-power: the worker is hungry, but the spindle keeps working, and so he must gulp down his midday meal while he serves his mistress. His strength grows weary, he wants to sleep, but the spindles run on fresh and lively and clamour for more labour; and because the spindle runs, the worker too must not sleep.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Das todte Werkzeug hat den lebendigen Arbeiter unterjocht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The dead tool has subjugated the living worker.</p>
+```
+
+:::
+
+:::
+

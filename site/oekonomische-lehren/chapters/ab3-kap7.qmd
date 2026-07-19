@@ -1,0 +1,607 @@
+---
+title: "Chapter 7. The Close of the Capitalist Mode of Production"
+subtitle: "7. Kapitel. Der Ausgang der kapitalistischen Produktionsweise"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir sind am Ende der Darstellung des kapitalistischen Produktionsprozesses angelangt, die wir an der Hand von Karl Marx versucht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">We have reached the end of the exposition of the capitalist process of production which we have attempted with the guidance of Karl Marx.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir haben gesehen, daß die <em>urwüchsige Produktionsweise</em> auf gesellschaftlicher, planmäßig organisirter Arbeit beruht und bedingt, daß die Produktionsmittel und Produkte <em>gesellschaftliches Eigenthum</em> sind. Die Produkte werden allerdings vertheilt und dadurch individuelles Eigenthum, aber nur soweit sie <em>Gebrauchsgegenstände</em> für die Einzelnen sind. Als unmittelbarer Ertrag der gesellschaftlichen Arbeit fallen die Produkte zunächst der Gesellschaft anheim.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We have seen that the <em>primitive mode of production</em> rests upon social, systematically organised labour, and requires that the means of production and products be <em>social property</em>. The products are indeed distributed and thereby become individual property, but only in so far as they are <em>objects of use</em> for individuals. As the immediate yield of social labour, the products first of all fall to society.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Diese Produktionsweise wird verdrängt durch die <em>einfache Waarenproduktion</em> unabhängig von einander wirkender Privatarbeiter, deren Jeder mit ihm selbst gehörenden Produktionsmitteln Produkte erzeugt, die dann selbstredend auch sein Privateigenthum sind.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This mode of production is displaced by the <em>simple commodity production</em> of private workers acting independently of one another, each of whom produces, with means of production belonging to himself, products which then, as a matter of course, are also his private property.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber aus der einfachen Waarenproduktion entwickelt sich die <em>kapitalistische Waarenproduktion</em>, an Stelle der von einander unabhängig produzirenden Einzelarbeiter treten große konzentrirte Arbeitsbetriebe, jeder vom anderen unabhängig und Waaren produzirend, aber jeder auch in seinem Innern zur planmäßigen gesellschaftlichen Produktion organisirt. Da diese großen kapitalistischen Betriebe einander als Waarenproduzenten gegenüberstehen, so bleibt in ihrem gegenseitigen Verkehr der Waarenaustausch und damit das Eigenthumsrecht der einfachen Waarenproduktion in Geltung, das Privateigenthum an den Produktionsmitteln und Produkten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But out of simple commodity production develops <em>capitalist commodity production</em>. In place of the individual workers producing independently of one another step large, concentrated productive establishments, each independent of the others and producing commodities, but each also internally organised for systematic social production. Since these large capitalist establishments confront one another as commodity producers, the exchange of commodities, and with it the property right of simple commodity production, remains in force in their mutual intercourse: private property in the means of production and products.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber damit ist auch das Privateigenthum in sein Gegentheil verkehrt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But with this, private property too has been turned into its opposite.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Unter der einfachen Waarenproduktion war das Privateigenthum Folge und Frucht der Arbeit. Der Arbeiter war Eigenthümer seiner Produktionsmittel und seiner Produkte. Die kapitalistische Produktion zerreißt den Zusammenhang zwischen Arbeit und Eigenthum. Der Arbeiter hat kein Eigenthum mehr an seinem Produkt. Produktionsmittel und Produkte gehören im Gegentheil dem Nichtarbeiter. Die Verwandlung der Produktion in eine gesellschaftliche auf kapitalistischer Grundlage vollzieht immer mehr die Verwandlung der Nichtarbeiter in Besitzer alles Reichthums, der Arbeiter in Besitzlose.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Under simple commodity production, private property was the consequence and fruit of labour. The worker was the owner of his means of production and his products. Capitalist production tears apart the connection between labour and property. The worker no longer has any property in his product. On the contrary, means of production and products belong to the non-worker. The transformation of production into a social one on a capitalist basis increasingly accomplishes the transformation of the non-workers into owners of all wealth, and of the workers into the propertyless.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Damit ist der Widerspruch zwischen der herrschenden Produktionsweise und der herrschenden Aneignungsweise noch nicht erschöpft.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>With this, the contradiction between the prevailing mode of production and the prevailing mode of appropriation is not yet exhausted.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wir haben gesehen, wie einfach und durchsichtig die Produktion unter dem urwüchsigen Kommunismus sich gestaltete, wie die Gesellschaft sie nach ihrem Willen und ihren Bedürfnissen lenkte.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>We have seen how simple and transparent production took shape under primitive communism, how society directed it according to its will and its needs.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Unter dem System der Waarenproduktion werden die gesellschaftlichen Produktionsbedingungen zu einer Macht, die dem einzelnen Produzenten über den Kopf wächst. Er wird ihr willenloser Sklave und seine Stellung wird um so kläglicher, da die neuen Herren ihm seine Leistungen nicht vorschreiben, ihm ihre Bedürfnisse nicht mittheilen, sondern es ihm überlassen, sie zu errathen. Die Produktion unterliegt jetzt Gesetzen, die unabhängig von den Produzenten, und oft auch gegen deren Willen wirken, gleich Naturgesetzen; Gesetzen, die sich durch das periodische Eintreten von abnormen Zuständen durchsetzen, wie Preisfall, Theuerung u.s.w. Indeß bleiben diese Abnormitäten, soweit sie gesellschaftlichen Ursachen entspringen, geringfügig und auf enge Gebiete beschränkt unter der Herrschaft der einfachen Waarenproduktion, entsprechend der niederen Produktivität zersplitterter Betriebe von Einzelarbeitern.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Under the system of commodity production, the social conditions of production become a power that grows over the head of the individual producer. He becomes its will-less slave, and his position becomes all the more wretched because the new masters do not prescribe his tasks to him, do not communicate their needs to him, but leave it to him to guess them. Production is now subject to laws which operate independently of the producers, and often even against their will, like natural laws; laws which assert themselves through the periodic occurrence of abnormal conditions, such as falling prices, dearness, and so forth. Yet these abnormalities, in so far as they spring from social causes, remain slight and confined to narrow spheres under the rule of simple commodity production, corresponding to the low productivity of the fragmented establishments of individual workers.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Da wird die Produktivität der Arbeit riesenhaft gesteigert durch die kapitalistische Produktionsweise, die alle jene Produktionskräfte entfesselt und kolossal anwachsen läßt, welche gesellschaftlicher, zielbewußt organisirter Arbeit eigen sind, welche die von der Wissenschaft unterjochten Naturkräfte in ihre Dienste nimmt. Die Folge ist, daß das periodische Eintreten von abnormen Zuständen, durch die sich die Gesetze der Waarenproduktion durchsetzen und die früher nur vorübergehende, lokale Unbequemlichkeiten im Gefolge hatten, die sich leicht verschmerzen und oft auch bannen ließen, sich jetzt zu periodischen Katastrophen gestaltet, die jahrelang dauern, ganze Reiche und Kontinente heimsuchen und die entsetzlichsten Verheerungen anrichten; zu periodischen Katastrophen, die an Ausdehnung und Intensität mit der kapitalistischen Produktionsweise wachsen und die jetzt auf ein chronisches Siechthum hinauszulaufen scheinen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Now the productivity of labour is enormously heightened by the capitalist mode of production, which unleashes and causes to grow colossally all those productive forces peculiar to social, purposefully organised labour, and which takes into its service the natural forces subjugated by science. The consequence is that the periodic occurrence of abnormal conditions, through which the laws of commodity production assert themselves and which formerly brought in their train only transient, local inconveniences that could easily be got over and often also averted, now takes shape as periodic catastrophes which last for years, afflict whole empires and continents, and wreak the most frightful devastation; periodic catastrophes which grow in extent and intensity with the capitalist mode of production, and which now seem to be running out into a chronic wasting sickness.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Und noch eines: Unter dem urwüchsigen Kommunismus, wo das Produkt der gesellschaftlichen Arbeit der Gesellschaft gehört und von dieser den gesellschaftlichen Bedürfnissen entsprechend an die Individuen vertheilt wird, wächst der Antheil eines Jeden mit dem Wachsthum der Produktivität der Arbeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>And yet one more thing: under primitive communism, where the product of social labour belongs to society and is distributed by it to the individuals in accordance with social needs, the share of each grows with the growth of the productivity of labour.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Unter der Herrschaft der Waarenproduktion wächst die Masse der Gebrauchswerthe, die einer bestimmten Werthgröße entsprechen, mit der Produktivität der Arbeit. Das Produkt seiner Arbeit gehört unter der einfachen Waarenproduktion in der Regel dem Arbeiter. Er kann es ganz oder zum Theil selbst konsumiren: in diesem Falle wächst offenbar die Menge der ihm zur Verfügung stehenden Gebrauchsgegenstände in demselben Maße, wie die Ergiebigkeit seiner Arbeit. Er kann aber auch das Produkt seiner Arbeit ganz oder zum Theil austauschen – nur ein kleiner Theil des Produkts wird unter der einfachen Waarenproduktion Waare.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Under the rule of commodity production, the mass of use-values corresponding to a given magnitude of value grows with the productivity of labour. Under simple commodity production, the product of his labour as a rule belongs to the worker. He can consume it wholly or partly himself: in this case the quantity of objects of use at his disposal evidently grows in the same measure as the productiveness of his labour. But he can also exchange the product of his labour wholly or partly — under simple commodity production, only a small part of the product becomes a commodity.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Für das Produkt einer bestimmten Arbeit, das er austauscht, wird er umsomehr Gebrauchswerthe erhalten, je größer im Allgemeinen die Produktivität der Arbeit. Auch hier kommt das Wachsthum der Ergiebigkeit der Arbeit unverkürzt dem Arbeiter zu Gute.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>For the product of a given labour which he exchanges, he will receive the more use-values the greater the productivity of labour in general. Here too the growth in the productiveness of labour accrues undiminished to the worker's benefit.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Unter der kapitalistischen Waarenproduktion ist die Arbeitskraft selbst eine Waare, deren Werth, wie der jeder Waare, in dem Maße sinkt, in dem die Produktivität der Arbeit steigt. Je größer also die Produktivität der Arbeit, desto weniger verhältnißmäßigen Antheil an ihren Vortheilen erhält der Arbeiter im Preis der Arbeitskraft. Je mehr aber die kapitalistische Produktionsweise die vorherrschende, desto mehr besteht die Masse des Volkes aus Lohnarbeitern, desto mehr bleibt sie also ausgeschlossen von den Früchten der gesteigerten Produktivität ihrer Arbeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Under capitalist commodity production, labour-power itself is a commodity, whose value, like that of every commodity, falls in the measure in which the productivity of labour rises. The greater, therefore, the productivity of labour, the smaller the proportionate share in its advantages that the worker receives in the price of labour-power. But the more the capitalist mode of production becomes the predominant one, the more the mass of the people consists of wage labourers, and the more, therefore, it remains excluded from the fruits of the heightened productivity of its labour.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Alle diese Gegensätze erzeugen naturnothwendig aus sich selbst heraus Konflikte zwischen der Kapitalistenklasse und den Arbeitern, Konflikte, welche diese zum Klassenbewußtsein erwecken, zu einer politischen Thätigkeit drängen und in allen kapitalistischen Ländern Arbeiterparteien hervorrufen. Die eben berührten Umstände erzeugen aber auch Leiden der mannigfachsten Art und nicht allein solche, die auf die Arbeiterklasse beschränkt sind, Leiden, welche die jetzigen Zustände immer weiteren Kreisen auch außerhalb der Klasse der Lohnarbeiter unerträglich erscheinen lassen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>All these antagonisms necessarily produce out of themselves conflicts between the capitalist class and the workers, conflicts which awaken the latter to class consciousness, drive them to political activity, and call forth workers' parties in all capitalist countries. But the circumstances just touched upon also produce sufferings of the most manifold kind, and not only such as are confined to the working class — sufferings which make the present conditions appear intolerable to ever wider circles even outside the class of wage labourers.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>So drängt Alles nach einer Lösung des Widerspruchs, der in der kapitalistischen Produktionsweise verkörpert ist, des Widerspruchs zwischen dem gesellschaftlichen Charakter der Arbeit und der überkommenen Aneignungsform der Produktionsmittel und Produkte.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Thus everything presses towards a resolution of the contradiction embodied in the capitalist mode of production, the contradiction between the social character of labour and the inherited form of appropriation of the means of production and the products.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nur zwei Wege scheinen möglich, ihn zu lösen; beide laufen darauf hinaus, die Produktionsweise und die Aneignungsweise in Einklang mit einander zu setzen. Der eine Weg führt zur Aufhebung des gesellschaftlichen Charakters der Arbeit, zur Rückkehr zur einfachen Waarenproduktion, zur Ersetzung des Großbetriebes durch Handwerk und kleinbäuerliche Landwirthschaft. Der andere Weg sucht nicht die Produktion der Aneignungsweise anzupassen, sondern die Aneignungsweise der Produktion, er führt zum gesellschaftlichen Eigenthum an den Produktionsmitteln und Produkten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Only two ways seem possible to resolve it; both amount to bringing the mode of production and the mode of appropriation into harmony with one another. The one way leads to the abolition of the social character of labour, to a return to simple commodity production, to the replacement of the large-scale enterprise by handicraft and small-peasant agriculture. The other way does not seek to adapt production to the mode of appropriation, but the mode of appropriation to production; it leads to social property in the means of production and the products.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Viele versuchen es heute, den Gang der Entwicklung auf den ersten Weg zu drängen; sie gehen von der irrigen Ansicht aus, daß die Produktionsweise durch juristische Vorschriften beliebig gestaltet werden könne. Die bürgerliche Vulgärökonomie, der Anwalt des Kapitals, verurtheilt diese Versuche – wo sie nicht ganz heruntergekommen ist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Many today attempt to force the course of development onto the first way; they proceed from the erroneous view that the mode of production can be shaped at will by legal regulations. Bourgeois vulgar economics, the advocate of capital, condemns these attempts — where it has not become altogether debased.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Sie selbst aber versucht ein ähnliches Spiel. Um die herrschende Produktionsweise im Einklang mit der herrschenden Aneignungsweise erscheinen zu lassen, sieht sie in ihren ökonomischen Darstellungen von den eigenthümlichen und wesentlichen Eigenschaften der modernen Produktionsweise ab und stellt diese so dar, als wäre sie einfache Waarenproduktion: man lese nur die gangbaren Schriften der Vulgärökonomen: da werden heute noch die Waaren getauscht, wie bei Barbaren, da erscheinen Jäger und Fischer, die frei über Wald und Meer verfügen, als Lohnarbeiter, Pfeil und Bogen, Boot und Netz als Kapital. <a href="#ab3-kap7-n1" id="ab3-kap7-f1" name="ab3-kap7-f1">[1]</a> Dieser Sorte von Oekonomen hat Marx in seinem <strong>Kapital</strong> das Handwerk gründlich gelegt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But it itself attempts a similar game. In order to make the ruling mode of production appear in harmony with the ruling mode of appropriation, it disregards in its economic expositions the peculiar and essential characteristics of the modern mode of production and presents it as though it were simple commodity production: one need only read the current writings of the vulgar economists: there commodities are still exchanged today as among barbarians, there hunters and fishers, who dispose freely of forest and sea, appear as wage labourers, bow and arrow, boat and net as capital. <a href="#ab3-kap7-n1" id="ab3-kap7-f1" name="ab3-kap7-f1">[1]</a> Marx, in his <strong>Capital</strong>, thoroughly finished off this sort of economist.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber sein Werk hat noch mehr geleistet, als blos die Vulgärökonomie in ihrer ganzen Plattheit und Unwahrheit zu enthüllen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But his work accomplished still more than merely to expose vulgar economics in all its shallowness and untruth.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Man liebt es, Marx den Geist zu nennen, der stets verneinte, der nur kritisch zu zersetzen, nicht aber positiv zu wirken vermochte.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>People are fond of calling Marx the spirit that ever denied, who was able only to dissolve things critically, but not to work positively.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Jedoch bereits der vorliegende Abriß der Darstellung des Produktionsprozesses des Kapitals, die uns Marx gegeben, mag zeigen, daß er thatsächlich ein neues ökonomisches und historisches System geschaffen hat. Die Kritik seiner Vorgänger bildet nur dessen Begründung.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Yet even the present outline of the exposition of the production process of capital which Marx has given us may show that he has in fact created a new economic and historical system. The critique of his predecessors forms only its foundation.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Man kann das Alte nicht überwinden, ohne selbst einen höheren Standpunkt über dieses hinaus erklommen zu haben; man kann nicht kritisiren, ohne eine höhere Erkenntniß erworben zu haben; man kann kein wissenschaftliches System niederreißen, ohne dahinter ein anderes, großartigeres und umfassenderes aufgerichtet zu haben.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>One cannot overcome the old without having oneself climbed to a higher standpoint beyond it; one cannot criticise without having acquired a higher knowledge; one cannot tear down a scientific system without having erected behind it another, grander and more comprehensive one.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Marx war der Erste, der den Fetischcharakter der Waare bloßlegte, der das Kapital nicht als ein Ding, sondern als ein <em>durch Sachen vermitteltes Verhältniß</em>, und als eine <em>historische Kategorie</em> erkannte. Er war der Erste, der die Gesetze der Bewegung und Entwicklung des Kapitals erforschte. Und er war der Erste, der die Ziele der jetzigen sozialen Bewegung als naturnothwendige Konsequenzen aus der bisherigen historischen Entwicklung ableitete, anstatt sie in seinem Kopfe als Forderungen irgend einer »ewigen Gerechtigkeit« nach seinem Belieben zu konstruiren.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Marx was the first to lay bare the fetish character of the commodity, who recognised capital not as a thing but as a <em>relation mediated by things</em>, and as a <em>historical category</em>. He was the first to investigate the laws of the movement and development of capital. And he was the first to derive the goals of the present social movement as necessary consequences of the historical development up to now, instead of constructing them in his head at his pleasure as demands of some kind of "eternal justice."</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Von dem Standpunkte, auf den uns Marx erhebt, erkennt man nicht nur, daß alle Versuche der Vulgärökonomen, die gegenwärtigen Verhältnisse in patriarchalisch einfache umzulügen, ebenso vergeblich sind, wie die, sie in solche zurückumzugestalten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>From the standpoint to which Marx raises us, one recognises not only that all the attempts of the vulgar economists to falsify the present conditions into patriarchally simple ones are just as futile as those to reshape them back into such conditions.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Man erkennt auch den einzigen Weg, der für die Fortentwicklung der Gesellschaft übrig bleibt: die Anpassung der Aneignungsform an die Produktionsweise, die Besitzergreifung der Produktionsmittel durch die Gesellschaft, die vollendete, rückhaltlose Durchführung der vom Kapital nur halb durchgeführten Verwandlung der Produktion aus Einzelproduktion in gesellschaftliche Produktion. Damit aber beginnt für die Menschheit eine neue Epoche. An Stelle der anarchischen Waarenproduktion tritt die planmäßig bewußte Organisation der gesellschaftlichen Produktion; die Herrschaft des Produkts über den Produzenten hat ein Ende. Der Mensch, der in immer steigendem Maße Herr der Naturkräfte geworden, wird damit auch Herr der gesellschaftlichen Entwicklung. »Erst von da an werden die Menschen ihre Geschichte mit vollem Bewußtsein selbst machen,« sagt Engels, »erst von da an werden die von ihnen in Bewegung gesetzten, gesellschaftlichen Ursachen vorwiegend und in stets steigendem Maße auch die von ihnen gewollten Wirkungen haben. <em>Es ist der Sprung der Menschheit aus dem Reich der Nothwendigkeit in das Reich der Freiheit.«</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>One also recognises the only way that remains for the further development of society: the adaptation of the form of appropriation to the mode of production, the taking possession of the means of production by society, the complete, unreserved carrying-through of the transformation of production from individual production into social production which capital has only half carried through. But with this a new epoch begins for humanity. In place of anarchic commodity production comes the planful, conscious organisation of social production; the domination of the product over the producer comes to an end. Man, who has to an ever-increasing degree become master of the forces of nature, thereby becomes also master of social development. "Only from then on will men make their own history with full consciousness," says Engels, "only from then on will the social causes set in motion by them have, predominantly and to an ever-increasing degree, also the effects willed by them. <em>It is the leap of humanity from the realm of necessity into the realm of freedom."</em></p>
+```
+
+:::
+
+:::
+
+## Notes / Anmerkungen
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab3-kap7-f1" id="ab3-kap7-n1" name="ab3-kap7-n1">1.</a> Die Illusionen, welche diese Herren zu erwecken suchen, werden zu nichte gemacht in den <em>Kolonien</em>, das heißt in solchen mit jungfräulichem Boden, die durch Einwanderer kolonisirt werden. Wir finden da volle Freiheit des Arbeitsvertrages, das Eigenthum des Arbeiters an seinen Produkten, also am Ertrag seiner Arbeit, wir finden da überhaupt die Verhältnisse, welche unsere Oekonomen als die der kapitalistischen Produktionsweise hinstellen: aber sonderbarerweise hört unter diesen Verhältnissen das Kapital auf, Kapital zu sein!</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab3-kap7-f1" id="ab3-kap7-n1" name="ab3-kap7-n1">1.</a> The illusions which these gentlemen seek to arouse are brought to nought in the <em>colonies</em>, that is, in those with virgin soil which are colonised by immigrants. There we find full freedom of the labour contract, the property of the worker in his products, hence in the yield of his labour; there we find in general the conditions which our economists present as those of the capitalist mode of production: but strangely enough, under these conditions capital ceases to be capital!</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note">In solchen Kolonien ist noch freies Land im Ueberfluß vorhanden und der Zugang dazu steht Allen offen. Jeder Arbeiter kann da in der Regel selbständig produziren, er ist nicht gezwungen, seine Arbeitskraft zu verkaufen. In Folge dessen zieht es Jeder vor, für sich zu arbeiten, anstatt für Andere. Damit hören Geld, Lebensmittel, Maschinen und andere Produktionsmittel auf, Kapital zu sein. Sie verwerthen sich nicht.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note">In such colonies free land is still available in abundance, and access to it stands open to all. There every worker can as a rule produce independently; he is not compelled to sell his labour-power. In consequence, everyone prefers to work for himself rather than for others. With this, money, means of subsistence, machines, and other means of production cease to be capital. They do not valorise themselves.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note">Dieselben Oekonomen, welche in den kapitalistischen Ländern so pathetisch von der Heiligkeit des Eigenthums und der Freiheit des Arbeitsvertrages deklamiren, verlangen daher in jungen Kolonien, damit das Kapital daselbst gedeihen könne, Ausschließung der Arbeiter vom Grundeigenthum und Beförderung ihrer Einwanderung von Staatswegen oder auf Kosten der früher angekommenen Arbeiter selbst, mit anderen Worten, gewaltsame Trennung des Arbeiters von den Produktions- und Lebensmitteln und künstliche Erzeugung einer überschüssigen Arbeiterbevölkerung, die thatsächlich nicht frei, sondern gezwungen ist, ihre Arbeitskraft zu verkaufen. Und wo eine gefügige Arbeiterklasse – namentlich wenn von einer zurückgebliebenen Rasse – vorhanden, der man das bieten darf, proklamirt man die unverhüllte Zwangsarbeit, die Sklaverei.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note">The same economists who in the capitalist countries declaim so pathetically about the sanctity of property and the freedom of the labour contract therefore demand, in young colonies, in order that capital may flourish there, the exclusion of the workers from landed property and the promotion of their immigration by the state or at the expense of the earlier-arrived workers themselves — in other words, the forcible separation of the worker from the means of production and subsistence and the artificial creation of a surplus worker population which is in fact not free, but compelled to sell its labour-power. And where a pliant working class — especially if of a backward race — is at hand, to whom this may be offered, the undisguised forced labour, slavery, is proclaimed.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">“Dasselbe Interesse, welches den Sykophanten des Kapitals, den politischen Oekonomen, im Mutterland bestimmt, die kapitalistische Produktionsweise theoretisch für ihr eigenes Gegentheil zu erklären, dasselbe Interesse treibt ihn hier (in den Kolonien) <em>to make a clear breast of it</em> (Alles offen zu gestehen) und den Gegensatz beider Produktionsweisen laut zu proklamiren.”</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">“The same interest which, in the mother country, compels the sycophant of capital, the political economist, to declare the capitalist mode of production theoretically to be its own opposite, this same interest drives him here (in the colonies) <em>to make a clear breast of it</em> (to confess everything openly) and loudly to proclaim the antagonism of the two modes of production.”</p>
+```
+
+:::
+
+:::
+

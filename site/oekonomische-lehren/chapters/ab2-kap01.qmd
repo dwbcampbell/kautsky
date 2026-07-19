@@ -1,0 +1,687 @@
+---
+title: "Chapter 1. The Process of Production"
+subtitle: "1. Kapitel. Der Vorgang der Produktion"
+---
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Wir haben uns im ersten Abschnitt meist auf dem Waarenmarkt bewegt; wir haben gesehen, wie Waaren ausgetauscht, verkauft und gekauft werden; wie das Geld die verschiedensten Funktionen verrschtet, wie aus dem Geld Kapital wird, sobald es auf dem Markt die Waare Arbeitskraft vorfindet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">In the first section we moved for the most part on the commodity market; we saw how commodities are exchanged, sold and bought; how money performs the most varied functions; how money becomes capital as soon as it finds on the market the commodity labour-power.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Kapitalist hat die Arbeitskraft gekauft, und zieht sich mit der neuen Acquisition vom <em>Markt</em> zurück, wo sie ihm vorläufig gar nichts nützt, dorthin, wo er sie konsumiren, verwenden kann, in die <em>Arbeitsstätte.</em> Folgen wir ihm dahin. Verlassen wir das Gebiet der <em>Waarenzirkulation</em> und sehen wir uns auf dem Gebiete der <em>Produktion</em> um. Auf diesem Gebiete sollen sich die folgenden Ausführungen bewegen.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The capitalist has bought labour-power, and with the new acquisition withdraws from the <em>market</em>, where for the time being it is of no use to him at all, to the place where he can consume it, put it to use, into the <em>workplace.</em> Let us follow him there. Let us leave the sphere of <em>commodity circulation</em> and look about us in the sphere of <em>production.</em> It is within this sphere that the following discussion shall move.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>„Der Gebrauch der Arbeitskraft ist die Arbeit selbst.“ Der Kapitalist konsumirt die Arbeitskraft, die er gekauft, indem er deren Verkäufer für sich arbeiten, Waaren produziren läßt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>“The use of labour-power is labour itself.” The capitalist consumes the labour-power he has bought by having its seller work for him, produce commodities.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Waaren produzirende Arbeit hat, wie wir schon im ersten Abschnitt gesehen, zwei Seiten: sie ist Bildnerin von Gebrauchswerthen und von Waarenwerthen. Als Bildnerin von Gebrauchswerthen ist die Arbeit keine der Waarenproduktion besondere Eigenthümlichkeit, sondern eine beständige Nothwendigkeit für das Menschengeschlecht, unabhängig von jeder besonderen gesellschaftlichen Form. Als solche zeigt die Arbeit drei Momente: <em>1. eine zweckbewußte und zweckmäßige Thätigkeit des Menschen; 2. den Arbeitsgegenstand; 3. das Arbeitsmittel.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Commodity-producing labour has, as we already saw in the first section, two sides: it is the creator of use-values and of commodity-values. As a creator of use-values, labour is not a particular peculiarity of commodity production, but a constant necessity for the human race, independent of every particular social form. As such, labour displays three moments: <em>1. a purposeful and purpose-serving activity of the human being; 2. the object of labour; 3. the means of labour.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Arbeit ist eine zweckmäßige und zweckbewußte Thätigkeit des Menschen, ein Wirken des Menschen auf den Naturstoff, um diesem eine für seine Bedürfnisse brauchbare Form zu geben. Die Elemente einer solchen Thätigkeit finden wir schon im Thierreich, aber erst auf einer gewissen Entwicklungsstufe des Menschengeschlechts streift sie ihre instinktartige Form völlig ab und wird zu einer zweckbewußten Thätigkeit. Jede Arbeit ist nicht blos Muskel-, sondern auch Hirn- und Nervenarbeit. Treffend bemerkt Marx: „Außer der Anstrengung der Organe, die arbeiten, ist der zweckgemäße Wille, der sich als Aufmerksamkeit äußert, für die ganze Dauer der Arbeit erheischt, und umsomehr, je weniger sie durch den eigenen Inhalt und die Art und Weise ihrer Ausführung den Arbeiter mit sich fortreißt, je weniger er sie daher als Spiel seiner eigenen körperlichen und geistigen Kräfte genießt.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Labour is a purpose-serving and purposeful activity of the human being, an action of the human being upon the material of nature in order to give it a form serviceable for his needs. The elements of such an activity are already to be found in the animal kingdom, but only at a certain stage of development of the human race does it wholly strip off its instinctive form and become a purposeful activity. All labour is not merely muscular labour, but also labour of the brain and nerves. Marx aptly remarks: “Besides the exertion of the organs that work, the purposeful will, which manifests itself as attention, is required for the whole duration of the labour, and all the more, the less the labour, by its own content and the manner of its execution, carries the worker along with it, the less, therefore, he enjoys it as the play of his own bodily and mental powers.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Arbeiter wirkt auf einen Gegenstand, den <em>Arbeitsgegenstand;</em> er wendet bei dieser Thätigkeit Hilfsmittel an, Dinge, deren mechanische, physikalische oder chemische Eigenschaften er auf den Arbeitsgegenstand seinen Zwecken gemäß wirken läßt; diese Hilfsmittel sind die <em>Arbeitsmittel.</em> Das Ergebniß der Bearbeitung des Arbeitsgegenstandes mit Hilfe des Arbeitsmittels ist das <em>Produkt.</em> Arbeitsmittel und Arbeitsgegenstand sind <em>Produktionsmittel.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The worker acts upon an object, the <em>object of labour;</em> in this activity he employs auxiliary means, things whose mechanical, physical or chemical properties he causes to act upon the object of labour in accordance with his purposes; these auxiliary means are the <em>means of labour.</em> The result of working up the object of labour with the aid of the means of labour is the <em>product.</em> Means of labour and object of labour are <em>means of production.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wenn ein Tischler einen Tisch verfertigt, so verarbeitet er hierbei Holz. Ist der Arbeitsgegenstand nicht von Natur vorgefunden, wie z. B. der Baum im Urwald, sondern ist bereits Arbeit zu seiner Erlangung nothwendig gewesen, z. B. im vorliegenden Fall die Arbeit des Fällens und Transportirens des Holzes, dann heißt er <em>Rohmaterial.</em> Das Holz in unserem Beispiel ist <em>Rohmaterial,</em> ebenso der Leim, die Farbe, der Lack, die bei der Herstellung des Tisches verarbeitet werden. Das Holz ist das <em>Hauptmaterial,</em> Leim, Farbe, Lack sind Hilfsstoffe. Hobel, Säge u. s. w. sind dagegen <em>Arbeitsmittel,</em> der Tisch ist das <em>Produkt.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>When a joiner makes a table, he works up wood in doing so. If the object of labour is not found in nature, as, for example, the tree in the primeval forest, but if labour has already been necessary to obtain it—for example, in the case before us the labour of felling and transporting the wood—then it is called <em>raw material.</em> The wood in our example is <em>raw material,</em> as are the glue, the paint, the varnish that are worked up in the making of the table. The wood is the <em>principal material;</em> glue, paint, varnish are auxiliary substances. Plane, saw, and so forth, on the other hand, are <em>means of labour,</em> the table is the <em>product.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="quoteb">„Ob ein Gebrauchswerth als Rohmaterial, Arbeitsmittel oder Produkt erscheint, hängt ganz und gar ab von seiner bestimmten Funktion im Arbeitsprozesse, von der Stelle, die er in ihm einnimmt, und mit dem Wechsel dieser Stelle wechseln jene Bestimmungen.“</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="quoteb">“Whether a use-value appears as raw material, means of labour or product depends entirely on its particular function in the labour-process, on the place it occupies within it, and with the change of this place those determinations change.”</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="fst">Ein Stück Vieh z. B. kann nach einander fungiren als <em>Produkt</em> (der Viehzüchtung), <em>Arbeitsmittel</em> (z. B. als Zugthier) und <em>Rohmaterial</em> (bei der Mast).</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="fst">A head of cattle, for example, can function successively as <em>product</em> (of cattle-breeding), <em>means of labour</em> (for example, as a draught animal) and <em>raw material</em> (in fattening).</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Die Arbeitsmittel sind für die Entwicklung des Menschengeschlechts von der höchsten Bedeutung. Die Art und Weise des Produzirens hängt in erster Linie von ihnen ab; jede Produktionsweise bedingt aber ihr eigenthümliche gesellschaftliche Verhältnisse mit einem entsprechenden juristischen, religiösen, philosophischen und künstlerischen Ueberbau.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The means of labour are of the highest importance for the development of the human race. The manner of producing depends first and foremost on them; but every mode of production conditions social relations peculiar to it, with a corresponding juridical, religious, philosophical and artistic superstructure.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Unter jeder Produktionsweise bilden Produktionsmittel (Arbeitsgegenstand und Arbeitsmittel) und die Arbeitskraft die nothwendigen Elemente der Produktion von <em>Gebrauchswerthen,</em> d. h. des <em>Arbeitsprozesses.</em> Der <em>gesellschaftliche Charakter</em> dieses Prozesses (Vorganges) ist aber unter den verschiedenen Produktionsweisen ein verschiedener.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Under every mode of production, means of production (object of labour and means of labour) and labour-power constitute the necessary elements of the production of <em>use-values,</em> that is, of the <em>labour-process.</em> But the <em>social character</em> of this process (procedure) is a different one under the various modes of production.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Untersuchen wir nun, wie er sich unter der kapitalistischen Produktionsweise gestaltet.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us now examine how it takes shape under the capitalist mode of production.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dem Waarenproduzenten ist die Produktion von <em>Gebrauchswerthen</em> nur Mittel zum Zweck der Produktion von <em>Waarenwerthen.</em> Die Waare ist Einheit von Gebrauchswerth und Werth, er kann also nicht Werthe produziren, wenn er nicht Gebrauchswerthe produzirt. Die Waaren, die er erzeugt, müssen ein Bedürfniß befriedigen, müssen einen Nutzen für irgend Jemand haben, sonst kann er sie nicht absetzen. Der Umstand, daß seine Waare Gebrauchswerth sein muß, ist jedoch für den Waarenproduzenten nur ein nothwendiges Uebel, nicht der Endzweck seiner geschäftlichen Thätigkeit.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>For the commodity producer the production of <em>use-values</em> is only a means to the end of producing <em>commodity-values.</em> The commodity is a unity of use-value and value; he cannot therefore produce values unless he produces use-values. The commodities he produces must satisfy a need, must have some use for someone, otherwise he cannot dispose of them. The circumstance that his commodity must be a use-value is, however, for the commodity producer only a necessary evil, not the ultimate purpose of his business activity.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Produktionsprozeß der Waarenproduktion ist daher gleichzeitig der Prozeß der Produktion von <em>Gebrauchswerthen</em> und <em>Waarenwerthen,</em> er ist Einheit von <em>Arbeitsprozeß</em> und <em>Werthbildungsprozeß.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The production process of commodity production is therefore at one and the same time the process of producing <em>use-values</em> and <em>commodity-values;</em> it is a unity of <em>labour-process</em> and <em>value-forming process.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dies gilt für die Waarenproduktion überhaupt. Jetzt haben wir aber den Produktionsprozeß bei einer besonderen Art von Waarenproduktion zu beobachten: der Produktion von Waaren vermittelst <em>gekaufter Arbeitskraft</em> zum Zweck der Erzielung eines <em>Mehrwerths.</em></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>This holds for commodity production in general. Now, however, we have to observe the production process in a particular kind of commodity production: the production of commodities by means of <em>purchased labour-power</em> for the purpose of obtaining a <em>surplus value.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wie gestaltet sich da der <em>Arbeitsprozeß</em>?</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>How, then, does the <em>labour process</em> take shape?</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Zunächst wird er durch die Dazwischenkunft des Kapitalisten im Wesentlichen nicht verändert.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>At first it is, in essence, not altered by the intervention of the capitalist.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Denken wir uns z. B. einen Weber, der für sich arbeitet. Sein Webstuhl gehört ihm; er kauft das Garn selbst; er kann arbeiten, wann und wie ihm beliebt; das Produkt seiner Arbeit ist sein Eigenthum. Aber er verarmt und muß seinen Webstuhl verkaufen. Wovon soll er nun leben? Es bleibt ihm nichts übrig, als sich einem Kapitalisten zu verdingen und für diesen zu weben. Dieser kauft seine Arbeitskraft, kauft auch den Webstuhl und das nöthige Garn und setzt nun den Weber an seinen, des Kapitalisten, Webstuhl, damit er das gekaufte Garn verarbeite. Vielleicht ist der Webstuhl, den der Kapitalist kaufte, derselbe, den der Weber in seiner Noth veräußern mußte. Auch wenn dies nicht der Fall, so webt doch der Weber in derselben Weise, wie vorher, der Arbeitsprozeß hat sich äußerlich nicht verändert.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us imagine, for example, a weaver who works for himself. His loom belongs to him; he buys the yarn himself; he can work when and how he pleases; the product of his labour is his property. But he grows poor and must sell his loom. On what shall he now live? Nothing remains for him but to hire himself out to a capitalist and to weave for the latter. This capitalist buys his labour-power, buys also the loom and the necessary yarn, and now sets the weaver at his—the capitalist's—loom, so that he may work up the purchased yarn. Perhaps the loom the capitalist bought is the very one that the weaver in his distress had to dispose of. And even if this is not the case, the weaver nevertheless weaves in the same way as before; outwardly the labour process has not changed.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Aber doch sind zwei große Aenderungen eingetreten: der Weber arbeitet nicht mehr für sich, sondern für den Kapitalisten; dieser kontrolirt jetzt den Arbeiter bei der Arbeit, giebt Acht, daß er nicht zu säumig oder zu schleuderhaft arbeitet u. s. w. Und – das Produkt der Arbeit des Arbeiters gehört jetzt nicht diesem, sondern dem Kapitalisten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Yet two great changes have occurred: the weaver no longer works for himself, but for the capitalist; the latter now controls the worker at his work, sees to it that he does not work too sluggishly or too carelessly, and so forth. And—the product of the worker's labour now belongs not to him, but to the capitalist.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Dies die nächsten Wirkungen auf den <em>Arbeitsprozeß,</em> sobald das Kapital sich des Produktionsprozesses bemächtigt. Wie gestaltet sich aber jetzt der <em>Werthbildungsprozeß</em>?</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>These are the immediate effects on the <em>labour process</em> as soon as capital takes possession of the production process. But how does the <em>value-forming process</em> now take shape?</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Berechnen wir zunächst, wie hoch sich der Werth des Produktes beläuft, welches als Waare für den Kapitalisten von gekaufter Arbeitskraft mit gekauften Produktionsmitteln produzirt worden.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us first calculate how great the value amounts to of the product which has been produced as a commodity for the capitalist by purchased labour-power with purchased means of production.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Kapitalist kaufe die Arbeitskraft, nehmen wir an, für einen Tag. Die zur Erhaltung des Arbeiters nothwendigen Lebensmittel werden in 6 Stunden gesellschaftlich nothwendiger Arbeitszeit erzeugt. Ebensoviel und ebensolche Arbeitszeit sei in 8 Mark verkörpert. Der Kapitalist kaufe die Arbeitskraft zu ihrem Werth; er zahle dem Arbeiter für den Arbeitstag 3 Mark. <a href="#ab2-kap01-n1" id="ab2-kap01-f1" name="ab2-kap01-f1">[1]</a></p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let the capitalist buy the labour-power, we shall assume, for one day. The means of subsistence necessary for the maintenance of the worker are produced in 6 hours of socially necessary labour-time. Let just as much and just such labour-time be embodied in 8 marks. Let the capitalist buy the labour-power at its value; let him pay the worker 3 marks for the working day. <a href="#ab2-kap01-n1" id="ab2-kap01-f1" name="ab2-kap01-f1">[1]</a></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nehmen wir an, der Kapitalist halte Baumwollengarn für einen <em>Gebrauchswerth,</em> der sehr gesucht sei und leicht verkauft werden könne; er beschließt also, Garn produziren zu lassen, kauft Arbeitsmittel – der Einfachheit wegen wollen wir diese hier von einzelnen Spindeln dargestellt ansehen – und Baumwolle. In einem Pfund Baumwolle seien vielleicht zwei Arbeitsstunden enthalten, es koste also 1 Mark. Aus einem Pfund Baumwolle werde ein Pfund Garn gesponnen. Bei dem Verspinnen von je 100 Pfund Baumwolle werde je eine Spindel verbraucht, abgenützt; bei dem Verspinnen von 1 Pfund also <sup><small>1</small></sup>/<small><small>100</small></small> Spindel. In einer Spindel stecken 20 Arbeitsstunden = 10 Mark. In einer Arbeitsstunde werden 2 Pfund Baumwolle versponnen, in 6 Stunden also 12 Pfund – stets normale, durchschnittliche, gesellschaftlich nothwendige Produktionsbedingungen vorausgesetzt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Let us assume that the capitalist holds cotton yarn to be a <em>use-value</em> that is much sought after and can easily be sold; he therefore decides to have yarn produced, and buys means of labour—for the sake of simplicity we shall here regard these as represented by individual spindles—and cotton. In one pound of cotton let there be, say, two hours of labour contained; it therefore costs 1 mark. From one pound of cotton one pound of yarn is spun. In spinning every 100 pounds of cotton, one spindle is used up, worn out; in spinning 1 pound, therefore, <sup><small>1</small></sup>/<small><small>100</small></small> of a spindle. In one spindle there are 20 hours of labour = 10 marks. In one hour of labour 2 pounds of cotton are spun, in 6 hours therefore 12 pounds—always assuming normal, average, socially necessary conditions of production.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Wie viel Werth wird unter diesen Umständen in einem Pfund Garn stecken?</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>How much value will, under these circumstances, be contained in one pound of yarn?</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Zunächst der Werth der bei dessen Herstellung konsumirten Baumwolle und Spindeln. Dieser geht ohne Verkürzung oder Vergrößerung in das Produkt ein. Der <em>Gebrauchswerth</em> der Baumwolle und Spindel ist ein anderer geworden, ihr <em>Werth</em> ist unberührt geblieben. Es wird dies klar, wenn man die verschiedenen, zur Herstellung des schließlichen Produkts erforderlichen Arbeitsprozesse als aufeinanderfolgende Theile eines uud desselben Arbeitsprozesses betrachtet. Nehmen wir an, daß der Spinner auch Baumwollenpflanzer ist und die Baumwolle unmittelbar nach ihrer Gewinnimg versponnen wird; das Garn erscheint jetzt als das Produkt der Pflanzer- und Spinnerarbeit, sein Werth wird gemessen durch die zur Herstellung der Baumwolle und deren Verarbeitung in Garn gesellschaftlich nothwendige Arbeitszeit. Am Werth des Produkts wird nichts geändert, wenn unter sonst gleichen Verhältnissen die zu dessen Herstellung nothwendigen Arbeitsprozesse für Rechnung verschiedener Leute betrieben werden. Der Werth der verarbeiteten Baumwolle erscheint also im Garn wieder; das Gleiche gilt von dem Werth der verbrauchten Spindeln. Von Hilfsstoffen sehen wir hier der Einfachheit wegen ab.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>First, the value of the cotton and spindles consumed in its production. This passes into the product without diminution or enlargement. The <em>use-value</em> of the cotton and the spindle has become a different one, their <em>value</em> has remained untouched. This becomes clear if one regards the various labour processes required for the production of the final product as successive parts of one and the same labour process. Let us assume that the spinner is also a cotton planter and that the cotton is spun immediately after it is obtained; the yarn now appears as the product of the planter's and the spinner's labour, and its value is measured by the labour-time socially necessary for the production of the cotton and its working up into yarn. Nothing is changed in the value of the product if, other conditions being equal, the labour processes necessary for its production are carried on for the account of different people. The value of the worked-up cotton thus reappears in the yarn; the same holds for the value of the spindles used up. We here leave auxiliary materials aside for the sake of simplicity.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Zu diesem <em>übertragenen</em> Werth gesellt sich noch der Werth, welchen die Spinnerarbeit der Baumwolle <em>zusetzt.</em> In einer Arbeitsstunde werden 2 Pfund versponnen – nehmen wir an, in einer Mark stecken 2 Arbeitsstunden. Eine Arbeitsstunde bildet also einen Werth von ½ Mark.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>To this <em>transferred</em> value there is added the value which the spinner's labour <em>adds</em> to the cotton. In one hour of labour 2 pounds are spun—let us assume that in one mark there are 2 hours of labour. One hour of labour thus forms a value of ½ mark.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Werth von 1 Pfund Garn ist also gleich dem Werth von 1 Pfund Baumwolle (= 1 Mark) + <sup><small>1</small></sup>/<small><small>100</small></small> Spindel (= <sup><small>1</small></sup>/<small><small>10</small></small> Mark) + ½ Arbeitsstunde (= ¼ Mark), oder in Mark ausgedrückt: 1 + <sup><small>1</small></sup>/<small><small>10</small></small> + ¼ = 1 Mark 35 Pfennige.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The value of 1 pound of yarn is therefore equal to the value of 1 pound of cotton (= 1 mark) + <sup><small>1</small></sup>/<small><small>100</small></small> of a spindle (= <sup><small>1</small></sup>/<small><small>10</small></small> mark) + ½ hour of labour (= ¼ mark), or expressed in marks: 1 + <sup><small>1</small></sup>/<small><small>10</small></small> + ¼ = 1 mark 35 pfennigs.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>In 6 Stunden werden hiernach 12 Pfund Garn gesponnen, von einem Werthe von 16 Mark 20 Pfennig. Wie viel hat es aber den Kapitalisten gekostet, um dies Resultat zu erzielen? Er mußte hergeben 12 Pfund Baumwolle = 12 Mark, <sup><small>12</small></sup>/<small><small>100</small></small> Spindeln = 1 Mark 20 Pfennig und 1 Arbeitskraft = 3 Mark, zusammen 16 Mark 20 Pfennig, ebensoviel, als er an Garnwerth besitzt.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>In 6 hours, accordingly, 12 pounds of yarn are spun, of a value of 16 marks 20 pfennigs. But how much did it cost the capitalist to attain this result? He had to give up 12 pounds of cotton = 12 marks, <sup><small>12</small></sup>/<small><small>100</small></small> of a spindle = 1 mark 20 pfennigs, and 1 labour-power = 3 marks, together 16 marks 20 pfennigs, just as much as he possesses in yarn-value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p><em>Er hat also bisher umsonst arbeiten lassen;</em> die gekaufte Waare Arbeitskraft hat ihm bisher keinen Mehrwerth verschafft.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p><em>He has thus so far had the work done for nothing;</em> the purchased commodity labour-power has so far procured him no surplus value.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Doch unser Kapitalist läßt sich nicht verblüffen. Er hat den Gebrauchswerth der Arbeitskraft für den <em>ganzen Tag</em> gekauft; er hat sie ehrlich und redlich gekauft, zu ihrem vollen Werth; dafür steht ihm aber auch das Recht zu, ihren Gebrauchswerth voll und ganz zu verwenden. Es fällt ihm nicht ein, dem Arbeiter zu sagen: „Ich habe Deine Arbeitskraft mit einem Geldbetrag gekauft, in dem 6 Arbeitsstunden stecken. Du hast 6 Arbeitsstunden für mich gearbeitet; wir sind quitt, Du kannst gehen.“ Er sagt vielmehr: „Ich habe Deine Arbeitskraft für den ganzen Tag gekauft, den ganzen Tag gehört sie mir; also frisch weiter gearbeitet, so lange Du kannst, keinen Augenblick der Zeit vergeudet, die nicht Deine, sondern meine Zeit ist.“ Und er läßt, anstatt 6, vielleicht 12 Stunden arbeiten.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>But our capitalist is not to be disconcerted. He has bought the use-value of the labour-power for the <em>whole day</em>; he has bought it honestly and fairly, at its full value; and for that reason the right also belongs to him to make full and complete use of its use-value. It does not occur to him to say to the worker: “I have bought your labour-power with a sum of money in which 6 hours of labour are contained. You have worked 6 hours for me; we are quits, you can go.” Rather he says: “I have bought your labour-power for the whole day, for the whole day it belongs to me; so keep briskly working, as long as you can, without wasting a single moment of the time that is not yours but mine.” And he lets the man work, instead of 6, perhaps 12 hours.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Nach weiteren 6 Stunden, am Ende des Arbeitstages, rechnet er wieder. Er besitzt jetzt 24 Pfund Garn im Werth von 32 Mark 40 Pfennig. An Ausgaben zählt er 24 Pfund Baumwolle = 24 Mark, <sup><small>24</small></sup>/<small><small>100</small></small> Spindeln = 2 Mark 40 Pfennig, und 1 Arbeitskraft = 3 Mark, zusammen 29 Mark 40 Pfennig. Schmunzelnd legt er sein Rechnungsbuch bei Seite. Er hat 8 Mark gewonnen, oder, wie er sich ausdrückt, „verdient.“ Er hat sie verdient, Mehrwerth erworben, ohne die Gesetze des Waarenaustausches zu verletzen. Die Baumwolle, die Spindeln, die Arbeitskraft, sie alle wurden zu ihrem Werth gekauft. Wenn er Mehrwerth erlangt, so nur dadurch, daß er diese gekauften Waaren <em>konsumirte,</em> allerdings nicht als <em>Genußmittel,</em> sondern als <em>Produktionsmittel,</em> und dadurch, daß er den Gebrauchswerth der von ihm gekauften Arbeitskraft <em>über einen gewissen Punkt</em> hinaus konsumirte.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>After a further 6 hours, at the end of the working day, he reckons again. He now possesses 24 pounds of yarn worth 32 marks 40 pfennigs. Among his outlays he counts 24 pounds of cotton = 24 marks, <sup><small>24</small></sup>/<small><small>100</small></small> spindles = 2 marks 40 pfennigs, and 1 labour-power = 3 marks, together 29 marks 40 pfennigs. Smirking, he lays his account book aside. He has gained 8 marks, or, as he expresses it, “earned” them. He has earned them, acquired surplus value, without violating the laws of commodity exchange. The cotton, the spindles, the labour-power, all of them were bought at their value. If he obtains surplus value, it is only because he <em>consumed</em> these bought commodities, not, of course, as <em>means of enjoyment,</em> but as <em>means of production,</em> and because he consumed the use-value of the labour-power he had bought <em>beyond a certain point.</em></p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Der Produktionsprozeß ist unter dem System der Waarenproduktion stets <em>Werthbildungsprozeß;</em> einerlei, ob er mit <em>gekaufter</em> oder mit <em>eigener</em> Arbeitskraft betrieben wird; aber nur, wenn er über einen gewissen Zeitpunkt hinausdauert, ist der Werthbildungsprozeß auch Bildner von <em>Mehrwerth,</em> und als solcher <em>Verwerthungsprozeß.</em> Der Produktionsprozeß muß <em>länger dauern,</em> als bis zum Ersatz des Werthes der gekauften Arbeitskraft durch neugeschaffenen Werth, wenn Mehrwerth produzirt werden soll.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>Under the system of commodity production the production process is always a <em>value-forming process;</em> no matter whether it is carried on with <em>bought</em> or with <em>one’s own</em> labour-power; but only if it lasts beyond a certain point in time is the value-forming process also a former of <em>surplus value,</em> and as such a <em>valorisation process.</em> The production process must <em>last longer</em> than until the value of the bought labour-power has been replaced by newly created value, if surplus value is to be produced.</p>
+```
+
+:::
+
+:::
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p>Auch der sein eigenes Feld bearbeitende Bauer, auch der für eigene Rechnung arbeitende Handwerker kann über die Zeit hinaus arbeitm, die er zum Ersatz der von ihm verbrauchten Lebensmittel zu arbeiten genöthigt ist. Auch er kann also Mehrwerth erzeugen, seine Arbeit kann Verwerthungsprozeß werden. Aber sobald der Verwerthungspwzeß mit <em>gekaufter fremder</em> Arbeitskraft betrieben wird, ist er <em>kapitalistischer Produktionsprozeß;</em> dieser ist von vornherein, seiner Natur nach, mit Nothwendigkeit und Absicht, Verwerthungsprozeß.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p>The peasant who tills his own field, and the artisan who works on his own account, can also work beyond the time which he is compelled to work in order to replace the means of subsistence he has consumed. He too can therefore produce surplus value, his labour can become a valorisation process. But as soon as the valorisation process is carried on with <em>bought, alien</em> labour-power, it is a <em>capitalist production process;</em> this is from the outset, by its very nature, of necessity and by design, a valorisation process.</p>
+```
+
+:::
+
+:::
+
+## Notes / Anmerkungen
+
+::: {.parallel-container}
+
+::: {.parallel-col-de}
+
+```{=html}
+<p class="note"><a href="#ab2-kap01-f1" id="ab2-kap01-n1" name="ab2-kap01-n1">1.</a> Diese und die folgenden Zahlen sind natürlich ganz willkürlich, der leichteren Anschaulichkeit wegen gewählt. Es scheint sich das von selbst zu verstehen; aber mancher von den Vielen, die über das <strong>Kapital</strong> geschrieben, hat unterstellt, daß Marx <em>Beispiele</em> von der Art des gegebenen als <em>Thatsachen</em> angeführt habe. Was die <strong>Kapital</strong>-Kommentatoren zu leisten vermögen, zeigt Folgendes: Im 57. Band der <strong>Preußischen Jahrbücher</strong> des Herrn vonTreitschke veröffentlichte ein Herr Dr. R. Stegemann einen von Seichtigkeit überströmenden Artikel über die <em>Oekonomische Grundanschauung von Karl Marx.</em> Unmittelbar, nachdem er das „Werthprinzip“ als Grund<em>forderung</em> von Marx vorgeführt, erzählt er uns (S. 227): „Marx <em>behauptet,</em> die menschliche Gesellschaft würde nur etwa sechs Stunden täglicher Arbeit zur Beschaffung der für Alle unentbehrlichen Subsistenzmittel benöthigen, wenn nämlich <em>Jeder</em> und zwar <em>nach seinen Kräften</em> arbeiten würde.“ Von alledem steht im <strong>Kapital</strong> kein Wort. Hätte Herr Stegemann weniger Phantasie und mehr Aufmerksamkeit verwendet, so würde er auf Seite 209 (2. Aufl.) des <strong>Kapital</strong> gefunden haben, daß Marx die nothwendige Arbeit berechnete, die ein Spinner in einer bestimmten Spinnerei in den sechsziger Jahren <em>thatsächlich</em> zu leisten hatte, auf Grund von Daten, die ihm ein Fabrikant aus Manchester geliefert. Er kam zu dem Ergebniß, daß bei zehnstündiger Arbeitszeit die nothwendige Arbeitszeit des Spinners <em>nicht ganz vier Stunden</em> betrug, die überschüssige Arbeitszeit, während der er Mehrwerth produzirte, etwas über sechs Stunden. – Wir werden später sehen, daß die zur Erhaltung des Arbeiters nothwendige Arbeitszeit eine sehr wechselnde Größe ist.</p>
+```
+
+:::
+
+::: {.parallel-col-en}
+
+```{=html}
+<p class="note"><a href="#ab2-kap01-f1" id="ab2-kap01-n1" name="ab2-kap01-n1">1.</a> These and the following figures are of course quite arbitrary, chosen for the sake of easier illustration. This would seem to be self-evident; but many among the many who have written about <strong>Capital</strong> have assumed that Marx adduced <em>examples</em> of the kind given as <em>facts.</em> What the commentators on <strong>Capital</strong> are capable of achieving is shown by the following: In the 57th volume of Herr von Treitschke’s <strong>Preussische Jahrbücher</strong> a certain Dr. R. Stegemann published an article overflowing with shallowness on the <em>Economic Fundamental Conception of Karl Marx.</em> Immediately after he had presented the “value principle” as Marx’s basic <em>demand,</em> he tells us (p. 227): “Marx <em>asserts</em> that human society would need only about six hours of daily labour to procure the means of subsistence indispensable to all, namely if <em>everyone</em> were to work, and indeed <em>according to his abilities.</em>” Of all this there is not a word in <strong>Capital.</strong> Had Herr Stegemann expended less imagination and more attention, he would have found on page 209 (2nd ed.) of <strong>Capital</strong> that Marx calculated the necessary labour which a spinner in a particular spinning mill in the sixties <em>actually</em> had to perform, on the basis of data supplied to him by a manufacturer from Manchester. He arrived at the result that with a ten-hour working time the necessary labour time of the spinner amounted to <em>not quite four hours,</em> the surplus labour time, during which he produced surplus value, to something over six hours. – We shall see later that the labour time necessary for the maintenance of the worker is a very variable magnitude.</p>
+```
+
+:::
+
+:::
+
