@@ -7,6 +7,23 @@ website:
     Complete, unabridged parallel German/English editions of works of
     German Marxism, newly translated from the Marxists Internet Archive
     transcriptions.
+  navbar:
+    search: true
+    left:
+      - text: "Works"
+        menu:
+          - text: "The Economic Doctrines of Karl Marx (1886)"
+            href: oekonomische-lehren/index.qmd
+          - text: "The Erfurt Programme (1892)"
+            href: erfurter-programm/index.qmd
+  search:
+    type: overlay
+    copy-button: true
+    show-item-context: true
+  comments:
+    hypothesis:
+      theme: clean
+      openSidebar: false
   sidebar:
     - id: erfurter-programm
       title: "The Erfurt Programme"

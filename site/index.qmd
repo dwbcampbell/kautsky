@@ -15,7 +15,7 @@ completeness checked mechanically block by block.
   Lehren*](oekonomische-lehren/index.qmd) (1886) — the popular exposition of
   the economics of Marx's *Capital*, the most widely read introduction to
   Marxist economics of its era.
-- [**The Erfurt Programme** / *Das Erfurter Programm*](erfurter-programm/index.qmd)
-  (1892) — the theoretical commentary on the SPD's Erfurt Programme.
+- [**The Erfurt Programme** / *Das Erfurter Programm*](erfurter-programm/index.qmd) (1892) —
+  the theoretical commentary on the SPD's Erfurt Programme.
   Parallel edition with [editorial note](erfurter-programm/editorial.qmd)
   and the [programme text itself](erfurter-programm/prologue.qmd) as prologue.
