@@ -1,0 +1,86 @@
+# Chapter 8. Co-operation
+
+```{=html}
+<p class="fst">We saw in the fifth chapter of this section that it is not enough to employ wage labourers in order to be a capitalist in the full sense of the word. The employer of wage labourers only becomes a capitalist when the mass of surplus value produced by them is large enough to grant him an income “befitting his station” and to increase his wealth without his being obliged to lay his own hand to the work. This presupposes the simultaneous employment of a number of workers that far exceeds the measure permissible in the guild handicraft. “The action of a larger number of workers at the same time, in the same space (or, if one prefers, in the same field of labour), for the production of the same sort of commodity, under the command of the same capitalist, <em>forms historically and conceptually the starting point of capitalist production.”</em></p>
+```
+
+```{=html}
+<p>The difference between the capitalist and the handicraft mode of production is therefore at first only one of <em>degree,</em> not of <em>kind.</em> Whether I employ three cloth weavers at three looms or thirty weavers at thirty such looms in the same space and at the same time seems at first to result only in the difference that in the latter case ten times as much value and surplus value is produced as in the former.</p>
+```
+
+```{=html}
+<p>But the employment of the larger number brings still other differences with it. First, let us recall the law of large numbers, the circumstance that individual peculiarities make themselves the more noticeable the fewer individuals one takes into consideration, and disappear the more the observation is a mass observation. If I want to ascertain the average lifespan of a human being, I will probably be subject to errors if I calculate it from the lifespan of 5–6 persons. But I can assume with great probability that I come very close to the truth if I calculate it from the lifespan of about a million human beings.</p>
+```
+
+```{=html}
+<p>Thus the individual differences of the several workers will make themselves much more noticeable if I employ only three than if I employ thirty. In the latter case the greater output of the good workers and the lesser output of the bad ones will balance out, so that <em>average labour</em> is delivered. According to Burke, all individual differences are supposed to disappear already with the simultaneous employment of five farmhands, so that any five farmhands taken at random as a rule perform just as much work as another five picked out by chance.</p>
+```
+
+```{=html}
+<p>For the small master it is a matter of chance whether his workers perform social average labour. Only for the capitalist does it become possible that the labour set in motion by him is <em>as a rule</em> social average labour.</p>
+```
+
+```{=html}
+<p>The simultaneous employment of many workers in the same place brings still other advantages with it. I do not have to pay ten times more for the erection of a workshop in which thirty cloth weavers weave than for one of a space in which only three weave. Likewise, a storehouse for 100 hundredweight of wool does not cost ten times as much as one for 10 hundredweight, and so on. The value of the constant portion of capital that reappears in the product thus diminishes in proportion to the number of workers employed all the more, the more workers are active, under otherwise equal conditions, in a particular labour process. With this the surplus value grows in proportion to the total capital advanced, but with this the value of the product also falls, and, under certain circumstances discussed in the previous chapter, the value of labour-power. In this case the surplus value also grows in proportion to the variable capital.</p>
+```
+
+```{=html}
+<p>The simultaneous employment of many workers in the same place for the attainment of a particular result leads to their <em>planned working-together,</em> that is, to <em>cooperation.</em> This creates a <em>new, social productive force</em> that is more than, and different from, the sum of the individual productive forces of which it consists.</p>
+```
+
+```{=html}
+<p>The new force is from the outset <em>mass force;</em> it makes possible many labour processes that with lesser forces are not feasible at all or only imperfectly. Thirty men lift with ease in a few moments a tree at which three men would toil in vain the whole day. Cooperation also makes possible the carrying out of tasks in which not <em>mass force,</em> but rather the <em>compression</em> of the greatest possible output of labour into a <em>short span of time</em> is required; this is the case, for example, with the grain harvest.</p>
+```
+
+```{=html}
+<p>Even where neither a great mass of force nor its spatial or temporal compression and concentration is required, cooperation acts advantageously; <em>it raises the productivity of labour.</em> Everyone knows the manner in which, in the building of a house, the building stones are conveyed up onto the scaffolding; a chain of workers is formed, who pass the stones one to another. As a result of this planned working-together, the building stones cover their path much more quickly than if they were carried up onto the scaffolding by the individual workers.</p>
+```
+
+```{=html}
+<p>Finally, it is not to be overlooked that man is a social animal, that his vital spirits are enlivened in sociable activity, and that ambition and emulation come into play thereby. Thus social labour proceeds more quickly and the output of labour is proportionally greater than that of isolated workers.</p>
+```
+
+```{=html}
+<p>Under the capitalist system wage labourers can only work together if their labour-power has been bought by one and the same capitalist. The more labour-power is to be bought, the more variable capital is necessary; the more wage labourers are to be employed, the greater the mass of raw material, of the tools that these in turn use, etc., hence the greater the necessary quantity of constant capital. The carrying out of cooperation to a certain extent therefore presupposes a certain magnitude of capital. This now becomes a <em>precondition</em> of the capitalist mode of production.</p>
+```
+
+```{=html}
+<p>Cooperation is not peculiar to the capitalist mode of production alone. We have already seen it in primitive forms among the Indians. It became apparent to us that their planned cooperation in the hunt requires a <em>planned direction</em>. This is necessary for all social labour, in whatever form it may proceed. In the capitalist mode of production, the direction of production necessarily becomes a function of capital. In this investigation too, the fruitfulness of Marx's distinction of the twofold character of the labour producing commodities reveals itself to us. In accordance with this twofold character, under the capitalist mode of production, as we have seen, the process of production is the unity of the labour process and the process of valorisation. In so far as the production process appears as a <em>labour process</em>, the capitalist appears as the <em>director</em> of production, and the function he performs appears as one that will be more or less necessary under every social labour process. But the <em>capitalist</em> production process as a <em>process of valorisation</em> has as its foundation the <em>antagonism</em> of the interests of capital and labour, as it has already revealed itself to us in connection with the working day. If the process of valorisation is to proceed undisturbed in the desired manner, then it requires the <em>subordination</em> of the worker, the <em>despotic rule</em> of the capitalist. But the process of valorisation and the labour process form only two different sides of one and the same process, the capitalist production process, and thus the direction of production and the despotic rule of capital over the worker also appear as one — and since the former is a technical necessity, bourgeois economics tells us that the rule of capital over labour is a technical necessity, one dictated by the state of things, that with the abolition of the rule of capital production itself, in so far as it is of a social nature, would be destroyed, and that the rule of capital is the naturally necessary precondition of civilisation!</p>
+```
+
+```{=html}
+<p>Rodbertus too has declared that, as directors of production, the capitalists are officials of society and entitled to receive a salary. But just as the capitalist has use-values produced only because he cannot come into possession of values in any other way, so too for him the direction of production is only a necessary evil, to which he submits only because it is inseparably bound up with the valorisation of his capital. He escapes this evil wherever he can without damaging the surplus value. If his enterprise is large enough, he then has his "office" performed by hirelings, directors and subordinate officials. Sometimes he also uses other methods to rid himself of the direction of production. During the cotton crisis at the beginning of the sixties, for example, the English cotton spinners closed their factories in order to speculate on the cotton exchange and there to extract their "salary." The assertion that the capitalists deserve to be paid for their direction of production reminds us of that boy who saw a tree full of splendid apples, which he could reach only by climbing over a high wall. The apples were too tempting, and so he undertook the labour of climbing over the wall, which, after much effort, he also succeeded in doing. He was just delighting in the apples when the owner of the garden came and asked him by what right he took the apples. "I have honestly earned them," replied the boy, "they are the payment for the hard labour of climbing over the wall." Just as the boy could reach the apples only over the wall, so the capitalist can as a rule reach the surplus value only as director of production.</p>
+```
+
+```{=html}
+<p>There is yet another strange notion, found in economic books, that must be rejected here. The capitalist buys, as has hitherto been assumed, each labour-power at its full value. But the totality of the labour-powers he has bought unfold, in their planned cooperation, a new productive force. They produce more than if he were to employ each of them separately. This new productive force the capitalist does not pay for. It has nothing to do with the <em>commodity value</em> of labour-power, it constitutes a peculiarity of its <em>use-value.</em> This new force, moreover, only manifests itself during the labour process, that is, only after the commodity labour-power has passed into the possession of the capitalist, <em>after it has become capital.</em> Hence it appears to the capitalists and their advocates as if this heightening of the productivity of labour were to be attributed not to labour but to <em>capital.</em> "Because the social productive force of labour costs capital nothing, because on the other hand it is not developed by the worker before his labour itself belongs to capital, it appears as a productive force which capital possesses by nature."</p>
+```
+
+```{=html}
+<p>Cooperation, as has already been mentioned, is not peculiar to the capitalist mode of production alone. Social, communal production is already peculiar to the primitive communism found at the cradle of the human race. Agriculture was originally everywhere carried on cooperatively, in common. The allotment of land to individual families took place only later. We gave examples of cooperation among the Indians and the Indians of India in the first section.</p>
+```
+
+```{=html}
+<p>The development of <em>commodity</em> production has destroyed this <em>primitive cooperation</em>. With commodity production the circle of those who work <em>for</em> one another does indeed expand, but working <em>with</em> one another essentially ceases, except under the form of <em>forced labour,</em> the labour of slaves, serfs or subjects for their masters.</p>
+```
+
+```{=html}
+<p>Capital, which arises in opposition to the isolation and fragmentation of forces of the peasant economy and the handicraft enterprise, again develops cooperation, social, communal labour. Cooperation is the fundamental form of the capitalist mode of production, its particular historical form within commodity production. Capital seeks to develop social production more and more, it unfolds ever higher forms of cooperation: manufacture, large-scale industry. Its aim in doing so is the increase of surplus value. But without willing it, it thereby prepares the ground for a new, higher form of production.</p>
+```
+
+```{=html}
+<p>Handicraft commodity production rests on the <em>fragmentation</em> and mutual <em>isolation</em> of the enterprises; a capitalist enterprise, by contrast, rests on the <em>combination</em> of labours, on a <em>social, communal</em> production. Handicraft commodity production presupposes as a rule many small <em>independent</em> commodity producers; the capitalist enterprise, resting on cooperation, presupposes the unconditional authority of the capitalist over the individual workers.</p>
+```
+
+```{=html}
+<p>In the first section we observed primitive cooperation and division of labour in two examples; we followed the emergence of commodity production; now we see the capitalist mode of production develop, which is commodity production and cooperative production at the same time.</p>
+```
+
+```{=html}
+<p>If capitalist commodity production differs from handicraft commodity production through the concentration of enterprises, the organisation of common, social labour, then, on the other hand, capitalist cooperation differs from the primitive communist cooperation through the unconditional authority of the capitalist, who is at once the director of production and the owner of the means of production, and to whom also fall the products of cooperative labour, which under primitive cooperation belong to the labourers themselves.</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 7. Relative Surplus Value](ab2-kap07.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 9. Division of Labour and Manufacture ↓](ab2-kap09.qmd)

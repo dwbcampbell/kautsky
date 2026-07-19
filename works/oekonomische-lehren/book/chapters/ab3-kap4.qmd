@@ -1,0 +1,140 @@
+# Chapter 4. The Transformation of Surplus Value into Capital
+
+## 1. How surplus value becomes capital
+
+```{=html}
+<p class="fst">The case in which the capitalist consumes the whole surplus value is the exception. As a rule he transforms the surplus value, at least in part, back into capital. “The employment of surplus value as capital, or the reconversion of surplus value into capital, is called <em>accumulation of capital.”</em></p>
+```
+
+```{=html}
+<p>The process is easily illustrated. Let us recall the example in the previous chapter. Suppose a capital of 10,000 marks yields its employer an annual surplus value of 2,000 marks. If the capitalist does not consume this but adds it to his original capital, he will possess a capital of 12,000 marks which, under the same conditions, brings in an annual surplus value of 2,400 marks. These, again added to the capital, cause it to grow to 14,400 marks and the annual surplus value to 2,880 marks; the same process, repeated in the following year, yields a capital of 17,280 marks, which delivers a surplus value of 3,456 marks, together 20,736 marks, and so on. After four years the capital has, as a result of the accumulation of surplus value, more than doubled.</p>
+```
+
+```{=html}
+<p>Whether the whole surplus value or only a part of it is accumulated is not yet at issue for us here. Just as little is it of significance for the present inquiry in what manner the surplus value is accumulated, whether it forms <em>additional</em> or <em>new</em> capital. The owner of a spinning mill may use the surplus value to enlarge his mill, to employ more machines and more workers, to buy more raw material; but he may also use it to build a new spinning mill, or to set up an entirely different business, a weaving mill or a coal mine, and so forth. Whatever the application of the surplus value may be, in this case it is always reconverted into capital, into value that breeds surplus value.</p>
+```
+
+```{=html}
+<p>But in order that the surplus value may become capital, it must, after it has undergone the transformation from commodity into money, once again undergo the transformation from money into the corresponding commodities. Let us take, for example, a cotton spinner. Suppose he has sold his yarn and now possesses, alongside the capital originally advanced, also the surplus value in money form. Now, alongside the original capital, this surplus value too is to be transformed into new capital. This is only possible if he finds on the market a correspondingly increased quantity of commodities which can serve him as means of production: if the surplus value is to become additional capital, then additional raw materials—in our example cotton—, additional means of labour—such as machines—, additional means of subsistence for the maintenance of more labour-power, and finally additional labour-power must be present; that is, the material preconditions of an expansion of production must be given before an accumulation of capital is possible.</p>
+```
+
+```{=html}
+<p>The cotton spinner may, however, expect to find the necessary additional means of production on the commodity market. For not in the spinning mill alone, but also in the cotton plantations, the machine factories, the coal pits, and so forth, <em>surplus value</em> is being produced at the same time, and hence also <em>surplus product.</em></p>
+```
+
+```{=html}
+<p>If one considers not the surplus value that falls in the year to the individual capitalist, but the annual sum of surplus value which the whole capitalist class appropriates to itself, then the rule follows: the surplus value cannot be transformed into capital (wholly or in part) unless the surplus product (wholly or in the corresponding part) consists of means of production and of means of subsistence for workers.</p>
+```
+
+```{=html}
+<p>But where are the additional workers to be taken from? Over this the capitalist need grow no grey hairs; it is enough that he gives the workers in wages what is necessary for the maintenance of their lives; they see to their reproduction and multiplication themselves.</p>
+```
+
+```{=html}
+<p><em>The working class itself produces the additional workers who are necessary for the expansion of production,</em> for reproduction on an expanded scale.</p>
+```
+
+```{=html}
+<p>We saw that already under the assumption of simple reproduction every capital becomes, after a series of years, an accumulated capital consisting of mere surplus value. But such a capital can, at least at the moment of its coming into being, represent the proceeds of its owner's labour. It is otherwise with the capital that has sprung from the outset from accumulated surplus value. It is from the outset undisguisedly the proceeds of the labour of those who do not possess it. Accumulation of surplus value means appropriation of unpaid labour for the purpose of an expanded appropriation of unpaid labour.</p>
+```
+
+```{=html}
+<p>What a contradiction to the foundations of commodity exchange! We have seen that commodity exchange originally presupposes, on the one hand, the private property of the commodity producer in his product, and, on the other, the exchange of equal values, so that no one could come into possession of a value except through his own labour or through the surrender of an equal value.</p>
+```
+
+```{=html}
+<p>Now we find as the foundations of the capitalist mode of production, on the one side, the separation of the worker from the product of his labour; the one who produces the product and the one who owns it are now two different persons; and on the other side we find the appropriation of value without the surrender of an equal value, the <em>surplus value.</em> And on top of this we now find surplus value not only as the <em>result,</em> but also as the <em>foundation</em> of the capitalist production process. Not only does surplus value arise from capital, but capital also arises from surplus value, so that in the end the greatest mass of all wealth consists of value that has been appropriated without any equivalent.</p>
+```
+
+```{=html}
+<p>This inversion of the foundations of commodity production into their opposite took place, however, not in <em>contradiction</em> to their laws, but on the <em>basis</em> of the same.</p>
+```
+
+```{=html}
+<p class="quoteb">“Just as necessarily as commodity production at a certain degree of development becomes capitalist commodity production—indeed only on the basis of the capitalist mode of production does the commodity become the universal, dominant form of the product—just as necessarily do the property laws of commodity production turn into laws of capitalist appropriation. Let us therefore admire the cunning of Proudhon, who wants to abolish capitalist property by—asserting the eternal property laws of commodity production!”<br/> <a id="ab3-kap4-t2" name="ab3-kap4-t2"> </a></p>
+```
+
+## 2. The Abstinence of the Capitalist
+
+```{=html}
+<p class="fst">Up to now we have considered only the two extreme cases, when the surplus value is <em>wholly</em> consumed or wholly accumulated. But, as already mentioned, as a rule only a part of the surplus value is consumed, a part accumulated. The first part is regarded as <em>revenue in the narrower sense</em>.</p>
+```
+
+```{=html}
+<p>It depends on the capitalist's pleasure how large a part of the surplus value he wishes to consume, and how large a part is to be transformed into capital. The decision on this excites a grievous inner conflict within him.</p>
+```
+
+```{=html}
+<p>With Faust he can exclaim:</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="quoteb">„Two souls, alas! do dwell within my breast,<br/> The one is ever parting from the other;<br/> The one, in robust lust of love,<br/> Clings to the world with clutching organs;<br/> The other lifts itself with force from the murk<br/> Toward the fields“ – where ducats grow.</p> </td> </tr> </table>
+```
+
+```{=html}
+<p class="fst">Yes, in the capitalist there is repeated, in a peculiar way, the old conflict between carnal lust and asceticism, between paganism and Christianity. Longingly the capitalist squints at the joys of this world, but every pleasure that he cannot have for nothing appears sinful to him.</p>
+```
+
+```{=html}
+<p>The part of the surplus value which the capitalist personally consumes is as a rule not an arbitrary but a historically determined magnitude; determined, like the worker's wage, by the customary, „standard-appropriate“ mode of living of the social stratum concerned.</p>
+```
+
+```{=html}
+<p>Like the worker, though in another sense, the capitalist too belongs to capital for the whole of his life. He is compelled by competition not only to carry out the laws of the capitalist mode of production in his <em>enterprise</em>; his <em>private life</em> too is subject to their demands. If he lives too lavishly, if he kicks over the traces, then it is said: he is a spendthrift, his credit sinks. If he is stingy, if he does not make the outlay appropriate to his station, then this creates the appearance that his business does not yield the average return, and his credit likewise suffers. Thus the capitalist is compelled to consume a certain part of his surplus value, a part determined for particular times and circles. This magnitude, however, is a much more elastic one than that of the workers' wage.</p>
+```
+
+```{=html}
+<p>For that part of the surplus value which is to be accumulated, however, there are no limits at all, apart from the total mass of the surplus value itself and the elastic mode of living of the capitalist. The more that is accumulated, the better. The capitalist mode of production itself makes a continual accumulation of capital a necessity. We have seen how, with technical development, the sum of capital that is necessary for the establishment and operation of an enterprise in a particular branch of labour becomes ever larger, if the products are to be produced with the expenditure of average necessary labour. If in a branch of labour today, for example, 20,000 marks is the minimum sum that must be invested in an enterprise in order to keep it competitive, then through the introduction of new methods of labour, new, extensive machinery, etc., after 20 years this minimum sum may have risen to 50,000 marks. The capitalist who originally began an enterprise with 20,000 marks, but neglected to accumulate sufficient surplus value, so that after about 20 years he has at his disposal only 30,000 marks instead of 50,000, will probably become uncompetitive and go under. But this spur is not needed to move the capitalist to accumulate. The urge to accumulate for the sake of accumulation is developed in the capitalist by the modern mode of production just as, at an earlier stage of commodity production, the greed to heap up and lock away gold and silver was developed in the hoarder. Like the heaping up of hoards, the accumulation of capital has no limit within itself, it is boundless. However much the capitalist may possess, and even when his revenue has long outgrown his capacity for enjoyment, he hurries on after the proceeds of new surplus value, not in order to increase his enjoyments, but in order to increase his capitals.</p>
+```
+
+```{=html}
+<p>Classical economics discussed the consequences and causes of accumulation on the one hand and of the consumption of the capitalist class on the other quite impartially. It occupied itself with the accumulation of capital only from the economic, not from the moral side, which was indeed very immoral.</p>
+```
+
+```{=html}
+<p>But then the proletariat began to awaken and to attain a definite class consciousness. From the end of the twenties onwards the workers' movement began to make itself vigorously felt in England as in France. Now it was no longer a matter of <em>investigating</em> the economic problems, it was a matter of <em>justifying</em> capital. „Ethics“ was introduced into economics; the worthy lady became moral in her old age. Knowledge became a secondary matter, „feeling“ the main matter, and with the aid of this feeling it was soon discovered that the capitalist displayed an admirable heroism when, instead of consuming the surplus value, he abstained from it and accumulated it. That reverence and gratitude on the part of the workers were due to this new pillar-saint went without saying, but so too did the fact that the saint, despite the greatest abstinence, could not live on gratitude and reverence alone; and so, for the promotion of well-fed virtue and solvent morality, there was awarded to him by the economists a moral right to a reward for the accumulation of unpaid labour: the word „profit“, which sounds so vulgar, was transfigured, and there arose the <em>wage of abstinence.</em><br/> <a id="ab3-kap4-t3" name="ab3-kap4-t3"> </a></p>
+```
+
+## 3. The abstinence of the worker and other circumstances that influence the beginning of accumulation
+
+```{=html}
+<p class="fst">The greater the „renunciation“ of the capitalist, the greater the scope of accumulation. Fortunately for him, however, there are still other factors that exert a determining influence on the scope of accumulation. Everything that raises the mass of surplus value enlarges the scope of accumulation – other circumstances remaining equal. We already know the causes that exert a determining influence on the mass of surplus value. Let us mention here only a few of them that, from the standpoint now attained, offer new points of view. One of the most important among them is the abstinence of the <em>worker.</em> It is clear that the lower the payment of the worker, the greater the rate of surplus value, and the greater — with the capitalist’s consumption remaining constant — the portion of surplus value that comes to be accumulated. Everything that lowers the value of labour-power, or is suited to allow the wage to be pressed below this value, promotes the accumulation of capital. Hence the moral indignation of capital and its advocates over the „luxury“ of the workers, who undermine „national prosperity“ by smoking cigars and drinking beer. The fable of the champagne that a worker in Berlin is supposed to have indulged in on one occasion in 1872 made the rounds through the entire capitalist press as a devastating stigmatisation of the working class.</p>
+```
+
+```{=html}
+<p>With admirable inventive genius the capitalist world has devised a countless number of institutions and methods that promote the renunciation of the worker, from Rumford’s soup to the public soup kitchen and vegetarianism. Marx cites some characteristic examples of such institutions in <strong>Capital.</strong> We refer to them those who wish to occupy themselves more thoroughly with the subject.</p>
+```
+
+```{=html}
+<p>It is very unpleasant for the capitalist that every expansion of business requires a comparatively high outlay of constant capital; an outlay that grows ever greater the more the machinery of large-scale industry is perfected. But there remains for him the sweet consolation that, once the constant capital necessary for operation is on hand, production can, within certain limits, be expanded by additional variable capital without an addition of constant capital being simultaneously necessary in the same proportion. If a manufacturer is doing good business and wishes to have more produced, he can perhaps achieve this by having work done 2–3 hours longer. He need not procure new machines, need not erect a new factory building; only the raw and auxiliary materials are to be increased.</p>
+```
+
+```{=html}
+<p>But there are industries that have no raw material to buy, for example mines, or that have only a small advance of raw material to make, for example seed and manure in agriculture. These are industries that take their raw material from the earth. In these a simple addition of labour is often sufficient to increase the mass of the product. This increase of the product is owed solely to the earth and to labour, but capital has taken possession of both and thereby obtains the possibility „of extending the elements of its accumulation beyond the limit apparently fixed by its own magnitude, fixed by the value and the mass of the already produced means of production in which it has its existence.“</p>
+```
+
+```{=html}
+<p>Just as it has appropriated the earth and the worker, capital has also appropriated science; although as such it has no part in scientific development, yet all the fruits produced by the progress of science, in that it promotes the productivity of labour, fall into its lap alone. It thereby promotes the accumulation of capital. With the productive power of labour the value of labour-power falls, the rate of surplus value rises; but the rise in the productivity of labour also enables the capitalist to obtain, for his personal consumption, a greater quantity of the means of subsistence and enjoyment that are falling in value without any additional expenditure of surplus value, or the same quantity as before with a smaller expenditure, to live more comfortably or, without restriction, to accumulate more; often both at the same time.</p>
+```
+
+```{=html}
+<p>The greater the capital employed, the more productive the labour, but the greater not only the rate but also the mass of surplus value, the more the capitalist can enjoy and also accumulate.</p>
+```
+
+```{=html}
+<p>One already sees from the indications given that capital is not a <em>fixed,</em> but a <em>very elastic magnitude,</em> capable of considerable expansions and contractions; it forms only a <em>part</em> of social wealth; it can be increased by additions from other parts of the same, from the consumption fund of the capitalist class and also of the working class, and diminished by contributions to these funds. Its effect is enlarged by the lengthening of the labour time, the increase of the productivity of labour, the greater exploitation of the earth. We here abstract entirely from the relations of the circulation process, for example the acceleration or slowing of the turnover of capital; we also abstract from the relations of the credit system, which are of such great importance for the expansion and restriction of capital and its scope. These cannot yet be treated here. But already the relations of the production process show us the elasticity of capital. Among the economists, however, capital counts as a definite magnitude with a definite degree of efficacy. Thus variable capital also appears to them as a fixed magnitude, the so-called <em>labour fund.</em> „So and so much capital,“ they say, „is destined to serve as payment of the workers. The more workers, the smaller the share falling to each individual; the fewer workers, the larger this share.“ Variable capital was also equated with the means of subsistence that it represents for the worker, and it was said:</p>
+```
+
+```{=html}
+<p class="quoteb">„The number of workers who are employed in a country and the level of their wage depend on the quantity of the available means of subsistence. If the wage is too low, or if many workers can find no employment, this arises merely from the fact that the number of workers increases more rapidly than that of the means of subsistence. It is <em>nature,</em> not the <em>mode of production,</em> to which the misery of the working class is owed.“</p>
+```
+
+```{=html}
+<p class="fst">Upon these presuppositions the so-called <em>Malthusian</em> theory was built.</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 3. Simple Reproduction](ab3-kap3.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 5. Over-Population ↓](ab3-kap5.qmd)

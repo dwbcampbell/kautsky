@@ -1,0 +1,282 @@
+# Chapter 2. Money
+
+## 1. The Price
+
+```{=html}
+<p class="fst">The first function of money consists in serving as a <em>measure of value</em>, to supply the world of commodities with the material in which value is expressed.</p>
+```
+
+```{=html}
+<p>Commodities do not become homogeneous and mutually comparable through money; rather, because as values they are objectified human labour, and are therefore in and for themselves already homogeneous, they can as such be jointly measured in the same definite commodity, which thereby transforms them into their <em>common measure of value</em> or into <em>money</em>. Money as a <em>measure of value</em> is the necessary form of appearance of the measure of value immanent in commodities, namely <em>labour-time</em>. <a href="#ab1-kap2-n1" id="ab1-kap2-f1" name="ab1-kap2-f1">[1]</a></p>
+```
+
+```{=html}
+<p>The expression of the value of a commodity in the money-commodity is its money-form or its price, e.g. 1 coat = 10 grammes of gold.</p>
+```
+
+```{=html}
+<p>The price of a commodity is something quite distinct from its natural properties. One cannot see it in the commodity or feel it. The keeper of the commodity must communicate it to the buyers. But in order to <em>express</em> the value of a commodity in the gold-commodity, that is, in order to <em>determine</em> its price, real money is not necessary. The tailor need not have any gold in his pocket in order to be able to declare that the price of the coat he offers for sale amounts to 10 grammes of gold. As a measure of value, therefore, money serves <em>only as imagined, as represented money.</em></p>
+```
+
+```{=html}
+<p>But in spite of this the <em>price</em> depends only on the <em>real</em> money-commodity. The tailor can — we here of course disregard all disturbing side-circumstances — reckon the price of his coat at 10 grammes of gold only if in such a quantity of gold there is embodied just as much socially necessary labour as in the coat. If the tailor expresses the value of his coat not in gold but in silver or copper, then the price-expression too becomes a different one.</p>
+```
+
+```{=html}
+<p>Where two different commodities count as measures of value, e.g. gold and silver, all commodities therefore possess two different price-expressions, gold-prices and silver-prices. Every change in the value-relation of gold to silver gives rise to price-disturbances. The doubling of the measure of value is in fact an absurdity, a contradiction of the function of money as a standard of value. Wherever the attempt has been made to fix two commodities by law as standards of value, it has in fact always been only one of them that functioned as measure of value.</p>
+```
+
+```{=html}
+<p>Gold and silver are today still set up in several countries side by side as legally established standards of value. But experience has always led these legal provisions <em>ad absurdum</em>. Gold and silver are, like every commodity, subject to constant fluctuations of value; if both are placed by law on an equal footing, if one may pay at will in the one metal or the other, then one pays in the one whose value is <em>falling</em>, and sells the metal which is rising in value where it can be advantageously sold, abroad. In countries where the double standard prevails, so-called bimetallism, therefore, in fact always only the one kind of money-commodity functions as a standard of value, namely the one that is falling in value; the other, which is rising in value, measures, like every other commodity, its price in the overvalued metal, functions as a <em>commodity</em>, not as a <em>standard of value</em>. The greater the shifts in the value-relation between gold and silver, the more strongly the absurdity of bimetallism comes to light. <a href="#ab1-kap2-n2" id="ab1-kap2-f2" name="ab1-kap2-f2">[2]</a></p>
+```
+
+```{=html}
+<p>In <strong>Capital</strong> Marx, for the sake of simplicity, presupposes gold as the sole money-commodity. Gold is also in fact becoming more and more the money-commodity in the countries of the present-day capitalist mode of production. <a href="#ab1-kap2-n3" id="ab1-kap2-f3" name="ab1-kap2-f3">[3]</a></p>
+```
+
+```{=html}
+<p>In the price-expression every commodity is represented as a definite quantity of gold. It is of course necessary also to measure against one another the various quantities of gold which represent the various prices, that is, to establish a <em>standard of prices</em>. The metals possess such a natural standard in their weights. The weight-names of the metals, pound, livre (in France), talent (in ancient Greece), as (among the Romans), etc., therefore form the original names of the units of the standard of prices.</p>
+```
+
+```{=html}
+<p>Besides its function as a measure of values, we here come to know a second function of money: that as <em>standard of prices</em>. As a measure of value, money transforms the values of commodities into definite imagined quantities of gold. As a standard of prices, it measures the various quantities of gold against a definite quantity of gold that is taken as the unit, e.g. one pound of gold.</p>
+```
+
+```{=html}
+<p>The difference between measure of values and standard of prices is clear if we observe the behaviour of the two in the face of a change of value.</p>
+```
+
+```{=html}
+<p>Let us assume that the unit of measurement of the <em>standard of prices</em> is 10 grammes of gold. Now, whatever the value of gold may be, 20 grammes of gold will always be worth twice as much as 10 grammes. The fall or rise of the value of gold thus has no effect on the standard of prices.</p>
+```
+
+```{=html}
+<p>But let us take gold as <em>measure of values</em>. Let a coat be equal to 10 grammes of gold. But let the value of gold change; one day twice as much gold is produced in the same socially necessary labour-time as hitherto. In the productivity of the tailor's labour, however, no change has taken place. What happens? The price of the coat now amounts to 20 grammes of gold. The change in the value of gold thus makes itself perceptibly felt in its functioning as measure of values.</p>
+```
+
+```{=html}
+<p>The standard of prices can be determined arbitrarily, just as, for instance, the measures of length. On the other hand, this standard requires general validity. At first conventional, given by the <em>customary</em> divisions of weight, it is finally regulated <em>by law</em>. The various weight-parts of the precious metals receive official baptismal names which differ from their weight. We do not say <sup><small>1</small></sup>/<small><small>70</small></small> pound of gold, but a twenty-mark piece. Prices are now expressed not in <em>gold-weights</em> but in the legally valid <em>reckoning-names</em> of the gold standard.</p>
+```
+
+```{=html}
+<p>The <em>price</em> is the money-name of the magnitude of value of the commodity. But it is at the same time the expression of the exchange relation of the commodity with the money-commodity, with gold. The value of a commodity can never come to appearance in isolation, by itself alone, but always only in the exchange relation with another commodity. This relation, however, can be influenced by circumstances other than the magnitude of value alone. Thereby the possibility of a divergence of the <em>price</em> from the <em>magnitude of value</em> is given.</p>
+```
+
+```{=html}
+<p>When the tailor says that the price of his coat amounts to 10 grams of gold, or in reckoning-names 30 marks, he thereby says that he will at any time part with his coat in exchange for 10 grams of gold. But he would be very rash if he wished to assert that everyone was immediately prepared to give him 10 grams of gold for his coat. To be sure, the transformation of the coat into gold is absolutely necessary if it is to fulfil its purpose as a commodity. The commodity longs for money; the prices are the fervent glances of love that it casts at its glittering suitor. But on the commodity-market things do not proceed as in novels. They do not always get one another. Many a commodity is left in the lurch by the wooing gold and must lead a joyless existence as an unsaleable article.</p>
+```
+
+```{=html}
+<p>Let us look somewhat more closely at the adventures of the commodity in its intercourse with gold.<br/> <a id="ab1-kap2-t2" name="ab1-kap2-t2"> </a></p>
+```
+
+## 2. Sale and Purchase
+
+```{=html}
+<p class="fst">Let us accompany our old acquaintance, the tailor, to the market. He exchanges the coat he has made for thirty marks. For this sum he buys a small cask of wine. Here we have two mutually opposed transformations: first the transformation of commodity into money; then the reconversion of money into commodity. But the commodity at the end of the whole process is a different one from that at its beginning. The former was a non-use-value for its owner, the latter is a use-value for him. The usefulness of the former to him consisted in its property as <em>value,</em> as <em>product of generally human labour;</em> in its <em>exchangeability</em> with <em>another</em> product of generally human labour, with gold. The usefulness of the other commodity, the wine, to him consists in its <em>bodily</em> properties, not as a product of generally human labour, but of <em>particular</em> forms of labour, of the vintner's labour, and so forth.</p>
+```
+
+```{=html}
+<p>The formula of the simple circuit of commodities runs: Commodity—Money—Commodity; that is, selling in order to buy.</p>
+```
+
+```{=html}
+<p>Of the two transformations Commodity—Money and Money—Commodity, the first is, as is well known, the most difficult. Buying, when one has money, causes little trouble. Incomparably greater trouble is caused by selling in order to obtain money. And money is, under the dominion of commodity production, necessary for every commodity owner; the more the social division of labour develops, the more one-sided his labour, the more manifold his needs.</p>
+```
+
+```{=html}
+<p>If the "salto mortale of the commodity," its transformation into money, is to succeed, then it is above all necessary that it be a <em>use-value,</em> <em>that it satisfy a need.</em> If this is the case, if its transformation into money succeeds, then it is only afterwards a question of <em>how much</em> money?</p>
+```
+
+```{=html}
+<p>This question, however, does not concern us more closely here. Its answer belongs in the investigation of the laws of <em>prices.</em> What interests us here is the change of form: Commodity—Money, without regard to whether the commodity thereby loses or gains in magnitude of value.</p>
+```
+
+```{=html}
+<p>The tailor gets rid of his coat and receives his money for it. Let us assume he sells it to a countryman. What is on the tailor's side a <em>sale,</em> is on the countryman's side a <em>purchase.</em> Every sale is a purchase and vice versa. But where does the countryman's money come from? He has exchanged it for grain. If we trace the path which the money-commodity, gold, has traversed from its source of production, the mine, onward from one commodity owner to another, we find that each of its changes of ownership has always been the result of a sale.</p>
+```
+
+```{=html}
+<p>The transformation Coat—Money forms, as we have seen, the link not of one but of two series of transformations. The one runs: Coat—Money—Wine. The other Grain—Money—Coat. The beginning of the series of transformations of one commodity is at the same time the conclusion of the series of transformations of another commodity. And likewise the reverse.</p>
+```
+
+```{=html}
+<p>Let us assume that the vintner buys, with the 30 marks he received for his wine, a kettle and coals. Then the transformation Money—Wine is the last link of the series Coat—Money—Wine, and the first of two other series, Wine—Money—Coals and Wine—Money—Kettle.</p>
+```
+
+```{=html}
+<p>Each of these series of transformations forms a circuit, Commodity—Money—Commodity. It begins and ends with the commodity form. But every circuit of one commodity intertwines with the circuits of other commodities. The total movement of these countless mutually intertwining circuits forms the <em>circulation of commodities.</em></p>
+```
+
+```{=html}
+<p>The circulation of commodities is essentially different from the immediate exchange of products or simple barter. The latter was called forth by the growth of the productive forces beyond the barriers of primitive communism. Through the exchange of products the system of social labour was extended beyond the territory of a single community; it brought it about that different communities and the members of different communities worked for one another. But the simple exchange of products in its turn again formed a barrier, when the productive forces developed more and more, and this barrier was overcome by the circulation of commodities.</p>
+```
+
+```{=html}
+<p>Simple exchange of products requires that I simultaneously take his products from the purchaser of my products. This barrier is removed in the circulation of commodities. It is true that every sale is at the same time a purchase; the coat cannot be sold by the tailor without another, e.g. the countryman, buying it. But it is, firstly, by no means necessary that the tailor immediately buy again. He can put the money in the chest and wait until it pleases him to buy something. He is, secondly, by no means compelled to buy something, now or later, from the <em>countryman</em> who bought the coat from him, or to buy in the same market where he sells. The temporal, local and individual barriers of the exchange of products thus fall away with the circulation of commodities.</p>
+```
+
+```{=html}
+<p>But yet another difference between barter and the circulation of commodities takes place. The simple exchange of products consists in the alienation of <em>surplus</em> products and leaves the forms of production of primitive communism at first unchanged, forms of production which stand under the direct control of those involved.</p>
+```
+
+```{=html}
+<p>The development of the circulation of commodities, on the contrary, makes the relations of production ever more entangled, more difficult to survey, more uncontrollable. The individual producers become ever more independent of one another, but the more dependent they become upon social interconnections which they can no longer control, as was the case under primitive communism. The social powers thereby acquire the force of blindly working natural forces which, when hindered in their operation, disturbed in their equilibrium, assert themselves in catastrophes, like storms and earthquakes.</p>
+```
+
+```{=html}
+<p>And already with the circulation of commodities there develop also the germs of such catastrophes. The possibility which it offers of being able to sell without having to buy immediately afterwards already contains within itself the <em>possibility of stagnations in sales,</em> of <em>crises.</em> But the productive forces must develop beyond the framework of simple commodity circulation before the <em>possibility</em> becomes reality.<br/> <a id="ab1-kap2-t3" name="ab1-kap2-t3"> </a></p>
+```
+
+## 3. The Circulation of Money
+
+```{=html}
+<p class="fst">Let us recall the commodity circuits that we followed in the last paragraph: Corn—money—coat—money—wine—money—coal, etc. The progress of these circuits also imparts a movement to money; but this is not a circuit. The money that has proceeded from the countryman moves ever further away from him. “The form of movement directly imparted to money by the circulation of commodities is therefore its constant removal from its starting point, its passing from the hand of one commodity owner into that of another, or its <em>circulation.”</em></p>
+```
+
+```{=html}
+<p>The circulation of money is the <em>consequence</em> of the circuit of commodities, not, as is often assumed, its <em>cause.</em> The commodity as use value soon falls out of circulation – at the stage of simple commodity circulation, at which we now stand in our investigation, where there is as yet no talk of commercial trade and resale, already at the first step of its course – in order to enter into consumption, and a new use value, but an equal commodity value, takes its place in the circuit. In the circuit corn—money—coat the corn disappears from circulation already after the first change of form corn—money, and an equal value, but a different use value, returns to the seller of the corn: money—coat. Money as a means of circulation does not fall out of circulation, but keeps constantly moving about within its sphere.</p>
+```
+
+```{=html}
+<p>The question now is how much money the circulation of commodities requires.</p>
+```
+
+```{=html}
+<p>We already know that every commodity is equated with a certain quantity of money, that is, its price is determined, before it even comes into contact with actual money. The price to be obtained for each individual commodity and the sum of the prices of all commodities are therefore determined in advance – the value of gold being presupposed as given. The sum of the prices of the commodities is a certain imagined sum of gold. If the commodities are to circulate, the imagined sum of gold must be capable of being transformed into a real one; the mass of circulating gold is thus determined by the sum of the prices of the circulating commodities. (One must bear in mind that we are here still moving in the sphere of simple commodity circulation, where credit money, the balancing of payments, etc., are still unknown.) This sum of prices fluctuates, with prices remaining the same, according to the mass of circulating commodities; with the mass of commodities remaining the same, according to their prices, regardless of whether this fluctuation is brought about by a fluctuation of market prices, or by a change in the value of gold or of the commodities; regardless of whether this fluctuation of prices affects all or only some commodities.</p>
+```
+
+```{=html}
+<p>But the sales of commodities are not always disconnected, nor do they all take place <em>simultaneously.</em></p>
+```
+
+```{=html}
+<p>Let us again take our earlier example. We have the series of changes of form: 5 hectolitres of corn—30 marks—1 coat—30 marks—40 litres of wine—30 marks—20 hundredweight of coal—30 marks. The sum of the prices of these commodities amounts to 120 marks; but to carry out the four sales, 30 marks suffice, which change their place four times, thus completing four circulations one after the other. If we assume that the said sales all took place within one day, then we have as the mass of money functioning as a means of circulation in a certain sphere of circulation during one day <sup><small>120</small></sup>/<small><small>4</small></small> = 30 marks, or expressed generally:</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="smc"><u>                    Sum of the prices of the commodities                    </u><br/> Number of circulations of coins of the same denomination</p> </td> <td> <p class="smc">= Mass of the money functioning as a means of circulation</p> </td> </tr> </table>
+```
+
+```{=html}
+<p class="fst">functioning during a definite period of time.</p>
+```
+
+```{=html}
+<p>The circulation time of the various coins in a country is naturally a different one; the one lies in the drawer for years, the other completes perhaps thirty circulations in a single day. But their <em>average</em> velocity of circulation is nonetheless a definite magnitude.</p>
+```
+
+```{=html}
+<p>The velocity of circulation of money is conditioned by the rapidity of the circuit of commodities. The more rapidly commodities disappear from circulation in order to be consumed, and the more rapidly they are replaced by new commodities, the more rapid also is the circulation of money. The slower the circuit of commodities, the slower the circulation of money, the less money one gets to see. People whose gaze clings only to the surface then believe that there is too little money present and that the lack of money produces the stoppage of circulation. This case is indeed also possible, but nowadays it hardly occurs for longer periods.<br/> <a id="ab1-kap2-t4" name="ab1-kap2-t4"> </a></p>
+```
+
+## 4. Coin. Paper Money
+
+```{=html}
+<p class="fst">For commerce it was naturally a great inconvenience if, with every sale and purchase, the fineness and weight of each piece of money-metal to be exchanged had to be tested. This was remedied as soon as a generally recognised authority guaranteed the correct weight and the correct fineness of each metal piece. Thus from metal bars there arose <em>metal coins</em> produced by the state.</p>
+```
+
+```{=html}
+<p>The <em>coin form</em> of money springs from its <em>function as means of circulation.</em> But once money has assumed the coin form, this soon acquires within the sphere of the circulation process an independent existence, independent of the coin's metallic <em>content.</em> The certification of the state that a coin token contains a certain quantity of gold or is equal to it soon suffices, under certain circumstances, to allow the coin token to function as means of circulation just as well as the full and real quantity of gold.</p>
+```
+
+```{=html}
+<p>The very circulation of the coins themselves brings this about. The longer a coin is in circulation, the more it wears down; its alleged and its real content diverge more and more from one another; an old coin is lighter than one that has just come from the mint – nevertheless both can, under certain circumstances, represent equal values as means of circulation.</p>
+```
+
+```{=html}
+<p>The difference between alleged and real content shows itself still more sharply in the token coin. Very often lower metals, e.g. copper, formed the first money, which was later displaced by the precious metals. Copper, and after the introduction of the gold standard silver, ceased to be measures of value, but the copper and silver coins continued as before to function as means of circulation in small-scale commerce. They now corresponded to definite fractions of the weight of gold; the value they represented changed in the same proportion as that of gold, and remained unaffected by the fluctuations in the value of silver and copper. It appears that under these circumstances their metallic content has no influence on their function as coin, that one can arbitrarily determine by state laws what quantity of gold is to be represented by a copper or silver coin. From then on it was but a step to put a paper token in place of the metal token, to equate by law a worthless slip of paper to a certain quantity of gold.</p>
+```
+
+```{=html}
+<p>Thus arose <em>state paper money</em> – not to be confused with credit money, which has grown out of another function of money.</p>
+```
+
+```{=html}
+<p>Paper money can replace gold money only as means of circulation, not as measure of value; it can replace it only insofar as it represents definite quantities of gold. For paper money as means of circulation the same laws hold as for the metal money in whose place it steps. Paper money can never replace a greater quantity of gold than can be absorbed by commodity circulation. If the commodity circulation of a country requires 100 million marks in gold, and the state puts 200 million marks in paper into circulation, then this will have the consequence that, for example, with two twenty-mark notes I can buy only as much as with one gold piece of twenty marks. The prices expressed in paper money in this case stand twice as high as the gold prices. The paper money is depreciated by the excess of its issue. This is at present taking place in Russia, where the state paper money issued in masses has for more than 50 years continuously stood below the metal value which it is supposed to represent. The most grandiose example of such paper-money depreciation as a consequence of excessive issue is formed by the assignats of the great French Revolution, of which over 45,581 million francs were put into circulation in seven years (1790 to March 1797) and in consequence of this finally became totally worthless.<br/> <a id="ab1-kap2-t5" name="ab1-kap2-t5"> </a></p>
+```
+
+## 5. Further Functions of Money
+
+```{=html}
+<p class="fst">We have traced the emergence of simple commodity circulation, and have seen how, along with it, the functions of money as a <em>measure of value</em> and as a <em>means of circulation</em> developed. Money, however, does not remain confined to these functions.</p>
+```
+
+```{=html}
+<p>With commodity circulation itself there develops the necessity and the greed to hold fast and to hoard the money-commodity, gold. The peculiarities of money correspond to the peculiarities of commodity production: just as the latter is a form in which <em>social production</em> is carried on by independent private producers, so money is a <em>social power</em> which, however, is not the power of society, but can become the <em>private property</em> of any individual. The greater the sum of money over which one disposes, the greater the social power, the goods and enjoyments, the labour products of others over which one disposes. Gold can do everything; it is the only commodity that everyone can use, that everyone accepts. Thus, with commodity circulation, the greed for gold awakens and grows.</p>
+```
+
+```{=html}
+<p>But the accumulation of money becomes, with the development of commodity production, not only a passion but also a <em>necessity.</em> The more products become commodities, the less one produces for one's own use, the more necessary the possession of money is in order to be able to live at all. I must incessantly buy, and in order to be able to buy I must have sold; but the production of the commodities I sell takes time, and their sale depends on chance. In order to keep commodity production going, in order to be able to live while producing, I must possess a stock of money. Such a stock is also necessary for equalising stoppages in circulation. We have seen above that the quantity of circulating money depends on the prices of commodities, their quantity, and the speed of their circuit. Each of these factors changes incessantly; the circulating mass of money is therefore in constant fluctuation. Where does the money come from that becomes necessary, where does the money flow off that becomes superfluous? <em>Hoards of money,</em> which accumulate at the most varied points, form reservoirs which now take up money, now give it off again, and thus equalise disturbances in the process of circulation.</p>
+```
+
+```{=html}
+<p>In the beginnings of commodity circulation, as in simple barter, two commodities are always exchanged directly, with only the difference that now the one commodity is always the universal equivalent, the <em>money-commodity.</em> With the development of commodity circulation, however, relations arise through which the alienation of the commodity is separated in time from the receipt of the sum of money corresponding to its price. Circumstances now arise which cause a commodity to be paid for before it has been received, or, what is more often the case, that it is paid for only later. Let an example be given for the sake of illustration. Let us take an Italian silk-weaver, say from the 13th century. He obtains the silk he works up from his neighbourhood. But the silk fabrics he weaves go to Germany; before they arrive at their destination and are sold and the proceeds have travelled back to Italy, 3–4 months pass. The silk-weaver has finished a silk fabric; at the same time his neighbour, the silk-spinner, has finished a certain quantity of silk. The silk-spinner sells his commodity at once to the silk-weaver; the latter receives the proceeds for his commodity only after four months. What happens? The weaver <em>buys</em> the silk, but <em>pays</em> for it only after four months. Buyer and seller now take on a different appearance. The <em>seller</em> becomes a <em>creditor,</em> the <em>buyer a debtor.</em> But money too now acquires a new function. In the present case it does not mediate the circulation of the commodity, it independently concludes its circuit. In this function it is not a means of circulation, but a <em>means of payment,</em> a means of fulfilling an obligation entered into for the delivery of a sum of values.</p>
+```
+
+```{=html}
+<p>Such an obligation, however, need not always arise out of the process of circulation of commodities. The more commodity production develops, the greater the endeavour to transform deliveries of particular use-values into the delivery of money, the form of universal value. Payments in kind to the state are transformed into money-taxes, deliveries in kind to officials into money-salaries, and so on. The function of money as a means of payment now reaches beyond commodity circulation.</p>
+```
+
+```{=html}
+<p>Let us return to our silk-weaver. He buys silk from the silk-spinner without being able to pay for it at once. But in matters of money, geniality ceases. The silk-spinner thinks to himself: what one holds in black and white one may confidently carry home. He therefore has the silk-weaver give him a draft in which the latter undertakes to pay, after four months, a sum of money corresponding to the price of the silk sold. But the silk-spinner, for his part, has payments to make before the four months are up. Since he possesses no cash, he pays with the silk-weaver's draft. <em>This now functions as money;</em> a new sort of paper money arises: <em>credit money</em> (bills of exchange, cheques, etc.).</p>
+```
+
+```{=html}
+<p>Yet another case may occur: let the silk-weaver have bought silk to the amount of 5 ducats from the silk-spinner. The latter, however, bought a bracelet for his wife from a goldsmith for 6 ducats. At the same time this goldsmith took silk fabrics worth 4 ducats from the silk-weaver. The payments fall due simultaneously. All three, the spinner, the weaver, and the goldsmith, come together. The first has to pay the last 6 ducats, but at the same time has 5 ducats to claim from the silk-weaver. He pays the goldsmith one ducat and refers him for the remainder to the silk-weaver. But the latter is to receive 4 ducats from the goldsmith; he therefore pays him only one. Thus, through mutual settlement, three payments to a total amount of 15 ducats have been carried out with merely two ducats.</p>
+```
+
+```{=html}
+<p>Naturally, in reality the processes do not take place as simply as assumed here. In fact, however, the payments of commodity-sellers partly balance one another out, and indeed to an ever-increasing degree with the development of commodity circulation. The concentration of payments at a few places and at definite points in time develops its own institutions and methods for this settlement, for example the <em>virements</em> in mediaeval Lyons. The giro-banks, <em>clearing-houses,</em> cashiers' associations, which serve the same purpose, are well known. Only payments which do not balance out have to be made in money.</p>
+```
+
+```{=html}
+<p>The credit system causes hoard-formation as an independent form of enrichment to disappear. Whoever wishes to see his wealth preserved no longer needs to hide his money in the earth or in chests and coffers, once the credit system develops. He can lend the money out. On the other hand, the credit system compels <em>temporary</em> hoard-formation, the accumulation of sums of money which on the day of payment serve for the payment of debts falling due.</p>
+```
+
+```{=html}
+<p>But the accumulation of such a hoard does not always succeed. Let us recall our silk weaver. He has promised to pay after four months, because he hopes to have sold his commodity by then. But let us assume that he finds no buyer for his commodity, and so cannot pay. The silk spinner, however, is counting on this payment; trusting in it, he too has committed himself to payments, perhaps to the goldsmith, and the latter in turn to others; we see that the insolvency of the one entails the insolvency of others, and indeed to an ever greater degree, the more the system of successive and consecutive payments and their settlement is developed. Now let us assume that not one producer, but a whole series of producers, is unable, perhaps in consequence of general overproduction, to sell their commodities. Their insolvency entails the insolvency of others who have already sold their commodities. The payment orders become worthless, everyone demands hard cash, the general equivalent; a general shortage of money, a <em>money crisis</em>, arises, which, from a certain height of the development of credit onward, is the necessary companion of every crisis of production or trade. It shows most clearly that under the system of commodity production money cannot be replaced by mere orders on commodities.</p>
+```
+
+```{=html}
+<p>Money has two spheres of circulation: the <em>internal</em> market of the respective state entities and the <em>world market.</em> Money possesses the form of coin and token of value only <em>within</em> a country, but not in intercourse from one country to another. On the <em>world market</em> it again assumes its original shape, that of bars of precious metal, gold and silver. <em>Both</em> have hitherto served on the world market as a measure of value, whereas within the sphere of the internal circulation of a country only <em>one</em> money-commodity can really function as a measure of values.</p>
+```
+
+```{=html}
+<p>It may moreover be said that, since Marx wrote his <strong>Capital</strong>, gold has acquired the unmistakable tendency to become the sole money-commodity on the world market as well.</p>
+```
+
+```{=html}
+<p>The principal function of world money is that of a <em>means of payment,</em> for the settlement of the international balances – the surpluses and deficits of imports and exports.</p>
+```
+
+```{=html}
+<table align="center" cellpadding="2" cellspacing="3"> <tr> <td> <p class="smc"> </p> </td> <td rowspan="3"> <p class="sm">  </p> </td> <th> <p class="smc">Gold</p> </th> <td rowspan="3"> <p class="sm">  </p> </td> <th> <p class="smc">Silver</p> </th> </tr> <tr> <td> <p class="sm1">1831</p> </td> <td> <p class="smc">  2.232.000.000 Mark</p> </td> <td> <p class="smc">8.280.000.000 Mark</p> </td> </tr> <tr> <td> <p class="sm1">1880</p> </td> <td> <p class="smc">13.170.000.000 Mark</p> </td> <td> <p class="smc">8.406.000.000 Mark</p> </td> </tr> </table>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#ab1-kap2-f1" id="ab1-kap2-n1" name="ab1-kap2-n1">1.</a> In connection with this exposition Marx makes an interesting remark about a utopia that still haunts many minds today: “The question,” he says, “why money does not directly represent labour-time itself, so that, for example, a paper note represents the hours of labour, comes down quite simply to the question why, on the basis of commodity production, the products of labour must present themselves as commodities, for the presentation of the commodity includes its duplication into commodity and money-commodity. Or why private labour cannot be treated as directly social labour, as its opposite. I have discussed elsewhere in detail the shallow utopianism of a ‘labour money’ on the basis of commodity production <strong>(A Contribution to the Critique of Political Economy,</strong> 1859, p. 61 ff. This passage is reprinted in the appendix of the German edition of Marx’s <strong>The Poverty of Philosophy</strong>, 2nd ed., Stuttgart 1892, p. 165). Here it may further be remarked that, for example, Owen’s ‘labour money’ is as little ‘money’ as, say, a theatre ticket. Owen presupposes directly socialised labour, a form of production diametrically opposed to commodity production. The labour certificate merely attests the individual share of the producer in the common labour and his individual claim to the portion of the common product destined for consumption. But it does not occur to Owen to presuppose commodity production and yet to try to evade its necessary conditions!”</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab1-kap2-f2" id="ab1-kap2-n2" name="ab1-kap2-n2">2.</a> The bimetallist agitation, which was still very strong in the last decades of the previous century, has now indeed become completely hopeless and has fallen entirely silent. One country after another is going over to the gold standard, thus in the last decades Austria (1892), Japan (1897), Russia (1898), the United States (1900). In England it was introduced already at the end of the eighteenth century, in Germany, as is well known, since 1871, in the Netherlands since 1877. In Belgium, France and Switzerland it actually prevails, even though nominally the double standard still exists there. The British and Dutch colonies too have gone over to the gold standard. The greatest advantage from Germany’s transition to the double standard would be drawn by those who contracted debts there during the period of the gold standard, which they could then pay in silver. Most such long-standing debts are mortgage debts. Hence the interest of the agrarians.</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab1-kap2-f3" id="ab1-kap2-n3" name="ab1-kap2-n3">3.</a> The value of the money stock (coins and bars) in precious metals in the countries of the modern mode of production has been estimated at</p>
+```
+
+```{=html}
+<p class="note">From 1880 to 1908 gold coins to the amount of 30 billion Mark and silver coins to over 20 billion Mark were minted in the mints of the world.</p>
+```
+
+```{=html}
+<p class="note">Gold is therefore today by far the predominant money-commodity</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 1. The Commodity](ab1-kap1.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 3. The Transformation of Money into Capital ↓](ab1-kap3.qmd)

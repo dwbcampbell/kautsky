@@ -1,0 +1,74 @@
+# Chapter 7. Relative Surplus Value
+
+```{=html}
+<p class="fst">If the necessary labour-time, that is, the part of the working day during which only as much value is produced as capital has to pay out for the commodity labour-power, is a definite magnitude, then the rate of surplus value can be increased only by <em>lengthening the working day.</em> If, for example, the necessary labour-time amounts to 6 hours daily, and it is unalterable—which is the case under given conditions of production—then the rate of surplus value can be increased only by lengthening the working day.</p>
+```
+
+```{=html}
+<p>We considered the effects of this circumstance in the 4th chapter.</p>
+```
+
+```{=html}
+<p>But the working day cannot be extended to infinity. The capitalist's endeavour to lengthen it finds <em>natural</em> barriers in the exhaustion of the worker, <em>moral</em> barriers in his claim to free activity as a human being, and <em>political</em> barriers in the limitation of the working day by the state, enforced by various circumstances. Let us assume that the working day has reached a limit beyond which, under the given circumstances, it cannot be extended; let this limit be set at the twelfth hour of labour. Let the necessary labour-time amount to six hours, and thus the rate of surplus value to 100 per cent.</p>
+```
+
+```{=html}
+<p>Now, how is this rate to be increased? Very simply. If I force the necessary labour-time down from 6 to 4 hours, then the time of surplus labour rises from 6 to 8 hours; the <em>length</em> of the working day has remained the same, but the <em>relation</em> of its two component parts, the <em>necessary</em> and the <em>surplus</em> labour-time, has become a different one. And with it the rate of surplus value. Through the forcing-down of the necessary labour-time from 6 to 4 hours, with a 12-hour working day, the rate of surplus value has risen from 100 to 200 per cent; <em>it has doubled.</em> The process is most easily grasped when one illustrates the length of the working day and its parts by lines of a certain length. Let us assume that the line <em>A—B</em> represents a twelve-hour working day, the line-segment <em>A—C</em> the necessary, and the segment <em>C—B</em> the surplus labour-time:</p>
+```
+
+```{=html}
+<p class="c"><img src="../assets/kap7-1.gif" alt="Figure 1" width="709" height="109"/></p>
+```
+
+```{=html}
+<p>How can I lengthen <em>C—B</em> by two units of length, which represent hours of labour, without extending <em>A—B</em>? By shortening <em>A—C:</em></p>
+```
+
+```{=html}
+<p class="c"><img src="../assets/kap7-2.gif" alt="Figure 2" width="696" height="111"/></p>
+```
+
+```{=html}
+<p><em>C—B</em> on the first line is just as large as <em>A—C.</em> On the second, <em>C—B</em> is twice as large as <em>A—C.</em></p>
+```
+
+```{=html}
+<p>It is therefore possible to obtain surplus value not only through the <em>absolute lengthening of the working day,</em> but also through the <em>shortening of the necessary labour-time.</em></p>
+```
+
+```{=html}
+<p>Surplus value produced by lengthening the working day Marx calls <em>absolute surplus value;</em> the surplus value, on the other hand, which arises from the shortening of the necessary labour-time and the corresponding change in the proportional magnitude of the two component parts of the working day, he calls <em>relative surplus value.</em></p>
+```
+
+```{=html}
+<p>In undisguised form, the capitalist's endeavour to increase surplus value in the latter manner shows itself in his attempts to depress wages. But since the value of labour-power is, under given conditions, a definite magnitude, this endeavour can only aim at forcing the <em>price</em> of labour-power <em>down below its value.</em> As important as this circumstance is in practice, we cannot yet take it into closer consideration here, where it is a matter of the <em>foundations</em> of the economic movement, not of its <em>external forms of appearance.</em></p>
+```
+
+```{=html}
+<p>We must therefore, for the time being, proceed from the assumption that everything goes on normally, that the price corresponds to the value, and thus the wage of labour-power to its value. Here, then, we have not yet to investigate how the wage of labour can be forced down below the value of labour-power and what consequences this entails, but rather to investigate how the <em>value</em> of labour-power is reduced.</p>
+```
+
+```{=html}
+<p>Under given circumstances the worker has definite needs; for the maintenance of himself and his family he requires a definite quantity of <em>use-values.</em> These objects of use are commodities, their value is determined by the labour-time socially necessary for their production. All this is already known to us; it requires no further exposition. If the labour-time on average necessary for the production of the mentioned objects of use falls, then the value of these products also falls, and with it the value of the worker's labour-power and the part of the working day necessary for the reproduction of this value, without any restriction of the worker's customary needs. In other words: <em>if the productive power of labour rises, then under certain circumstances the value of labour-power falls.</em> Only under certain circumstances, namely only then or only in so far as the increase of the productive power of labour shortens the labour-time that is necessary for the production of the means of subsistence which the worker customarily requires. If the worker is accustomed to wearing boots instead of going barefoot, then it will reduce the value of labour-power if for the production of a pair of boots 6 instead of 12 hours of labour are necessary. But if the productive power of the labour of diamond-cutters or lace-makers doubles, this remains without influence on the value of labour-power.</p>
+```
+
+```{=html}
+<p>An increase in the productive power of labour is, however, only possible through a <em>change in the method of production,</em> through an improvement of the means of labour or of the methods of labour. <em>The production of relative surplus value is therefore conditioned by a revolution in the method of labour.</em></p>
+```
+
+```{=html}
+<p>This revolution and constant perfecting of the mode of production is a natural necessity for the capitalist system of production. The individual capitalist, to be sure, does not necessarily become conscious of the fact that the more cheaply he produces, the lower the value of labour-power and, other circumstances being equal, the higher the surplus value. But competition constantly compels him to make new improvements in the production process. The endeavour to get ahead of his competitors moves him to introduce methods that allow him to produce just as many commodities as before in a labour-time smaller than the average necessary one. Competition compels his competitors to introduce the improved method as well. The exceptional profits that were made so long as it was isolated vanish as soon as it has become general, but, according as this method affects the production of the necessary means of subsistence more or less, there remains as a <em>lasting</em> result a more or less great lowering of the value of labour-power and a corresponding rise of relative surplus value.</p>
+```
+
+```{=html}
+<p>This is but one of the causes which bring it about that capitalism constantly revolutionises the mode of production and thus raises the relative surplus value ever more. If the productive power of labour rises, then the rate of relative surplus value also rises, while the value of the commodities produced falls correspondingly. Thus we see the apparent contradiction develop, that the capitalists strive incessantly to produce ever more cheaply, to give their commodities an ever smaller value, in order to be able to pocket ever more value. But we see yet another apparent absurdity arise: the greater the productivity of labour, the greater, under the domination of the capitalist mode of production, is the surplus labour, the excess labour-time of the worker. The capitalist mode of production strives to increase the productive power of labour enormously, to reduce the necessary labour-time to a minimum, but at the same time to lengthen the working day as much as possible.</p>
+```
+
+```{=html}
+<p>How it lengthened the working day we have already seen in the fourth chapter. Let us now consider how it shortened the necessary labour-time.</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 6. The Surplus Value of the Small Master and the Surplus Value of the Capitalist](ab2-kap06.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 8. Co-operation ↓](ab2-kap08.qmd)

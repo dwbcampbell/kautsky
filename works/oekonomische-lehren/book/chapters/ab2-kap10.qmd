@@ -1,0 +1,500 @@
+# Chapter 10. Machinery and Large-Scale Industry
+
+## 1. The Development of Machinery
+
+```{=html}
+<p class="fst">The division of labour in the manufacture did indeed lead to a modification of handicraft-like labour, but it did not abolish it. Handicraft skill remains, by and large, the foundation of the manufacture and still affords the partial worker, however one-sidedly trained, a certain <em>independence</em> vis-à-vis the capitalist. He cannot be replaced from one day to the next, while his performance is indispensable to the progress of the whole enterprise, as we have seen in the example of needle manufacture. And the workers are so keenly aware of this advantage that they do everything possible to preserve this handicraft-like character of the manufacture by maintaining, as far as possible, the customs of the craft, for example in the apprenticeship system, etc.</p>
+```
+
+```{=html}
+<p>One can still observe this endeavour today in a whole series of industries that have hitherto been carried on in the manner of the manufacture. Herein also lies the secret of many of the successes of the trade-union movement.</p>
+```
+
+```{=html}
+<p>One man's joy is another man's sorrow. “Throughout the whole period of the manufacture,” writes Marx, “there therefore runs the complaint about the <em>lack of discipline</em> among the workers. And even if we did not have the testimonies of contemporary writers, the simple facts—that from the sixteenth century until the epoch of large-scale industry <em>capital fails to seize the whole of the available working time of the manufacturing workers,</em> that the manufactures are short-lived and, with the <em>immigration or emigration of the workers,</em> abandon their seat in one country and set it up in another—would speak libraries.” One therefore understands the cry of pain uttered by the anonymous author of a pamphlet published in the year 1770: “Workers should never consider themselves independent of their superiors ... Order must be established in one way or another.”</p>
+```
+
+```{=html}
+<p>And order was established. The manufacture itself produced the precondition for it. It called into being the hierarchically structured workshop for the production of more complicated instruments of labour, and “the product of the manufacture-like division of labour produced, in its turn—<em>machines.”</em> The machine, however, delivers the death-blow to the dominance of handicraft-like activity.</p>
+```
+
+```{=html}
+<p>By what does the machine differ from the handicraft instrument, by what is the instrument of labour transformed from a tool into a machine? By the fact that a <em>mechanical apparatus,</em> which needs only to be set into the <em>appropriate motion,</em> “performs with its tools <em>the same operations that the worker formerly performed with similar tools.”</em> Whether the motive power now proceeds from man or itself again from a machine changes nothing in the essence of the matter. This must be held firmly against the erroneous conception that the machine differs from the tool by being set in motion by a natural force other than man, such as animal, water, wind, etc. The application of such motive forces is much, much older than machine production; we need only recall the pulling of the plough by oxen or horses. Animals, wind, water-power, etc. have, as is well known, been applied by men very early on as motive (moving) forces, in the turning of mills, in the operation of pumping works, etc., without bringing about a revolution in the mode of production; <em>even the steam-engine,</em> as it was invented at the end of the seventeenth century, still called forth no industrial revolution. This was indeed the case, however, when the first significant tool-machine, the “spinning machine,” was invented. Nothing is more absurd than the fairy-tale of the discovery of steam-power through the chance observation of a boiling teapot. The power-capacity of water-vapour was probably known to the Greeks already 2,000 years ago, but they knew not what to make of it; later it was used for all sorts of mechanical playthings. The invention of the <em>steam-engine,</em> however, is the product of a real, purposeful intellectual <em>effort,</em> supported by earlier attempts, and was possible only once the manufacture had supplied the <em>technical preconditions,</em> in particular a sufficient number of skilled mechanical workers for its production. And it was, furthermore, possible only once <em>need</em> had also awakened the <em>interest</em> in new moving forces. <a href="#ab2-kap10-n1" id="ab2-kap10-f1" name="ab2-kap10-f1">[1]</a> But this was the case once the <em>working machine</em> had been invented.</p>
+```
+
+```{=html}
+<p>For its utilisation it required a more powerful motive force, functioning more <em>regularly</em> than those hitherto available. Man is a very imperfect instrument for <em>continuous</em> (uninterrupted) and <em>uniform</em> motion, and moreover too weak; the stronger <em>horse</em> is not only very costly and usable only to a limited extent in the factory, but also possesses the abhorrent characteristic of at times having a mind of its own; the wind is too <em>fickle</em> and <em>uncontrollable,</em> and water-power too, which was already strongly employed during the period of the manufacture, no longer sufficed, since it could not be increased at will, likewise repeatedly failed in certain seasons of the year, and above all was <em>bound to the locality.</em> Only once <em>James Watt,</em> after many efforts, had invented his second, so-called double-acting <em>steam-engine,</em> after he had found in the “<em>most extensive”</em> industrial establishment of his partner <em>Mathias Boulton</em> “both the <em>technical forces and the financial means”</em> (see <strong>Buch der Erfindungen)</strong> that he needed for the execution of his plans, only then was the motor found which “<em>itself generates its motive power</em> from the consumption of coal and water, whose <em>power-potential</em> stands entirely under <em>human control,</em> which is <em>mobile</em> (capable of change of place) and a means of <em>locomotion</em> (of moving onward), <em>urban</em> and not, like the water-wheel, rural, permits the <em>concentration</em> of <em>production</em> in <em>towns</em> instead of scattering it, like the water-wheel, over the countryside, <em>universal</em> (general) in its <em>technological</em> application.” (Marx) And now, of course, the perfected moving force acts back in its turn upon the ever further development of the working machine.</p>
+```
+
+```{=html}
+<p>“All fully developed machinery consists of <em>three</em> essentially different parts: the <em>motor mechanism,</em> the <em>transmission mechanism,</em> and finally the <em>tool-machine</em> or <em>working machine.”</em> We have just considered the motor mechanism as the <em>motive power of the whole mechanism.</em> The transmission <em>(transferring)</em> mechanism, which is composed of flywheels, driving shafts, toothed wheels, gyrating wheels, shafts, cords, belts, intermediate gearing and counter-gearing of the most various kinds, <em>regulates</em> the motion, <em>changes its form</em> as required, for example from a rectilinear into a circular one, <em>distributes</em> and <em>transmits</em> it to the <em>tool-machinery.</em> “Both parts of the mechanism exist only in order to impart to the tool-machine the motion by which it seizes the object of labour and alters it in a purposeful way.”</p>
+```
+
+```{=html}
+<p>It is the <em>tool-machine</em> from which, as already noted, the industrial revolution of the eighteenth century proceeds, just as even today it forms the point of departure wherever a hitherto handicraft or manufacturing enterprise passes over into machine operation. It is at first either a more or less altered mechanical edition of the old handicraft instrument, as in the case of the mechanical loom, or the organs fitted to its frame are old acquaintances, such as spindles in the spinning machine, needles in the stocking-frame, knives in the chopping machine, and so on. But the <em>number of tools</em> which one and the same tool-machine simultaneously sets in operation is "from the outset free of the barrier by which the hand tool of a worker is confined."</p>
+```
+
+```{=html}
+<p>Since one motive machine, by means of an appropriate arrangement ("branching into particular outlets") of the transmission mechanism, can simultaneously set in motion a whole number of working machines, the individual working machine is thereby reduced to a mere element of machine-based production. Where one and the same working machine performs the whole piece of work, as, for example, in the mechanical loom, there in the workshop founded upon machine operation, that is, in the <em>factory,</em> <em>simple cooperation</em> reappears each time, in that a <em>number of working machines of the same kind,</em> the worker may here be left out of account for the moment, act simultaneously <em>together with</em> and <em>alongside one another</em> in the same space. Yet here there exists a <em>technical unity.</em> One pulse-beat, one and the same motive machine sets them uniformly going. They are now only organs of the same motive mechanism.</p>
+```
+
+```{=html}
+<p>But where the object of labour passes through a connected series of different graduated processes, which are carried out by a chain of diverse but mutually complementary tool-machines, that is, where the cooperation through division of labour peculiar to manufacture reappears, but as an interlocking of partial working machines, only there does a genuine machine system take the place of the individual independent machine. Each partial machine supplies the one immediately following with its raw material, and, similar to the cooperation of the partial workers in manufacture, so in the articulated machine system the constant employment of the partial machines by one another demands a definite proportion between their number, their size, and their speed. This combined working machinery is <em>the more perfect</em> the more continuous its total process, that is, the fewer the interruptions with which the raw material passes from its first to its last form, hence the more it is the mechanism itself, instead of the human hand, that carries it from one stage of production to another. If it performs all the movements necessary for the working-up of the raw material without human assistance, so that it requires only human supplementary help, then we have an automatic system of machinery. That even this is still capable of continual elaboration in detail is shown by the apparatus that stops the spinning machine of its own accord as soon as a single thread breaks. As an example "both of the continuity of production and of the carrying through of the automatic principle," Marx says, "the modern paper factory may serve."</p>
+```
+
+```{=html}
+<p>Like the steam engine invented by Watt, the other first inventions in the field of machinery were likewise only feasible because the period of manufacture had supplied a considerable quantity of skilled mechanical workers, partial workers of the manufactures, and besides these also independent handicraftsmen who were in a position to build machines. The first machines were produced by handicraftsmen or in manufactures.</p>
+```
+
+```{=html}
+<p>But so long as the machines owed their existence to the <em>personal</em> skill and the <em>personal</em> strength of workers who were still half artists, they were not only very expensive – a point for which the capitalist always possesses a remarkably good understanding – but the extension of their application, hence the development of large-scale industry, also remained for so long dependent on the increase of the machine-builders, whose trade required a long time to learn and whose number could therefore not be increased by leaps.</p>
+```
+
+```{=html}
+<p>But in a technical respect too, large-scale industry, as soon as it had climbed to a certain height of development, came into contradiction with its handicraft and manufacturing basis. Every advance, the stretching out of the dimensions of the machines, their liberation from the handicraft model that originally dominated them, the use of more suitable but more difficult-to-master material, for example iron instead of wood, met with the greatest difficulties, which even the system of division of labour carried through in manufacture did not succeed in overcoming. "Machines, for example, like the modern printing press, the modern steam loom, and the modern carding machine, could not be supplied by manufacture."</p>
+```
+
+```{=html}
+<p>On the other hand, the revolution in the one branch of industry draws after it the revolution in a series of branches of industry connected with it. Machine spinning makes machine weaving necessary, and both together a mechanical-chemical revolution in bleaching, printing, and dyeing. But then the revolution in the mode of production in industry and agriculture required a <em>revolution in the means of communication and transport.</em> Large-scale industry, with its feverish speed of production, must be able to obtain its raw materials quickly, to throw its products quickly and in large quantities onto the markets, it must be in a position to draw in and repel large masses of workers according to its needs, and so on. Hence the revolution in shipbuilding, the replacement of the sailing ship by the steamship, of the land conveyance by railways, of the express courier by the telegraph. "But the terrible masses of iron that now had to be forged, welded, cut, bored, and shaped, in their turn required cyclopean (gigantic) machines, whose creation the manufacturing machine-building failed to accomplish."</p>
+```
+
+```{=html}
+<p>Thus large-scale industry had to create its own basis, adapted to its essence, and indeed by taking possession of the machine in order to produce machines by means of it. "Only through the tool-machines has technology been able to master the giant task that machine-building set it." <strong>(Book of Inventions)</strong> For this, however, it was necessary to produce mechanically the strictly geometrical forms required for the individual machine parts, such as the line, the plane, the circle, the cylinder, the cone, and the sphere. And this problem too was solved when <em>Henry Maudsley,</em> in the first decade of our century, had invented the <em>slide rest</em> ("slide rest"), which was soon made automatic and transferred from the turning lathe to other constructional machines. Thanks to this mechanical invention, it became possible to produce the geometrical forms of the individual machine parts "with a degree of ease, accuracy, and rapidity that no accumulated experience of the hand of the most skilful worker could impart." <a href="#ab2-kap10-n2" id="ab2-kap10-f2" name="ab2-kap10-f2">[2]</a></p>
+```
+
+```{=html}
+<p>Concerning the grandeur of the machinery applied to machine-building it is not necessary to waste many words. Who has not heard of the giant works of our machine factories, of those mighty steam hammers which, weighing over 100 hundredweight, pulverise a block of granite as if in play, yet at the same time are capable of executing the gentlest blows, precisely measured down to the slightest differences, and so on? And each day reports to us new advances of the machine system, new extensions of its domain.</p>
+```
+
+```{=html}
+<p>In the manufacture the division of labour was still predominantly subjective; the individual process was adapted to the <em>person of the worker</em>. In the machine system large-scale industry possesses a wholly <em>objective</em> production organism, which confronts the worker as something ready-made and to which he must therefore adapt himself. Cooperation, the supplanting of the isolated worker by the socialised one, is no longer accidental, but rather a „<em>technical necessity dictated by the nature of the instrument of labour.“</em><br/> <a id="ab2-kap10-t2" name="ab2-kap10-t2"> </a></p>
+```
+
+## 2. The Transfer of Value from the Machinery to the Product
+
+```{=html}
+<p class="fst">Like the simple tool, the machine belongs to constant capital. It creates no value, but only transfers its own value to the product, in the particular case the value of that which it loses through its wear and tear.</p>
+```
+
+```{=html}
+<p>The machinery enters <em>wholly into the labour process,</em> but always only <em>partly</em> into the <em>process of valorisation.</em> The same takes place with the tool, yet the difference between the original total value and the <em>portion of value</em> transferred to the product is far greater with the machine than with the tool; for, firstly, <em>it lives longer</em> than the tool, since it is constructed from more durable material; secondly, in consequence of its being regulated by strictly scientific laws, it makes possible a <em>greater economy</em> in the wearing-out of its component parts and in the consumption of auxiliary materials, oil, coal, and so forth; and finally, its field of production is disproportionately larger than that of the tool.</p>
+```
+
+```{=html}
+<p>Given the difference between the value of the machinery and the portion of value transferred to its daily product, the degree to which this portion of value makes the product dearer depends on the extent of the product. In a lecture delivered in 1858, a Mr. Baynes of Blackburn estimated that “every real mechanical horse-power <a href="#ab2-kap10-n3" id="ab2-kap10-f3" name="ab2-kap10-f3">[3]</a> drives 450 self-acting mule-spindles, or 200 throstle-spindles, or 15 looms for 40-inch cloth,” &amp;c. Thus the daily costs of one steam horse-power, and the wear and tear of the machinery set in motion by it, are distributed in the first case over the daily product of 450 mule-spindles, in the second over that of 200 throstle-spindles, in the third over that of 15 mechanical looms; the portion of value thus transferred to a lot of yarn or an ell of cloth is exceedingly tiny.</p>
+```
+
+```{=html}
+<p>Given the <em>sphere of operation of the working machine,</em> that is, the number of its tools or, where, as with the steam-hammer, it is a matter of force, the extent of its force, the mass of products depends on the <em>speed</em> with which the machine operates.</p>
+```
+
+```{=html}
+<p>The magnitude of the <em>portion of value</em> that the machinery transfers to the product depends, given the measure of value-transfer, on <em>its own magnitude of value.</em> The less labour it costs itself, the less value it adds to the product. If its production costs as much labour as its employment saves, then a mere shifting of labour takes place, but no increase in the productivity of labour. The productivity of the machine is measured by the degree to which it saves <em>human labour-power.</em> It is therefore by no means in contradiction with the principle of machine production that, in general, in comparison with commodities produced in a handicraft or manufacturing manner, in the machine product the value-component owing to the <em>means of labour</em> increases <em>relatively,</em> that is, in proportion to the total value of the product, while it decreases absolutely.</p>
+```
+
+```{=html}
+<p>From the standpoint of the <em>cheapening of the product,</em> the limit for the use of the machinery is given by the fact that its own production costs less labour than its employment replaces. But now, as we have seen earlier, capital does not pay for <em>the labour employed,</em> but merely for the <em>value</em> of the <em>labour-power</em> employed; thus, for capital, the use of the machine is limited by the difference between the <em>value</em> of the <em>machine</em> and the <em>total value</em> of the <em>labour-power</em> replaced by it during its duration; or rather, since the actual wage of the worker now sinks below the value of his labour-power, now rises above it, and is different in different countries, in different epochs, and in different branches of labour, by the difference between the <em>price</em> of the machinery and the <em>price</em> of the labour-power to be replaced by it. Only <em>this</em> difference is decisive for the capitalist, only it presses upon him with the coercive means of competition, and hence it comes about that today machines which prove profitable in one country are sometimes not employed in another. In America, machines for breaking stones have been invented; in the whole of the Old World they are not employed, because here the proletarian who performs this work receives so small a part of his labour paid for that machines would make production dearer for the capitalist.</p>
+```
+
+```{=html}
+<p>Low wages are downright an <em>obstacle</em> to the introduction of machines, and thus, from this standpoint too, a disadvantage for social development.</p>
+```
+
+```{=html}
+<p>Only in a society that has abolished the antagonism between capital and labour would machinery find scope for its full unfolding.<br/> <a id="ab2-kap10-t3" name="ab2-kap10-t3"> </a></p>
+```
+
+## 3. The Immediate Effects of Machine-based Operation on the Workers
+
+```{=html}
+<p class="fst">"In so far as machinery renders muscular power dispensable, it becomes a means of employing <em>workers without muscular power</em> or <em>of immature bodily development,</em> but of greater suppleness of limb. The powerful means of substituting labour and workers instantly transforms itself into a <em>means of increasing the number of wage labourers</em> by enrolling all members of the worker's family, without distinction of sex and age, under the direct dominion of capital." Not only does forced labour for the capitalist take the place of children's play, but also of the free labour within the domestic circle for the family itself. "<em>Female and child labour</em> was the first word of the capitalist application of machinery!"</p>
+```
+
+```{=html}
+<p>The repercussion of this was to prove equally fateful for the working class in economic, social, and moral respects.</p>
+```
+
+```{=html}
+<p>Until then, the value of labour-power was determined by the labour-time necessary for the maintenance not only of the individual adult worker, but of the whole <em>worker's family,</em> of which he stood as breadwinner. But now, since wife and children were also drawn onto the labour market and gained the opportunity to earn alongside him, the value of the man's labour-power came in time to be distributed over his whole family. And to this movement of the <em>value</em> of labour-power there adapts itself, with wonderful rapidity, the corresponding movement of its <em>price,</em> that is, of <em>wages.</em> Instead of the father, the whole family must gradually work for wages in order to subsist, and thus supply not only labour but also <em>surplus labour</em> for capital. In this way the machine not only augments the material of exploitation, but also raises the <em>degree of exploitation.</em></p>
+```
+
+```{=html}
+<p>A certain nominal increase in the income of the worker's family is, moreover, not excluded thereby. When, instead of the father alone, father, mother, and two children now work, the total wage is in most cases higher than the father's wage alone was before. But the <em>costs of maintenance</em> have likewise <em>risen.</em> The machine means greater economy in the <em>factory,</em> but machine industry puts an end to economy in the <em>home</em> of the worker. The factory workwoman cannot be a housewife at the same time. Thrift and appropriateness in the utilisation of the means of subsistence become impossible.</p>
+```
+
+```{=html}
+<p>Formerly the worker had sold his own labour-power, of which he disposed as an at least formally free person. Now he becomes a slave-trader and sells wife and child to the factory. When the capitalist Pharisee rails in public against this "bestiality," he forgets that it is he himself who created it, who exploits it, and who would like to perpetuate it under the fine title of "freedom of labour." But over against the bestiality of the worker-parents stands the <em>great fact</em> that the restriction of female and child labour in the English factories was wrested from capital by the adult male workers.</p>
+```
+
+```{=html}
+<p>Marx brings forward numerous pieces of evidence for the stunting effect of factory labour of women and children. We refer to these and here cite one from more recent times, from the book of Singer: <strong>Investigations into the Social Conditions in the Factory Districts of North-eastern Bohemia</strong> (Leipzig 1885). The data of this book enable us to make a comparison of the mean child mortality in a country that knows virtually nothing of large-scale industry, <em>Norway,</em> with that in districts in which large-scale industry is highly developed, without having been restricted by protective labour legislation up to the time of the writing of the book. We mean north-eastern Bohemia.</p>
+```
+
+```{=html}
+<p>In <em>Norway</em> (1866-1874), out of every ten thousand live births of both sexes up to the age of 1 year there were 1,063 deaths. Against this, one counted in the following highly industrial districts, per ten thousand live births, the following deaths:</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr valign="top"> <td> <p class="smc">in      </p> </td> <td rowspan="7"> <p class="smc"> </p> </td> <td> <p class="smc">in the first<br/> year of life</p> </td> </tr> <tr> <td> <p class="sm1">Hohenelbe</p> </td> <td> <p class="smc">3.026</p> </td> </tr> <tr> <td> <p class="sm1">Gablonz</p> </td> <td> <p class="smc">3.104</p> </td> </tr> <tr> <td> <p class="sm1">Braunau</p> </td> <td> <p class="smc">3.286</p> </td> </tr> <tr> <td> <p class="sm1">Trautenau</p> </td> <td> <p class="smc">3.475</p> </td> </tr> <tr valign="bottom"> <td> <p class="sm1">Reichenberg,<br/> surroundings</p> </td> <td> <p class="smc">3.805</p> </td> </tr> <tr> <td> <p class="sm1">Friedland</p> </td> <td> <p class="smc">4.130</p> </td> </tr> </table>
+```
+
+```{=html}
+<p class="fst">The infant mortality in the factory districts was thus <em>three to four times as great</em> as in the Norway that had lagged behind in "culture"! The high mortality in the former must not, with the Malthusians, be traced back to excessive fertility of the population. The birth rate is rather a strikingly low one. In the districts investigated by Singer there come, per 1,000 inhabitants annually, not quite 35 births, in Germany almost 42, in Austria as a whole over 40.</p>
+```
+
+```{=html}
+<p>Alongside the physical and moral stunting, the transformation of immature human beings into mere machines for the manufacture of surplus value bred also an "<em>intellectual desolation,</em> very much to be distinguished from that naturally-grown ignorance which lays the mind fallow without spoiling its capacity for development, its natural fruitfulness itself."</p>
+```
+
+```{=html}
+<p>But the drawing of children and women into the combined labour personnel effected by machinery does have one "blessed" effect: it helps at last to break the resistance which the male worker in the manufacture still set against the despotism of capital. –</p>
+```
+
+```{=html}
+<p>What is the purpose of machinery, why does the capitalist introduce machines? To ease the toil of his workers? By no means. Machinery has the purpose, by raising the <em>productive power of labour,</em> of cheapening commodities and of shortening the part of the working day which the worker needs for the production of the value of his labour-power, in favour of the part during which he creates <em>surplus value.</em></p>
+```
+
+```{=html}
+<p>Now we have seen, however, that machinery is the more productive the smaller the part of its own value which it gives off to a given quantity of products. And this part is the smaller the greater the mass of products which it produces; but the mass of products is the greater the longer the period lasts during which the machine is in operation. Is it now a matter of indifference to the capitalist whether this "working period" of his machinery is distributed over, say, 15 years at 8 hours of daily operation, or over 7½ years at 16 hours of daily operation? Mathematically taken, the period of use is the same in both cases. But our capitalist reckons differently.</p>
+```
+
+```{=html}
+<p>He says to himself firstly: In 7½ years at 16 hours of daily operation the machine adds no more value to the total product than in 15 years at 8 hours daily; on the other hand, in the former case it reproduces its value twice as quickly as in the latter and places me in the agreeable position of pocketing in 7½ years just as much surplus labour as I would otherwise in 15 – apart from other advantages which the prolongation of the working day brings with it.</p>
+```
+
+```{=html}
+<p>Furthermore: My machine wears out not only through use, but also when it stands idle and is thereby exposed to the influence of the elements. When it rests, it rusts. This latter wear is pure loss, which I can avoid the more I shorten the period of standstill.</p>
+```
+
+```{=html}
+<p>Further: In our age of continual technical revolutions I must be prepared daily for my machine to be devalued by some competitor that is produced more cheaply or technically improved. The more quickly, therefore, I let it recover its value, the smaller is the danger of this misfortune.</p>
+```
+
+```{=html}
+<p>Incidentally, this danger is greatest at the first introduction of machinery into any branch of production; here the new methods follow one another blow upon blow. Therefore the striving after the lengthening of the working day also asserts itself most strongly at that time.</p>
+```
+
+```{=html}
+<p>Our capitalist continues: My machines, my buildings &amp;c. represent a capital of so and so many thousand marks. If the former stand idle, then my whole capital lies useless. The longer therefore they are in activity, the better do I valorise not only them, but also that part of the capital laid out in buildings &amp;c.</p>
+```
+
+```{=html}
+<p>To these considerations of the capitalist there is added a motive which, to be sure, comes to his consciousness just as little as to that of his learned advocate, the political economist, but which is nevertheless of great effect. The capitalist procures his machines in order to save wages (variable capital), so that in future one worker shall produce in one hour as much of a commodity as previously in three or four. The machine raises the productivity of labour and is thereby able to extend the surplus labour at the expense of the necessary labour, that is, <em>to raise the rate of surplus value.</em> But it can bring about this result only through <em>a diminution of the number of workers employed by a given capital.</em> Machine operation transforms a part of the capital which formerly was variable, that is, which converted itself into living labour-power, into machinery, that is, into constant capital.</p>
+```
+
+```{=html}
+<p>But we know that the mass of surplus value is determined, first, by the <em>rate of surplus value</em> and, secondly, by the <em>number of workers employed.</em> The introduction of machinery in capitalist large-scale industry seeks to increase the first factor of the mass of surplus value by diminishing the second. There thus lies in the application of machinery to the production of surplus value an inner contradiction. This antagonism drives capital to compensate for the proportional decrease in the number of exploited workers by seeking, not content with the increase of relative surplus labour, also to increase the absolute surplus labour and to lengthen the working day as far as possible.</p>
+```
+
+```{=html}
+<p>The capitalist application of machinery thus creates a series of new, powerful motives for the immoderate lengthening of the working day. But it also increases the possibility of its lengthening. Since the machine is able to run on uninterruptedly, capital in its striving to extend the working day is bound only by the limits set for it by the natural fatigue of the human assistant at the machine, that is, of the worker, and by his resistance. The latter it breaks both by drawing the more docile and pliable female and child element into production, and by creating a “superfluous” working population, consisting of the workers set free by the machine. In this way the machine overthrows all the moral and natural limits of the working day; it becomes, in spite of its being the “mighty means for the shortening of labour time,” the infallible means for transforming the whole lifetime of the worker and his family into disposable labour time for the valorisation of the worker.</p>
+```
+
+```{=html}
+<p>Marx closes the section in which he establishes this with the following words:</p>
+```
+
+```{=html}
+<p class="quoteb">“If,” dreamed Aristotle, the greatest thinker of antiquity, “if every tool could, on command, or even by anticipation, accomplish the work appropriate to it, as the works of art of Daedalus moved of themselves, or the tripods of Hephaestus went of their own accord to their sacred work, if thus the weavers’ shuttles wove of themselves, then there would be no need either of assistants for the master craftsman or of slaves for the masters.” And Antiparos, a Greek poet of the age of Cicero, greeted the invention of the water mill for grinding grain, this elementary form of all productive machinery, as the liberator of the female slaves and the creator of the golden age. “The heathen, yes the heathen!” They understood, as the clever Bastiat discovered, and before him the still cleverer MacCulloch, nothing of political economy and Christianity. Among other things they did not understand that the machine is the most tried and tested means for lengthening the working day. They excused, say, the slavery of the one as a means for the full human development of the other. But to preach the slavery of the masses in order to make a few crude or half-educated parvenus into “eminent spinners,” “extensive sausage makers” and “influential shoe black dealers,” for this they lacked the specifically Christian organ.</p>
+```
+
+```{=html}
+<p class="fst">The more the machine system, and with it a distinct class of experienced machine workers, develops, the more the speed and thereby the exertion, the <em>intensity of labour,</em> also increases naturally. This heightened intensity of labour, however, is only possible so long as the working day is not extended beyond a certain limit, just as at a certain stage of development an increase of the intensity of labour is only possible with a corresponding shortening of the working day. Where it is a matter of labour to be regularly repeated day in, day out, nature dictates imperiously: Thus far and no further.</p>
+```
+
+```{=html}
+<p>In the early period of factory industry, in England the lengthening of the working day and the growing intensity of factory labour went hand in hand. But as soon as, through the legal limitation of the working day forced through by the indignant working class, every possibility was cut off for capital of attaining increased production of surplus value by the former path, it applied itself with all its force to attaining the desired result through accelerated development of the machine system and greater economy in the production process. Whereas hitherto the method of production of relative surplus value consisted in general in enabling the worker, through the heightened productive power of labour, to produce more in the same time with the same expenditure of labour, now it is a matter of obtaining a greater quantum of labour through <em>an enlarged expenditure of labour in the same time.</em> The shortening of the working day leads for the worker to an increased straining of labour-power, to a “denser filling of the pores of the labour time,” that is, to a greater “condensation of labour.” He must work more in one hour of the ten-hour working day than formerly in one hour of the twelve-hour working day. A greater mass of labour is compressed into a given period of time.</p>
+```
+
+```{=html}
+<p>We have already named the two ways by means of which this result can be achieved: <em>greater economy in the labour process</em> and <em>accelerated development of the machine system.</em> In the former case, capital, through the method of wage payment (in particular through piece wages, to which we shall return later), ensures that the worker sets free more labour-power in the shorter working time than before. The regularity, uniformity, order, and energy of the labour are increased. Even where the second means was not at capital's disposal—namely, to squeeze more labour out of the worker through <em>increased speed</em> of the circulation of the driving machinery or <em>extension of the scope</em> of the machine to be supervised—even there results have been achieved in this respect which give the lie to all the doubts previously raised. At almost every shortening of the working time the manufacturers declare that the labour in their establishments is supervised so carefully, and the attention of their workers so intensely strained, that it would be nonsense to expect any considerable result from an increase of it; and scarcely have they carried it out when these same manufacturers must admit that their workers in the shorter time perform not only just as much, but sometimes even more labour than before in the longer time, even with unchanged means of labour. It is the same with the perfecting of machinery. As often as it has been declared that one has now reached the limit of what is attainable for a long time to come, just as often has this limit been exceeded after a short time.</p>
+```
+
+```{=html}
+<p>So strong is the intensification of the workers under a shortened working day that the English factory inspectors, although they "tirelessly extol the favourable results of the Factory Acts of 1844 and 1850," nevertheless conceded in the sixties that the shortening of the working day had already produced an <em>intensity of labour destructive of the workers' health.</em></p>
+```
+
+```{=html}
+<p>Those who believe that the introduction of a normal working day will establish harmony between capital and labour are caught in a great error.</p>
+```
+
+```{=html}
+<p class="quoteb">"There is not the slightest doubt," says Marx, "that the tendency of capital, as soon as prolongation of the working day is once and for all cut off by law, to indemnify itself by systematically raising the degree of intensity of labour, and to convert every improvement of machinery into a means of sucking out greater labour-power, must soon drive matters again to a turning point <em>where a renewed reduction of the hours of labour becomes inevitable."</em></p>
+```
+
+```{=html}
+<p class="fst">Where the ten-hour normal working day is introduced, the just-characterised endeavours of the manufacturers make the <em>eight-hour working day</em> necessary within no very long time.</p>
+```
+
+```{=html}
+<p>In our eyes this speaks not <em>against,</em> but <em>for</em> the normal working day. Like every genuine social reform, it drives beyond itself, is an element of the <em>further development,</em> not of the <em>stagnation</em> of society.<br/> <a id="ab2-kap10-t4" name="ab2-kap10-t4"> </a></p>
+```
+
+## 4. The Machine as the Worker's “Educator”
+
+```{=html}
+<p class="fst">So far we have spoken of effects of the introduction of machinery that are in the first instance of an economic nature; let us now also concern ourselves with the directly <em>moral</em> effects of machinery upon the workers.</p>
+```
+
+```{=html}
+<p>If we compare the whole of a modern production establishment operated with machines, that is, of a <em>factory,</em> with a manufacturing or handicraft enterprise, we are immediately struck by the fact that whereas in manufacture and handicraft the worker makes use of the tool, in the factory it is he who <em>serves</em> the machine; he is the “<em>living appendage</em>” of a <em>dead mechanism</em> that exists independently of him. The “philosopher,” or, as Marx calls him, the Pindar of machinery, Dr. Andrew Ure, calls the modern factory a “vast automaton, composed of numerous mechanical and self-conscious organs which act in concert and without interruption to produce one and the same object, so that all these organs are <em>subordinated</em> to a moving force which moves of itself.” In another place he speaks of the <em>subjects</em> of the “benevolent power of steam.” Behind this “benevolent power” stands, of course, the one who employs it, the capitalist, who is benevolent only towards himself.</p>
+```
+
+```{=html}
+<p>In every factory we find, besides the mass of workers at the working machine and their labourers, a numerically insignificant staff to whom falls the <em>supervision</em> and <em>upkeep</em> of the entire machinery. This class of workers, trained partly scientifically (engineers), partly in a handicraft manner (mechanics, joiners, &amp;c.), stands outside the circle of factory workers and therefore does not come into consideration for us here. We must likewise leave out of account here the labourers, whose services, on account of their simplicity, can for the most part easily be replaced by machines (as has shown itself everywhere that factory laws withdrew the cheapest of these labourers, the children, from the factory), or at least permit a rapid change of the persons burdened with this drudgery. It is a question of the factory worker proper, the <em>worker at the working machine.</em></p>
+```
+
+```{=html}
+<p>Into the working machine there has passed, together with the worker's former tool (needle, spindle, chisel), also his particular skill in guiding it. He needs now only one skill, namely that of <em>adapting</em> his own movement to the uniformly uninterrupted movement of the machine. This skill is acquired most quickly at a youthful age. The worker must begin early; the manufacturer is no longer dependent upon a category of workers trained exclusively for machine work, but always finds in the growing youth of the working class a replacement that can quickly be drafted in.</p>
+```
+
+```{=html}
+<p>Proudhon, in his <strong>Philosophy of Poverty</strong>, designates the machine as a “protest of the genius of industry against <em>fragmented</em> and man-murdering labour,” the “<em>restoration of the worker.</em>” In actual fact machinery does indeed overturn the old system of the division of labour with its technical presuppositions; nevertheless we find the latter continued in the factory, and indeed in a still more degrading form. The worker no longer, it is true, wields a partial tool his whole life long, but instead, in the interest of intensified exploitation, machinery is abused so as to transform him from childhood on into the <em>part of a partial machine</em>, and thus his <em>helpless dependence</em> on the factory as a whole, in other words on the capitalist, is completed. His labour is stripped of all intellectual content, it is now merely a mechanical, nerve-shattering toil. His special skill becomes a tiny and subordinate thing compared with the science, the immense natural forces, and the social mass labour embodied in the machine system. And just as he has to submit will-lessly to the automatic course of the machinery, so at the same time he must submit to the discipline imposed by the factory owner in general.</p>
+```
+
+```{=html}
+<p>Whatever the form of social organisation may be, this working-together on a grand scale and the application of common means of labour, in particular of machinery, will always require a regulation of the labour process that makes it independent of the caprice of the individual participant. If one does not wish to renounce the advantages of machine production, the introduction of a discipline to which all must submit is indispensable. But there is discipline and discipline. In a free community, where it affects all, it oppresses no one; imposed by force for the advantage of a few individuals, it is called <em>slavery</em>, it is borne as an oppressive yoke only with the utmost reluctance, once all resistance has proved fruitless. It therefore required hard struggles before it was possible to break the resistance of the workers against the forced labour to which the machine condemns them. Ure, in the book already mentioned, emphasises that Wyatt had invented the artificial spinning fingers long before Arkwright, but that the <em>chief difficulty</em> consisted not so much in the invention of a self-acting mechanism as in the invention and enforcement of a <em>disciplinary code</em> corresponding to the requirements of the automatic system! Hence a laurel wreath upon the head of the “noble” barber Arkwright, who brought this undertaking, “worthy of a Hercules,” to completion.</p>
+```
+
+```{=html}
+<p>The disciplinary code, in German <em>Fabrikordnung</em> (factory regulations), of the modern capitalist knows nothing of the constitutional system of the “separation of powers” so dear to the bourgeois, nor of the representative system still dearer to him, but it is the expression of the <em>absolute autocracy of the entrepreneur</em> over his workers. “In place of the whip of the slave-driver,” says Marx, “steps the overseer's book of penalties. All punishments naturally resolve themselves into <em>fines</em> and <em>deductions from wages,</em> and the legislative acumen of these factory Lycurguses makes the violation of their laws, if possible, still more profitable to them than its observance.” Thus the defiance and self-consciousness of the worker is broken. Moreover, he is physically crippled as a result of ceaseless one-sided muscular activity, brought low by the bad factory air, the deafening noise during work — that is the <em>noble educative effect of machinery.</em></p>
+```
+
+```{=html}
+<p>We have just spoken of the workers' resistance to the introduction of machinery. In this, however, the feeling that the machine deals the death-blow to the worker's freedom is more instinctively decisive; in the first instance this resistance is directed against the machine as a means of <em>rendering superfluous</em> human labour. From this point of view even the ribbon-loom, which is said to have first been invented in Danzig in the middle of the 16th century, was suppressed by the town council there, and likewise later in Bavaria, in Cologne, and in 1685 forbidden by imperial edict for the whole of Germany. The revolts of the English workers against the introduction of machines continue into the present century, and the same phenomenon repeats itself in other countries too. In France they still occurred in the eighteen-thirties, in Germany as late as 1848.</p>
+```
+
+```{=html}
+<p>It is very cheap to lament in Pharisaical fashion about this brutal manner of resisting the greatest advance of modern times, but it is a fact that the machine everywhere at first appears as an <em>enemy</em> of the worker, destined to <em>displace</em> him. During the manufacturing period, the division of labour and cooperation in the workshops brought out more the positive side, that they made the workers employed more <em>productive,</em> but the machine immediately appears as a <em>competitor</em> of the worker. For the workers displaced by it, it is supposed to be a great consolation that their sufferings are partly only "transitory," and partly that the machine only gradually takes possession of an entire field of production and that thus the scope and intensity of its destructive effect is broken. "The one consolation," Marx answers to this, "cancels the other." In the latter case it produces <em>chronic misery</em> in the stratum of workers competing with it, but where the transition is rapid, it acts en masse and acutely. "World history offers no more dreadful spectacle than the gradual destruction of the English cotton weavers, dragged out over decades and finally overcome in 1838. Many of them died of starvation, many vegetated for a long time with their families on 2½d (20 Pfg.) a day. The English cotton machinery, by contrast, acted acutely on the East Indies, whose Governor-General stated in 1834/35: "The misery hardly finds a parallel in the history of commerce. The bones of the cotton weavers are bleaching the plains of India." To be sure, Marx adds with bitter sarcasm, insofar as these weavers departed this life, the machine only prepared for them "temporal grievances." The means of labour slays the worker. This shows itself most palpably where newly introduced machinery competes with traditional handicraft or manufacturing operations. But within large-scale industry too, the continued improvement of machinery works towards the same result. For this proposition Marx cites from the reports of the English factory inspectors a wealth of evidence, into which, however, we need not enter more closely here, since the fact cannot at all be denied.</p>
+```
+
+```{=html}
+<p>Let us rather come once more from the machine as competitor to the machine as "educator" of the worker. The many "vices" to which, in the opinion of their capitalist friends, the working class is demonstrably inclined – let only insubordination, laziness and gluttony be named here – have no more effective opponent than the machine. It is the most powerful means of combat of capital against the workers when they resist its autocracy, when they are not satisfied with the wages it grants them, with the working time it imposes on them, when they dare to rebel in the form of strikes &c. "One could," says Marx, "write a whole history of the inventions since 1830 that came into being merely as weapons of war of capital against workers' revolts." But since every further application of the "resources of science" in industry, i.e. the development of machinery, is a desirable advance, it seems as if those vices were bestowed on the workers specially for the purpose of forming involuntary promoters of progress. And thus we see how in the capitalist world all things in the end turn out for the best, even the vices of the workers.<br/> <a id="ab2-kap10-t5" name="ab2-kap10-t5"> </a></p>
+```
+
+## 5. The Machine and the Labour Market
+
+```{=html}
+<p class="fst">The machine displaces workers — this is a fact that cannot be denied, but one that is highly disagreeable for those who see in the existing mode of production the best of all worlds. Hence numerous attempts have been made to gloss over the disagreeable fact.</p>
+```
+
+```{=html}
+<p>Thus, for example, a number of political economists have asserted that all machinery which displaces workers always necessarily sets free a corresponding capital for the employment of these workers. This capital is supposed to be the means of subsistence which the workers would have consumed had they remained in work! The means of subsistence, so it is said, are set free by the dismissal of the workers and have the need to call forth employment for them, in order to be consumed by them.</p>
+```
+
+```{=html}
+<p>The means of subsistence, however, which the worker buys for his consumption, in reality do not confront him as capital, but as simple commodities. What confronts him as capital is the <em>money</em> against which he sells his labour-power. This money is not set free by the introduction of machinery; rather it serves for its purchase and is <em>thus fixed.</em> The introduction of machines does not set free the whole variable capital that served to remunerate the workers whom it displaces, but transforms it, at least in part, into constant capital. The introduction of new machinery therefore means, with the amount of capital applied remaining the same, an increase of the constant and a decrease of the variable capital.</p>
+```
+
+```{=html}
+<p>An example may illustrate this.</p>
+```
+
+```{=html}
+<p>A capitalist applies a capital of 200,000 marks, of which 100,000 marks serve as variable capital. He employs 500 workers. He introduces machinery which makes it possible to produce the same product with 200 workers instead of 500. The machine costs 50,000 marks.</p>
+```
+
+```{=html}
+<p>Previously the capitalist applied 100,000 marks of variable and as much constant capital. Now he applies 150,000 marks of constant and only 40,000 marks of variable capital. Only 10,000 marks have been set free, which, however, will serve not for the employment of 300 workers, but — if applied under the same circumstances as the larger sum — of scarcely 10 workers. For of the 10,000 marks about 8,000 marks must indeed be laid out for the acquisition of machines &amp;c., and only about 2,000 marks remain free for variable capital.</p>
+```
+
+```{=html}
+<p>One sees that no corresponding capital has been set free.</p>
+```
+
+```{=html}
+<p>The theory that the machine, along with the workers, also sets free the corresponding capital has been shown by Marx to be entirely unfounded. The only possibility of weakening the fatal demonstration consists in putting into Marx's mouth an equally unfounded assertion.</p>
+```
+
+```{=html}
+<p>Thus we once came, in a treatise in which Marx is disposed of "scientifically," upon the following passage:</p>
+```
+
+```{=html}
+<p class="quoteb">"<em>The machine simply replaces labour for him (Marx),</em> whereas it can also give opportunity for surplus labour and in fact has often already done so. Here it is also not necessarily the case that, through increased production, labour in another region of the earth is set free and thereby rendered superfluous, as has later frequently been asserted with all definiteness in socialist papers. The increased production can easily find employment through the fact that the total productive power, and therewith also the capacity to expand consumption, has risen." (Professor Dr. I. Lehr in the <strong>Vierteljahresschrift für Volkswirthschaft,</strong> 23rd year, vol. 2, p. 114.)</p>
+```
+
+```{=html}
+<p class="fst">Professor Julius Wolf, in a work that teems with falsifications and distortions of the Marxian doctrines, even makes Marx assert "that, when the total capital in the country grows, <em>at best about the same working population as before can find employment,</em> precisely because ever more human beings are being replaced by the machine." <strong>(Sozialismus und kapitalistische Gesellschaftsordnung,</strong> Stuttgart 1892, p. 258)</p>
+```
+
+```{=html}
+<p>In reality, assertions such as those here foisted upon Marx never occurred to him. Far from it being the case that for him "the machine simply replaces labour," Marx has rather, systematically and thoroughly, as to our knowledge no one before him, developed the circumstances under which it "can give opportunity for surplus labour and in fact has often done so." This stands in no contradiction to the assertion that the machine displaces workers.</p>
+```
+
+```{=html}
+<p>Marx asserts that the machine diminishes the number of employed workers <em>in relation to the capital applied,</em> that with the development of the machine system the variable capital decreases <em>proportionally,</em> and the constant capital grows. The variable capital, the number of workers employed in a branch of labour, can, however, in spite of the introduction, increase or improvement of machines, grow at the same time, if the total capital applied increases sufficiently. <a href="#ab2-kap10-n4" id="ab2-kap10-f4" name="ab2-kap10-f4">[4]</a> If, in such a case, the number of employed workers does not decrease, this, however, is not to be attributed to the setting free of capital by the machine, but to the influx of <em>new additional capital.</em> The tendency of the machine to throw workers out of work is thereby checked and temporarily overcome, but not abolished; it makes itself openly felt again, and the relative decrease in the number of workers becomes an absolute one, as soon as the influx of new additional capital slows down and sinks below a certain level.</p>
+```
+
+```{=html}
+<p>To illustrate, let us take up our above example again. We had a capital of 200,000 marks, of which 100,000 marks were variable capital, serving for the employment of 500 workers. The introduction of a new machine raised the amount of the constant capital to 158,000 marks, lowered the amount of the variable to 42,000, and the number of employed workers to 210. But let us now assume that at the same time 400,000 marks of new capital flow into the enterprise; it is correspondingly expanded; in this case the number of employed workers rises to 630, 130 more than before. Had the machine not been introduced, the trebling of the capital would of course have brought about a trebling of the number of workers as well, from 500 to 1,500.</p>
+```
+
+```{=html}
+<p>But even though the machine always brings about a relative, and sometimes an absolute, reduction in the number of workers in the branch of labour into which it is introduced, it may nevertheless simultaneously bring about an increase in the number of workers in other branches of labour upon which the one branch acts.</p>
+```
+
+```{=html}
+<p>The machine makes necessary a new kind of worker, the <em>machine-builders.</em></p>
+```
+
+```{=html}
+<p>The introduction of the machine into one branch of industry brings about an increase in the total mass of the products produced by it. This in turn conditions a corresponding <em>increase of raw material,</em> and thus, other circumstances remaining equal, an increase in the number of workers employed in its production. If a machine is introduced which spins 1,000 ells of yarn just as fast, perhaps with fewer workers, as 100 ells of yarn were formerly spun, then the number of spinners will perhaps decrease, but at the same time the number of workers on the cotton plantations will grow. The development of the spinning machines in England was the chief cause of the increase in the number of Negro slaves in the United States.</p>
+```
+
+```{=html}
+<p>If the yarn becomes cheaper, then the weaver (we assume that he is still a handloom weaver) can produce more without greater outlays for raw material, his income grows, and more people turn to weaving. “If machinery seizes upon the preliminary or intermediate stages which an object of labour has to pass through before its final form, then, along with the labour material, the demand for labour increases in the trades still carried on in a handicraft or manufacturing manner, into which the machine-made article enters.”</p>
+```
+
+```{=html}
+<p>With the development of machinery the surplus value grows, and so does the mass of products in which it is represented. With this the luxury of the capitalist class and its appendages rises. The demand for <em>luxury workers, domestic servants, lackeys,</em> and so forth grows. In 1861 there fell to the <em>textile industry</em> in England 642,607 persons, and to the servant class 1,208,648 persons.</p>
+```
+
+```{=html}
+<p>Alongside these factors, which bring it about that the introduction of machinery has in its train an increase in the demand for labour, Marx names still another: the emergence of new fields of labour, such as gasworks, railways, and so forth.</p>
+```
+
+```{=html}
+<p>Let one compare with these results of Marx's expositions that which the professorial gentlemen put into Marx's mouth, quite apart from their own erudition.</p>
+```
+
+```{=html}
+<p>To be sure, when Marx investigated the manner in which the introduction of machinery can result in an increase in the demand for labour, he did not do so in order to explain away by sophistry the sufferings which the factory system brings with it for the working population. The factory destroys the worker's family, robs him of his youth, increases his labour and deprives it of all content, ruins him physically and mentally and makes him the will-less tool of the capitalist – and the bourgeois economists believe they have brilliantly glorified the capitalist application of machinery when they demonstrate that with it the number of wage labourers in the factories grows!</p>
+```
+
+```{=html}
+<p>As though this growth were not a growth of misery! And alongside the misery of labour grows the misery of unemployment.</p>
+```
+
+```{=html}
+<p>The variable capital <em>can</em> grow absolutely with the progress of machinery, but it need not necessarily do so; in various branches of large-scale enterprise it has already been established at various times that, alongside an increase of the constant capital, there was an absolute diminution of the variable, a decrease in the number of workers employed. (We give some facts pertaining to this in the third part, in the chapter on overpopulation.) This is quite apart from the unemployment and the misery which the competition of large-scale enterprise calls forth in the corresponding branches of labour carried on by hand at home and abroad. Let one recall what was said in the previous paragraph about the handloom weavers in England and East India, who starved by the hundreds of thousands, while at the same time the number of English machine weavers rose by a few thousand. The vulgar economists, who want to make the worker believe that the machine creates new employment for the displaced workers, saw these thousands of new workers, but shrewdly kept silent about the hundreds of thousands displaced.</p>
+```
+
+```{=html}
+<p>Even if simultaneously with the displacement of the workers in one branch of labour there occurs an increase in the demand for labour in other branches of industry, this offers only poor consolation to the man without work. Can a worker who has been active his whole life long in a particular branch of labour leap over from one day to the next into another?</p>
+```
+
+```{=html}
+<p>Alongside the movement on the labour market which proceeds through the constant shifting in the relation of the constant to the variable capital to the disadvantage of the latter, there develops with large-scale enterprise another peculiar effect on the labour market, one that crosses the former.</p>
+```
+
+```{=html}
+<p>As soon as the general conditions of production corresponding to large-scale industry have been established, as soon as machine production, coal and iron extraction, the transport system and the like have attained a certain height of development, this mode of operation is capable of an incredibly rapid expansion, which finds its barriers only in the raw material and the market for sale. Hence the constant pressing and hurrying after the opening up of new markets, which supply new raw materials and new purchasers for the manufactured goods. Every essential expansion of the market is followed by a period of feverish production, until the market is overstocked, whereupon a period of stagnation sets in. “The life of industry becomes transformed into a series of periods of moderate liveliness, prosperity, overproduction, crisis and stagnation.” For the worker this cycle means the constant oscillation between overwork and unemployment, complete insecurity of employment and of the level of wages, indeed of his whole condition of life.</p>
+```
+
+```{=html}
+<p>This movement intertwines with the one brought about by technical progress, the relative, often also absolute, decrease of the variable capital. At times they work against one another – in the period of prosperity, where technical progress sees to it that the trees do not grow into the sky for the workers; at times they work jointly in the same direction, in the period of crisis, where simultaneously with unemployment the chase of competition is at its most unbridled, the pressing for a reduction of prices at its wildest, which reduction is brought about partly through the introduction of new labour-saving machines, partly through the lengthening of the working time, partly through the depression of wages; but always at the expense of the worker.<br/> <a id="ab2-kap10-t6" name="ab2-kap10-t6"> </a></p>
+```
+
+## 6. The Machine as a Revolutionary Agent
+
+```{=html}
+<p class="fst">If one confronts one of the apostles of harmony with a depiction of the capitalist factory system and asks him whether he still believes that we live in the best of all worlds, then he is fond of evading the answer to this question by declaring: Yes, we still live in a transitional state. Capitalist large-scale industry has not yet been able to unfold its blessings fully, because it is still hampered in its development by medieval rubble. But one need only compare the situation of the workers in the factories with that of workers in corresponding domestic-industrial or handicraft enterprises, and one will find that the former are much better off than the latter, that large-scale industry has therefore substantially <em>raised,</em> not <em>worsened,</em> the situation of the workers. So says the apostle of harmony.</p>
+```
+
+```{=html}
+<p>It is undeniable that, wherever large-scale industrial operation has gained a foothold, the workers in the traditional domestic industries, handicrafts and manufactures live in even far more wretched conditions than in the factories. Does this speak in favour of capitalist large-scale industry? We hardly think so. The fact is simply explained by this: that the factory system, in the branches of trade in which it establishes itself, not only worsens the situation of the workers who are drawn into the factories, but also that of the workers who continue to work outside the factories, and indeed the latter still more than the former. The "progress" brought about by capitalist large-scale industry consists in this: that, along with all the torments and privations it imposes on the factory workers, it afflicts the worker in domestic industry, handicraft and manufacture twofold and threefold.</p>
+```
+
+```{=html}
+<p class="quoteb">"The exploitation of cheap and immature labour-power becomes more shameless in modern manufacture than in the factory proper, because the technical basis existing in the latter, the replacement of muscular power by machines and the ease of the work, largely falls away in the former, while at the same time the female or still immature body is most unscrupulously exposed to the influences of poisonous substances, and so forth. It becomes more shameless in so-called domestic labour than in manufacture, because the workers' power of resistance diminishes with their dispersion, because a whole series of rapacious parasites force their way in between the actual 'employer' and the worker, because domestic labour everywhere struggles against machine—or at least manufacture—operation in the same branch of production, because poverty robs the worker of the most necessary conditions of labour, space, light, ventilation, and so forth, because the irregularity of employment grows, and finally because in these last refuges of those made 'superfluous' by large-scale industry and agriculture the competition among workers necessarily reaches its maximum. The economising of means of production first systematically developed by machine operation, which from the outset is at the same time the most reckless squandering of labour-power and robbery of the normal conditions of the labour function, now turns out this antagonistic and man-slaughtering side all the more, the less the social productive power of labour and the technical basis of combined labour processes are developed in a branch of industry."</p>
+```
+
+```{=html}
+<p class="fst">Whatever a human being can endure without succumbing on the spot, the workers in domestic industry have to endure. In the endeavour to compete in cheapness with the machine, they reduce their demands for food, clothing, light, air and rest ever further, until they reach a level lower than the most dreadful imagination could have devised. Marx reports of lace schools in which children of two years of age were employed. In English straw-plaiting, children worked from the age of three, sometimes until midnight, in cramped rooms in which sometimes only 12 to 17 cubic feet fell to each person. These figures, said Commissioner White before the commission for the investigation of child labour, "represented <em>less than half the space</em> that a child would occupy if packed into a box measuring three feet in all dimensions!"</p>
+```
+
+```{=html}
+<p>But however much human nature can bear without succumbing at once, there are nonetheless limits below which it cannot descend. Once this is reached, then the hour of rapid ruin strikes for domestic labour as a consequence of the introduction of machinery; the domestic workers have either to find other employment, or they starve more rapidly than before. The same holds true of the traditional handicraft and of manufacture.</p>
+```
+
+```{=html}
+<p>The transition from manufacture to large-scale industry is accelerated by the introduction of factory laws. Domestic industry loses its ground at once as soon as it is subjected to legal restrictions. Only the unlimited, most far-reaching exploitation of the labour-power of women and children is still able to eke out its existence.</p>
+```
+
+```{=html}
+<p>If the machine acts so entirely revolutionisingly in all the fields of industry of which it takes possession, it is almost still more revolutionary when it seizes upon <em>agriculture.</em> Here it as a rule makes workers superfluous not merely relatively but also absolutely—except in those cases in which at the same time a very strong increase of the area of land taken under cultivation takes place, as, for example, has been the case in the United States.</p>
+```
+
+```{=html}
+<p>The peasant is threatened, wherever the machine penetrates into agriculture, by the same fate as the traditional hand operations of industry. With him falls the firmest bulwark of the old society. The peasants and wage labourers made "superfluous" in the countryside stream into the towns. The great towns grow enormously, while the countryside becomes depopulated. The crowding together of the vast masses of people in the towns produces the physical decay of the industrial workers. The isolation of the countryside diminishes the intellectual stimulation of the agricultural labourers, destroys their intellectual life, breaks their power of resistance against capital. With the great towns grows the squandering of the fertility of the soil, in that the constituents taken from the soil in the foodstuffs are not returned to it again, and, in the form of excrement and refuse, pollute the towns instead of manuring the land. But with the application of modern technology to agriculture grow also the means of wringing the highest yields from the soil. Ever more is taken from it, ever less returned. Thus the capitalist application of machinery develops, simultaneously with the exhausting exploitation of human labour-power, that of the land and soil. It devastates the earth and lets the worker degenerate physically and intellectually.</p>
+```
+
+```{=html}
+<p>But at the same time it develops the germs of a new and higher culture, and the driving forces that will help this to break through. Marx saw in misery not only the misery, but also the germs of the better future that it conceals in its bosom. He does not <em>condemn</em> the factory system, he does not <em>indict</em> it, but he wants to <em>comprehend</em> it. He does not <em>moralise,</em> but he <em>investigates.</em> And he himself draws our attention in this respect to his predecessor, who first recognised the revolutionary side of the modern factory system, to <em>Robert Owen.</em></p>
+```
+
+```{=html}
+<p>Large-scale industry has created frightful misery, such as no mode of production before it. But the misery of the masses is not a stagnant one. Today we do not find the standing swamp of misery in which society slowly and imperceptibly sinks, as, for instance, Roman society in the imperial age. The modern mode of production resembles rather a whirlpool that churns up all strata of society, mingles them together, and keeps them in constant motion. All inherited relations of production are destroyed, and with them the inherited prejudices. But the new relations of production that take their place are themselves not permanent, but subject to constant change. One invention, one method of work chases another; masses of capital and masses of workers are ceaselessly hurled from one branch of production into another, from one country into another; all firmness of relations and all belief in their firmness vanishes. The conservative elements are removed, the peasant is driven into the great cities, in which today the historical motive force is concentrated, and where he helps to increase the momentum of the movement instead of impeding it. Wife and child are drawn into the factory, the conservative element of the bourgeois form of the family is dissolved; out of the preserving and maintaining housewife there emerges the earning wage-labouring woman struggling for existence.</p>
+```
+
+```{=html}
+<p>And in this complete dissolution of the old that is taking place before our eyes, germs of the new already show themselves.</p>
+```
+
+```{=html}
+<p>The increasing stultification of the working-class youth as a consequence of excessively long and one-sided labour has compelled all industrial states, in one form or another, to declare elementary instruction a compulsory condition of labour. It has since been found that the factory children not only learn just as well, but rather better and more easily, than regular day-school pupils. "The matter is very simple," opines a factory inspector. "Those who spend only half the day in school are always fresh and almost always able and willing to receive instruction. The system of half labour and half school makes each of the two occupations a rest and recreation from the other, and consequently much more suitable for the child than the uninterrupted continuance of either one of them." Marx adds: "From the factory system, as one can trace in detail in Robert Owen, sprang the germ of the education of the future, which will combine for all children above a certain age productive labour with instruction and gymnastics, not only as a method of increasing social production, but as the sole method of producing fully developed human beings."</p>
+```
+
+```{=html}
+<p>To this pedagogical revolution another will have to attach itself. The far-reaching division of labour in society into separate occupations and specialised fields, which was already peculiar to the period of the handicraft, and the division of labour within the individual enterprises, which was added to it in the manufacturing period, had highly unfavourable consequences for the working individuals. The conditions of production developed slowly, at times became downright ossified; the whole human being was thus bound for life to a certain partial operation, in which he attained enormous skill, while at the same time he was crippled in a one-sided way and lost that harmonious development which still lent classical antiquity its ideal beauty.</p>
+```
+
+```{=html}
+<p>In the branches it seizes, the machine eliminates the necessity of many years of sustained practice for the worker to enable him to perform productive tasks in his particular field. But it also makes it impossible that the human being should be bound for life to a certain partial operation, since it constantly revolutionises the conditions of production, tears the worker out of one branch of labour and thrusts him into another.</p>
+```
+
+```{=html}
+<p>But what sufferings does this constant motion not bring forth today, when hundreds of thousands of proletarians constantly form an unemployed reserve army, eager to seize any occupation that is assigned to them! And how slight is nowadays the capacity to adapt to the most varied activities among the wage-labourers, whose body and mind are equally crippled in youth, who lack insight into the various mechanical and technical processes by which modern large-scale production achieves its effects, and who lack the elasticity to adapt to these various processes. And finally, even if the worker in large-scale industry is not of necessity bound for life to a certain detail function, he is nonetheless bound to it day in, day out, for months, indeed years on end, with the interruption of unemployment and hunger.</p>
+```
+
+```{=html}
+<p>How very different it would be if the various detail functions relieved one another daily, indeed hourly, so that they would not tire and stultify, but stimulate and cheer; if the corrupting unemployment vanished and the technical revolutions did not take place at the expense of the workers!</p>
+```
+
+```{=html}
+<p>Among the many preconditions of this change is also a pedagogical one. The working class must obtain scientific insight into the course of the method of production; it must obtain practical proficiency in handling the most varied instruments of production. This is already being attempted today in apprentice schools and similar institutions, but in a highly inadequate manner. "If factory legislation, as the first concession wrung with difficulty from capital, combines only elementary instruction with factory work, there is no doubt that the inevitable conquest of political power by the working class will also win for technological instruction, both theoretical and practical, its place in the workers' schools." –</p>
+```
+
+```{=html}
+<p>What revolutions, finally, does modern large-scale industry hold within itself with regard to the family! It is already today dissolving, for the wage-labourers, the inherited form of the family. Not only the relation between man and woman, but also that between parents and children has become a different one through the system of industrial female and child labour. In many cases the parents become, out of protectors and providers, <em>exploiters</em> of the children. We recalled above the poor children in English straw-plaiting, who from the age of three onwards had to work under the most wretched conditions, often until midnight.</p>
+```
+
+```{=html}
+<p class="quoteb">"The miserable, degenerate parents" of these little straw-plaiters, says Marx, "think of nothing but wringing as much as possible out of the children. Grown up, the children naturally do not care a straw for their parents, and desert them."</p>
+```
+
+```{=html}
+<p class="quote">“It is not, however, the misuse of parental authority,” Marx says elsewhere, “that created the direct or indirect exploitation of immature labour-powers by capital, but, on the contrary, it is the capitalist mode of exploitation which, by abolishing the economic foundation corresponding to parental authority, turned it into a misuse. However terrible and repulsive the dissolution of the old family life within the capitalist system may appear, nonetheless large-scale industry, by assigning to women, young persons and children of both sexes a decisive role in socially organised processes of production beyond the sphere of the household, creates the new economic foundation for a higher form of the family and of the relation between the two sexes. It is of course just as foolish to hold the Christian-Germanic form of the family to be absolute as the ancient Roman form, or the ancient Greek, or the Oriental, which, incidentally, form among themselves a historical series of development. It is likewise evident that the composition of the combined labour personnel out of individuals of both sexes and of the most varied ages, although in its spontaneously brutal capitalist form, where the worker exists for the process of production and not the process of production for the worker, is a pestilential source of corruption and slavery, must, under appropriate conditions, on the contrary turn into a source of humane development.”</p>
+```
+
+```{=html}
+<p class="fst">Now that Marx has opened up to us these prospects of the future, we may well confront the system of machinery and large-scale industry in a reconciled spirit. However immeasurable the sufferings it heaps upon the working classes, they are at least not in vain. We know that upon the field of labour, which has been manured with millions of proletarian corpses, a new crop will sprout, a higher form of society. Machine production forms the foundation upon which a new race will arise, far from the one-sided narrowness of the handicraft and of the manufacture; not the slave of nature, as was the man of primitive communism; not purchasing intellectual and physical strength and beauty with the oppression of rightless herds of slaves, as did classical antiquity; a race, harmoniously developed, joyful in life and capable of enjoyment, master of the earth and of the forces of nature, embracing all members of the community in brotherly equality.</p>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#ab2-kap10-f1" id="ab2-kap10-n1" name="ab2-kap10-n1">1.</a> Goethe answers the question: “What is inventing?” with the apt words: “The conclusion of what has been <em>sought.”</em></p>
+```
+
+```{=html}
+<p class="note"><a href="#ab2-kap10-f2" id="ab2-kap10-n2" name="ab2-kap10-n2">2.</a> <strong>The Industry of Nations,</strong> London 1855, Vol. 2, p. 239. From the same work Marx quotes the following sentence on the invention of the “slide rest”:</p>
+```
+
+```{=html}
+<p class="quoteb">“Simple and outwardly insignificant as this addition to the lathe may appear, it is, in our opinion, not saying too much to assert that its influence upon the improvement and extension of the use of machinery was as great as that brought about by Watt’s improvement of the steam engine.”</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab2-kap10-f3" id="ab2-kap10-n3" name="ab2-kap10-n3">3.</a> On this Engels, the editor of the 3rd and 4th editions of <strong>Capital,</strong> remarks in a note: “A ‘horse-power’ is equal to the force of 83,000 foot-pounds per minute, that is, the force which raises 83,000 pounds one foot (English) per minute, or 1 pound 33,000 feet. This is the horse-power meant above.”</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab2-kap10-f4" id="ab2-kap10-n4" name="ab2-kap10-n4">4.</a> The growth of production naturally also presupposes a corresponding expansion of the <em>market for sales</em>. This most important factor cannot, however, yet be examined more closely here.</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 9. Division of Labour and Manufacture](ab2-kap09.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 1. The Wage of Labour ↓](ab3-kap1.qmd)

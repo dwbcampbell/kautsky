@@ -1,0 +1,238 @@
+# Chapter 1. The Wage of Labour
+
+## 1. Changes in the Magnitude of the Price of Labour-Power and Surplus Value
+
+```{=html}
+<p class="fst">In the second section we have chiefly treated the <em>production of surplus value.</em> Now we turn first to the laws of <em>wages.</em> The introduction to this, and the transition from the second to the third section, standing as it were in the domains of both, is formed by the investigation of the changes in the magnitude of the price of labour-power and of surplus value, brought about by the alterations of three factors that we have already come to know in the second section; namely 1. the <em>length of the working day,</em> 2. the normal <em>intensity of labour,</em> and 3. its <em>productive power.</em></p>
+```
+
+```{=html}
+<p>These three factors can vary and alter in the most manifold ways, now one alone, now two, now again all three, at one time the one to this degree, at another time to a different degree. It would of course lead too far to investigate all the combinations that result from this; with a little reflection one can develop them oneself, once the principal combinations are given. Only these shall be set forth here. We investigate the alterations that result in the relative magnitude of surplus value and of the price of labour-power when one of the three factors alters and the other two remain unchanged.</p>
+```
+
+```{=html}
+<p class="fst">a) <em>The length of the working day and the intensity of labour remain unchanged, the productive power of labour alters.</em> The productive power of labour does indeed have an influence on the mass of products that are produced within a definite unit of time, but not on the value-magnitude of this mass of products. If, in consequence of an invention, the cotton spinner is enabled to spin 6 pounds of cotton in an hour, whereas hitherto he spun only 1 pound in an hour, he will now produce in an hour six times as much yarn as before, but the same value. But the value that he adds to a pound of cotton by transforming it into yarn through his labour is now six times smaller. This lowering of value reacts back upon the value of the worker's means of subsistence, for example his articles of clothing. The value of labour-power falls, and by the same magnitude surplus value rises. With a fall in the productive power of labour the reverse naturally takes place. The increase or decrease of surplus value is always the <em>consequence</em> and never the <em>cause</em> of the corresponding increase or decrease of the value of labour-power. It depends on various circumstances, in particular on the power of resistance of the working class, whether and to what extent a fall in the <em>value</em> of labour-power corresponds to a fall in its <em>price.</em> Let us assume that, in consequence of the increase of the productive power of labour, the daily value of labour-power falls perhaps from 3 marks to 2, but its price only to 2 marks 50 pfennigs. If the daily surplus value per worker previously also amounted to 3 marks, it would now rise not to 4 marks but, to the great indignation of the capitalist, only to 3 marks 50 pfennigs. Fortunately for him, such a case seldom occurs. It presupposes not only great power of resistance on the part of the workers, but also that the other two factors are unalterable — the length of the working day and the intensity of labour. The influence of alterations in these two is overlooked by the economists, following Ricardo's precedent. Let us now consider the effect of each of these latter alterations.</p>
+```
+
+```{=html}
+<p class="fst">b) <em>The working day and the productive power of labour do not alter, the intensity of labour alters.</em> To work more intensely means to expend more labour in the same time, thus to create more value in the same period. If the cotton spinner, without the productive power of labour altering, in consequence of more strenuous labour, spins 1½ pounds of cotton in an hour instead of 1 pound as before, he also produces in an hour half again as much value as before. If he formerly produced a value of 6 marks in 12 hours, he now produces in the same time a value of 9 marks. If the price of his labour-power was formerly 8 marks, and it now rises to 4 marks, nevertheless surplus value also rises at the same time, namely from 3 to 5 marks. It is therefore not true, as is often asserted, that a rise in the price of labour-power is possible only at the expense of surplus value. This holds only for the first case we considered; it does not hold for the one just mentioned. It may be noted in passing that the rise in the price of labour-power in this, the second case, need not always signify a rise above its value. If the rise in price is insufficient to make up for the more rapid wearing-out of labour-power, which necessarily follows by nature from the greater intensity of labour, then in reality the price of labour-power <em>falls</em> below its value.</p>
+```
+
+```{=html}
+<p>The intensity of labour is different among different nations. „The more intensive working day of the one nation presents itself in a higher money-expression than the less intensive one of the other.“</p>
+```
+
+```{=html}
+<p>In the English factories the working day is as a rule shorter than in the German ones, but precisely for that reason labour in the former is much more intensive, so that the English worker produces in the hour of labour a greater value than his colleague in Germany. „A greater legal shortening of the working day in the continental factories,“ says Marx, „would be the most infallible means of diminishing this difference between the continental and the English hour of labour.“</p>
+```
+
+```{=html}
+<p class="fst">c) <em>The productivity and intensity of labour remain unchanged, the working day alters.</em> This can happen in two directions: 1. <em>It is shortened.</em> The value of labour-power is not thereby affected; the shortening takes place at the expense of surplus value. If the capitalist does not wish to see this curtailed, then he must depress the price of labour-power below its value. This case is gladly brought into the field by the opponents of the normal working day. Their argumentation, however, holds only when the intensity and productivity of labour remain unchanged. In reality, however, a shortening of labour time is always either the cause or the effect of an increase in the intensity and productivity of labour. 2. <em>The working day is lengthened.</em> The consequences of this alteration have as yet caused the capitalists very little headache. The value-sum of the mass of products produced during the working day rises, and so does surplus value. The price of labour-power can also rise. But here, as with the increase of the intensity of labour, the rise in price can in fact signify a fall below the value if it does not balance the increased wearing-out of labour-power.</p>
+```
+
+```{=html}
+<p>The cases considered under <em>a, b</em> and <em>c</em> will seldom occur in full purity. As a rule the alteration of one of the three factors will also entail alterations in the others. Marx investigates, among other things, the case in which the intensity and productivity of labour grow and at the same time the working day is shortened, and sets forth the limit to which the working day could be shortened. Under the capitalist mode of production the working day cannot be shortened to the measure of the labour time necessary for the maintenance of the worker. That would mean abolishing surplus value, the foundation of capitalism.</p>
+```
+
+```{=html}
+<p>The abolition of the capitalist mode of production would permit the working day to be restricted to the necessary labour-time. Under otherwise equal circumstances, however, as soon as the capitalist mode of production is abolished, the need would arise to <em>lengthen</em> the necessary labour-time. On the one hand, because the demands of life of the worker would grow; on the other, because the accumulation of a fund for the continuation and extension of production would fall within the sphere of necessary labour, whereas today it accrues to surplus value.</p>
+```
+
+```{=html}
+<p>But on the other hand, with the shortening of the working day the intensity of labour would grow. The system of socially organised labour would lead to the economising of the means of production and the elimination of all useless labour.</p>
+```
+
+```{=html}
+<p class="quoteb">„While the capitalist mode of production enforces economy in every individual undertaking, its anarchic system of competition produces the most boundless squandering of the social means of production and labour-powers, alongside a countless number of functions now indispensable, but in and for themselves superfluous.“</p>
+```
+
+```{=html}
+<p class="quote">„Given the intensity and productive power of labour,“ Marx continues, „the part of the social working day necessary for material production is the shorter, and hence the part of time won for the free, intellectual and social activity of the individuals the greater, the more evenly labour is distributed among all members of society capable of working, and the less one stratum of society can shift the natural necessity of labour off itself and onto another stratum. The absolute limit for the shortening of the working day is, from this side, the universality of labour. In capitalist society, free time is produced for one class by transforming all the lifetime of the masses into labour-time.“<br/> <a id="ab3-kap1-t2" name="ab3-kap1-t2"> </a></p>
+```
+
+## 2. The Transformation of the Price of Labour-Power into Wages
+
+```{=html}
+<p class="fst">We have thus far dealt with the <em>value and price of labour-power</em> and its relation to surplus value. But what appears on the surface of society as wages does not appear as the price of <em>labour-power,</em> but as the price of labour.</p>
+```
+
+```{=html}
+<p class="quoteb">„If one were to ask workers: ‚How high are your wages?‘ one would answer thus: ‚I receive 1 mark for the working day from my bourgeois,‘ another: ‚I receive 2 marks,‘ and so forth. According to the various branches of labour to which they belong, they would name different sums of money that they receive for a definite working time or for the production of a definite piece of work, e.g. for the weaving of an ell of linen or for the setting of a printer's sheet, from their respective bourgeois. Despite the diversity of their statements, they will all agree on one point: wages are the sum of money that the capitalist pays for a definite working time or for the delivery of a definite quantity of labour.“ <a href="#ab3-kap1-n1" id="ab3-kap1-f1" name="ab3-kap1-f1">[1]</a></p>
+```
+
+```{=html}
+<p class="fst">The price of a commodity is its value expressed in money. If labour has a price, then it must also have a value, the economists thus reasoned. But how great is its value? It is determined, like that of every other commodity, by the labour time necessary for its production. How many hours of labour are necessary to produce the labour of 12 hours? Obviously 12 hours.</p>
+```
+
+```{=html}
+<p>If, according to this, labour is paid at its full value, then the worker receives just as much in wages as he adds to the product in value: we thus stand, at the end of this calculation, before the alternative of either acknowledging the doctrine of surplus value as false, or the doctrine of value, or both, and thereby declaring the riddle of capitalist production to be insoluble. Classical bourgeois economy, which found its culmination in Ricardo, foundered upon this contradiction; vulgar economy, which does not set itself the task of <em>investigating</em> the modern mode of production, but of justifying it and painting it in rosy colours, has used this contradiction for its finest fallacies.</p>
+```
+
+```{=html}
+<p>Marx demolished them all by clearly establishing the distinction between <em>labour</em> and <em>labour-power,</em> both of which had been thrown together by the economists.</p>
+```
+
+```{=html}
+<p>In 1847 Marx had not yet made this fundamental discovery. In his <strong>Poverty of Philosophy,</strong> as in his articles on <strong>Wage Labour and Capital,</strong> he still speaks of the value of labour, which unnoticed becomes for him the value of labour-power. Our economists, however, have so little understood the significance of the separation of labour-power and labour that they still throw both concepts together even today, and that they are fond of speaking of a Marx-Rodbertus theory of value, although Rodbertus took over Ricardo's theory of value, with its confusion of labour and labour-power and the contradictions following therefrom, without examination, whereas Marx, in this and in yet other points of fundamental importance (we recall the restriction of value-forming labour to socially necessary labour, the separation of general value-forming labour from particular labour creating use-values, and so forth), stripped it of its contradictions and first made of Ricardo's doctrine a real, adequate and firmly grounded theory of value.</p>
+```
+
+```{=html}
+<p>Marx was the first to demonstrate that <em>labour</em> is not a commodity, and accordingly also possesses no commodity value, although it is the source and the measure of all commodity values. What appears on the market is the worker, who offers his labour-power for sale. Labour arises through the consumption of the commodity labour-power, just as a certain blissfulness is produced through the consumption of the commodity champagne. Just as the capitalist buys the champagne, but not the blissfulness which it produces, so he buys labour-power, not labour.</p>
+```
+
+```{=html}
+<p>But labour-power is a commodity of a peculiar kind; it is paid for only after it has been consumed; only after labour has been performed does the worker receive his wage.</p>
+```
+
+```{=html}
+<p><em>Labour-power</em> is bought, but apparently it is <em>labour</em> that is paid for. Wages do not appear as the price of labour-power. This undergoes a transformation before it emerges as wages from the pocket of the capitalist into the light of day; it presents itself to us as the price of labour.</p>
+```
+
+```{=html}
+<p>How this transformation takes place, and what its consequences are, the economists before Marx could naturally not investigate scientifically, since they had not recognised the difference between the price of labour-power and that of labour. Marx has thus given us the first strictly scientific theory of wages. The two basic forms of wages are <em>time wages</em> and <em>piece wages.</em><br/> <a id="ab3-kap1-t3" name="ab3-kap1-t3"> </a></p>
+```
+
+## 3. Time-Wages
+
+```{=html}
+<p class="fst">We know that the daily value of labour-power is, under specific circumstances, a determinate quantity. Let us assume that the daily value of labour-power amounts to 2 marks 40 pfennigs, and that the <em>customary</em> working day is 12 hours. Here, as always in this book unless otherwise noted, we assume that the value and the price of labour-power, like those of other commodities, coincide. The price of 12 hours of labour therefore appears as = 2 marks 40 pfennigs, and the price of one hour of labour as = 20 pfennigs. The price of the hour of labour thus found serves as the unit of measure for the price of labour.</p>
+```
+
+```{=html}
+<p>We therefore find the price of labour by dividing the daily value of labour-power by the number of working hours of the <em>customary</em> working day.</p>
+```
+
+```{=html}
+<p>The price of labour and the daily or weekly wage can move in different directions. Let us assume that the working time rises from 12 to 15 hours – and at the same time the price of labour falls from 20 to 18 pfennigs. The daily wage will now amount to 2 marks 70 pfennigs; it will have risen, even though the price of labour has fallen at the same time.</p>
+```
+
+```{=html}
+<p>The price of labour depends, as has just been said, on the <em>daily value</em> of labour-power and on the length of the <em>customary</em> working day.</p>
+```
+
+```{=html}
+<p>If now, as a consequence of <em>extraordinary</em> events, for example a crisis, the capitalist, because his commodities are unsaleable, restricts the working time, letting the workers work perhaps only half the time, he does not raise the price of labour correspondingly. If this amounts to 20 pfennigs, then the worker, working six hours, will earn only 1 mark 20 pfennigs, although the daily value of his labour-power is far higher, by our assumption 2 marks 40 pfennigs. <a href="#ab3-kap1-n2" id="ab3-kap1-f2" name="ab3-kap1-f2">[2]</a></p>
+```
+
+```{=html}
+<p>If earlier we saw in the <em>lengthening</em> of the working day a source of suffering for the worker, so here we see a new source in its temporary <em>shortening.</em></p>
+```
+
+```{=html}
+<p>Out of this the capitalists take occasion, whenever a legal shortening of the working day is at issue, to bring their compassion for the poor workers into the field against it. “We are already forced to pay the most wretched starvation wages for fifteen hours of labour!” they cry, “and now you want to shorten the working time to ten hours and thereby take yet another third of their wages from the starving workers? Against such barbarity we must energetically protest!” The noble philanthropists forget that the <em>price of labour</em> rises when the length of the <em>customary</em> working day diminishes; the price of labour is the higher, the higher the daily value of labour-power and the <em>smaller</em> the length of the <em>customary</em> working day. A <em>temporary</em> shortening of the working day lowers the wage, a <em>permanent</em> shortening raises it. This has been seen, among other places, in England. According to the report of the factory inspectors of April 1860, in the twenty years from 1839 to 1859 the wage <em>rose</em> in the factories subject to the ten-hour normal working day, and <em>fell</em> in the factories in which work was carried on for 14–15 hours. Numerous experiences down to the most recent times confirm this rule.</p>
+```
+
+```{=html}
+<p>A permanent lengthening of the working time lowers the price of labour. Conversely, a low price of labour compels the worker to submit to a lengthening of the working day, in order to secure himself even a meagre daily wage. But a low price of labour and long working time also have the tendency to become fixed. The capitalists lower the wage and lengthen the working time in order to increase their profits. But their competition among one another ultimately compels them to reduce the prices of commodities in corresponding measure. The extra profit that was gained through the lengthening of the working day and the lowering of the wage now disappears, but the low prices remain and act as a means of compulsion to keep the wage, at excessive working time, at the low level reached. The capitalists derive no lasting advantage from it, but the workers a lasting disadvantage. The legal fixing of the normal working day offers a powerful barrier to this development.</p>
+```
+
+```{=html}
+<p>Yet other beneficial effects of the normal working day are to be mentioned here.</p>
+```
+
+```{=html}
+<p>It occurs in certain branches of labour that the capitalist does not obligate himself to pay a definite weekly or daily wage, but rather remunerates the worker by working hours. The worker must be at the capitalist's disposal the whole day, but it lies at the latter's discretion to employ him at one time excessively, at another only for a few hours. The price of labour, however, is determined by the length of the customary working day. In this way the capitalist obtains, by paying the “normal” price of labour, the disposal over the worker's entire labour-power without paying him the entire value of his labour-power; on the days when he employs him below the normal number of working hours, this comes clearly to light; but it holds also for the time when he employs him beyond this normal time.</p>
+```
+
+```{=html}
+<p>For the value of the labour-power expended in each working hour is not the same. The labour-power expended in the first hours of the working day is more easily replaced than that used in the last hours. The value of the labour-power expended in the first working hour is therefore smaller than that expended in the tenth or twelfth hour – although the use-value of the last may be much smaller than that of the first. – Correspondingly, there has also developed, spontaneously and not on the basis of physiological and economic insight, in many enterprises the custom of regarding the working day up to a certain point as “normal” and the working time beyond it as <em>overtime,</em> which is paid better, though often to a ridiculously slight degree.</p>
+```
+
+```{=html}
+<p>The above-mentioned capitalists who employ the worker by the hour save the higher remuneration for overtime. The difference between the “normal” working day of the above-mentioned kind and the overtime is not to be understood as though the price of labour during the normal working day represented the normal wage, and in overtime a supplementary wage were paid that went beyond the daily value of labour-power. There are factories in which overtime is worked year in, year out. The “normal” wage is there set so low that the worker cannot exist on it alone and is <em>compelled</em> to work overtime. The “normal” working day, where overtime is regularly worked, is only a part of the real working day, and the “normal” wage only a part of the wage necessary for the maintenance of the worker. The better payment of overtime is often only a means of inducing the worker to consent to a lengthening of the working day. This, however, corresponds, as we have seen, to a fall in the price of labour.</p>
+```
+
+```{=html}
+<p>The normal working day has the tendency to bolt firmly against all these levers of wage reduction.<br/> <a id="ab3-kap1-t4" name="ab3-kap1-t4"> </a></p>
+```
+
+## 4. Piece Wages
+
+```{=html}
+<p class="fst">Time wages are the transformed form of the price of labour-power; piece wages are a transformed form of time wages.</p>
+```
+
+```{=html}
+<p>Let us assume that the ordinary working day amounts to 12 hours, the daily value of labour-power to 2 marks 40 pfennigs, and that a worker on average produces daily 24 pieces of a certain article — in capitalist enterprises it is soon established by experience what output a worker of average skill and intensity brings about in one working day. I can employ the worker on day wages, at a price of 20 pfennigs per hour; but I can also pay him for each piece he delivers, at 10 pfennigs per piece. In the latter case the wage is a piece wage.</p>
+```
+
+```{=html}
+<p>The basis of the piece wage is, as one sees, the daily value of labour-power and the customary length of the working day, just as with the time wage. To all <em>appearance</em>, to be sure, the piece wage is determined by the output of the producer; the appearance vanishes, however, when one knows that the piece wage is correspondingly reduced as soon as the productivity of labour rises. If a worker, in order to produce one piece of the article in our above example, on average no longer needs half an hour but only a quarter of an hour — perhaps as a result of an improvement in a machine — then the capitalist, assuming all other conditions remain unchanged, will no longer pay him 10 pfennigs but only 5 pfennigs per piece.</p>
+```
+
+```{=html}
+<p>But cases often enough occur, and such will be familiar to everyone who occupies himself with workers' affairs, in which individual workers or groups of workers who, favoured by luck, once delivered an unusually large quantity of products, had the piece wage agreed upon for the special case arbitrarily curtailed, with the justification that the wage sum too greatly exceeded the usual level of wages. It could scarcely be said more clearly that the piece wage is only a transformed form of the time wage, a form which the capitalist voluntarily applies only when it seems to him more advantageous than the untransformed time wage.</p>
+```
+
+```{=html}
+<p>As a rule, however, the piece wage does offer great advantages to the capitalist. In the form of the time wage the capitalist pays for labour-power in the form of the <em>quantity of labour</em> it delivers; in the piece wage he pays for it in the form of the <em>product.</em> He can therefore rely on the worker, in his own interest, delivering the greatest possible quantity of products in every working hour even without external prompting. He can much more easily control whether the worker has delivered a product of average quality. The slightest blemish becomes there the cause, and very often merely the pretext, for wage deductions, indeed at times for downright swindling of the workers.</p>
+```
+
+```{=html}
+<p>The supervision of the workers by the capitalist and his representatives therefore becomes for the most part superfluous with the piece wage; the capitalist saves this labour and its costs. In certain branches of industry the piece wage even makes it possible for the workers to work at home, whereby a mass of investment and operating costs (for heating, lighting, ground rent, etc.) is saved for the capitalist, and with it a part of capital becomes available to him which he would otherwise have had to tie up. In trades in which home work is widespread, e.g. tailoring or shoemaking, it happens that masters demand <em>rent</em> from journeymen who work in their workshop instead of at home, for the space and the working accessories! The workers must pay dearly, and extra, for the pleasure of being allowed to drudge under the "eye of the master."</p>
+```
+
+```{=html}
+<p>The personal interest of the worker drives him, under the piece-wage system, to work as intensely and as long as possible, in order to increase his day's or week's wage as much as possible. He does not see that his overwork not only ruins him physically — piece-work is murder-work, says the proverb — but also tends to lower the price of his labour. And even when he does perceive this, he is nevertheless not in a position to withdraw himself from the coercive law of competition with his fellow workers. This competition of the workers against one another, and the appearance of freedom and independence which piece-work evokes, and in many cases too their isolation from one another (in home work), greatly hamper the organisation and the unanimous action of these workers.</p>
+```
+
+```{=html}
+<p>And the piece-wage system brings with it still other disadvantages for the worker! Thus, for example, it permits the insertion of parasitic existences between the worker and the capitalist, middlemen who live by deducting a sizeable slice for themselves from the wages which the capitalist pays. But the piece-wage system also makes it possible for the capitalist, where the work is carried on by groups of workers, to conclude contracts only with the leaders of the groups for the delivery of the products at a certain price per piece, and to leave it to these to pay their sub-workers at their own discretion. "The exploitation of the workers by capital is here realised through the medium of the exploitation of the worker by the worker."</p>
+```
+
+```{=html}
+<p>As disadvantageous as the piece wage is for the worker, so advantageous is it for the capitalist. The piece wage is also the form of wages corresponding to the capitalist mode of production. It was not entirely unknown in the guild handicraft. On a larger scale, however, it came into use only during the manufacturing period. In the time of the rise of large-scale industry it served as one of the most important levers for the lengthening of the working time and the lowering of the price of labour.<br/> <a id="ab3-kap1-t5" name="ab3-kap1-t5"> </a></p>
+```
+
+## 5. National Differences in Wages
+
+```{=html}
+<p class="fst">We have seen a series of combinations to which the value and the price of labour-power, and its relation to surplus value, are subject, conditioned by changes in the length of the working day, the intensity, and the productivity of labour. Simultaneously with this movement there proceeds another, crossing it, in the mass of means of subsistence in which the price of labour-power is realised. All these changes also condition changes in the transformed form of the price of labour-power, in wages. Thus wages are in constant motion in a country and differ at different times. To this temporal difference there also corresponds a spatial one. Everyone knows that wages are higher in America than in Germany, and higher in Germany than in Poland.</p>
+```
+
+```{=html}
+<p>The comparison of the wages of different nations is, however, not entirely simple.</p>
+```
+
+```{=html}
+<p class="quoteb">“In comparing national wages,” says Marx, “all the factors determining changes in the magnitude of value must be considered: the price and extent of the natural and historically developed prime necessaries of life, the cost of education of the worker, the role of women's and children's labour, the productivity of labour, its extensive and intensive magnitude. Even the most superficial comparison requires, first of all, that the average day's wage for the same trades in different countries be reduced to equal working days. After such an equalisation of the day's wages, the time-wage must again be translated into piece-wage, since only the latter is a measure both of the productivity and of the intensive magnitude of labour.”</p>
+```
+
+```{=html}
+<p class="fst">The <em>absolute price of labour</em> may stand relatively very high in a nation, and yet the <em>relative wage,</em> that is, the price of labour compared with the surplus value or with the value of the total product, and the <em>real wage,</em> that is, the quantity of means of subsistence attainable by the worker for his wage, may be very low.</p>
+```
+
+```{=html}
+<p>Among nations in which the capitalist mode of production is more developed, the productivity and intensity of labour are greater than among those which have lagged behind in the development of this mode of production. On the world market, however, the more productive national labour, like the more intensive, counts as creating greater value.</p>
+```
+
+```{=html}
+<p>Let us assume that in Russia a cotton spinner, badly nourished and developed, overstrained, working with poor machinery, spins on average 1 pound of cotton in an hour; an English spinner, on the other hand, 6 pounds; 1 pound of Russian yarn will not for that reason have a greater value on the world market than a pound of English. Spinning labour in England therefore produces more value in the same time than that in Russia; the value of its product during the same time is embodied in England in a greater quantity of gold than in Russia. Accordingly, the money expression of wages in a capitalistically developed country may stand higher than in an undeveloped one, and yet the price of labour in relation to the surplus value may be much lower, precisely because the value of the total product is higher.</p>
+```
+
+```{=html}
+<p>But in the country in which the productivity of labour is greater, the value of money is also lower. Accordingly, the price of labour-power may be higher without the worker being in a position to buy more means of subsistence with his higher wage.</p>
+```
+
+```{=html}
+<p>In large undertakings outside England, e.g. railway construction in Asia, the English entrepreneurs were compelled to employ, alongside cheap native workers, expensive English ones as well. Experience, on these and similar occasions, has taught that the apparently dearest labour is in reality the cheapest, in relation to the labour performed and to the surplus value.</p>
+```
+
+```{=html}
+<p>Russian industry, with the most wretched wages and the most unrestricted exploitation of labour, eke out a miserable existence only with the help of prohibitive tariffs. It cannot compete with English industry, which produces with relatively high wages and short working hours, with numerous restrictions on the labour of women and children, health regulations, and so on. The <em>absolute</em> price of Russian labour, its expression in <em>money,</em> is <em>low.</em> Its <em>relative</em> price, in relation to the value of its product on the world market, is <em>high.</em></p>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#ab3-kap1-f1" id="ab3-kap1-n1" name="ab3-kap1-n1">1.</a> Marx, <strong>Wage Labour and Capital.</strong></p>
+```
+
+```{=html}
+<p class="note"><a href="#ab3-kap1-f2" id="ab3-kap1-n2" name="ab3-kap1-n2">2.</a> The price of labour may at the same time also fall, but this would not be a consequence of the restriction of working time, but rather of a greater supply of labour-power, etc., phenomena which we do not have to deal with here. In these investigations one must always keep in mind that so far it is a matter of the foundations of the phenomena of the capitalist mode of production, not of their <em>total picture.</em></p>
+```
+
+
+---
+
+[↑ Previous: Chapter 10. Machinery and Large-Scale Industry](ab2-kap10.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 2. The Income of Capital ↓](ab3-kap2.qmd)

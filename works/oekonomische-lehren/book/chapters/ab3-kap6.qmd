@@ -1,0 +1,136 @@
+# Chapter 6. The Dawn of the Capitalist Mode of Production
+
+```{=html}
+<p class="fst">In the last of the preceding chapters we have seen how capital continually produces its own preconditions anew. But it is clear that capital could not form itself in its classical form so long as these preconditions were not developed to a certain degree. Which circumstances called them into being is a question we have not yet answered. In our investigation of the transformation of money into capital, we started from the assumption that on the one side larger sums of money were in the possession of private persons, while on the other side labour-power was offered for sale as a commodity on the market. How labour-power became a commodity, what brought together these sums of money — that we left uninvestigated.</p>
+```
+
+```{=html}
+<p>On this it now remains for us to say the most essential things.</p>
+```
+
+```{=html}
+<p>The accumulation of capital means the renewal of the preconditions of capital. The original emergence of the preconditions of capital, which preceded its development, Marx calls <em>original accumulation.</em></p>
+```
+
+```{=html}
+<p>To the question of the origin of capital, the economists give us that answer which they always have ready when they do not know the actual circumstances, or do not wish to know them: a <em>Robinsonade.</em> Such a thing has the double advantage that one needs no prior knowledge whatsoever to invent it, and that one can always arrange it so that it says whatever one wants to prove by it.</p>
+```
+
+```{=html}
+<p>And those Robinsonades which seek to explain the origin of capital and to bring it into harmony with the current-day notions of law belong to the most vapid tales of their kind. They differ from the stories in our children's primers only by their greater tediousness. <a href="#ab3-kap6-n1" id="ab3-kap6-f1" name="ab3-kap6-f1">[1]</a></p>
+```
+
+```{=html}
+<p>It is always the old story of the good, industrious and abstemious worker who became a capitalist, and of the good-for-nothing rascals who squandered everything and who, as punishment for it, must from then on for all eternity, together with their children and children's children, toil in the sweat of their brow for the good ones and their descendants.</p>
+```
+
+```{=html}
+<p>Original accumulation looks different when we search through the history of Europe from the 14th century onwards. It presents two sides: only one of them has become known in the circles of the people through liberal historiography.</p>
+```
+
+```{=html}
+<p>Industrial capital could not arise without free workers, workers who stood in no relation of serfdom, of bondage, or of guild constraint. It required freedom of production against the fetters of feudalism; it had to liberate itself from the tutelage of the feudal lords. From this standpoint the struggle of rising capitalism appears as a struggle against coercion and privileges, as a struggle for freedom and equality.</p>
+```
+
+```{=html}
+<p>It is this side which the literary advocates of the bourgeoisie present to the people again and again. We have no intention of belittling the significance of this struggle, least of all now, when the bourgeoisie itself begins to deny its own past. But over this proud and showy side of history one must not forget its <em>reverse side:</em> the creation of the proletariat and of capital itself. This side has not yet been fully illuminated. Marx, however, has thoroughly attended to this in his <strong>Capital</strong> with respect to one country, <em>England,</em> the mother country of the capitalist mode of production, the only country in which original accumulation has appeared in its classical form. A few hints of the relevant circumstances are also found in the <strong>Poverty of Philosophy,</strong> 2nd chap., § 2, p. 121.</p>
+```
+
+```{=html}
+<p>The corresponding development in Germany is unfortunately only imperfectly demonstrable, because it was hampered and stunted by the shift of the trade routes to the Orient from the basin of the Mediterranean to that of the Atlantic Ocean, and then by the Thirty Years' War and the centuries-long displacement of Germany from the world market.</p>
+```
+
+```{=html}
+<p>The greatest obstacle which the sprouting capital encountered was, besides the guild organisation in the towns, the common property in land of the village communities — sometimes also of larger cooperatives. So long as this existed, there were no masses of proletarians. Fortunately for capital, the feudal nobility took care of its affairs. Since the Crusades, trade and commodity production had developed more and more. New needs arose for <em>commodities</em> which the urban industry or the urban merchants supplied for <em>money.</em> But the wealth of the feudal nobility rested upon the material or personal services of the dependent peasants. <em>Money</em> was thinly sown among them. He sought to <em>rob</em> what he could not <em>buy.</em> The state power, however, developed ever more strongly. Against the feudal levies of the lower nobility stood the mercenaries of the rich towns and princes; highway robbery became impossible. The feudal lords sought to squeeze money and goods out of the peasants; they thereby drove the peasant to despair — see the Peasant Wars — without themselves gaining substantially by it. Thus at last the noble lords resolved, little by little, in order to be able to partake in the new enjoyments, to become for their part <em>commodity producers</em> just like the townsmen, and to obtain money by producing agricultural products, such as wool, grain and the like, for <em>sale,</em> and not merely, as hitherto, for <em>their own use.</em></p>
+```
+
+```{=html}
+<p>This entailed an expansion of their agricultural enterprises, whose management passed over to inspectors, intendants or tenants, an expansion which was only possible at the expense of the <em>peasantry.</em> The peasants who had been transformed into serfs could now be evicted, that is, driven from their homesteads, and these could be combined with the territory cultivated by the landlord. The common property of the villages, over which the noble lords held the overlordship, was transformed into private property of the latter, and thereby the peasant was economically ruined.</p>
+```
+
+```{=html}
+<p>A particularly sought-after agricultural commodity was <em>wool,</em> which the urban textile industry required. But the extension of wool production meant the transformation of arable land into pasture grounds for sheep, and the driving of numerous peasants from their holdings, whether by legal or illegal means, by economic or direct physical coercion.</p>
+```
+
+```{=html}
+<p>In the same measure in which the urban textile industry grew, the number of the peasants who had been driven out and made propertyless grew.</p>
+```
+
+```{=html}
+<p>In addition, the nobility dissolved their numerous retinues, which under the new conditions were no longer a means of power for them but merely a cause of financial weakness; and finally the Reformation too worked in favour of capital, for it not only hurled the inhabitants of the monasteries into the proletariat, but also handed over the church estates to speculators, who drove out the old, hereditary tenants.</p>
+```
+
+```{=html}
+<p>By such means a large part of the rural population was separated from the soil, from their means of production, and thereby that artificial "over-population" was created, that army of propertyless proletarians who are compelled from day to day to sell their labour-power, and whom capital requires.</p>
+```
+
+```{=html}
+<p>It was the <em>feudal lords</em> who in this way levelled the ground for capital, who supplied the proletarians to both rural and urban capital and at the same time cleared the field for rural commodity production on a large scale, for capitalist agriculture. The capitalist character which agriculture on the great landed estates assumed from then on was not <em>effaced</em> by the serfdom and bondage that clung to it, but only <em>distorted.</em></p>
+```
+
+```{=html}
+<p>All the more comical, then, is it when the great landowners today pose as that class which is <em>by its very nature</em> called upon to protect the workers from capital and to establish harmony between the two.</p>
+```
+
+```{=html}
+<p>A general vagabondage was, in Western Europe in the fifteenth and sixteenth centuries, the consequence of the numerous expropriations of the peasantry. It threatened to grow beyond the control of society, and in order to protect itself against it, society punished it in the most cruel manner, with whippings, brandings, cutting off of ears, even with death.</p>
+```
+
+```{=html}
+<p>But while more workers were set free than capital could absorb, the supply of usable workers often at the same time lagged behind the needs of capital. So long as the capitalist mode of production still stood in the period of <em>manufacture</em>, it was dependent on the workers who had attained a certain manual dexterity in their partial operations. It often required years before such a worker attained the necessary skill. At that time, however, the variable element of capital also greatly outweighed its constant element. The demand for wage labour therefore grew rapidly with every accumulation of capital, while the supply of usable wage labour followed only slowly. The skilled workers, however, were not only relatively rare and sought after; the traditions of the handicraft were still alive in them, where the journeyman still stood socially close to the master and might himself hope to become a master. The wage labourers had self-consciousness, were defiant and refractory; they could not and would not submit to the discipline and the eternal monotony of capitalist industry. A "higher power" had to intervene here in order to create workers submissive to capital.</p>
+```
+
+```{=html}
+<p>Just as for the protection of property against the vagabonds, and for the promotion of the transformation of common property into private property (which Marx sets forth in detail for England), so the <em>state power</em> also intervened when it came to accustoming the workers to capitalist discipline. Severe decrees fixed the maximum of wages, extended the working day, and forbade combinations of workers.</p>
+```
+
+```{=html}
+<p>How thoroughly all this corresponded to the spirit of the bourgeoisie, which was then struggling for "freedom," the latter showed when it seized political power in the French Revolution; it then waged a bitter war against the remnants of the common property in land which had still been preserved in France, and issued a strict prohibition against workers' associations.</p>
+```
+
+```{=html}
+<p>With the proletariat, however, there also arose the home market for capital. Formerly every peasant family itself produced what it needed, means of subsistence and products of domestic industry. Now it becomes otherwise. The means of subsistence are now produced as <em>commodities</em> on the great estates, which have been thrown together out of common property and individual peasant holdings, and find their market in the industrial districts. The products of capitalist industry — in this epoch those of manufacture — find their sale among the wage labourers of industry and of the great estates — and among the peasants themselves. In many cases their land has become too small to support them, agriculture becomes for them a subsidiary occupation, the domestic industry for purposes of self-sufficiency recedes and makes room for a domestic industry which produces commodities for the capitalist, the merchant; one of the most hideous and most profitable forms of capitalist exploitation.</p>
+```
+
+```{=html}
+<p>We have seen how the proletariat and the artificial over-population were created which made possible the development of the capitalist mode of production, which in turn reproduces the proletariat and the relative over-population in an ever increasing measure.</p>
+```
+
+```{=html}
+<p>But whence came those riches in a few hands, which were a further precondition of the capitalist mode of production?</p>
+```
+
+```{=html}
+<p>The Middle Ages had taken over two kinds of capital from antiquity: usurer's capital and merchant's capital. Since the Crusades, commercial intercourse with the Orient had grown enormously, and with it merchant's capital and its centralisation in a few hands — let us here only recall the Fuggers in Augsburg, those German Rothschilds of the fifteenth and sixteenth centuries.</p>
+```
+
+```{=html}
+<p>Usury and trade, however, were not the only sources from which flowed the sums of money that from the fifteenth century onward were to be transformed in an ever increasing measure into industrial capital. Marx has depicted the other sources of it in his <strong>Capital</strong>. As regards the details, we refer to that account, which forms a worthy conclusion of the brilliant historical excursus on "primitive accumulation." Here let us only reproduce the brief summary of the various methods of this accumulation in Marx's terse words:</p>
+```
+
+```{=html}
+<p class="quoteb">"The discovery of the gold and silver countries in <em>America,</em> the extirpation, enslavement and entombment in the mines of the native population, the beginning of the conquest and plunder of <em>the East Indies;</em> the turning of <em>Africa</em> into a preserve for the commercial hunting of black skins, signalise the rosy dawn of the era of capitalist production. These idyllic processes are chief moments of primitive accumulation. Hard upon their heels follows the <em>commercial war</em> of the European nations, with the globe for its arena. It opens with the revolt of the Netherlands from Spain, assumes giant dimensions in England's Anti-Jacobin War, and is still going on in the Opium Wars against China, etc.</p>
+```
+
+```{=html}
+<p class="quote">"The different moments of primitive accumulation now distribute themselves more or less, in temporal sequence, particularly over Spain, Portugal, Holland, France, and England. In England at the end of the seventeenth century they are systematically combined in the colonial system, the system of public debt, the modern system of taxation, and the protectionist (protective tariff) system. These methods rest in part on the most brutal force, e.g., the colonial system. But all of them made use of the <em>state power, the concentrated and organised violence of society,</em> in order to hasten, hot-house fashion, the process of transformation of the feudal mode of production into the capitalist mode, and to shorten the transitions. <em>Force is the midwife of every old society that is pregnant with a new one.</em> It is itself an economic power (might)."</p>
+```
+
+```{=html}
+<p class="fst">The penultimate sentence of the passage cited has very often been quoted, but for the most part torn out of context. Whoever considers it in connection with the preceding one will know how to interpret it. Among the forces that have served as midwife of the capitalist mode of production is also "the power of the state, the concentrated and organised violence of society," though not the power of the "state in itself," which enthrones itself above the class antagonisms up in the clouds, but rather the power of the state as an instrument of a powerfully rising class. –</p>
+```
+
+```{=html}
+<p>The increasing proletarianisation of the population, especially of the peasant population, and the rise of the internal market on the one side; on the other side the accumulation and concentration of great riches, and, at the same time, especially as a consequence of commercial wars and colonial policy, the rise of the external market—these were the conditions which, from the fifteenth century onward, came together in Western Europe, transforming the whole of production more and more into commodity production and simple commodity production into capitalist commodity production. The fragmented small-scale enterprises of the peasants and artisans were from then on progressively destroyed and displaced, in order to make room for capitalist large-scale enterprises.</p>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#ab3-kap6-f1" id="ab3-kap6-n1" name="ab3-kap6-n1">1.</a> Let us hear, for example, <em>Roscher:</em> "Let us imagine a fishing people without private landed property and capital, who dwell naked in caves and feed on sea fish, which, left behind in pools on the shore at the ebb tide, are caught with the bare hand. Let all the workers here be equal, and let each one catch as well as consume 3 fish daily. Now a clever man for 100 days restricts his consumption to 2 fish daily, and uses the store of 100 fish thus gathered to devote his entire labour-power for 50 days to the making of a boat and a fishing net. With the aid of this capital he thenceforth catches 30 fish daily." <strong>(Grundzüge der Nationalökonomie,</strong> Stuttgart 1874, I, p. 423.) It is upon such rotten fish that all these fairy tales about the origin of capital come down.</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 5. Over-Population](ab3-kap5.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 7. The Close of the Capitalist Mode of Production ↓](ab3-kap7.qmd)

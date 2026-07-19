@@ -1,0 +1,76 @@
+# Chapter 3. The Degree of Exploitation of Labour-Power
+
+```{=html}
+<p class="fst">Let us take a capital of, say, 5000 marks. It divides into two parts: a sum of money that is expended on the purchase of means of production, the constant capital <em>c,</em> which we assume to be 4100 marks, and another sum of money that serves to purchase the necessary labour-power, the variable capital <em>v,</em> which we take to be equal to 900 marks. The constant capital itself again divides into two parts: raw material &amp;c., whose value reappears completely in the product, and tools &amp;c., which in each production process give off only a part of their value to the product. For the following investigation we disregard this distinction, the consideration of which would merely complicate the task without altering anything in the result. For the sake of simplicity, then, we here assume that the value of the entire capital employed reappears in the product.</p>
+```
+
+```{=html}
+<p>The capitalist has bought means of production and labour-power, and employs them. At the end of the production process the value of the capital advanced has been increased by the surplus value <em>m,</em> which amounts to 900 marks. He therefore now possesses <em>c</em> + <em>v</em> + <em>m</em> = 4100 + 900 + 900 = 5900 marks. Of this, 4100 marks are transferred value, 900 + 900 marks newly created value.</p>
+```
+
+```{=html}
+<p>It is clear that the magnitude of value of the constant capital has no influence on the magnitude of the surplus value produced. Without means of production nothing can, of course, be produced, and the longer production is to continue, the more means of production are required. The production of a certain magnitude of surplus value therefore requires the employment of a certain mass of means of production, which depends on the technical character of the labour process. But how great the value of this mass may be has no influence on the magnitude of the surplus value.</p>
+```
+
+```{=html}
+<p>If I employ 300 workers, and the daily value of the labour-power of each is 3 marks, while the value that each creates in a day amounts to 6 marks, then these 300 will in one day produce a value of 1800 marks – of which 900 marks are surplus value –, no matter whether the means of production which they use up have a value of 2000 or 4000 or 8000 marks. The <em>creation of value</em> and the <em>alteration of value</em> in the production process are not affected by the <em>magnitude of value</em> of the constant capital advanced. In so far, therefore, as it is a matter of considering those two processes purely, we can disregard the constant capital, set it equal to zero.</p>
+```
+
+```{=html}
+<p>Of the capital advanced, then, only the variable part, <em>v,</em> comes into consideration for us here; of the value of the product only the value newly created by labour, which is equal to the value of the variable capital employed plus the surplus value, <em>v</em> + <em>m.</em> The ratio of the surplus value to the variable capital advanced is in our case = 900 : 900 = 100 per cent.</p>
+```
+
+```{=html}
+<p>This proportional valorisation of the variable capital, or the proportional magnitude of the surplus value, Marx calls the <em>rate of surplus value.</em> One must not, as so frequently happens, confuse it with the <em>rate of profit.</em> Profit is derived from surplus value; but it is not surplus value.</p>
+```
+
+```{=html}
+<p>In order to produce during the working day a value equal to the value of his labour-power, equal to <em>v,</em> the worker must labour a certain time; we assumed earlier, 6 hours. This labour-time is <em>necessary</em> for the maintenance of the worker. Marx calls it the <em>necessary labour-time.</em> The part of the working day in which the worker labours beyond the bounds of the necessary labour-time and creates not value to replace his labour-power but surplus value for the capitalist is termed by Marx the <em>surplus labour-time,</em> excess labour-time, and the labour expended in it <em>surplus labour.</em> The surplus labour stands to the necessary labour in the same ratio as the surplus value to the variable capital; we can therefore express the rate of surplus value by</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="smc"><u> <em>m</em> </u><br/> <em>v</em> </p> </td> <td> <p class="smc">or</p> </td> <td> <p class="smc"><u>          Surplus labour          </u><br/> Necessary labour </p> </td> </tr> </table>
+```
+
+```{=html}
+<p class="fst">The surplus value presents itself in a quantity of products, which Marx calls the <em>surplus product.</em> Its ratio to the variable capital must therefore also be capable of being represented in the ratio of certain fractional parts of the product to one another. In considering this ratio, however, where it is not a matter of the newly created value but of the finished <em>product,</em> we cannot, as before, disregard the constant capital, which forms a part of the value of the product.</p>
+```
+
+```{=html}
+<p>Let us assume that in a 12-hour working day 20 pounds of yarn to the value of 30 marks are produced by a worker. The value of the cotton spun amounts to 20 marks (20 pounds <em>at</em> 1 mark). The wear of value of the spindle etc. 4 marks; the value of the labour-power 3 marks. Let the rate of surplus value be 100 per cent. Thus we have a yarn value of 30 marks = 24 marks <em>(c)</em> + 3 marks <em>(v)</em> + 3 marks <em>(m);</em> this yarn value exists in 20 pounds of yarn, so that the constant capital is in 16 pounds, the variable capital in 2 pounds, and likewise the surplus value in 2 pounds of yarn.</p>
+```
+
+```{=html}
+<p>The 20 pounds of yarn are produced in 12 hours, hence in each hour 1<sup><small>2</small></sup>/<small><small>3</small></small> pounds of yarn. The 16 pounds in which the value of the constant capital is embodied are produced in 9 hours 36 minutes, the 2 pounds in which the value of the variable capital is contained in 1 hour 12 minutes, and likewise the 2 pounds in which the surplus value is embodied.</p>
+```
+
+```{=html}
+<p>If we reckon in this way, it appears as if the surplus value were produced not in 6 hours, as assumed, but in 1 hour 12 minutes. And this is indeed how the manufacturers reckon, and they prove with the utmost precision that the profit is produced in the <em>last hour of labour,</em> that, if the labour-time is shortened even by only one hour, all profit is rendered impossible and industry ruined. Already in the year 1836 this calculation was brought into the field by the English manufacturers and their learned and unlearned advocates, under the leadership of Senior, against every legal restriction of labour-time. The same argument has been warmed up again in Germany and Austria against the normal working day, although the actual experiences in England have already demonstrated its nullity most decidedly. There the working day has been legally shortened in various branches of labour – we shall return to this – without ruining industry or even noticeably damaging the profits of the manufacturing gentlemen.</p>
+```
+
+```{=html}
+<p>The whole argument rests on the confusion of use-value and value. The <em>use-value</em> of two pounds of yarn is produced in the last hour, but not its <em>value.</em> The 2 pounds of yarn were, after all, not spun out of nothing in the air. In the 2 pounds of yarn there is contained not merely the labour of 1 hour 12 minutes of the spinner, but also the value of 2 pounds of raw cotton, and according to our assumption (1 pound of cotton = 1 mark, 1 mark = 2 hours of labour) 4 hours of labour are embodied in the 2 pounds of cotton; besides, so much value has passed over from the spindle &amp;c. onto the 2 pounds of yarn as is produced in 48 minutes of socially necessary labour-time. For the production of the 2 pounds of yarn produced during 1 hour 12 minutes, therefore, six hours of labour were in reality required. If the worker of our example really produced during 1 hour 12 minutes the whole surplus value, which represents a value-product of 6 hours, then he would have to be capable of creating, during a twelve-hour working day, a value corresponding to 60 hours of labour! And such nonsense is believed of the manufacturers!</p>
+```
+
+```{=html}
+<p>Since the argument still finds fairly widespread acceptance in certain circles today, let one further of its aspects be illuminated. Let us calculate how high the rate of surplus value would turn out to be with a shortening of the working day from 12 to 11 hours under the presuppositions already given. <a href="#ab2-kap03-n1" id="ab2-kap03-f1" name="ab2-kap03-f1">[1]</a></p>
+```
+
+```{=html}
+<p>We would now no longer have 24 marks of constant capital, but merely 22, since after all less is worked up (18<sup><small>1</small></sup>/<small><small>3</small></small> pounds of cotton = 18<sup><small>1</small></sup>/<small><small>3</small></small> marks; wear and tear of spindles &amp;c. only 3<sup><small>2</small></sup>/<small><small>3</small></small> marks); to this a variable capital of 3 marks (we assume that the wage for 11 hours remains the same as previously for 12 hours) and a surplus value of 2½ marks. The rate of surplus value therefore no longer amounts to 100, but to 83<sup><small>1</small></sup>/<small><small>3</small></small> per cent.</p>
+```
+
+```{=html}
+<p>We have a total product of 18<sup><small>1</small></sup>/<small><small>3</small></small> pounds of yarn, with a value of 27½ marks; the constant capital is embodied in 14<sup><small>2</small></sup>/<small><small>3</small></small> pounds, the variable in 2 pounds, the surplus value in 1<sup><small>2</small></sup>/<small><small>3</small></small> pounds; the 14<sup><small>2</small></sup>/<small><small>3</small></small> pounds are produced in 8 hours 48 minutes, the 2 pounds of yarn in 1 hour 12 minutes, and the mass of yarn which bears the surplus value in 1 hour. By the shortening of the labour-time by one hour, therefore, the time for the production of the surplus product which contains the surplus value has been reduced not by one hour, but <em>only by 12 minutes.</em> The manufacturers' arithmetical example rests on the marvellous assumption that in 11 hours <sup><small>1</small></sup>/<small><small>12</small></small> less product is delivered, but just as much means of production (raw materials &amp;c.) is consumed as in 12 hours.</p>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#ab2-kap03-f1" id="ab2-kap03-n1" name="ab2-kap03-n1">1.</a> We assume here that a shortening of the labour-time from 12 to 11 hours is also accompanied by a diminution of the labour performance by <sup><small>1</small></sup>/<small><small>12</small></small>. In reality this is not necessarily the case; as a rule the shortening of the labour-time is accompanied by an increase in the strength, skill, endurance, care, intelligence, in short the working capacity of the worker, which can sometimes go so far that the worker produces more in the shorter labour-time than previously in the longer. With this aspect of the shortening of the labour-time, however, we are not here concerned; for the sake of simplicity we leave it out of account.</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 2. The Role of Capital in the Formation of Value](ab2-kap02.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 4. Surplus Value and Profit ↓](ab2-kap04.qmd)

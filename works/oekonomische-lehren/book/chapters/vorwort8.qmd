@@ -1,0 +1,42 @@
+# Preface to the Eighth Edition
+
+```{=html}
+<p class="fst">Two years after the last edition of this little book, which I revised before the present, eighth one, the long-awaited third volume of <strong>Capital</strong> appeared, affording us so many new and surprising insights. From then on, a presentation of the economic doctrines of Karl Marx would of course also have to include an outline of the principal contents of the third volume. This, however, is no simple matter and requires more calm and time than have since been at my disposal. It was precisely after the appearance of the third volume that the agrarian question claimed my full attention; and scarcely had I brought my studies on it to an outward conclusion when I was completely absorbed by the theoretical struggles unleashed by the revisionist tendency. Now it seems that this latest crisis of Marxism, too, has been surmounted, but now I have to devote my whole strength to a task that had already fallen to me in 1895 and which, over the two others just mentioned, I have already neglected for too long: the publication of the historical-critical presentation of the theories of surplus value, comprising some 1,500 to 1,600 printed pages, left behind by Marx, which forms a part of the manuscript <strong>Towards a Critique of Political Economy</strong> and whose publication Engels planned as a substitute for the fourth volume of <strong>Capital</strong>.</p>
+```
+
+```{=html}
+<p>An extensive international correspondence and my editorial activity in any case restrict the time available to me for the publication of this gigantic work; it is clear that I am at least setting aside every piece of work that can be postponed.</p>
+```
+
+```{=html}
+<p>Thus even now I do not get around to undertaking the necessary expansion of the <strong>Economic Doctrines</strong>. This time I have contented myself with reviewing the whole, with replacing individual outdated statements about labour-protection laws, statistical figures, and the like with more recent data, and with inserting a chapter on <em>Surplus Value and Profit,</em> in which I at least present briefly the foundation of the third volume, the law of the average rate of profit.</p>
+```
+
+```{=html}
+<p>For the rest, in reviewing the whole I have found nothing to change. It is a widespread view, shared also by many a Marxist, that the conception of the first volume of <strong>Capital</strong> which we Marxists formerly held has been completely overturned by the third volume and proven untenable. Nothing is more mistaken than this. After the appearance of the third volume I subjected the present book to a revision, and in so doing found not the least thing to change in a theoretical respect. I could, to be sure, expect from the outset that I would arrive at this result, for Engels had already reviewed the manuscript of the first edition and approved it at a time when he already knew the contents of the third volume. Had he found in the book conceptions that were proven false by the third volume, he would certainly have drawn my attention to them.</p>
+```
+
+```{=html}
+<p>For the domain that the first volume of <strong>Capital</strong> chiefly investigates, that which mainly occupies the socialists and which is also treated almost exclusively in the present writing, for the relation between the capitalist class and the working class, the transformation of surplus value into profit plays no role; here one manages entirely with the laws of value and surplus value. This was also the reason why Marx in the first volume disregarded profit altogether.</p>
+```
+
+```{=html}
+<p>One must not, however, imagine, as is frequently done, that when Marx wrote the first volume of <strong>Capital</strong> he knew only the laws of value and surplus value, and that his theory of the rate of profit was later merely an evasion contrived after the fact out of embarrassment, in order to reconcile his theory of value with the phenomena of reality that apparently contradict it. On the contrary, when Marx wrote the first volume the whole theory, including the laws of profit and of ground rent, was already completely finished in his head, and if he never came to a formal conclusion in its presentation, this was owing to his conscientiousness, which drove him again and again to renewed study of the newly emerging facts, and not, say, to his being unable to reach clarity with himself.</p>
+```
+
+```{=html}
+<p>This will undoubtedly become clear to everyone as soon as the presentation of the <strong>Theories of Surplus Value</strong> lies ready in print. In the manuscript, which dates from the years 1861-63, all the theories of the third volume are already developed. If the third volume were to annul the first, then Marx would have "overcome" the latter, which appeared in 1867, before he had even written it!</p>
+```
+
+```{=html}
+<p>The <strong>Theories of Surplus Value</strong> will be no less important for understanding Marx's theory of surplus value than for understanding the theories investigated and criticised in the work itself. I hope that I shall succeed, in defiance of all disturbances, in soon making this conclusion of Marx's life's work accessible to the public.</p>
+```
+
+```{=html}
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">Berlin-Friedenau, May 1903<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+```
+
+
+---
+
+[↑ Previous: Preface to the Fourth Edition](vorwort4.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 1. The Commodity ↓](ab1-kap1.qmd)

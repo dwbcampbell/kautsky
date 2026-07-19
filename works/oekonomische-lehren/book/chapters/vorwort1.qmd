@@ -1,0 +1,116 @@
+# Preface to the First Edition
+
+```{=html}
+<p class="quotec">Who will not praise a Klopstock?<br/> Yet will everyone read him? – No.<br/> We wish to be less exalted,<br/> and more diligently read.</p>
+```
+
+```{=html}
+<p class="fst">To none of the modern writers could these lines of Lessing be applied with more fitness and justice than to Marx. The writer of these lines is compelled by his profession to follow the more recent German economic literature, and he has found that no name is mentioned in it so frequently as that of Marx, whose doctrines are the pivot around which most of the economic discussions of modern times revolve. This fact, however, by no means fills the author of the present work with the satisfaction one might expect from an adherent of the Marxian “school,” if one may speak of such a thing, for he has unfortunately had only too often occasion to observe that those who wrote about Marx had either not read his works at all or only very cursorily. If one adds to this that most of the literary men and scholars who occupied themselves with Marx did so not for the purpose of objective, scientific understanding, but for the discussion of certain momentary interests, then one will not be surprised to see that in general the most absurd views concerning the Marxian doctrines are in circulation.</p>
+```
+
+```{=html}
+<p>It could not be Marx’s task to concern himself in detail with the refutation of these erroneous conceptions. His individual doctrines are parts of a firmly constructed system and can only be understood in their interconnection; whoever has not recognised this will, in his conception of the individual propositions, always remain stuck at the surface. Erroneous views could therefore not be removed with a few words, but only by pointing to the necessity of a thorough study of the Marxian writings, or by a comprehensive exposition of the scientific standpoint peculiar to Marx and Engels. Such an exposition we in fact possess in the classic polemic of Engels against Dühring, a book which has done more to advance the understanding of the Marxian doctrines than all the brief apodictic pronouncements of Marx as to how he wished to be understood with respect to this or that point could have done.</p>
+```
+
+```{=html}
+<p>In German literature, however, there is still lacking a work which briefly summarises, presents in a generally comprehensible manner, and explains the economic doctrines of Marx. Beginnings of such a work have been made from various quarters, but they have remained fragments.</p>
+```
+
+```{=html}
+<p>The present work makes the attempt to fill the existing gap, or at least to furnish a contribution to its filling.</p>
+```
+
+```{=html}
+<p>It naturally leans upon the principal work of Marx, <strong>Capital</strong>, and follows it in the arrangement of the material. The other economic writings of Marx could only be drawn upon here and there, for the elucidation of difficult passages or for the further development of what is given in <strong>Capital</strong>.</p>
+```
+
+```{=html}
+<p>The purpose of the exposition is in the first place to acquaint those who have either not the time or the means for the study of <strong>Capital</strong> with its train of thought; but the author hopes that his exposition will also facilitate the study of <strong>Capital</strong> for many who possess it, and that it will finally induce many to read the original work, of which they have either formed a false conception, or from the study of which the difficulties of the first section have deterred them.</p>
+```
+
+```{=html}
+<p>Nothing is more false than the view of the dry and hard-to-understand manner of writing of <strong>Capital</strong>. The author knows no economic work which could measure itself against <strong>Capital</strong> in clarity and vividness of presentation, in the at times truly classical beauty of style.</p>
+```
+
+```{=html}
+<p>And yet it is so hard to understand!</p>
+```
+
+```{=html}
+<p>In certain passages, to be sure. But that is not the fault of the presentation.</p>
+```
+
+```{=html}
+<p>It is commonly believed that political economy is a field of knowledge that everyone can understand offhand, without the slightest preliminary knowledge. But it is a science, and indeed one of the most difficult, for there is scarcely any other structure that is so complicated as society. Certainly, for the understanding of that collection of commonplaces which Marx calls vulgar economics, no more knowledge is necessary than every person acquires of himself in the business transactions of daily life. The understanding of Marx’s <strong>Capital</strong>, however, which in the form of a critique of political economy founds a new historical and economic system, presupposes not only a certain historical knowledge, but also the knowledge of the facts which the development of large-scale industry offers.</p>
+```
+
+```{=html}
+<p>Whoever does not know, at least in part, the facts from which Marx derived his economic laws, will indeed find the meaning of these laws remaining obscure to him; he may complain of mysticism and Hegelianism. The clearest presentation will be of no use to him.</p>
+```
+
+```{=html}
+<p>This is, in our estimation, a dangerous reef for every attempt to popularise <strong>Capital</strong>. Marx wrote as popularly as was at all possible. Where he was hard to understand, the fault lay not in the language, but in the subject and in the reader. If one translated this language, which sounds so hard to understand, straightaway into one that sounds easy to understand, this could only be done at the expense of accuracy; the popularisation would necessarily become a flattening.</p>
+```
+
+```{=html}
+<p>With this recognition the task was set for the author. It did not lie in a mere alteration of the language. Marx has, as already mentioned, written so popularly and at the same time so briefly and precisely that a departure from his words would often have been possible only at the expense of correctness. The author has therefore reproduced a number of passages from the Marxian writings word for word. They are marked by quotation marks and, unless another source is indicated, are taken from <strong>Capital</strong>.</p>
+```
+
+```{=html}
+<p>The task consisted, on the one hand, in drawing the reader's attention to the facts which underlie the theoretical expositions. This was especially necessary in the first section. Marx himself for the most part pointed to these facts, but often only with hints that were as a rule overlooked. In other places the author had to permit himself to draw attention to the facts on his own responsibility. This applies particularly in the first paragraph of the first chapter. In the present work only indications were possible. A detailed presentation of the facts underlying <strong>Capital</strong> would far exceed not only the space allotted but also the powers of the author; such a presentation would mean nothing less than composing a history of the development of humanity from primeval times onward. <strong>Capital</strong> is an essentially historical work.</p>
+```
+
+```{=html}
+<p>In the sections dealing with modern industry this character emerges clearly for everyone. They contain not only theoretical expositions but also extensive historical excursuses on subjects which until then had been treated only incompletely or not at all. In these sections the facts underlying the theoretical expositions are given in such abundance that their understanding was possible for any thinking person without further prior knowledge. Here the task was a different one. Considerations of space allowed only the most important matters to be reproduced. The point now was nonetheless to preserve the historical character of the theoretical expositions, which, when given with the omission of the intermediate links, sometimes acquired a different character and made a claim appear absolute that is valid only under certain historical presuppositions.</p>
+```
+
+```{=html}
+<p>The present work is intended to be not only a presentation of Marx's doctrines but also a guide to the study of Marx's works in the original. The author therefore considered himself justified in treating passages that in his view had hitherto received too little attention, or in which misunderstandings easily arose, more thoroughly than corresponds to their significance for the theoretical development; on the other hand he believed he might dwell more briefly on other passages if they were already generally known and recognised and no misunderstanding need be feared. In order to enhance the practical value of the little book, the presentation of the actual conditions, for example in the case of factory legislation, was in several instances carried forward beyond the point in time treated by Marx up to the most recent period.</p>
+```
+
+```{=html}
+<p>The designations peculiar to Marx for the individual categories have been retained, but foreign words have been used as little as possible. Entirely avoiding them was of course impossible. The German people has not developed its culture and science out of itself alone; it has taken over many concepts, indeed whole branches of knowledge and with them a number of designations, from other nations. Thus it comes about that we use a multitude of foreign words which are either replaceable only at the cost of the sharpness and terseness of the expression or not replaceable at all. Adding the translation in parentheses to the foreign word is a practice for which the author cannot warm himself. If there is a fully corresponding German word for the foreign one, then let one use the former from the outset. If there is no such word, then the translation cannot be of much use either. In such cases it is the task of the presentation to place the foreign word in such a context that it is not difficult for a thinking reader to grasp its sense. Only where rarer foreign words are used in the text for the first time has the author added in parentheses the actual translation or the nearest German word, in order to facilitate the understanding of the foreign word, without believing that the German word fully encompasses the concept of the foreign one.</p>
+```
+
+```{=html}
+<p>Of preparatory works the author was able to make use of only few. Worthy of mention, however, is the French epitome of Capital by Deville <a href="#vorwort1-n1" id="vorwort1-f1" name="vorwort1-f1">[1]</a>, which stood the author in very good stead. At this point he also feels obliged to render his thanks for the kind readiness with which Deville, in favour of the present work, renounced the publication of a German translation of his own writing.</p>
+```
+
+```{=html}
+<p>The present work received special furtherance through the friendly participation and collaboration of Eduard Bernstein, who did not confine himself to suggestions and hints, as well as a critical review of the manuscript, but independently worked out various chapters. Thus, for example, the large and important chapter on large-scale industry (in the second section) derives almost entirely from him.</p>
+```
+
+```{=html}
+<p>This furtherance and support the author acknowledges all the more gratefully the more he is conscious of the difficulty of his task. For the popular presentations of great original works of the mind the same holds true which Lessing has Prince Conti say of painting.</p>
+```
+
+```{=html}
+<p class="quoteb">"Ha! That we cannot paint directly with the eyes! On the long way out of the eye through the arm into the brush, how much is lost there!"</p>
+```
+
+```{=html}
+<p class="fst">If two painters paint exactly the same object, it will look different in each of the two pictures. What the one sees, the other will overlook; what seems significant to the one, the other will treat as incidental: and what they have seen in different ways will again be rendered in different ways. The faithful grasping of the original is difficult; to render it faithfully is still more difficult.</p>
+```
+
+```{=html}
+<p>What the author gives here is not a photograph of <strong>Capital</strong>, which reproduces the original on a reduced scale, line by line completely faithfully but colourlessly, but rather a picture with a subjective colouring and a subjective drawing.</p>
+```
+
+```{=html}
+<p>Even if, in order to avoid ponderousness, the presentation is often an apodictic one, we ask the reader nevertheless always to bear in mind that it is not Marx but the author who is speaking to him, who is reporting to him on the economic doctrines of Marx. One may regard this as a modest task. The writer of these lines will, however, feel highly satisfied if it has succeeded for him, if he has contributed his mite to the dissemination of the truths which a tireless researcher, a thorough scholar, a great thinker brought to light as the fruit of the labour of his whole life.</p>
+```
+
+```{=html}
+<table cellpadding="3" cellspacing="3" width="100%"> <tr> <td width="50%"> <p> </p> </td> <td> <p class="fst">London, October 1886<br/> <em><strong>K. Kautsky</strong></em></p> </td> </tr> </table>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#vorwort1-f1" id="vorwort1-n1" name="vorwort1-n1">1.</a> Gabriel Deville, <strong>Le Capital par Carl Marx, résumé et accompagné d'un Aperçu sur le Socialisme scientifique</strong>, Paris, Henry Oriol, 824 pp. Frs. 8.</p>
+```
+
+
+---
+
+[↑ Return to Table of Contents](../index.qmd) [Next: Preface to the Fourth Edition ↓](vorwort4.qmd)

@@ -1,0 +1,53 @@
+project:
+  type: book
+
+book:
+  title: "The Economic Doctrines of Karl Marx"
+  subtitle: "Presented and Explained for Everyone"
+  author: "Karl Kautsky"
+  date: "1886"
+  reader-mode: true
+  chapters:
+    - index.qmd
+    - chapters/vorwort1.qmd
+    - chapters/vorwort4.qmd
+    - chapters/vorwort8.qmd
+    - part: "Part I. Commodity, Money, Capital"
+      chapters:
+        - chapters/ab1-kap1.qmd
+        - chapters/ab1-kap2.qmd
+        - chapters/ab1-kap3.qmd
+    - part: "Part II. Surplus Value"
+      chapters:
+        - chapters/ab2-kap01.qmd
+        - chapters/ab2-kap02.qmd
+        - chapters/ab2-kap03.qmd
+        - chapters/ab2-kap04.qmd
+        - chapters/ab2-kap05.qmd
+        - chapters/ab2-kap06.qmd
+        - chapters/ab2-kap07.qmd
+        - chapters/ab2-kap08.qmd
+        - chapters/ab2-kap09.qmd
+        - chapters/ab2-kap10.qmd
+    - part: "Part III. Wages and the Income of Capital"
+      chapters:
+        - chapters/ab3-kap1.qmd
+        - chapters/ab3-kap2.qmd
+        - chapters/ab3-kap3.qmd
+        - chapters/ab3-kap4.qmd
+        - chapters/ab3-kap5.qmd
+        - chapters/ab3-kap6.qmd
+        - chapters/ab3-kap7.qmd
+
+format:
+  epub:
+    lang: en
+    toc: true
+    toc-depth: 3
+    css: styles.css
+    cover-image: assets/cover.svg
+    metadata:
+      identifier: urn:uuid:787b25de-92f6-40fc-9484-ea74b656ac89
+      publisher: "Independent"
+      rights: "CC BY-SA 4.0"
+      contributor: "Douglas Campbell (Translator)"

@@ -1,0 +1,412 @@
+# Chapter 1. The Commodity
+
+## 1. The Character of Commodity Production
+
+```{=html}
+<p class="fst">What Marx set himself to investigate in his <strong>Capital</strong> was the <em>capitalist mode of production,</em> which is the one prevailing today. In the work he does not concern himself with the natural laws that underlie the process of producing; their investigation is one of the tasks of mechanics and chemistry, not of political economy. On the other hand, he does not set himself the task of merely investigating those forms of production common to all peoples, since such an inquiry could for the most part bring to light only commonplaces, such as, for instance, that man, in order to be able to produce, always needs tools, soil, and means of subsistence. Rather, Marx investigated the laws of motion of a particular form of social production which is peculiar to a particular period (the last few centuries) and to particular nations (the European ones, or those descended from Europe; in recent times this mode of production of ours has also begun to take root among other nations, for example among the Japanese and the Hindus). This mode of production prevailing today, the capitalist one, whose peculiarities we shall come to know more closely, is strictly distinguished from other modes of production, for example the feudal one as it prevailed in Europe in the Middle Ages, or the primitive communist one as it stands at the threshold of the development of all peoples.</p>
+```
+
+```{=html}
+<p>If we consider present-day society, we find that its wealth consists of commodities. A commodity is a product of labour that has been produced not for one's own use, whether of the producer or of persons connected with him, but for the purpose of exchange with other products. It is therefore not natural, but <em>social</em> peculiarities that make a product into a commodity. An example will make this clear. The yarn which a girl in a primitive peasant family spins from flax, so that linen may be woven from it which is consumed within the family itself, is an <em>object of use,</em> but not a <em>commodity.</em> But if a spinner spins flax in order to exchange the linen yarn with the neighbouring peasant for wheat, or if indeed a manufacturer has many hundredweight of flax spun day in and day out in order to sell the product, then this is a commodity. It too is indeed an object of use, but an object of use that has a special social role to play, that is, that is meant to be exchanged. One cannot tell from the linen yarn itself whether it is a commodity or not. Its natural form can be quite the same whether it was spun in a peasant's hut by the spinner herself for her own trousseau, or in a factory by a factory girl who will perhaps never herself use so much as a single thread of it. Only from the social role, the <em>social function,</em> in which the linen yarn is active can one recognise whether it is a commodity or not.</p>
+```
+
+```{=html}
+<p>In capitalist society the products of labour now assume the form of commodities to an ever-increasing degree; if not yet all products of labour among us are commodities today, this is because remnants of earlier modes of production still project into the present one. If we disregard these, which are quite insignificant, one can say that <em>today all products of labour assume the form of commodities.</em> We cannot understand the present-day mode of production if we have not become clear about the character of the commodity. We must therefore begin with an investigation of the commodity.</p>
+```
+
+```{=html}
+<p>In our view, however, the understanding of this investigation is greatly furthered if we first of all set out the characteristic peculiarities of commodity production in contrast to other kinds of production. In this way we most easily arrive at an understanding of the standpoint which Marx adopted in his investigation of the commodity.</p>
+```
+
+```{=html}
+<p>As far back as we can look in the history of the human race, we always find that men have earned their livelihood in smaller or larger societies, that production always had a <em>social</em> character. Marx already demonstrated this clearly in his articles on <em>Wage Labour and Capital</em> in the <strong>Neue Rheinische Zeitung</strong> (1849) <a href="#ab1-kap1-n1" id="ab1-kap1-f1" name="ab1-kap1-f1">[1]</a>.</p>
+```
+
+```{=html}
+<p class="quoteb">"In production, men do not enter into relation solely with nature," it says there. "They produce by co-operating in a certain way and exchanging their activities with one another. In order to produce, they enter into definite connections and relations with one another, and only within these social connections and relations does their relation to nature take place, does production take place.</p>
+```
+
+```{=html}
+<p class="quote">"According to the character of the means of production, these social relations into which the producers enter with one another, the conditions under which they exchange their activities and take part in the whole act of production, will naturally be different. With the invention of a new instrument of war, the firearm, the whole internal organisation of the army necessarily changed; the relations within which individuals can constitute an army and act as an army were transformed; the relation of different armies to one another also changed.</p>
+```
+
+```{=html}
+<p class="quote">"The social relations within which individuals produce, the social relations of production, thus change, are transformed, with the change and development of the means of production, of the productive forces. The relations of production in their totality constitute what are called the social relations, society, and, moreover, a society at a definite, historical stage of development, a society with a peculiar, distinctive character."</p>
+```
+
+```{=html}
+<p class="fst">A few examples may illustrate what has been said. Let us take some primitive people that stands at a low stage of production, among whom the hunt forms a principal branch of the acquisition of foodstuffs, like the Indians. Dodge reports the following in his book <strong>On the Present-Day Indians of the Far West</strong> concerning their manner of hunting:</p>
+```
+
+```{=html}
+<p class="quoteb">"Since head and heart are called upon for help only occasionally, but the demands of the stomach are unceasing, the tribe is usually under the rule of the 'third estate.' This power consists of all the hunters of the tribe, who form a kind of guild or corporation, from whose decisions, within their own particular sphere, there is no appeal. Among the Cheyennes these men are called 'dog-soldiers.' The younger and more active chiefs always belong to these 'dog-soldiers,' but do not necessarily command them. The 'soldiers' themselves dispose, by verbal decision, of general affairs, whose details are then left to the most famous and shrewdest hunters chosen from among them. Among these 'dog-soldiers' there are many boys who have not yet passed the initiatory test as warriors. In a word, this hunters' guild embraces the whole labour-power of the band and is the power which protects the women and children and supplies them with food.</p>
+```
+
+```{=html}
+<p class="quote">„Every year the great autumn hunts take place, in order to slay as much game as possible and to lay in and dry a considerable store of meat for the winter. Now the ‚dog-soldiers‘ are the masters of the day, and woe to the unfortunate one who dares disobediently to disregard even the most insignificant of their arbitrary or democratic ordinances! When everything is ready, the best hunters set out in the morning long before daybreak. If several herds of buffalo are discovered, that one is singled out for the slaughter whose position is such that the introductory preparations and manoeuvres for surrounding it, and the shouting and shooting during the charge, are least able to alarm the remaining herds ... During this whole time the entire male part of the band, which is capable of taking part in the impending massacre of the buffalo, holds together in a body on horseback in some neighbouring ravine, out of the range of vision of the buffalo, silent and trembling with excitement. If the herd is in a position favourable for the hunt, the leading hunters count off their men and send them under temporary leaders to the previously designated localities. When the leading hunter then sees that every man is in his proper place and everything is ready, he seeks with a detachment of riders to outflank the herd and to close the open side, then gives the signal, and now the whole troop dashes forward with a shrill cry that could almost raise the dead, and presses in close upon the game. Within a few minutes the slaughter is in full swing; a few may have broken through the cordon and escaped, but these are not pursued if other herds are near.</p>
+```
+
+```{=html}
+<p class="quote">„When bow and arrow alone were still used, every warrior knew his arrows and had no difficulty in positively recognising the buffalo killed by him. These were entirely his individual property, except that he was taxed a certain portion of them for the benefit of the widows or of the families which had no warrior as provider for themselves. If arrows of different men were found in the same dead buffalo, the claims of ownership were decided according to their position. If each arrow had caused a fatal wound, the buffalo was divided, or not seldom also allotted to some widow. The chief hunter decided all such questions, but against his decision an appeal could still be lodged to the general judgment of the ‚dog-soldiers.‘ But since the general use of firearms has made the identification of the dead buffalo impossible, the Indians have become more communistic in their views <a href="#ab1-kap1-n2" id="ab1-kap1-f2" name="ab1-kap1-f2">[2]</a>, and the entire mass of meat and hides is distributed according to some standard of equal proportional distribution of their own invention.“ (pp. 206–211)</p>
+```
+
+```{=html}
+<p class="fst">We see that among this hunting people production is carried on <em>socially</em>; various kinds of labour work together in order to achieve a total result.</p>
+```
+
+```{=html}
+<p>We already find here the beginnings of the division of labour and of planned cooperation (of cooperation <a href="#ab1-kap1-n3" id="ab1-kap1-f3" name="ab1-kap1-f3">[3]</a>). According to their different capacities the hunters perform different kinds of labour, but according to a common plan. The result of the cooperation of the various kinds of labour, „of the exchange of activities,“ as Marx expresses it in <em>Wage Labour and Capital</em>, the spoils of the hunt, is not <em>exchanged</em> but <em>distributed.</em></p>
+```
+
+```{=html}
+<p>Let it merely be pointed out in passing how the change in the means of production – the replacement of bow and arrow by the firearm – has as its consequence a change in the mode of distribution.</p>
+```
+
+```{=html}
+<p>Let us now consider another, higher kind of social mode of production, for example the <em>Indian village community</em> resting upon agriculture. Of the primitive communism which prevailed in it there are found in India only a few pitiful remnants. But Nearchus, the admiral of the Macedonian Alexander the Great, still reported, according to Strabo, XV, I, 66, of regions of India where the land was common property, cultivated in common, and after the harvest the yield of the soil was distributed among the village members. According to Elphinstone this community still existed at the beginning of our century in some parts of India. In Java village communism persists in such a way that the arable land is from time to time distributed anew among the village members, who receive their shares not as private property but only for usufruct for a definite period.</p>
+```
+
+```{=html}
+<p>In Hither India the arable land has for the most part already passed into the private property of the individual village members, but forest, pasture and uncultivated soil are in many cases still common property, in which all members of the community have the right of use.</p>
+```
+
+```{=html}
+<p>What interests us in such a village community, which has not yet fallen victim to the disintegrating influence of English rule, in particular of the taxation systems introduced by it, is the character which the <em>division of labour</em> assumes in it. We already found such a division among the Indians; but the Indian village community offers a much higher one.</p>
+```
+
+```{=html}
+<p>Alongside the village headman, who is called Pateel when he consists of a single person, but Pantsch when he forms a college of mostly five members, we find in the Indian economic commune yet a whole series of officials: the Karnam or Matsaddi, the accountant, who has to supervise and direct the financial relations of the community to its individual members and to other communities and to the state; the Tallier for the investigation of crimes and transgressions, upon whom at the same time devolves the protection of travellers and their safe escort across the community boundary into the next community; the Toti, the field-guard and land-surveyor, who has to see to it that neighbouring communities do not shift the boundaries of the field-mark, a circumstance which can easily occur especially in rice cultivation; the overseer of the watercourses, who has to keep them in order and to see that they are properly opened and closed and that every field receives sufficient water, which is of great importance especially in rice cultivation; the Brahmin for the performance of the necessary religious services; the schoolteacher, who instructs the children in reading and writing; the calendar-Brahmin or astrologer, who has to ascertain the lucky or unlucky days for sowing, harvesting, threshing and other important tasks; the smith, the carpenter and wheelwright; the potter; the washerman; the barber; the cowherd; the physician; the Devadasi (the dancing-girl); sometimes even a singer.</p>
+```
+
+```{=html}
+<p>All these have to work for the whole community and its members and are compensated for this either by shares in the field-mark or by shares in the harvest yields. Here too, in this highly developed division of labour, we see <em>cooperation of the kinds of labour, distribution of the products.</em></p>
+```
+
+```{=html}
+<p>Let us take yet another example, which should be familiar to everyone: that of a patriarchal peasant family which satisfies its own needs itself; a social formation which has developed out of a mode of production such as we have just described in the Indian economic commune, a mode of production which can be demonstrated at the beginning of the development of all the more closely known civilised peoples.</p>
+```
+
+```{=html}
+<p>Such a peasant family likewise shows us no isolated individuals, but rather a social working-together and a co-operation of various kinds of labour that alternate according to age, sex, and season of the year. Here there is ploughing, mowing, tending the cattle, milking, gathering wood, spinning, weaving, sewing, knitting, carving, joinery, etc., etc. The most diverse kinds of labour work together here, relate to one another; and the products, just as little as in the earlier examples, are <em>exchanged</em> by the individual workers, but rather <em>distributed</em> among them in accordance with the circumstances.</p>
+```
+
+```{=html}
+<p>Let us now assume <a href="#ab1-kap1-n4" id="ab1-kap1-f4" name="ab1-kap1-f4">[4]</a> that the means of production of an agricultural community such as we have described improve so greatly that less labour than before need be devoted to agriculture. Labour-powers are set free, which perhaps, when the technical aids are so far developed, are employed to exploit a deposit of flint located within the community's territory, to manufacture flint tools and weapons. The productivity of labour is so great that far more tools and weapons are produced than the community needs.</p>
+```
+
+```{=html}
+<p>A tribe of nomadic herdsmen comes, on its wanderings, into contact with this community. The productivity of labour has risen in this tribe as well; it has come to breed more cattle than it requires. It is natural that this tribe will readily exchange its surplus of cattle for surplus tools and weapons of the agricultural community. The surplus cattle and the surplus tools become, through this exchange, <em>commodities.</em></p>
+```
+
+```{=html}
+<p>The exchange of commodities is the natural consequence of the development of the productive forces beyond the narrow needs of the primitive communities. Original communism becomes, from a certain height of technical development onwards, a barrier to their advance. The mode of production demands an <em>expansion</em> of the sphere of social labour; but since the individual communities stood over against one another as strangers and independent, this expansion was not possible through an extension of communist, planned labour, but only through the mutual exchange of the surpluses of the labour of the communities.</p>
+```
+
+```{=html}
+<p>How the exchange of commodities reacted back upon the mode of production within the communities, until commodity production became the production of mutually independent <em>private workers</em>, to whom the means of production and the products of their labours belong as private property, we do not have to investigate here. What we wish to show is the following: commodity production is a <em>social</em> kind of production; it is inconceivable outside the social connection, indeed it signifies an extension of <em>social production</em> beyond the limits of the communist production that preceded it (within the tribe, the community, or the patriarchal family). But its social character does not openly come to light.</p>
+```
+
+```{=html}
+<p>Let us take a potter and a tiller of the soil, on the one hand as members of an Indian communist village community, on the other hand as two commodity producers. In the former case, both work in the same manner for the community; the one delivers to it his pots, the other his field crops; the one receives his share of field crops, the other his share of pots. In the second case, each carries on his private labour independently for himself, but each works (perhaps to the same degree as before) not only for himself, but also for the other. Upon this they exchange their products, and it is possible that the one receives just as much in field crops, and the other just as much in pots, as he received before. It seems that essentially nothing has changed, and yet the two processes are fundamentally different from one another.</p>
+```
+
+```{=html}
+<p>In the former case everyone sees at once that it is society which brings the various kinds of labour into connection, which makes the one work for the other and directly assigns to each his share in the labour product of the other. In the second case each apparently works for himself, and the manner in which each obtains the product of the other seems not to be owed to the social character of their labour, <em>but rather to the peculiarities of the product itself.</em> It now seems as though it were not the potter and the field worker who work for one another—so that potter's labour and field labour are labours necessary for society—but rather that mystical properties dwell within the pots and the field crops, properties which bring about their exchange in certain proportions. The relations of persons to one another, as conditioned by the social character of labour, take on, under the dominion of <em>commodity production</em>, the appearance of relations of <em>things</em>—namely of products—to one another. So long as production was directly socialised, it was subject to the determination and direction of society, and the relations of the producers to one another lay clearly revealed. But as soon as the labours became private labours, carried on independently of one another, as soon as production thereby became planless, the relations of the producers to one another appeared as relations of the products. Henceforth the determination of the relations of the producers to one another no longer rested with them themselves; these relations developed independently of the will of men, the social powers grew over their heads, they appeared to the naive view of past centuries as <em>divine powers</em>, they appear to later, "more enlightened" centuries as <em>powers of nature.</em></p>
+```
+
+```{=html}
+<p>To the natural forms of commodities there are now ascribed properties that appear mystical so long as they are not explained out of the relations of the producers to one another. Just as the fetish-worshipper fancies his fetish to possess properties that are not grounded in its natural constitution, so the commodity appears to the bourgeois economist as a sensuous thing endowed with supersensuous properties. Marx calls this "the fetishism which attaches itself to the products of labour as soon as they are produced as commodities, and which is therefore inseparable from commodity production."</p>
+```
+
+```{=html}
+<p>This fetish-character of the commodity—and, as we shall see later, of capital also—was first recognised by Marx. It is the fetishism which makes the recognition of the peculiarities of the commodity difficult, indeed impossible, so long as it is not overcome; it is impossible to attain to a full understanding of the value of the commodity without becoming conscious of the fetish-character of the commodity. The chapter on <em>the fetish-character of the commodity and its secret</em> therefore appears to us to be one of the most important of <strong>Capital</strong>, one to which every reader of this book should devote particular attention. And yet it is precisely this chapter that is almost entirely disregarded by the opponents, indeed in many cases even by the adherents, of Marx's doctrines.<br/> <a id="ab1-kap1-t2" name="ab1-kap1-t2"> </a></p>
+```
+
+## 2. Value
+
+```{=html}
+<p class="fst">Once we have become clear about the fetish character of the commodity, its investigation presents only comparatively slight difficulties.</p>
+```
+
+```{=html}
+<p>As we have seen, the commodity has the purpose of being exchanged. But this presupposes that it satisfies a human need, whether a real one or merely an imagined one. No one will exchange another product for his own product if that product is useless to him. The commodity must therefore be a useful thing; it must possess <em>use-value</em>. Use-value is determined by the <em>physical</em> properties of the commodity-body. Use-values constitute the material content of wealth, whatever its social form may be. Use-value is thus not a property peculiar to the commodity alone. There are use-values that are not commodities, for example, as we saw above, the products of a communistic commonwealth; indeed, there are use-values that are not even products of labour, for example fruit in the primeval forest, water in the river. On the other hand, there is no commodity that does not possess use-value.</p>
+```
+
+```{=html}
+<p>As soon as use-values become commodities, that is, are exchanged for one another, we notice that this always takes place in a definite numerical proportion. The proportion in which one commodity is exchanged for another is called its <em>exchange-value.</em> This proportion may vary according to time and place; for a given place and a given time, however, it is a definite magnitude. If we exchange 20 ells of linen for 1 coat, and at the same time 20 ells of linen for 40 pounds of coffee, then we can be sure that at the same time 1 coat would be exchanged for 40 pounds of coffee, if it came to an exchange. The exchange-value of the coat has a quite different appearance when I exchange it for linen than when I exchange it for coffee. But however different the exchange-value of a commodity may appear, at a definite time and in a definite place there always underlies it the same content. To illustrate this social phenomenon, let a similar one from the physical world serve. When I say a body weighs 16 kilograms or 32 pounds or one Russian pood, I know that a definite content underlies all these different expressions, a definite <em>weight</em> of the body. Thus too a definite content underlies the various exchange-value expressions of a commodity, and this we call its <em>value.</em></p>
+```
+
+```{=html}
+<p>With this we have arrived at the most important fundamental category of political economy, at the one without which the workings of the prevailing mode of production cannot be correctly understood.</p>
+```
+
+```{=html}
+<p><em>What constitutes the value of commodities?</em> that is the question to be answered.</p>
+```
+
+```{=html}
+<p>Let us take two commodities, for example wheat and iron. Whatever their exchange-relation may be, it is always representable in a mathematical equation, for example 1 hectolitre of wheat = 2 hundredweight of iron. But it is a well-known proposition, which one learns already in elementary school, that mathematical operations can be carried out only with quantities of the same kind; I can, for example, subtract 2 apples from 10 apples, but never 2 nuts. There must therefore be something common in the commodities wheat and iron which makes their comparison possible: that is precisely their value. Now is this common element a natural property of the commodities? As use-values they are exchanged only because they have <em>different,</em> not <em>common,</em> natural properties. These properties constitute the <em>motive</em> of the exchange, but they cannot determine the <em>proportion</em> in which it takes place.</p>
+```
+
+```{=html}
+<p>If one disregards the use-value of the commodity-bodies, then there remains to them only one property, that of being <em>products of labour.</em></p>
+```
+
+```{=html}
+<p>But if one disregards the use-value of the products, then one also disregards the various definite forms of labour which produced them; then they are no longer products of joiner's labour or spinning labour &amp;c., but only products of <em>human labour in general.</em> And as such they are values.</p>
+```
+
+```{=html}
+<p>A commodity thus has a value only because human labour in general is objectified in it. Now how is the magnitude of the value to be measured? By the quantity of the value-forming substance, labour, contained in it. The quantity of labour again has its measure in time.</p>
+```
+
+```{=html}
+<p>It might seem that, if the time expended on the making of a commodity determines its value, then the lazier and more unskilful a man is, the more valuable his commodity. Here, however, it is not a question of <em>individual,</em> but of <em>social</em> labour.</p>
+```
+
+```{=html}
+<p>Let us recall that commodity production represents a system of labours which, though carried on independently of one another, are nevertheless carried on within a social connection. "The total labour-power of society, which is represented in the values of the world of commodities, <em>counts here as one and the same human labour-power,</em> although it consists of countless individual labour-powers. Each of these individual labour-powers is the same human labour-power as any other, in so far as it possesses the character of a <em>social average labour-power</em> and acts as such social average labour-power, that is, requires in the production of a commodity only the labour-time necessary on the <em>average,</em> or <em>socially</em> necessary. Socially necessary labour-time is labour-time required to produce any use-value with the given socially normal conditions of production and the social average degree of skill and intensity of labour." If the productive power of labour changes, then the socially necessary labour-time also changes, and thus value changes.</p>
+```
+
+```{=html}
+<p>The time that is necessary to produce a definite product must of course always, under every mode of production, be of interest to man; likewise it must always, even in communistic modes of production, have an influence on the measure of the proportion in which the various kinds of labour work together.</p>
+```
+
+```{=html}
+<p>Let us take once again the example of an Indian communistic village community. Let it employ two smiths for the production of its agricultural implements. Let an invention raise the productivity of labour so much that only one smith is now needed to produce, in a given time, the required field implements. Now one will no longer entrust two smiths with this work, but only one; the other one will perhaps be employed in the making of weapons or ornaments. The productivity of the field labour, on the other hand, remains the same. Just as much labour-time as before must be expended in order to satisfy the community's need for field produce as before.</p>
+```
+
+```{=html}
+<p>Under these circumstances every member of the community will receive the same share of field produce as before; but a difference now prevails: the productivity of the smith's labour has doubled; for the making of the agricultural implements only one share, not two, of field produce now falls due. The change in the relation of the various labours is here a very simple, transparent one. It becomes mystical as soon as smith's labour and field labour do not work together directly, but are brought into relation with one another only in their products. The change in the productivity of the smith's labour then appears as a change in the exchange-relation of the product of the smith's labour with other products, as a change in their value.</p>
+```
+
+```{=html}
+<p>Ricardo had already recognised that the magnitude of the value of a commodity is determined by the quantity of labour expended on its production. But he did not see through the <em>social</em> character of the labour that is hidden in the value-form of the commodity, that is, the fetishism of the commodity. Just as little did he expressly and with clear consciousness distinguish the side of labour that forms commodity value from the side that forms use value. We have already set forth the fetish character of the commodity. Let us now follow Marx in his investigation of the twofold character of the labour contained in commodities.</p>
+```
+
+```{=html}
+<p>The commodity appeared to us as use value and value. Its material is supplied by nature. Its value is formed by labour; but so too is its use value. In what manner, then, does labour form value, and in what manner use value?</p>
+```
+
+```{=html}
+<p>On the one side, labour appears to us as the productive expenditure of human labour-power in general; on the other side, as a definite human activity for the attainment of a particular purpose. The former side of labour constitutes what is common to every productive activity of man. The second side is different in the various productive activities. If we take field labour and smith's labour, both have in common that they are expenditures of human labour-power in general. But each of them differs in its purpose, its mode of operation, its object, its means, its result.</p>
+```
+
+```{=html}
+<p>The <em>definite,</em> purposive human activity constitutes the <em>use value.</em> Its diversity forms the basis of commodity production. Commodities are exchanged only if they are different; no one will exchange wheat for wheat or scythes for scythes; but wheat for scythes, indeed. Use values can confront one another as commodities only if there are qualitatively (according to their properties) <em>different</em> useful labours contained in them.</p>
+```
+
+```{=html}
+<p>As values, however, commodities differ not qualitatively but <em>quantitatively</em> (according to number). They are exchanged because they are different as use values; they are compared in exchange and set in a certain relation to one another because they are equal as values. It is not labour as a definite, purposive activity in its qualitative diversity that can form value, but only labour in its character, equal in all branches of labour, as expenditure of human labour-power in general. As such expenditures of labour-power, the various labours, like the values, differ not qualitatively but only quantitatively. That is to say, with regard to the formation of value, every labour is regarded as <em>simple average labour,</em> as expenditure of simple labour-power such as every man possesses on average in his organism. Complicated labour counts in this respect only as multiplied simple labour. A small quantity of complicated labour is set equal to a larger quantity of simple labour. In accordance with the character of commodity production, the process is a social one, but at the same time an unconscious one, which fixes the relations of the various kinds of labour, each reduced to simple labour, to one another. To the person caught up in the fetishism of the commodity world, however, it appears that not <em>social,</em> but <em>natural</em> causes are what make the various kinds of complicated labour appear as multiples of simple labour. A number of petty-bourgeois socialists, who wished to "constitute" value, that is, to fix it once and for all, in order to "cleanse" commodity production of its "dross" and to perpetuate it, attempted to establish these supposedly natural causes and to determine for each labour to what degree it creates value. (Cf. Rodbertus's normal-work working day.) In reality these causes are social ones, which change continuously.</p>
+```
+
+```{=html}
+<p>There are few fields in which so many erroneous views have come to light as in that of value. Marx himself set some of them right.</p>
+```
+
+```{=html}
+<p>One error in particular is very readily committed by adherents as well as opponents of the Marxian theories: the confusion of <em>value</em> and <em>wealth.</em> Marx is very frequently credited with the statement: "Labour is the source of all wealth." Whoever has followed the foregoing exposition will readily see that this statement stands in direct contradiction to the foundations of the Marxian conceptions and presupposes entanglement in the fetishism of the commodity world. <em>Value</em> is a historical category, valid only for the period of commodity production; it is a social relation. <em>Wealth,</em> on the other hand, is something material, composed of use values. Wealth is produced in all modes of production; there is a wealth that is supplied only by nature, in which no labour whatever is contained; there is no wealth that would have arisen through the working of human labour alone. "Labour is not the only source of the use values it produces," says Marx, "of material wealth. Labour is its father, as William Petty says, and the earth its mother."</p>
+```
+
+```{=html}
+<p>With the growth of the productivity of labour, other circumstances remaining equal, the material wealth of a country grows; it diminishes with it. The sum of the values present may at the same time remain the same, if the quantity of labour expended is the same. A favourable harvest increases the wealth of a country; the sum of the commodity values which this harvest represents may be the same as in the previous year, if the quantity of socially necessary labour expended has remained the same.</p>
+```
+
+```{=html}
+<p>If Marx did not say that labour is the source of all wealth; if this proposition rests on a confusion of use value and commodity value, then all the conclusions that have been attached to this proposition with reference to Marx become void. But one now also sees how utterly unfounded it is when some opponents of Marx object to him that he overlooked the role of nature in production. These opponents, however, have indeed overlooked something, namely the difference between the commodity body and the social relation represented by it. "How greatly a part of the economists is deceived by the fetishism that clings to the commodity world, or by the objective semblance of the social determinations of labour, is proved, among other things, by the tediously insipid dispute over the role of nature in the formation of exchange value. Since exchange value is a definite social manner of expressing the labour bestowed on a thing, it can contain no more natural material than does, say, the rate of exchange."</p>
+```
+
+```{=html}
+<p>One sees that Marx did not "<em>overlook</em>" the role of nature in the production of use values. If he excluded it from the determination of value, this rested not on forgetfulness, but was done on the basis of an insight into the social character of commodity production, an insight still lacking in those economists who derive the laws of society from a condition of societylessness, from isolated man.</p>
+```
+
+```{=html}
+<p>A further error, which is fairly widespread with regard to Marx's theory of value, consists in the confusion of the value-creating power of <em>labour</em> with the value of <em>labour-power.</em> One must keep these two strictly apart. Labour, as the source of value, can as little have a value as gravity can have a weight, or heat a temperature. So far we have dealt only with the value which simple or complicated labour <em>creates,</em> not with the value which labour-power <em>possesses,</em> and which finds expression in the wage of the worker — the bearer of labour-power.</p>
+```
+
+```{=html}
+<p>So far we have presupposed only simple commodity production and simple commodity exchange. Labour-power as a commodity does not yet exist for us up to now.</p>
+```
+
+```{=html}
+<p>We shall treat human labour-power and its value more fully later. Here a mere hint may suffice to guard against an error.</p>
+```
+
+```{=html}
+<p>Most of the objections to Marx's theory of value rest upon such errors, in so far as they do not refute assertions that Marx never made, or are indeed mere insinuations, such as the favourite reproach of Marxian dogmatism.</p>
+```
+
+```{=html}
+<p>In order to guard oneself against such erroneous conceptions, one must always keep in view the character of a law such as the law of value is.</p>
+```
+
+```{=html}
+<p>Every natural-scientific or social law is an attempt to explain processes in nature or in society. But hardly one of these processes is conditioned by a single cause. The most diverse and intricate causes underlie the various processes, and these processes themselves do not run their course independently of one another, but cross each other in the most various directions. The investigator of the connections in nature or in society therefore has a double task. First, he must separate the various processes from one another, isolate them; secondly, he must separate the causes underlying these processes from one another, the essential from the inessential, the regular from the accidental. Both kinds of research are only possible through abstraction. The natural scientist is here assisted by a series of infinitely perfected instruments and methods of observation and experiment. The investigator of social laws must dispense with the latter altogether, and with regard to the former must content himself with very imperfect aids.</p>
+```
+
+```{=html}
+<p>Through abstraction the investigator arrives at the recognition of a law which underlies the phenomena he wishes to explain. Without knowledge of it the phenomena in question cannot be explained; but this one law alone is by no means sufficient to explain these phenomena completely. One cause may be weakened by another, indeed may be entirely cancelled in its effect; it would, however, be false to conclude from such a case that the cause does not exist at all. The laws of falling bodies, for example, hold only in a vacuum: here a piece of lead and a feather fall to the ground equally fast. In a space filled with air the result is different, on account of the resistance of the air. Nevertheless the law of falling bodies is correct.</p>
+```
+
+```{=html}
+<p>So it is also with value. As soon as commodity production had become the dominant form of production, the regularity of commodity prices was bound to strike those engaged in this mode of production and to lead them to seek to investigate the causes underlying it. The investigation of commodity prices led to the determination of the magnitude of value. But just as little as gravity is the sole determining cause of the phenomena of falling bodies, just as little is the value of a commodity the sole cause of its price. Marx himself points out that there are commodities whose price can stand below their value not only temporarily, but permanently. Thus, for example, gold and diamonds have probably never yet been paid for at their full value. The commodity labour-power too can, under certain circumstances, be paid for permanently below its value.</p>
+```
+
+```{=html}
+<p>Indeed, Marx has even demonstrated that in the capitalist mode of production, under the influence of profit, the law of value is so affected that the prices of most commodities not merely <em>can,</em> but <em>must</em> stand permanently above or below their value. Nevertheless the law of value remains in force even there; indeed, these deviations of prices from value can themselves in turn only be explained with the help of the law of value. We can here merely point to this, not set it out in more detail. That requires a knowledge of the laws of capital and of profit. We shall return to it once more later.</p>
+```
+
+```{=html}
+<p>A large part of the objections to Marx's theory of value rests upon the confusion of price and value. The two must be kept strictly apart.</p>
+```
+
+```{=html}
+<p>Above all, however, one must not, as has already been set out, allow oneself to be blinded by the fetish character of the commodity; one must not take the social relations which come to expression in the body of the commodity for its natural properties. If one never loses sight of the fact that commodity production is a kind of social production, in which the individual economic enterprises produce for one another, even if not with one another, and that the value of commodities represents not a relation of things but a relation of human beings to one another concealed under a material husk, then one will also know how to grasp the Marxian proposition which forms the foundation of the investigations of <strong>Capital</strong>: <em>"It is only the quantity of socially necessary labour, or the labour-time socially necessary for the production of a use-value, which determines its magnitude of value."</em><br/> <a id="ab1-kap1-t3" name="ab1-kap1-t3"> </a></p>
+```
+
+## 3. The Exchange Value
+
+```{=html}
+<p class="fst">The magnitude of the value of a commodity is determined by the socially necessary labour time required for its production. But the magnitude of value is not expressed accordingly. One does not say: “This coat is worth forty hours of labour,” but rather says something like: “It is worth as much as 20 yards of linen or 10 grams of gold.”</p>
+```
+
+```{=html}
+<p>The coat, considered by itself alone, is not yet a commodity; it only becomes one when I want to exchange it. Consequently, the value of a commodity also does not come to light unless I compare it with that of another with which I intend to exchange it. The magnitude of value of a commodity is indeed <em>determined</em> by the quantity of the socially necessary labour required for its production; but it is <em>expressed</em> by its relation to the magnitude or magnitudes of value of one or more other commodities, by its <em>exchange relation.</em> Bourgeois economics, however, frequently assumes that it is the exchange relation of a commodity which determines its magnitude of value.</p>
+```
+
+```{=html}
+<p>An example will make clear the absurdity of this view. Let us take a sugarloaf. Its weight is given from the outset, but I can only express it by comparison with the weight of another body, e.g. iron. I place the sugarloaf in the one pan of a balance and in the other a corresponding number of pieces of iron, each of a definite weight, which we call, for example, a pound. The number of iron pieces teaches us the weight of the sugar; but it would be preposterous to want to assume that the sugar weighs ten pounds, for example, because I placed ten pound-weights in the other pan. Rather, I had to place ten such weights in the pan because the sugar weighs ten pounds. Here the state of affairs lies clearly to light. But it is the same with the <em>magnitude of value</em> and the <em>form of value.</em></p>
+```
+
+```{=html}
+<p>The expression for the weight of a body offers a certain similarity to the value-expression of a commodity, i.e. to the form in which we express its magnitude of value. That a loaf of sugar weighs ten pounds means, strictly speaking, if we continue our example, that a loaf of sugar is just as heavy as the ten specific pieces of iron; similarly we can say of a coat that it is worth just as much as, for example, 20 yards of linen.</p>
+```
+
+```{=html}
+<p>We could not place iron and sugar into a certain relation to one another as <em>bodies</em> if they did not have a <em>natural</em> property in common: <em>weight;</em> likewise we could not bring coat and linen into a relation to one another as <em>commodities</em> if they did not possess a common <em>social</em> property: that of being products of human labour in general, <em>values.</em></p>
+```
+
+```{=html}
+<p>Iron and sugar play two different roles in the first equation: a loaf of sugar is as heavy as ten pounds of iron. Here the sugar appears as sugar, but the iron not as iron, rather as the embodiment of weight, as its form of appearance. In this equation we do not abstract from the particular bodily properties of the sugar, but we do so from those of the iron.</p>
+```
+
+```{=html}
+<p>A similar phenomenon is offered to us by the equation: one coat = 20 yards of linen.</p>
+```
+
+```{=html}
+<p>Both, coat as well as linen, are commodities, thus use values and values. But in the <em>form of value,</em> in the <em>exchange relation,</em> here only the coat appears as use value, whereas the linen appears only as form of appearance of value.</p>
+```
+
+```{=html}
+<p>I can weigh the weight of the sugar not merely with iron weights, but also with brass or lead weights &amp;c. Thus I can express the value of the coat not only in linen, but also in every other commodity. In the equation: one coat = 20 yards of linen, I therefore abstract entirely from the particular <em>natural form</em> of the linen; in this relation, as already said, it counts only as <em>value,</em> as embodiment of human labour in general. The linen becomes the form of appearance of the <em>value</em> of the coat, in contrast to the <em>body</em> of the coat. The contrast between use value and commodity value inherent in the coat, as in every other commodity, is mirrored in the value-expression, within which its bodily form as coat counts only as the shape of <em>use value,</em> the bodily form of the commodity linen only as the shape of <em>commodity value,</em> as <em>form of value.</em></p>
+```
+
+```{=html}
+<p>But nevertheless the use value of the commodity in which the value of the other commodity is expressed – Marx calls it the <em>equivalent</em> <a href="#ab1-kap1-n5" id="ab1-kap1-f5" name="ab1-kap1-f5">[5]</a> – is not a matter of indifference. Both commodities must be different. The equation one coat = one coat is meaningless.</p>
+```
+
+```{=html}
+<p>I can express the value of the coat not only in linen, but in every other commodity different from it. But I can also reverse the equation, and express the value of the linen, as well as that of every other commodity, in coats. I can set up the equation:</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">1 coat =</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">20 yards of linen<br/> 10 pounds of tea<br/> 40 pounds of coffee<br/> 5 hundredweight of iron<br/> 2 bushels of wheat<br/> etc.</p> </td> </tr> </table>
+```
+
+```{=html}
+<p class="fst">But I can also reverse it and say:</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">20 yards of linen<br/> 10 pounds of tea<br/> 40 pounds of coffee<br/> 5 hundredweight of iron<br/> 2 bushels of wheat<br/> etc.</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">= 1 coat</p> </td> </tr> </table>
+```
+
+```{=html}
+<p class="fst">Both equations appear to say the same thing; they do say the same thing when considered merely as <em>mathematical</em> equations; but as distinct forms of expressing value they have a logically and historically different meaning.</p>
+```
+
+```{=html}
+<p>In the beginnings of commodity production, products were exchanged only here and there, occasionally and by chance. This period can be denoted by a simple value equation, in which one commodity is set only into a certain relation to <em>one</em> other, e.g. one bronze hammer = 20 pounds of rock salt; this form Marx calls the <em>simple or single form of value.</em> As soon, on the other hand, as a product of labour, e.g. iron, is exchanged for other products of labour no longer exceptionally but <em>habitually,</em> the expression of value takes on the form of the first of the two equations just cited, thus e.g.</p>
+```
+
+```{=html}
+<table align="center" cellpadding="3" cellspacing="3"> <tr> <td> <p class="sm1">1 cow =</p> </td> <td> <p class="sm"> </p> </td> <td> <p class="sm1">  2 cloaks<br/> 1 sword<br/> 1 belt<br/> 10 sandals<br/> 3 cups<br/> etc.</p> </td> </tr> </table>
+```
+
+```{=html}
+<p class="fst">This form of value, examples of which we still find in Homer, Marx calls the <em>total or expanded form of value.</em></p>
+```
+
+```{=html}
+<p>But commodity production develops still further. The number of products of labour that are made for exchange, and thus as commodities, grows, and the habitual exchange extends to an ever greater number of the most diverse commodities. Not only cattle, but also swords, belts, cups, etc., are now habitually exchanged. The most current of these articles, e.g. cattle, becomes the one in which the values of commodities are most frequently expressed, until it becomes the only one. With this the point is reached at which the second of the formulae cited above comes into operation, the <em>general form of value.</em></p>
+```
+
+```{=html}
+<p>Let us now examine the equivalent form in this equation more closely. As we have already seen above, the equivalent form appears as the embodiment of human labour in general. But in the earlier forms of expression it was only accidental and transitory that one commodity so appeared. In the equation 1 coat = 20 ells of linen, the linen indeed counts only as the form of appearance of value. But when 20 ells of linen are set equal to 1 bushel of wheat, or again to a coat, then it is now wheat or a coat that appears as the embodiment of general human labour, while the linen once more figures as use-value. It is otherwise with the general form of value. Now <em>a single</em> commodity serves as equivalent; this is the general equivalent. It, like all other commodities, remains as before use-value and commodity-value. But all other commodities now confront it apparently only as use-values, while it itself counts as the <em>general and sole</em> form of appearance of value, as the general <em>social</em> embodiment of human labour in general. It itself is now the commodity that is <em>directly</em> exchangeable with all other commodities, and which therefore everyone also takes. On the other hand, all other commodities thereby lose the capacity and possibility of exchanging themselves directly with one another. Every exchange of two commodities can henceforth take place only through the mediation of the <em>general equivalent,</em> in which all other commodity-values are mirrored.<br/> <a id="ab1-kap1-t4" name="ab1-kap1-t4"> </a></p>
+```
+
+## 4. The Exchange of Commodities
+
+```{=html}
+<p class="fst">For an exchange of commodities to be able to take place, two conditions must be met: 1. The products to be exchanged must be <em>use-values</em> for those who do <em>not possess them, non-use-values</em> for their <em>possessors.</em> 2. Those exchanging must mutually recognise one another as <em>private owners</em> of the commodities to be exchanged. The <em>legal relation</em> of private property is only the mirror of the <em>relations of will</em> of the exchanging persons, which are conditioned by the <em>economic relations.</em> Men did not begin to exchange commodities because they regarded one another as private owners of the alienable things; rather, they began to recognise one another as private owners when they came into the position of exchanging commodities with one another.</p>
+```
+
+```{=html}
+<p>The most original form in which a product of labour becomes a non-use-value for its possessor, that is, the first form of the commodity, is that of the <em>surplus</em> of the products of labour over the needs of their possessor. These products are not yet produced from the outset for exchange, but for the possessor's own use. They only become commodities through exchange.</p>
+```
+
+```{=html}
+<p>As for the second point, the mutual recognition of the possessors of the alienable things as their private owners, this is possible only where persons independent of one another confront each other. "Such a relation of mutual strangeness, however, does not exist for the members of a naturally grown community, whether it takes the form of a patriarchal family, an ancient Indian community, an Inca state, and so forth. The exchange of commodities begins where the communities end, at the points of their contact with foreign communities or with members of foreign communities. But as soon as things have once become commodities in external commerce, they also (in the course of time) become commodities, by repercussion, within the internal life of the community."</p>
+```
+
+```{=html}
+<p>In the beginnings of exchange, the magnitude of value and the form of value are still very little developed. The ratio of the magnitudes or quantities in which the products are exchanged is at first still an accidental and extremely fluctuating one. But the exchange of products becomes more and more a regular social process. One begins not merely to exchange the surplus of use-values beyond one's own need, but to produce use-values specifically <em>for the purpose of exchange.</em> Thereby the ratio in which they are exchanged becomes more and more dependent upon their conditions of production. The <em>magnitude of value</em> of a commodity begins to become a magnitude determined by the labour-time necessary for its manufacture.</p>
+```
+
+```{=html}
+<p>But as soon as products of labour are made specifically for the purpose of exchange, the antithesis of use-value and value that slumbers in the nature of the commodity must also come clearly to light.</p>
+```
+
+```{=html}
+<p>This antithesis inherent in every commodity finds, as we know, its expression in the form of value. In the expression 20 yards of linen = 1 coat, the linen itself tells us that it is use-value (linen) and value (equivalent to a coat). But in the simple form of value it is still difficult to hold fast to this antithesis, since the commodity which here serves as equivalent, as the embodiment of human labour in general, takes on this role only transiently. In the expanded form of value the antithesis comes to light more clearly, since now several commodities serve and can serve as equivalent, because they have one thing in common: the property of being products of labour, or values.</p>
+```
+
+```{=html}
+<p>But the more the exchange of commodities develops, the more products of labour become commodities, the more necessary becomes a <em>general</em> equivalent. In the beginnings of exchange each person exchanges what he does not need directly for what he does need. This becomes ever more difficult the more commodity production becomes the general form of social production. Let us assume, for example, that commodity production has already developed so far that tailoring, baking, butchery, and joinery form independent trades. The tailor sells a coat to the joiner. For the tailor the coat is a non-use-value, for the joiner a use-value. But the tailor has no need of the joiner's work. He already possesses enough furniture. The chairs and tables are non-use-values for the joiner, but also for the tailor. On the other hand, the tailor needs bread from the baker, meat from the butcher, for the times are past when he baked at home and fattened pigs. The meat and bread that the tailor needs are non-use-values for the butcher and baker, but the baker and butcher have at the moment no need of a coat; the tailor thus faces the danger of starving, even though he has found a buyer for his coat. What he needs is a commodity that serves as a general equivalent, that, as the immediate embodiment of <em>value,</em> has from the outset use-value for everyone.</p>
+```
+
+```{=html}
+<p>The same development that makes this equivalent necessary also brings about its emergence. As soon as different commodity owners exchanged different articles with one another, the case was bound to arise that several of the latter were compared as values with a common kind of commodity, so that a common equivalent was found for them. At first a commodity served as such only transiently and accidentally. But as soon as it was of advantage that a particular commodity should assume the general equivalent form, the connection of the equivalent form with this commodity was bound to become ever more firmly established. To which kind of commodity the general equivalent form remained attached was determined by the most varied circumstances. In the end, however, it was the <em>precious metals</em> that won the monopoly of serving as the general equivalent form, that became <em>money.</em> This may in part have been brought about by the fact that ornaments and ornamental material were from the beginning important articles of exchange; but the decisive circumstance was chiefly that the natural properties of gold and silver correspond to the social functions (performances) which a general equivalent has to fulfil. Let it here be pointed out only to the two facts that the precious metals are always of the same quality and do not alter either in air or in water, and are thus practically unalterable, and that they can be divided and combined at will. They therefore lend themselves very well to the embodiment of undifferentiated human labour in general, to the representation of magnitudes of value whose differences are only those of number (quantitative), not of properties (qualitative).</p>
+```
+
+```{=html}
+<p>Gold and silver could win the monopoly of serving as general equivalent only because they confronted the other commodities as commodities. They could become money only because they were <em>commodities.</em> Money is neither the invention of one or more men, nor is it a mere token of value. The value of money and its determinate social functions are not something arbitrarily made. The precious metals became the money-commodity through the role that they played as commodities in the process of exchange.</p>
+```
+
+## Notes
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f1" id="ab1-kap1-n1" name="ab1-kap1-n1">1.</a> These have recently also appeared in pamphlet form.</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f2" id="ab1-kap1-n2" name="ab1-kap1-n2">2.</a> It would be more correct to say: they have <em>again</em> become communist in their views. Originally the household economy of the Indians was a communist one, and thus the distribution of the yield of the hunt was likewise communist.</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f3" id="ab1-kap1-n3" name="ab1-kap1-n3">3.</a> “The form of the labour of many who work in a planned manner alongside and with one another in the same production process, or in different but connected production processes, is called cooperation” (p. 823). Ten pages later Marx says in a note: “Linguet, in his <strong>Théorie des Lois civiles</strong>, is perhaps not wrong when he declares hunting to be the first form of cooperation.”</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f4" id="ab1-kap1-n4" name="ab1-kap1-n4">4.</a> A series of facts proves that the first development of commodity production actually took place in a manner similar to that which we describe in the following lines. Of course it did not proceed so simply as indicated here, but our account does not have the purpose of showing the history of commodity production, but only its particular <em>peculiarities</em>, which are most easily recognised through comparison with other modes of production.</p>
+```
+
+```{=html}
+<p class="note"><a href="#ab1-kap1-f5" id="ab1-kap1-n5" name="ab1-kap1-n5">5.</a> <em>Aequus</em> (Latin) = equal, <em>valere</em> = to be worth, to have value.</p>
+```
+
+
+---
+
+[↑ Previous: Preface to the Eighth Edition](vorwort8.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 2. Money ↓](ab1-kap2.qmd)

@@ -1,0 +1,38 @@
+# Chapter 2. The Income of Capital
+
+```{=html}
+<p class="fst">We have seen how money becomes capital and how the wage labourer, through his labour, not only preserves the value of the part of capital expended on the necessary means of production, but also creates new value, which is equal to the value of his labour-power plus a surplus value.</p>
+```
+
+```{=html}
+<p>The movement of capital is, however, not concluded with the appearance of the surplus value. Just as the commodity that does not transform itself into money has failed in its vocation, so too has the surplus value, which at first likewise remains lodged in a definite quantity of commodities, in the surplus product. After the surplus value has been produced in the form of surplus product, its value must be <em>realised</em> in money, the produced commodities must be brought to the customer. On the road to realisation the surplus value, like every other value, meets with a host of adventures, partly of a cheerful, partly of a sorrowful nature. Today it is realised at an excessively high price, tomorrow at a disproportionately low one, or not at all. On one occasion the commodity in which it is embodied is sought by a buyer before it has even appeared on the market; on another it lies for years as a shelf-warmer, and so on. And after and during these perils still other dangers threaten it. Here it is the merchant who takes care of selling the commodities and for this tears off a piece of the surplus value and pockets it as commercial profit. There ground-rent has to be paid to the landowner, then taxes, then interest for borrowed money, and so forth, until the remainder vanishes as profit into the pockets of our capitalist.</p>
+```
+
+```{=html}
+<p>All the adventures and transformations which the surplus value undergoes on this road need not occupy us here. They belong partly to the domain of the circulation process of capital, which is dealt with by Marx in the second book of his work, and are partly developed in the investigation of the total process of the capitalist mode of production, which he undertakes in the third book. The first book of <strong>Capital</strong> deals only with the one side of the total process, the immediate <em>production process;</em> only in so far as the surplus value acts upon this do its further fortunes, after it has once been produced, have to occupy us here. We therefore assume, as always hitherto where the contrary has not been expressly presupposed, that the capitalist sells his commodities on the commodity market at their full value; we assume further that the surplus value flows back to the capitalist wholly and undiminished. The contrary assumption would merely complicate and burden the investigation, without altering anything in its essential result.</p>
+```
+
+```{=html}
+<p>The surplus value can exert an influence on the production process only in <em>reproduction,</em> in the <em>repetition</em> of the production process.</p>
+```
+
+```{=html}
+<p>Every social production process is at the same time also a reproduction process; production must in every form of society either proceed uninterruptedly or repeat itself at definite intervals of time. With this there is given for every form of society the necessity of continually producing not only means of consumption, but also means of production.</p>
+```
+
+```{=html}
+<p>When production assumes capitalist form, then of course so does reproduction. If it is necessary for every society to produce use-values uninterruptedly or at regularly recurring intervals of time, so it is necessary for capital to produce <em>surplus value continually,</em> to <em>reproduce</em> the surplus value constantly, if it is to remain capital. After it has once bred surplus value, it must be employed to breed such a second time, and so on. Capital thus produces surplus value ever anew, it reproduces it. This appears as the ever renewing fruit of the capital that is set in motion, as a <em>steady income</em> from capital, as <em>revenue.</em></p>
+```
+
+```{=html}
+<p>So much for surplus value in so far as it <em>arises</em> from reproduction. But the reproduction process also offers the surplus value the opportunity of entering once again into the production process. Let us assume that a capitalist employs a capital of 100,000 marks, which yields him annually a revenue of 20,000 marks. What will he do with it? Two extreme cases are possible: either he consumes the whole annual amount of the surplus value, or he increases his capital by this amount. In most cases neither the one nor the other of these two extreme cases will occur, but rather the surplus value will be partly consumed and partly added to the former capital.</p>
+```
+
+```{=html}
+<p>If the whole surplus value is consumed, then the capital remains as before at the same level. <em>Simple reproduction</em> takes place. If the surplus value is added, wholly or in part, to the capital, then <em>accumulation</em> (amassing) of capital takes place, and reproduction proceeds on an <em>enlarged scale.</em></p>
+```
+
+
+---
+
+[↑ Previous: Chapter 1. The Wage of Labour](ab3-kap1.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 3. Simple Reproduction ↓](ab3-kap3.qmd)

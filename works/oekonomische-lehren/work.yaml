@@ -1,0 +1,123 @@
+# Work manifest: everything the shared pipeline needs to know about this work.
+slug: oekonomische-lehren
+author: Karl Kautsky
+title_de: Karl Marx’ Oekonomische Lehren
+title_full_de: Karl Marx’ Oekonomische Lehren. Gemeinverständlich dargestellt und erläutert
+title_en: The Economic Doctrines of Karl Marx
+year: 1886
+base_url: https://www.marxists.org/deutsch/archiv/kautsky/1886/marx/
+
+# Masthead headings on the MIA pages (lowercased); 02_segment drops them.
+# Includes the running Abschnitt headings repeated on every chapter page —
+# part titles are carried by the site sidebar and the EPUB part structure.
+masthead_texts:
+  - karl kautsky
+  - karl marx’ oekonomische lehren
+  - i. abschnitt waare, geld, kapital
+  - ii. abschnitt der mehrwerth
+  - iii. abschnitt arbeitslohn und kapitaleinkommen
+
+translation:
+  # Fills the opening sentence of the translation system prompt.
+  description: >-
+    Karl Kautsky's 'Karl Marx' Oekonomische Lehren' (1886, cited from the 14th
+    edition of 1912), his popular exposition of the economic doctrines of
+    Marx's Capital
+  completeness_note: ""
+
+chapters:
+  - id: vorwort1
+    source: vorwort1.html
+    title_de: Vorwort zur ersten Auflage
+    title_en: Preface to the First Edition
+  - id: vorwort4
+    source: vorwort4.html
+    title_de: Vorwort zur vierten Auflage
+    title_en: Preface to the Fourth Edition
+  - id: vorwort8
+    source: vorwort8.html
+    title_de: Vorwort zur achten Auflage
+    title_en: Preface to the Eighth Edition
+  # I. Abschnitt. Waare, Geld, Kapital
+  - id: ab1-kap1
+    source: ab1-kap1.html
+    title_de: 1. Kapitel. Die Waare
+    title_en: Chapter 1. The Commodity
+  - id: ab1-kap2
+    source: ab1-kap2.html
+    title_de: 2. Kapitel. Das Geld
+    title_en: Chapter 2. Money
+  - id: ab1-kap3
+    source: ab1-kap3.html
+    title_de: 3. Kapitel. Die Verwandlung von Geld in Kapital
+    title_en: Chapter 3. The Transformation of Money into Capital
+  # II. Abschnitt. Der Mehrwerth
+  - id: ab2-kap01
+    source: ab2-kap01.html
+    title_de: 1. Kapitel. Der Vorgang der Produktion
+    title_en: Chapter 1. The Process of Production
+  - id: ab2-kap02
+    source: ab2-kap02.html
+    title_de: 2. Kapitel. Das Verhalten des Kapitals bei der Werthbildung
+    title_en: Chapter 2. The Role of Capital in the Formation of Value
+  - id: ab2-kap03
+    source: ab2-kap03.html
+    title_de: 3. Kapitel. Der Grad der Ausbeutung der Arbeitskraft
+    title_en: Chapter 3. The Degree of Exploitation of Labour-Power
+  - id: ab2-kap04
+    source: ab2-kap04.html
+    title_de: 4. Kapitel. Mehrwerth und Profit
+    title_en: Chapter 4. Surplus Value and Profit
+  - id: ab2-kap05
+    source: ab2-kap05.html
+    title_de: 5. Kapitel. Der Arbeitstag
+    title_en: Chapter 5. The Working Day
+  - id: ab2-kap06
+    source: ab2-kap06.html
+    title_de: 6. Kapitel. Der Mehrwerth des kleinen Meisters und der Mehrwerth des Kapitalisten
+    title_en: Chapter 6. The Surplus Value of the Small Master and the Surplus Value of the Capitalist
+  - id: ab2-kap07
+    source: ab2-kap07.html
+    title_de: 7. Kapitel. Der relative Mehrwerth
+    title_en: Chapter 7. Relative Surplus Value
+  - id: ab2-kap08
+    source: ab2-kap08.html
+    title_de: 8. Kapitel. Kooperation
+    title_en: Chapter 8. Co-operation
+  - id: ab2-kap09
+    source: ab2-kap09.html
+    title_de: 9. Kapitel. Arbeitstheilung und Manufaktur
+    title_en: Chapter 9. Division of Labour and Manufacture
+  - id: ab2-kap10
+    source: ab2-kap10.html
+    title_de: 10. Kapitel. Maschinerie und große Industrie
+    title_en: Chapter 10. Machinery and Large-Scale Industry
+  # III. Abschnitt. Arbeitslohn und Kapitaleinkommen
+  - id: ab3-kap1
+    source: ab3-kap1.html
+    title_de: 1. Kapitel. Der Arbeitslohn
+    title_en: Chapter 1. The Wage of Labour
+  - id: ab3-kap2
+    source: ab3-kap2.html
+    title_de: 2. Kapitel. Das Kapitaleinkommen
+    title_en: Chapter 2. The Income of Capital
+  - id: ab3-kap3
+    source: ab3-kap3.html
+    title_de: 3. Kapitel. Einfache Reproduktion
+    title_en: Chapter 3. Simple Reproduction
+  - id: ab3-kap4
+    source: ab3-kap4.html
+    title_de: 4. Kapitel. Verwandlung von Mehrwerth in Kapital
+    title_en: Chapter 4. The Transformation of Surplus Value into Capital
+  - id: ab3-kap5
+    source: ab3-kap5.html
+    title_de: 5. Kapitel. Die Uebervölkerung
+    title_en: Chapter 5. Over-Population
+  - id: ab3-kap6
+    source: ab3-kap6.html
+    title_de: 6. Kapitel. Die Morgenröthe der kapitalistischen Produktionsweise
+    title_en: Chapter 6. The Dawn of the Capitalist Mode of Production
+  - id: ab3-kap7
+    source: ab3-kap7.html
+    title_de: 7. Kapitel. Der Ausgang der kapitalistischen Produktionsweise
+    title_en: Chapter 7. The Close of the Capitalist Mode of Production

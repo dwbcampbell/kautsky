@@ -1,0 +1,188 @@
+# Chapter 3. The Transformation of Money into Capital
+
+## 1. What is Capital?
+
+```{=html}
+<p class="fst">In the second chapter we traced the development of the circulation of commodities out of the exchange of products.</p>
+```
+
+```{=html}
+<p>Let us now take a step further. In simple commodity circulation the commodity owner sells his commodities in order to buy others. But in time there develops out of this form of the circulation of commodities a new form of movement: buying in order to sell. The formula of simple commodity circulation runs, as we know, Commodity—Money—Commodity; the formula of the new form of circulation runs Money—Commodity—Money.</p>
+```
+
+```{=html}
+<p>Let us compare the two formulae with one another.</p>
+```
+
+```{=html}
+<p>The movement Commodity—Money—Commodity has as its goal <em>consumption.</em> I sell a commodity which is a non-use-value for me, in order to be able to obtain others which represent use-values for me. The circuit Commodity—Money—Commodity is one that is complete in itself. The money realised in the sale is transformed into a commodity which is consumed, which drops out of circulation. The money itself is spent once and for all, in its course it moves away from its former owner. The commodity with which the circuit ends is, under the circumstances normal for simple commodity circulation—and here it can only be a question of such circumstances—equal in value to the one with which the circuit began.</p>
+```
+
+```{=html}
+<p>Different is the circuit Money—Commodity—Money. This does not have consumption as its purpose; what stands at the close of the circuit is not commodity, but money. The money that was thrown into circulation at its beginning is not spent, but merely <em>advanced.</em> It returns again to its original owner. The circuit itself is not one complete in itself, it drives beyond itself; the money that has been advanced returns in order to be thrown anew into circulation and to return again, so that the game repeats itself endlessly. The movement of money produced by the circuit Money—Commodity—Money is a boundless one.</p>
+```
+
+```{=html}
+<p>But what is the driving force of this movement? The motive of the circuit Commodity—Money—Commodity is clear; does not, by contrast, the circuit Money—Commodity—Money appear senseless? If I sell a Bible in order to buy bread for myself with the proceeds, then the commodity at the end of the circuit is a <em>different</em> one from that at the beginning, even if its value is the same. The one stills my spiritual hunger, but is of very little use to me once this is stilled—if, for example, I know the Bible by heart but possess no means of stilling my bodily hunger. But if I buy potatoes for 100 marks in order to sell them again for 100 marks, then at the end I am exactly where I was at the beginning; the whole process has neither purpose nor advantage. Such an advantage would lie only in the money sum at the end of the transaction being a different one from that at the beginning. But one money sum differs from another only by its <em>magnitude.</em> The circuit Money—Commodity—Money therefore has a purpose only when the money sum with which it ends is a greater one than that with which it begins. And this increase of the money sums is indeed in fact the driving motive of the circuit. He who buys in order to sell buys in order to sell dearer. The circuit Money—Commodity—Money proceeds normally only when the money sum at the end is a greater one than at its beginning. The circuit Commodity—Money—Commodity, on the other hand, as we know, proceeds normally only when the value of the commodity with which it closes is the same as that of the commodity with which it begins.</p>
+```
+
+```{=html}
+<p>Every purchase is a sale and vice versa. The circuit Money—Commodity—Money therefore seems to amount to the same thing as the circuit Commodity—Money—Commodity. But we already see now that the two circuits are <em>essentially</em> different from one another.</p>
+```
+
+```{=html}
+<p>If, to stay with our example, I buy potatoes for 100 marks in order to sell them again, then I do so with the intention of selling them dearer, perhaps for 110 marks, that is, 100 + 10 marks, hence, generally speaking, for a sum equal to the original one, increased by an addition. If we designate the commodity by <em>W</em>, the original money sum by <em>G</em>, the additional money sum by <em>g</em>, then we can represent the complete formula in the following way:</p>
+```
+
+```{=html}
+<p class="c"><em>G—W—(G + g)</em></p>
+```
+
+```{=html}
+<p class="fst">This <em>g</em>, the additional value which appears over and above the value originally advanced at the end of this circuit, Marx calls <em>surplus value.</em> This is no more to be confused with its <em>forms of appearance</em>—profit, interest, and so on—than value is to be confused with price. In our exposition it is still, in many cases, a question so far only of the <em>foundations</em>, not of the <em>forms of appearance</em>, of the economic categories. This, in order to avoid misunderstandings.</p>
+```
+
+```{=html}
+<p>Surplus value constitutes the determining peculiarity of the circuit <em>G—W—(G + g).</em> The value that moves in this form of the circuit obtains through surplus value itself a new character, it becomes – <em>capital.</em></p>
+```
+
+```{=html}
+<p>Only in this <em>movement</em> can capital be grasped. It is <em>value that breeds surplus value.</em> Whoever disregards this movement and wishes to grasp capital as a thing at rest will always run into contradictions. Hence the confusion in the customary textbooks concerning the concept of capital, concerning the question which <em>things</em> are to be conceived as capital. One defines it as a tool—then we arrive at the capitalist of the Stone Age; indeed, the ape that cracks nuts with a stone is already a capitalist too; likewise the stick of the vagabond, with which he knocks fruit from the tree, becomes capital, and the vagabond himself a capitalist. Others define capital as accumulated labour, whereby hamsters and ants are granted the honour of figuring as colleagues of Rothschild, Bleichröder and Krupp. Some economists have even reckoned everything that furthers labour and makes it more productive as capital—the state, the knowledge of man, his soul.</p>
+```
+
+```{=html}
+<p>It is clear that such general definitions lead only to commonplaces which may be read quite edifyingly in children's primers, but which do not in the least further our knowledge of the forms of human society, of their laws and mainsprings. It was Marx who first completely banished from political economy the commonplace which before him held almost unlimited sway in some of its domains. This applies especially to the domain of the exposition of the peculiarities of capital.</p>
+```
+
+```{=html}
+<p>We have seen that capital is value that breeds surplus value, its general formula being: G—W—(G +g). From this it already follows, as the facts confirm, that the <em>money form</em> is the form in which every new capital begins its movement. But one also sees from it that this movement necessarily conditions the transformation of capital from the money form into the various forms of the world of commodities, and likewise, again, its re-transformation from these forms into money.</p>
+```
+
+```{=html}
+<p>We see further from this formula that not every sum of money, not every commodity, is capital, that they become capital only when they undergo a particular <em>movement</em>. This movement, however, has for its part again particular historical preconditions, which we shall come to know. The money that I spend in order to buy myself an object of consumption, say a loaf of bread or a coat, functions just as little as capital as does the commodity which I have myself produced and sell, in this transaction, function as capital.</p>
+```
+
+```{=html}
+<p>Means of production, accumulated labour, etc., do indeed constitute the material of capital, but only under certain circumstances. In disregarding these circumstances, one disregards the peculiarities of the modern mode of production and spreads a darkness over them in which one can very well engage in mystification, which is also why all the learned and unlearned representatives of capitalism will have nothing to do either with the Marxian theory of capital or with the theory of value on which it rests.<br/> <a id="ab1-kap3-t2" name="ab1-kap3-t2"> </a></p>
+```
+
+## 2. The Source of Surplus Value
+
+```{=html}
+<p class="fst">We now know the general formula of capital: M—C—(M + m). But we do not yet know whence m, the surplus value, originates. The formula given seems to suggest that the acts of buying or selling generate surplus value, that it therefore springs from the circulation of commodities. This view is the current one, but it usually rests upon a confusion of <em>commodity value</em> with <em>use value.</em> This applies in particular to the assertion that in an exchange both parties gain, because each gives away what he does not need and obtains what he does need. This is expressed as follows: “I give away something that possesses little value for me and receive in return something that possesses more value for me.” This account of the origin of surplus value is possible only where the concept of value is still quite nebulous. To content oneself with this account, one must on the one hand forget that the exchange of commodities rests indeed upon the <em>inequality of their use values,</em> but at the same time also upon the <em>equality of their commodity values.</em> On the other hand, one must be as good-natured as most readers of the vulgar economists, taking everything they relate at face value without examination, and really believing that the business operations of, say, a modern merchant stand on the same level as the primitive exchange between savages. But we know that surplus value arises not at the stage of <em>exchange,</em> but of the <em>circulation of commodities,</em> which is mediated by <em>money,</em> and that surplus value comes to light in more money. Of a “gain” through obtaining something that has use value for me in return for giving away something that has no use value for me, there can therefore be no question in a transaction expressed by the formula: <em>M—C—(M + m).</em></p>
+```
+
+```{=html}
+<p>Here we encounter a manoeuvre of vulgar economy which it gladly employs wherever the point is to make the understanding of modern economic conditions more difficult, which is its principal task: it equates modern phenomena with those of long-past ages.</p>
+```
+
+```{=html}
+<p>Here we have to deal not with exchange, but with the circulation of commodities. Under normal circumstances this can, just as little as the former, form any surplus value, if equal commodity values are always given for equal commodity values.</p>
+```
+
+```{=html}
+<p>But let us assume that the laws of the circulation of commodities were violated; that, for example, the commodity owners were granted the privilege of selling their commodities with a price surcharge of 10 per cent of their original value. The tailor sells the coat for 33 marks instead of 30. But, alas! The little cask of wine which he formerly bought for 30 marks he must now also pay for at 33 marks. He has therefore gained nothing.</p>
+```
+
+```{=html}
+<p>We may still make the attempt to explain the origin of surplus value by the fact that not all, but only some commodity owners understand how to buy commodities below their value and to sell them above their value. Suppose a merchant buys from the peasant 40 hundredweight of potatoes, which are worth 100 marks, for 90 marks, and sells them for 110 marks to the tailor. At the end of the process there is indeed a greater value in the hands of the merchant than at its beginning. But the total mass of the existing values has remained the same. At the beginning we had values of 100 marks (the peasant) + 90 marks (the merchant) + 110 marks (the tailor) = 300 marks. At the end 90 marks (the peasant) + 110 marks (the merchant) + 100 marks (the tailor) = 300 marks.</p>
+```
+
+```{=html}
+<p>The greater value in the hands of the merchant has thus arisen not from an increase of value, but from a diminution of the values in the hands of others. If I wish to call this greater value surplus value, then I might just as well call the value that a thief steals directly out of another's pocket surplus value.</p>
+```
+
+```{=html}
+<p>The historical beginning of the appropriation of surplus value did indeed occur in this manner, in the appropriation of the values of others, either through the mediation of the circulation of commodities by <em>merchant capital,</em> or quite openly without this mediation, by <em>usurer's capital.</em> But these two kinds of capital were possible only through <em>violation</em> of the laws of the circulation of commodities, through open and gross violation of their fundamental law, that values are exchanged only for equal values. Capital therefore stood, so long as it was only merchant and usurer's capital, in <em>opposition</em> to the economic organisation of its time, and thereby also in opposition to its <em>moral</em> conceptions. In antiquity as in the Middle Ages, trade and especially usury were held in ill repute; they were branded in like manner by the ancient pagan philosophers as by the Church Fathers; by popes as by reformers.</p>
+```
+
+```{=html}
+<p>If we wish to set up a type of the mammals, we shall not place the <em>egg-laying</em> platypus in the first rank. So too, if we wish to understand the capital that determines the economic structure of modern society, we must not set out from its, so to speak, antediluvian forms, the usurer's and merchant capital. Only after another, higher form of capital had developed did there also form intermediate links which bring the functions of merchant capital and interest-bearing capital into accord with the laws of the now prevailing form of commodity production. Only from that point do they cease to bear of necessity, from the outset, the character of simple swindling and of direct robbery. Merchant capital and usurer's capital can be understood only after the understanding of the modern basic form of capital.</p>
+```
+
+```{=html}
+<p>It is accordingly comprehensible why Marx did not treat merchant and interest-bearing capital in the first two volumes of <strong>Capital</strong>; these are devoted to the investigation of the <em>fundamental laws</em> of capital.</p>
+```
+
+```{=html}
+<p>Here, then, we need not concern ourselves further with the two capital forms mentioned first. What is to be retained as the result of the investigation is the fact that surplus value cannot spring from the circulation of commodities. Neither purchase nor sale creates surplus value.</p>
+```
+
+```{=html}
+<p>But on the other hand, surplus value can also not arise outside the sphere of circulation. A commodity owner can, through labour, transform a commodity and thus add to it <em>new</em> value, which is determined by the measure of the socially necessary labour that had to be expended; but the value of the <em>original</em> commodity is not thereby increased; it thereby receives no surplus value. If a silk weaver buys silk to the value of 100 marks and works it up into a silk fabric, then the value of this fabric will be equal to the value of the silk, increased by the value that the labour of the weaver has created. The value of the silk as such has not been increased by this labour.</p>
+```
+
+```{=html}
+<p>Thus we stand before a strange riddle: Surplus value is not produced by the circulation of commodities. It is not produced outside its sphere.<br/> <a id="ab1-kap3-t3" name="ab1-kap3-t3"> </a></p>
+```
+
+## 3. Labour-power as a Commodity
+
+```{=html}
+<p class="fst">Let us examine the general formula of capital more closely. It reads <em>M—C—(M + m).</em> It is composed of two acts: <em>M—C,</em> purchase of the commodity, <em>C—(M + m),</em> sale. According to the laws of commodity circulation, the value of <em>M</em> must be equal to <em>C, C</em> however equal to <em>M + m.</em> This is only possible if <em>C</em> enlarges itself, if <em>C</em> is a commodity that, during its consumption, produces a greater value than it itself possesses. The riddle of surplus value is solved as soon as we find a commodity whose use-value has the peculiar property of being a source of value, whose consumption is the creation of value, so that the formula <em>M—C—(M + m)</em> in respect of it reads <em>M—C . . . (C +c)—(M + m).</em></p>
+```
+
+```{=html}
+<p>We know, however, that commodity values are created only by labour. The above formula can therefore be realised only if <em>labour-power</em> is a <em>commodity.</em></p>
+```
+
+```{=html}
+<p class="quoteb">“By labour-power or capacity for labour,” says Marx, “we understand the aggregate of those <em>physical</em> and <em>mental</em> capabilities existing in the physical form, the living personality, of a human being, which he sets in motion whenever he produces use-values of any kind.”</p>
+```
+
+```{=html}
+<p class="fst">Labour-power must appear as a commodity on the market. What does that mean? We have seen above that the exchange of commodities presupposes the completely free right of disposal of the commodity owners over their commodity. The owner of labour-power, the worker, must therefore be a free man if his labour-power is to be able to become a commodity. His labour-power must remain a commodity; he may therefore not sell it forever, but only for definite periods of time, otherwise he becomes a slave and transforms himself from a commodity owner into a commodity.</p>
+```
+
+```{=html}
+<p>Yet another condition must be fulfilled if labour-power is to become a commodity. We have seen that a use-value, in order to become a commodity, must be a non-use-value for its owner. Thus labour-power too must be a non-use-value for the worker if it is to appear as a commodity on the market. But the use-value of labour-power consists in the production of other use-values; this presupposes the disposal over the necessary means of production. Where the worker has command over the means of production, he does not sell his <em>labour-power,</em> but applies it himself and sells his <em>products.</em> The worker must be separated from the means of production, above all from the most important of them, the land and soil, if labour-power is to become a commodity.</p>
+```
+
+```{=html}
+<p>The worker must be free in every respect, free from every personal dependence, but also rid and stripped of all the necessary means of production: these are the preconditions if the money owner is to be able to transform his money into capital. These preconditions are neither given by nature nor are they proper to all forms of society. They are the result of a protracted historical development, and only comparatively late do they appear to such an extent as to act determiningly upon the formation of society. With the 16th century begins the modern life-history of capital.</p>
+```
+
+```{=html}
+<p>We now know the commodity that creates surplus value. How high is its own value?</p>
+```
+
+```{=html}
+<p>It <em>is determined,</em> like that of every other commodity, <em>by the labour-time socially necessary for its production, and hence also for its reproduction.</em></p>
+```
+
+```{=html}
+<p>Labour-power presupposes the existence of the worker. This existence in turn requires for its maintenance a certain sum of <em>means of subsistence.</em> The labour-time necessary for the production of labour-power is therefore equal to the labour-time socially necessary to produce this certain sum of means of subsistence. A series of circumstances determines the magnitude of this sum. The more labour-power the worker expends, the longer and more strenuously he works, the more means of subsistence he requires in order to replace the expenditure of energy, so as to be able to work the next day just as he did the day before. On the other hand, the needs of the working classes of different countries differ according to the natural and cultural peculiarities of each country. A Norwegian worker needs a larger sum of means of subsistence than an Indian one; the nourishment, clothing, housing, fuel &c., which the former requires in order to be able to subsist, demand a greater labour-time for their production than the means of subsistence of the Indian worker. Furthermore: in a country where the workers, for example, go about barefoot, or read nothing, their needs will be smaller than where they are more highly developed, where, for example, they wear footwear or read newspapers and books, even if there are no climatic or other natural differences at all. “In <em>contrast to other commodities,”</em> says Marx, “the determination of the value of labour-power thus contains a historical and moral element.”</p>
+```
+
+```{=html}
+<p>The worker is furthermore, as everyone knows, mortal. Capital, however, wants to be immortal. For this it is necessary that the working class be immortal, that the workers <em>propagate themselves.</em> The sum of the means of subsistence necessary for the maintenance of labour-power therefore also includes the means of subsistence necessary for the maintenance of the children (under certain circumstances also of the women).</p>
+```
+
+```{=html}
+<p>Finally, to the costs of production of labour-power must also be reckoned its costs of education, the costs required for the acquisition of a certain skill in a particular branch of labour. For the majority of workers these costs are vanishingly small.</p>
+```
+
+```{=html}
+<p>All these determining factors have the effect that the value of the labour-power of a particular working class in a particular country and at a particular point of time is a definite magnitude.</p>
+```
+
+```{=html}
+<p>Hitherto we have not dealt with price, but with value; not with profit, but with surplus value. So here too one must keep in mind that we are dealing with the <em>value</em> of labour-power, not with <em>wages.</em> A peculiarity that takes place in the payment of labour-power must, however, already be pointed out here. According to the vulgar-economic view, the capitalist advances the wage to the worker, because the capitalist in most cases pays the worker before he has sold the products of the latter's labour. In reality, however, it is the worker who gives the capitalist credit for his labour performance.</p>
+```
+
+```{=html}
+<p>Let us assume I buy potatoes in order to produce liquor from them. I pay for the potatoes only after I have produced the liquor, but before I have sold the liquor. Would it not now be ridiculous if I were to claim that I advance to the farmer the price of his potatoes, because I paid for them before I sold the liquor? No, rather it is the farmer who credits me the price of his potatoes until I have produced liquor from them. When I say I pay cash, I thereby say that I pay for the commodity as soon as I buy it. Merchants would be greatly astonished at the economic wisdom which asserted that he who pays for their commodities only after he has consumed them not only pays cash, but even <em>advances</em> them the money. Yet to the workers the vulgar economists still dare to prattle such nonsense. If the workers' commodity, labour-power, were taken from them for cash, it would have to be paid for at the moment it passes into the possession of the capitalist, that is, at the <em>beginning</em> of each week, not at its <em>end.</em> Under the present system of payment the workers not only risk their wages, they are also compelled to live on credit and therefore to suffer patiently all the adulterations and deteriorations of their means of subsistence by the middlemen. The longer the period of wage payment, the worse off the workers are. A fortnightly or even monthly wage payment is one of the most oppressive burdens for the wage labourer.</p>
+```
+
+```{=html}
+<p>Whatever the system of wage payment may be, however, under normal conditions worker and capitalist always confront one another like two commodity owners who mutually exchange equal values. Capital now no longer moves in contradiction to the laws of commodity circulation, but on the basis of these laws. Worker and capitalist confront one another as commodity owners, that is, as <em>free</em> and <em>equal</em> persons personally independent of one another; as such they belong to the same class, they are <em>brothers.</em> Worker and capitalist exchange <em>equal</em> values with one another: the kingdom of justice, of freedom, equality and fraternity thus seems to have dawned with the rule of the wage system, the thousand-year kingdom of happiness and peace. The misery of bondage and tyranny, of exploitation and the rule of the fist, lies behind us.</p>
+```
+
+```{=html}
+<p>Thus the learned representatives of the interests of capital proclaim to us.</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 2. Money](ab1-kap2.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 1. The Process of Production ↓](ab2-kap01.qmd)

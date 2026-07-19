@@ -1,0 +1,70 @@
+# Chapter 3. Simple Reproduction
+
+```{=html}
+<p class="fst">Simple reproduction is merely the repetition of the production process on the same scale. Yet through repetition this process acquires a series of new features.</p>
+```
+
+```{=html}
+<p>Let us assume that a possessor of money, who has acquired his money in some way or other, perhaps through labour, converts it into capital. Let him possess 10,000 marks; he lays out 9,000 in constant capital, 1,000 in variable capital, in wages. With the application of this capital he produces a quantity of products worth 11,000 marks, which he also sells at their full value. The surplus value of 1,000 marks is consumed by him, and reproduction continues on the old scale: 9,000 marks are laid out in constant capital, 1,000 marks in variable capital. But now we see a difference from before: the 1,000 marks that were spent on wages during the first production process had not been produced by the labour of the workers employed in the enterprise; they had flowed from another source; perhaps the capitalist himself had earned them by his own labour. From where, on the other hand, do the 1,000 marks originate that are expended on wages in the repetition of the production process? They are the realisation of a value produced by the <em>workers</em> during the <em>earlier production process</em>. The workers not only transferred the value of the constant capital (9,000 marks) to the product, but also created new value (to the amount of 2,000 marks), of which one part (1,000 marks) is equal to the value of their labour-power, and one part is surplus value.</p>
+```
+
+```{=html}
+<p>If we regard the capitalist production process as a single production process (or a first one, at the initial investment of a capital), then wages appear as an <em>advance</em> out of the pocket of the <em>capitalist</em>. If we regard the capitalist production process as a reproduction process, then we see the worker <em>paid out of the product of his own labour</em>. In this sense it is correct that the worker receives in his wages a share in the product of his labour. Only it is the already sold product of an earlier period of production of which he receives a share in his wages.</p>
+```
+
+```{=html}
+<p>Let us return to our example. Let us assume that each period of production takes half a year. In each year our capitalist pockets 2,000 marks of surplus value and consumes them. After 5 years he has consumed 10,000 marks, a value equal to that of his original capital. But he still possesses, as before, a capital value of 10,000 marks.</p>
+```
+
+```{=html}
+<p>This new capital value is equal in magnitude to the original one, but its foundation is a different one. The original 10,000 marks did not originate from the labour of the workers employed in his enterprise, but from another source. But he has consumed these 10,000 marks within 5 years; if he nonetheless still possesses 10,000 marks, then they originate from surplus value. Thus every capital, from whatever source it may have sprung, is transformed—already by virtue of simple reproduction, after a certain time—into capitalised surplus value, into the yield of surplus labour of others, into <em>accumulated capital</em>.</p>
+```
+
+```{=html}
+<p>The point of departure of the capitalist production process is the separation of the worker from the means of production, the accumulation of propertyless workers on the one side, the accumulation of means of production and means of subsistence on the other side. In the capitalist <em>reproduction process</em> these <em>points of departure</em> appear as <em>results</em> of the production process. The capitalist reproduction process itself constantly produces anew, and thereby maintains, its own conditions: capital and the class of wage labourers.</p>
+```
+
+```{=html}
+<p>The means of subsistence and means of production which the wage labourers produce do not belong to them, but to the capitalists. The wage labourers constantly emerge again from the production process just as they entered it, as propertyless proletarians; the capitalists, on the other hand, find themselves at the end of each period of production once more anew in possession of means of subsistence which buy labour-power, and of means of production which producers apply.</p>
+```
+
+```{=html}
+<p>Thus the worker himself constantly produces anew the preconditions of his own dependence and misery.</p>
+```
+
+```{=html}
+<p>But the reproduction process of capital also makes the reproduction of the working class necessary.</p>
+```
+
+```{=html}
+<p>As long as we examined the production process as a <em>single</em> and thereby <em>isolated</em> event, we had to deal only with the <em>individual</em> capitalist and the <em>individual</em> worker. Here the labour-power, and thereby the worker, who cannot be detached from it, seemed to belong to the capitalist only during the time of its <em>productive</em> consumption, during the working day. During the rest of the time the worker belonged to himself and his family. When he ate, drank, slept, he did so merely for himself, not for the capitalist.</p>
+```
+
+```{=html}
+<p>But as soon as we consider the capitalist mode of production in its flow and interconnection, that is, as a reproduction process, then from the outset we have to deal not with the individual capitalist and worker, but with the <em>class of capitalists</em> and the <em>class of workers</em>. The reproduction process of capital demands the perpetuation of the working class; that is, in order that the production process may be constantly renewed, the workers must constantly restore their expended labour-power and provide for the steady supply of fresh workers coming up. Capital finds itself in the pleasant position of being able to leave the fulfilment of these important functions with confidence to the workers' instinct of self-preservation and propagation.</p>
+```
+
+```{=html}
+<p>Outside of working time the workers apparently live only for themselves; but in reality they live, even when they are “idle,” for the capitalist class. When after their day's work they eat, drink, sleep, and so on, they thereby maintain the class of wage labourers and thus the capitalist mode of production. When the capitalist—the <em>master</em>, as he was called in patriarchal times, the <em>employer</em>, as the German academic economics has christened him—when he pays the worker his wages, he thereby gives him only the means to maintain himself, and, as far as in him lies, his class, for the capitalist class.</p>
+```
+
+```{=html}
+<p>But precisely because the workers consume the means of subsistence which they buy with their wages, they are constantly compelled anew to offer their labour-power for sale.</p>
+```
+
+```{=html}
+<p>Thus, from the standpoint of reproduction, the worker is active in the interest of capital not only during his working time, but also during his “free” time. He no longer eats and drinks for himself, but in order to maintain his labour-power for the capitalist class. How the worker eats and drinks is therefore by no means a matter of indifference to the capitalist. If the worker gets drunk on Sunday, so that on Monday he has a hangover, instead of resting and renewing his labour-power, this appears to the capitalist not as an injury to the worker's own interests, but as a crime against capital, an <em>embezzlement</em> of labour-power that is due to capital.</p>
+```
+
+```{=html}
+<p>No longer merely the <em>labour-power purchased</em> in each instance, but the <em>whole worker,</em> the <em>whole working class</em> appears from the standpoint of the reproduction process as an <em>appurtenance of capital.</em> Where the worker does not perceive this, and possesses the means to withdraw himself from it, for example through emigration, the capitalist under certain circumstances has no scruple in demonstrating to him by legal compulsion that he has to maintain and reproduce himself not for himself but for capital. Thus formerly, for example, the emigration of skilled workers was in most states forbidden by coercive laws. Today this is not necessary. The capitalist mode of production has become so strong that its laws as a rule execute themselves as <em>economic</em> coercive laws without political assistance. The worker today is bound to capital by invisible fetters, and he finds capital everywhere he turns.</p>
+```
+
+```{=html}
+<p>To our “social reformers” this dependence upon the capitalist class does not, of course, generally appear to go far enough. The binding of the worker to the individual capitalist through the restriction of freedom of movement, the establishment of refined systems of workers' houses and similar “reforms” constitute their remedies for the “solution of the social question.”</p>
+```
+
+
+---
+
+[↑ Previous: Chapter 2. The Income of Capital](ab3-kap2.qmd) [↑ Return to Table of Contents](../index.qmd) [Next: Chapter 4. The Transformation of Surplus Value into Capital ↓](ab3-kap4.qmd)
